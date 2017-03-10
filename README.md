@@ -7,11 +7,11 @@ If you'd like to contribute, [get in touch](mailto:ggdev3@gmail.com).
 
 Otherwise, you can access Play store links for the in production version below.
 
-# <img src="https://github.com/simplegr33n/pocketlaw-production/blob/master/access-to-information-act/screenshots/logos/logo.png" width="40"> <i>Access to Information Act</i>
+# <img src="https://github.com/simplegr33n/pocketlaw-production/blob/master/access-to-information-act/screenshots/logos/logo.png" width="40"> <i>Canadian Legal Dictionary</i>
 
-* *Coming soon*
+## **Android** *coming soon...*
 
-
+## **iOS** *coming soon...*
 
 
 
