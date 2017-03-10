@@ -1,10 +1,10 @@
 # PocketLaw - ***Canadian Legal Dictionary***
 PocketLaw is an open source law reference project aimed at making the law of Canada more accessible and understandable.
 
-
-<img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/roughlayout.jpg" width="160">
-*rough layout mockup*
-
+<p align="center">
+  <b><i>rough layout mockup</i></b><br>
+  <img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/roughlayout.jpg" width="160">
+</p>
 
 This is a repository to store the latest build of the PocketLaw Canadian Legal Dictionary app. 
 
