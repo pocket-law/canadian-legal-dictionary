@@ -3,7 +3,7 @@ PocketLaw is an open source law reference project aimed at making the law of Can
 
 This is a repository to store the latest build of the PocketLaw Canadian Legal Dictionary app. 
 
-### If you'd like to contribute, get in <a href="ggdev3@gmail.com">touch</a>.
+### If you'd like to contribute, get in <a href="mailto:ggdev3@gmail.com">touch</a>.
 
 Otherwise, you can access Play store links for the in production version below.
 
