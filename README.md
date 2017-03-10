@@ -15,9 +15,9 @@ Otherwise, you can access App and Play store links for the in production version
 
 ## <img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/logos/logo.png" width="40"> <i>Canadian Legal Dictionary</i>
 
-### **Android** *coming soon...*
+### <img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/cs1.png" height="40"> *coming soon...*
 
-### **iOS** *coming soon...*
+### <img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/cs2.png" height="40"> *coming soon...*
 
 
 
