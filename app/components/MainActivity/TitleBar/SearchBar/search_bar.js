@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {AppRegistry, Text, View, Button, StyleSheet} from 'react-native';
+import {AppRegistry, Image, TextInput, View, StyleSheet} from 'react-native';
 
 export default class SearchBar extends Component{
     constructor(props){
@@ -13,22 +13,37 @@ export default class SearchBar extends Component{
     render(){
         return(
         <View style={styles.search_bar_view}>
-            <Text style={styles.apptitle}>Search...</Text>
+            <Image style={styles.button} source={require('./menu_white.png')} />
+            <TextInput
+                style={styles.search_text}
+                placeholder="Type here to translate!"
+                onChangeText={(text) => this.setState({text})} />
+            <Image style={styles.button} source={require('./search_white.png')} />
         </View>
         );
     }
 }
 
 const styles = StyleSheet.create({
-    apptitle: {
+    search_bar_view: {
+        flexDirection:'row',
+        margin: 4,
+        backgroundColor: '#FFFFFF'
+    },
+
+    search_text: {
         padding:10,
+        flex: 4,
         marginBottom:3,
         fontWeight:'bold',
         fontSize:22
     },
-    search_bar_view: {
+
+    button: {
+        flex: 1,
+        height: 44,
+        width: 44,
         margin: 4,
-        backgroundColor: '#FFFFFF'
     }
 });
 

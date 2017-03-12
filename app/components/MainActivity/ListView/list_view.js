@@ -49,6 +49,7 @@ const styles = StyleSheet.create({
         // TODO: to get past the bottom bar on android, maybe theres a better way?
         marginBottom: 100
     },
+    
     row: {
         flexDirection: 'row',
         justifyContent: 'center',
