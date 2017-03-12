@@ -47,9 +47,10 @@ export default class MainListView extends Component{
 const styles = StyleSheet.create({
     listView: {
         // TODO: to get past the bottom bar on android, maybe theres a better way?
-        marginBottom: 100
+        // seems to be based on the height of the top bar
+        marginBottom: 245
     },
-    
+
     row: {
         flexDirection: 'row',
         justifyContent: 'center',

@@ -4,8 +4,8 @@ PocketLaw is an open source law reference project aimed at making the law of Can
 This is a repository to store the latest build of the PocketLaw Canadian Legal Dictionary app. 
 
 <p align="center">
-  <img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/roughlayout.jpg" width="320"><br>
-    <b><i>rough layout mockup</i></b>
+  <img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/main1.png" width="320">
+  <img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/cats1.png" width="320">
 </p>
 
 
