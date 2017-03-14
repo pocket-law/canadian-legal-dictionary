@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import {AppRegistry, Text, View, ListView, StyleSheet, TouchableHighlight} from 'react-native';
 
+
 export default class MainListView extends Component{
     constructor(){
         super();
@@ -32,7 +33,7 @@ export default class MainListView extends Component{
                         <Text style={styles.rowText}>{term.definition}</Text>
                         <View style={styles.sourceView}>
                             <Text style={styles.rowTextSource}>source:</Text>
-                            <Text style={styles.sourceLink}>{term.source.name}</Text>
+                            <Text style={styles.sourceLink}>{}</Text>
                         </View>
 
                     </View>
