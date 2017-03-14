@@ -20,11 +20,10 @@ export default class MainListView extends Component{
 
     componentWillReceiveProps(nextProps) {
         // Update state searchTerm when prop searchTerm updated
-        if (nextProps.searchTerm !== this.state.searchTerm) {
+        if (nextProps.searchTerm != '') {
+            console.log("MainListView new search: " + nextProps.searchTerm);
             this.setState({ searchTerm: nextProps.searchTerm });
         }
-        res1 = jsonPath(jsonString, "$.term").toJSONString();
-        console.log(res1);
     }
 
     componentDidMount(){
@@ -59,7 +58,6 @@ export default class MainListView extends Component{
         }
 
     render(){
-        console.log('Search term in mainlistview render - ' + this.state.searchTerm)
         return(
             <ListView
                 style={styles.listView}

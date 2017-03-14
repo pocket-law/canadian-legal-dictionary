@@ -28,11 +28,8 @@ export default class MainActivity extends Component{
     }
 
     handleSearch(searchTerm) {
-
-        console.log("search - " + searchTerm);
-
         this.setState({searchTerm: searchTerm});
-
+        console.log("MainActivity search: " + searchTerm);
     }
 
     render(){

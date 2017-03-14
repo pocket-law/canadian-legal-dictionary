@@ -30,7 +30,7 @@ export default class TitleBar extends Component{
 
     handleSearch() {
         var searchTerm = this.state.searchTerm;
-    
+
         this.props.searchFor(searchTerm);
     }
 
@@ -51,9 +51,11 @@ export default class TitleBar extends Component{
                 </TouchableOpacity>
                 <TextInput
                     style={styles.search_text}
+                    returnKeyType='search'
                     placeholder="Search..."
                     onChangeText={(text) => this.setState({text})}
-                    onChangeText={(text) => this.setState({ searchTerm: text })}/>
+                    onChangeText={(text) => this.setState({ searchTerm: text })}
+                    onSubmitEditing={this.handleSearch.bind(this)}/>
                 <TouchableOpacity  onPress={this.handleSearch.bind(this)}>
                     <Image style={styles.button} source={require('./search_white.png')} />
                 </TouchableOpacity>
