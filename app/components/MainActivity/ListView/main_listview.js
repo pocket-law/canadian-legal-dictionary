@@ -1,6 +1,10 @@
 import React, {Component} from 'react';
 import {AppRegistry, Text, View, ListView, StyleSheet, TouchableHighlight} from 'react-native';
 
+import jsonPath from './utilities/jsonPath';
+
+const jsonString = '';
+
 
 export default class MainListView extends Component{
     constructor(){
@@ -8,7 +12,19 @@ export default class MainListView extends Component{
         const ds = new ListView.DataSource({rowHasChanged: (r1, r2) => r1 !== r2});
         this.state = {
             termDataSource: ds,
+            searchTerm:  '',
+
         };
+    }
+
+
+    componentWillReceiveProps(nextProps) {
+        // Update state searchTerm when prop searchTerm updated
+        if (nextProps.searchTerm !== this.state.searchTerm) {
+            this.setState({ searchTerm: nextProps.searchTerm });
+        }
+        res1 = jsonPath(jsonString, "$.term").toJSONString();
+        console.log(res1);
     }
 
     componentDidMount(){
@@ -16,12 +32,13 @@ export default class MainListView extends Component{
     }
 
     fetchTerms(){
-        fetch('https://raw.githubusercontent.com/pocket-law/canadian-legal-dictionary/master/json/pocketlaw_dictionary.json')
+        fetch('https://raw.githubusercontent.com/pocket-law/canadian-legal-dictionary/master/app/components/MainActivity/ListView/json/pocketlaw_dictionary.json')
             .then((response) => response.json())
             .then((response) => {
                 this.setState({
                     termDataSource: this.state.termDataSource.cloneWithRows(response.terms)
                 });
+                jsonString = JSON.stringify(response)
             });
     }
 
@@ -42,6 +59,7 @@ export default class MainListView extends Component{
         }
 
     render(){
+        console.log('Search term in mainlistview render - ' + this.state.searchTerm)
         return(
             <ListView
                 style={styles.listView}
@@ -50,6 +68,7 @@ export default class MainListView extends Component{
         );
     }
 }
+
 
 const styles = StyleSheet.create({
     listView: {

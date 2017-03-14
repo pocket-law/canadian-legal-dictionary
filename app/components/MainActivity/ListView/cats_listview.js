@@ -17,7 +17,7 @@ export default class CatsListView extends Component{
     }
 
     fetchCategories(){
-        fetch('https://raw.githubusercontent.com/pocket-law/canadian-legal-dictionary/master/json/pocketlaw_dictionary.json')
+        fetch('https://raw.githubusercontent.com/pocket-law/canadian-legal-dictionary/master/app/components/MainActivity/ListView/json/pocketlaw_dictionary.json')
             .then((response) => response.json())
             .then((response) => {
                 this.setState({

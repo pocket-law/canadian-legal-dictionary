@@ -10,7 +10,8 @@ export default class MainActivity extends Component{
         super();
         this.state = {
             mainListView: true,
-            catsListView: false
+            catsListView: false,
+            searchTerm: ''
         };
     }
 
@@ -30,6 +31,8 @@ export default class MainActivity extends Component{
 
         console.log("search - " + searchTerm);
 
+        this.setState({searchTerm: searchTerm});
+
     }
 
     render(){
@@ -42,7 +45,7 @@ export default class MainActivity extends Component{
                         />
                 </View>
                 <View style={styles.listView}>
-                    {this.state.mainListView ? <MainListView/> : null}
+                    {this.state.mainListView ? <MainListView searchTerm={this.state.searchTerm}/> : null}
                     {this.state.catsListView ? <CatsListView/> : null}
                 </View>
             </View>
