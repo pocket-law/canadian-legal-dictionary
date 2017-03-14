@@ -37,7 +37,6 @@
 		"source": "http://canadianlawsite.ca"
 		},
 
-
 		{
 		"term": "Pene Register", 
 		"definition": "An electronic surveillance device which attaches to a phone line and which registers every number dialed from a specific telephone.", 
@@ -48,10 +47,40 @@
 "categories": 
 	[
 		{
-			"name": "Aboriginal Law"
+		"name": "Aboriginal Law"
 		},
 		{
-			"name": "Arbitration"
+		"name": "Access to Justice"
+		},
+		{
+		"name": "Administrative Law"
+		},
+		{
+		"name": "Agricultural"
+		},
+		{
+		"name": "Alternative Dispute Resolution"
+		},
+		{
+		"name": "Asian Law"
+		},
+		{
+		"name": "Banking"
+		},
+		{
+		"name": "Bankruptcy"
+		},
+		{
+		"name": "Civil Code"
+		},
+		{
+		"name": "Civil Litigation"
+		},
+		{
+		"name": "Communication, Media, and Technology Law"
+		},
+		{
+		"name": "Computer & Internet"
 		}
 	]	
 }
