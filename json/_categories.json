@@ -1,14 +1,38 @@
 [
-    {"category": "Aboriginal Law"},
-    {"category": "Access to Justice"},
-    {"category": "Administrative Law"},
-    {"category": "Agricultural"},
-    {"category": "Alternative Dispute Resolution"},
-    {"category": "Asian Law"},
-    {"category": "Banking"},
-    {"category": "Bankruptcy"},
-    {"category": "Civil Code"},
-    {"category": "Civil Litigation"},
-    {"category": "Communication, Media, and Technology Law"},
-    {"category": "Computer & Internet"}
+    {
+	"category": "Aboriginal Law"
+	},
+    {
+	"category": "Access to Justice"
+	},
+    {
+	"category": "Administrative Law"
+	},
+    {
+	"category": "Agricultural"
+	},
+    {
+	"category": "Alternative Dispute Resolution"
+	},
+    {
+	"category": "Asian Law"
+	},
+    {
+	"category": "Banking"
+	},
+    {
+	"category": "Bankruptcy"
+	},
+    {
+	"category": "Civil Code"
+	},
+    {
+	"category": "Civil Litigation"
+	},
+    {
+	"category": "Communication, Media, and Technology Law"
+	},
+    {
+	"category": "Computer & Internet"
+	}
 ]
