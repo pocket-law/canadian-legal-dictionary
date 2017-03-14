@@ -4,12 +4,12 @@
 		{
 		"term": "Pendente Lite", 
 		"definition": "Latin: during litigation. For example, if the validity of a will is challenged, a court might appoint an administrator pendente lite with limited powers to do such things as may be necessary to preserve the assets of the deceased until a hearing can be convened on the validity of the will.", 
+		"tags" : ["Wills and Estates"],
 		"source": 
 			{
 			"name": "Canadian Law Site",
 			"url": "http://canadianlawsite.ca"
-			},
-		"tags" : ["Wills and Estates"]
+			}
 		},
 
 		{
