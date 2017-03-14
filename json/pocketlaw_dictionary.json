@@ -44,5 +44,10 @@
 		"source": "http://canadianlawsite.ca"
 		}	  
 	  
-	]
+	],
+"categories": 
+	{
+		"name": "Aboriginal Law"
+	}
+	
 }
