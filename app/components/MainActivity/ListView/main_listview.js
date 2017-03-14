@@ -33,7 +33,7 @@ export default class MainListView extends Component{
                         <Text style={styles.rowText}>{term.definition}</Text>
                         <View style={styles.sourceView}>
                             <Text style={styles.rowTextSource}>source:</Text>
-                            <Text style={styles.sourceLink}>{}</Text>
+                            <Text style={styles.sourceLink}>{term.source.name}</Text>
                         </View>
 
                     </View>
