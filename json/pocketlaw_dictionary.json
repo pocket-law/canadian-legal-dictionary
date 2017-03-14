@@ -4,44 +4,60 @@
 		{
 		"term": "Pendente Lite", 
 		"definition": "Latin: during litigation. For example, if the validity of a will is challenged, a court might appoint an administrator pendente lite with limited powers to do such things as may be necessary to preserve the assets of the deceased until a hearing can be convened on the validity of the will.", 
-		"source": "http://canadianlawsite.ca"
+		"source": {
+			"name":"Canadian Law Site",
+			"url":"http://canadianlawsite.ca"
 		},
 
 		{
 		"term": "Pettifogger", 
 		"definition": "A petty or underhanded lawyer or an attorney who sustains a professional livelihood on disreputable or dishonorable business.", 
-		"source": "http://canadianlawsite.ca"
+		"source": {
+			"name":"Canadian Law Site",
+			"url":"http://canadianlawsite.ca"
+		},
 		},
 
 		{
 		"term": "Petty Offense", 
 		"definition": "A minor crime and for which the punishment is usually just a small fine or short term of imprisonment.", 
-		"source": "http://canadianlawsite.ca"
+		"source": {
+			"name":"Canadian Law Site",
+			"url":"http://canadianlawsite.ca"
 		},
 
 		{
 		"term": "Physical Custody", 
 		"definition": "A child custody decision which grants the right to organize and administer the day to day residential care of a child. This is usually combined with legal custody.", 
-		"source": "http://canadianlawsite.ca"
+		"source": {
+			"name":"Canadian Law Site",
+			"url":"http://canadianlawsite.ca"
 		},
+
 
 		{
 		"term": "Plaintiff", 
 		"definition": "A person who initiates a case in Court.  That person may also be referred to as the Claimant, Petitioner or Applicant.  The person who is being sued is generally called the Defendant or Respondent.", 
-		"source": "http://canadianlawsite.ca"
+		"source": {
+			"name":"Canadian Law Site",
+			"url":"http://canadianlawsite.ca"
 		},
 
 		{
 		"term": "Pen Register", 
 		"definition": "An electronic surveillance device which attaches to a phone line and which registers every number dialed from a specific telephone.", 
-		"source": "http://canadianlawsite.ca"
+		"source": {
+			"name":"Canadian Law Site",
+			"url":"http://canadianlawsite.ca"
 		},
 
 		{
 		"term": "Pene Register", 
 		"definition": "An electronic surveillance device which attaches to a phone line and which registers every number dialed from a specific telephone.", 
-		"source": "http://canadianlawsite.ca"
-		}	  
+		"source": {
+			"name":"Canadian Law Site",
+			"url":"http://canadianlawsite.ca"
+		}  
 	  
 	],
 "categories": 
