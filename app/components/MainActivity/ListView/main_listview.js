@@ -10,13 +10,12 @@ export default class MainListView extends Component{
         };
     }
 
-
     componentDidMount(){
         this.fetchTerms();
     }
 
     fetchTerms(){
-        fetch('https://raw.githubusercontent.com/pocket-law/canadian-legal-dictionary/master/app/resources/canadian_legal_dictionary.json')
+        fetch('https://raw.githubusercontent.com/pocket-law/canadian-legal-dictionary/master/json/canadian_legal_dictionary.json')
             .then((response) => response.json())
             .then((response) => {
                 this.setState({
@@ -29,11 +28,11 @@ export default class MainListView extends Component{
             return(
                 <View style={styles.row}>
                     <View>
-                        <Text style={styles.termText}>{term.name}</Text>
-                        <Text style={styles.rowText}>{term.email}</Text>
+                        <Text style={styles.termText}>{term.term}</Text>
+                        <Text style={styles.rowText}>{term.definition}</Text>
                         <View style={styles.sourceView}>
                             <Text style={styles.rowTextSource}>source:</Text>
-                            <Text style={styles.sourceLink}>{term.website}</Text>
+                            <Text style={styles.sourceLink}>{term.source}</Text>
                         </View>
 
                     </View>
