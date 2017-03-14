@@ -30,7 +30,7 @@ export default class CatsListView extends Component{
             return(
                 <View style={styles.row}>
                     <View>
-                        <Text style={styles.categoryText}>{category.term}</Text>
+                        <Text style={styles.categoryText}>{category.category}</Text>
                     </View>
                 </View>
             )
