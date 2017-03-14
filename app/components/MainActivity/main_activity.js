@@ -16,8 +16,6 @@ export default class MainActivity extends Component{
 
     handleListView(isVisible) {
 
-        console.log(isVisible);
-
         if (isVisible == 'categories') {
             this.setState({catsListView: true});
             this.setState({mainListView: false});
@@ -28,11 +26,20 @@ export default class MainActivity extends Component{
 
     }
 
+    handleSearch(searchTerm) {
+
+        console.log("search - " + searchTerm);
+
+    }
+
     render(){
         return(
             <View style={styles.container}>
                 <View style={styles.titleBar}>
-                    <TitleBar changeListView={this.handleListView.bind(this)} />
+                    <TitleBar
+                        changeListView={this.handleListView.bind(this)}
+                        searchFor={this.handleSearch.bind(this)}
+                        />
                 </View>
                 <View style={styles.listView}>
                     {this.state.mainListView ? <MainListView/> : null}

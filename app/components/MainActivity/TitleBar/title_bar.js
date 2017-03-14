@@ -6,13 +6,14 @@ export default class TitleBar extends Component{
         super(props);
         this.state = {
             appname: 'Canadian Legal Dictionary',
+            searchTerm: '',
             isVisible: 'full-list' // categories, full-list, sub-list
         }
     }
 
     handleHamburger() {
         var isVisible = this.state.isVisible;
-        console.log('was visible: - ' + isVisible);
+        console.log('was visible - ' + isVisible);
 
         if (isVisible == 'full-list') {
             this.setState({ isVisible: 'categories' });
@@ -21,14 +22,16 @@ export default class TitleBar extends Component{
             this.setState({ isVisible: 'full-list' });
             isVisible = 'full-list';
         }
-        console.log('is visible after: - ' + isVisible);
+        console.log('now visible - ' + isVisible);
 
-       // Providing `isVisible` variable to callback.
+       // Providing `isVisible` variable to changeListView callback.
         this.props.changeListView(isVisible);
     }
 
     handleSearch() {
-
+        var searchTerm = this.state.searchTerm;
+    
+        this.props.searchFor(searchTerm);
     }
 
     render(){
@@ -49,7 +52,8 @@ export default class TitleBar extends Component{
                 <TextInput
                     style={styles.search_text}
                     placeholder="Search..."
-                    onChangeText={(text) => this.setState({text})} />
+                    onChangeText={(text) => this.setState({text})}
+                    onChangeText={(text) => this.setState({ searchTerm: text })}/>
                 <TouchableOpacity  onPress={this.handleSearch.bind(this)}>
                     <Image style={styles.button} source={require('./search_white.png')} />
                 </TouchableOpacity>
