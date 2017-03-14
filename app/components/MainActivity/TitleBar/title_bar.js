@@ -36,8 +36,8 @@ export default class TitleBar extends Component{
         <View style={styles.title_bar_view}>
 
             {/* }AppTitle */}
-            <View style={styles.rowscape}>
-                <Image style={styles.logo} source={require('./blue_leaf.png')} />
+            <View style={styles.titleBar}>
+                <Image style={styles.leaf} source={require('./leaf.png')} />
                 <Text style={styles.apptitle}>{this.state.appname}</Text>
             </View>
 
@@ -63,15 +63,15 @@ export default class TitleBar extends Component{
 const styles = StyleSheet.create({
     title_bar_view: {
         flexDirection:'column',
-        backgroundColor:'#FF0000'
+        backgroundColor:'#3B5198'
     },
 
-    rowscape: {
+    titleBar: {
         flexDirection:'row',
-        backgroundColor:'#FF0000'
+        backgroundColor:'#3B5198'
     },
 
-    logo: {
+    leaf: {
         height: 44,
         width: 44,
         marginLeft: 4,

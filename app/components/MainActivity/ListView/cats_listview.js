@@ -51,20 +51,20 @@ const styles = StyleSheet.create({
     listView: {
         // TODO: to get past the bottom bar on android, maybe theres a better way?
         // seems to be based on the height of the top bar
-        marginBottom: 245
+        marginBottom: 238
     },
 
     row: {
         flexDirection: 'row',
         justifyContent: 'center',
         padding: 10,
-        backgroundColor: '#0000ff',
+        backgroundColor: '#2e3f76',
         marginBottom: 3
     },
 
     categoryText: {
         flex: 1,
-        fontSize: 16,
+        fontSize: 20,
         color: '#FFFFFF',
         fontWeight:'bold'
     }
