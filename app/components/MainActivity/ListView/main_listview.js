@@ -19,7 +19,7 @@ export default class MainListView extends Component{
             .then((response) => response.json())
             .then((response) => {
                 this.setState({
-                    termDataSource: this.state.termDataSource.cloneWithRows(response)
+                    termDataSource: this.state.termDataSource.cloneWithRows(response.terms)
                 });
             });
     }

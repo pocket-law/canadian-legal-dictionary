@@ -46,8 +46,12 @@
 	  
 	],
 "categories": 
-	{
-		"name": "Aboriginal Law"
-	}
-	
+	[
+		{
+			"name": "Aboriginal Law"
+		},
+		{
+			"name": "Arbitration"
+		}
+	]	
 }

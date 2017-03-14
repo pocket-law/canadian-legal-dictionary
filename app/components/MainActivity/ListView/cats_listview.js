@@ -17,11 +17,11 @@ export default class CatsListView extends Component{
     }
 
     fetchCategories(){
-        fetch('https://raw.githubusercontent.com/pocket-law/canadian-legal-dictionary/master/json/_categories.json')
+        fetch('https://raw.githubusercontent.com/pocket-law/canadian-legal-dictionary/master/json/pocketlaw_dictionary.json')
             .then((response) => response.json())
             .then((response) => {
                 this.setState({
-                    catsDataSource: this.state.catsDataSource.cloneWithRows(response)
+                    catsDataSource: this.state.catsDataSource.cloneWithRows(response.categories)
                 });
             });
     }
@@ -30,7 +30,7 @@ export default class CatsListView extends Component{
             return(
                 <View style={styles.row}>
                     <View>
-                        <Text style={styles.categoryText}>{category.category}</Text>
+                        <Text style={styles.categoryText}>{category.name}</Text>
                     </View>
                 </View>
             )
