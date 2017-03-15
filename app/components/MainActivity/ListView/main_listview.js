@@ -3,15 +3,21 @@ import {AppRegistry, Text, View, ListView, StyleSheet, TouchableHighlight} from 
 
 import jsonPath from './utilities/jsonPath';
 
+
 const jsonString = '';
+
+const jsonObj = null;
+
+const ds = new ListView.DataSource({rowHasChanged: (r1, r2) => r1 !== r2});
 
 
 export default class MainListView extends Component{
     constructor(){
         super();
-        const ds = new ListView.DataSource({rowHasChanged: (r1, r2) => r1 !== r2});
+
         this.state = {
             termDataSource: ds,
+            resultsArray: [],
             searchTerm:  '',
 
         };
@@ -23,6 +29,40 @@ export default class MainListView extends Component{
         if (nextProps.searchTerm != '') {
             console.log("MainListView new search: " + nextProps.searchTerm);
             this.setState({ searchTerm: nextProps.searchTerm });
+
+            jsonObj = JSON.parse(jsonString);
+
+            console.log("mainlistview jsonString: " + jsonString);
+
+            var resultsArray = [];
+
+            for (i = 0; i < jsonObj.terms.length; i++) {
+
+                //check if search term == search term
+                // TODO: outside function?
+                if(jsonObj.terms[i].term == nextProps.searchTerm) {
+                    console.log("listview search MATCH: " + nextProps.searchTerm +
+                                "\n==============================================" );
+
+                    // console.log("jsonObj.terms[i]" + jsonObj.terms[i]);
+                    //
+                    //
+                    // stringified = JSON.stringify(jsonObj.terms[i])
+                    //
+                    // console.log("STRIGNIFY: " + stringified);
+
+                    resultsArray.push(jsonObj.terms[i]);
+                    console.log("jsonObj.terms[i].term: " + jsonObj.terms[i].term);
+
+                }
+            }
+
+            this.state.resultsArray = resultsArray;
+
+            if (resultsArray.length >= 1) {
+                console.log("Results#: " + resultsArray.length);
+                this.state.termDataSource = this.state.termDataSource.cloneWithRows(resultsArray)
+            }
         }
     }
 
@@ -37,7 +77,8 @@ export default class MainListView extends Component{
                 this.setState({
                     termDataSource: this.state.termDataSource.cloneWithRows(response.terms)
                 });
-                jsonString = JSON.stringify(response)
+                jsonString = JSON.stringify(response);
+                console.log("str" + jsonString);
             });
     }
 
@@ -48,8 +89,8 @@ export default class MainListView extends Component{
                         <Text style={styles.termText}>{term.term}</Text>
                         <Text style={styles.rowText}>{term.definition}</Text>
                         <View style={styles.sourceView}>
-                            <Text style={styles.rowTextSource}>source:</Text>
-                            <Text style={styles.sourceLink}>{term.source.name}</Text>
+                            <Text style={styles.rowTextSource}>Source:</Text>
+                        <Text style={styles.sourceLink}>{term.source.name}</Text>
                         </View>
 
                     </View>
