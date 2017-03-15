@@ -11,8 +11,9 @@ get_source = False
 get_data = False
 get_link = False
 GLOBAL_STOP_HANDLE = False
+add_comma = False
 
-text_file = open("Output.txt", "w")
+text_file = open("outputFromIrwin.txt", "w")
 
 # create a subclass and override the handler methods
 class MyHTMLParser(HTMLParser):
@@ -109,6 +110,7 @@ class MyHTMLParser(HTMLParser):
 		global get_definition
 		global get_source
 		global get_link
+		global add_comma
 		
 		if data == "See also:" and not GLOBAL_STOP_HANDLE:
 			print "<related_terms>"
@@ -127,6 +129,7 @@ class MyHTMLParser(HTMLParser):
 		if data == "Filed in:" and not GLOBAL_STOP_HANDLE:
 			print "<categories>"
 			text_file.write("\n<categories>\n")
+			add_comma = True
 		
 		if data == "By:" and not GLOBAL_STOP_HANDLE:
 			print " - "
@@ -141,9 +144,12 @@ class MyHTMLParser(HTMLParser):
 			text_file.write(data)
 			
 		if get_source and not GLOBAL_STOP_HANDLE and get_data and (not data.isspace()) and (not data == "By:") and (not data == "Title:") and (not get_definition == True):
-			print data
-			text_file.write(data)
-	
+			if add_comma == True and (not data.endswith(' ')) and (not '&' in data):
+				print data + ", "
+				text_file.write(data + ", ")
+			else:
+				print data
+				text_file.write(data)
 
 	
 
@@ -158,7 +164,14 @@ try:
 		line = re.sub(r"[ ]", "_", line)
 		line = re.sub(r"\(", "", line)
 		line = re.sub(r"\)", "", line)
+		line = re.sub(r"[^\x00-\x7F]", "", line)
+		line = re.sub(r",", "", line)
+		line = re.sub(r"\/", "", line)
+		line = re.sub(r"'", "", line)
+		line = re.sub(r";", "", line)
+
 		GLOBAL_STOP_HANDLE = False
+		add_comma = False
 		response = urllib2.urlopen('https://www.irwinlaw.com/cold/' + line.lower())
 		html = response.read()
 		parser.feed(html)
