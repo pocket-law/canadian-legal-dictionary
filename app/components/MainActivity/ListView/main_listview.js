@@ -8,13 +8,11 @@ const jsonString = '';
 
 const jsonObj = null;
 
-const ds = new ListView.DataSource({rowHasChanged: (r1, r2) => r1 !== r2});
-
 
 export default class MainListView extends Component{
     constructor(){
         super();
-
+        const ds = new ListView.DataSource({rowHasChanged: (r1, r2) => r1 !== r2});
         this.state = {
             termDataSource: ds,
             resultsArray: [],
@@ -32,24 +30,28 @@ export default class MainListView extends Component{
 
             jsonObj = JSON.parse(jsonString);
 
-            console.log("mainlistview jsonString: " + jsonString);
-
             var resultsArray = [];
+
+            // initialize for 6 blank search terms
+            // TODO: note: search limited to 6 terms
+            searchTermArray = ['','','','','','']
+            searchTermSplit = nextProps.searchTerm.split(" ");
+
+            for (i = 0; i < searchTermSplit.length; i++) {
+                searchTermArray[i] = searchTermSplit[i];
+            }
 
             for (i = 0; i < jsonObj.terms.length; i++) {
 
-                //check if search term == search term
+                //check if search term is in term
                 // TODO: outside function?
-                if(jsonObj.terms[i].term == nextProps.searchTerm) {
-                    console.log("listview search MATCH: " + nextProps.searchTerm +
-                                "\n==============================================" );
-
-                    // console.log("jsonObj.terms[i]" + jsonObj.terms[i]);
-                    //
-                    //
-                    // stringified = JSON.stringify(jsonObj.terms[i])
-                    //
-                    // console.log("STRIGNIFY: " + stringified);
+                if((jsonObj.terms[i].term).toUpperCase().includes((searchTermArray[0]).toUpperCase())
+                    && (jsonObj.terms[i].term).toUpperCase().includes((searchTermArray[1]).toUpperCase())
+                    && (jsonObj.terms[i].term).toUpperCase().includes((searchTermArray[2]).toUpperCase())
+                    && (jsonObj.terms[i].term).toUpperCase().includes((searchTermArray[3]).toUpperCase())
+                    && (jsonObj.terms[i].term).toUpperCase().includes((searchTermArray[4]).toUpperCase())
+                    && (jsonObj.terms[i].term).toUpperCase().includes((searchTermArray[5]).toUpperCase())) {
+                    console.log("listview search MATCH: " + nextProps.searchTerm + "\n==============================================" );
 
                     resultsArray.push(jsonObj.terms[i]);
                     console.log("jsonObj.terms[i].term: " + jsonObj.terms[i].term);
@@ -78,7 +80,6 @@ export default class MainListView extends Component{
                     termDataSource: this.state.termDataSource.cloneWithRows(response.terms)
                 });
                 jsonString = JSON.stringify(response);
-                console.log("str" + jsonString);
             });
     }
 

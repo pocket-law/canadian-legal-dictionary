@@ -4,21 +4,10 @@
 "terms":
 	[
 		{
-		"term": "Pen Register", 
-		"definition": "An electronic surveillance device which attaches to a phone line and which registers every number dialed from a specific telephone.", 
+		"term": "Pen Register",
+		"definition": "An electronic surveillance device which attaches to a phone line and which registers every number dialed from a specific telephone.",
 		"tags" : ["Criminal Law"],
-		"source": 
-			{
-			"name": "Canadian Law Site",
-			"url": "http://canadianlawsite.ca"
-			}
-		},
-		
-		{
-		"term": "Pendente Lite", 
-		"definition": "Latin: during litigation. For example, if the validity of a will is challenged, a court might appoint an administrator pendente lite with limited powers to do such things as may be necessary to preserve the assets of the deceased until a hearing can be convened on the validity of the will.", 
-		"tags" : ["Wills and Estates"],
-		"source": 
+		"source":
 			{
 			"name": "Canadian Law Site",
 			"url": "http://canadianlawsite.ca"
@@ -26,8 +15,19 @@
 		},
 
 		{
-		"term": "Pettifogger", 
-		"definition": "A petty or underhanded lawyer or an attorney who sustains a professional livelihood on disreputable or dishonorable business.", 
+		"term": "Pendente Lite",
+		"definition": "Latin: during litigation. For example, if the validity of a will is challenged, a court might appoint an administrator pendente lite with limited powers to do such things as may be necessary to preserve the assets of the deceased until a hearing can be convened on the validity of the will.",
+		"tags" : ["Wills and Estates"],
+		"source":
+			{
+			"name": "Canadian Law Site",
+			"url": "http://canadianlawsite.ca"
+			}
+		},
+
+		{
+		"term": "Pettifogger",
+		"definition": "A petty or underhanded lawyer or an attorney who sustains a professional livelihood on disreputable or dishonorable business.",
 		"tags" : ["Professional Conduct"],
 		"source":
 			{
@@ -37,10 +37,10 @@
 		},
 
 		{
-		"term": "Petty Offense", 
-		"definition": "A minor crime and for which the punishment is usually just a small fine or short term of imprisonment.", 
+		"term": "Petty Offense",
+		"definition": "A minor crime and for which the punishment is usually just a small fine or short term of imprisonment.",
 		"tags" : ["Criminal Law"],
-		"source": 
+		"source":
 			{
 			"name": "Canadian Law Site",
 			"url": "http://canadianlawsite.ca"
@@ -48,8 +48,8 @@
 		},
 
 		{
-		"term": "Physical Custody", 
-		"definition": "A child custody decision which grants the right to organize and administer the day to day residential care of a child. This is usually combined with legal custody.", 
+		"term": "Physical Custody",
+		"definition": "A child custody decision which grants the right to organize and administer the day to day residential care of a child. This is usually combined with legal custody.",
 		"tags" : ["Family Law"],
 		"source":
 			{
@@ -60,18 +60,18 @@
 
 
 		{
-		"term": "Plaintiff", 
-		"definition": "A person who initiates a case in Court.  That person may also be referred to as the Claimant, Petitioner or Applicant.  The person who is being sued is generally called the Defendant or Respondent.", 
+		"term": "Plaintiff",
+		"definition": "A person who initiates a case in Court.  That person may also be referred to as the Claimant, Petitioner or Applicant.  The person who is being sued is generally called the Defendant or Respondent.",
 		"tags" : ["Civil Litigation"],
-		"source": 
+		"source":
 			{
 			"name": "Canadian Law Site",
 			"url": "http://canadianlawsite.ca"
 			}
 		}
-	  
+
 	],
-"categories": 
+"categories":
 	[
 		{
 		"name": "Aboriginal Law"
@@ -120,9 +120,6 @@
 		},
 		{
 		"name": "Wills and Estates"
-		},
-		{
-		"name": "END"
 		}
-	]	
+	]
 }
