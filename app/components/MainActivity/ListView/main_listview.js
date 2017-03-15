@@ -35,7 +35,7 @@ export default class MainListView extends Component{
             // initialize for 6 blank search terms
             // TODO: note: search limited to 6 terms
             searchTermArray = ['','','','','','']
-            searchTermSplit = nextProps.searchTerm.split(" ");
+            searchTermSplit = nextProps.searchTerm.toUpperCase().split(" ");
 
             for (i = 0; i < searchTermSplit.length; i++) {
                 searchTermArray[i] = searchTermSplit[i];
@@ -45,26 +45,33 @@ export default class MainListView extends Component{
 
                 //check if search term is in term
                 // TODO: outside function?
-                if((jsonObj.terms[i].term).toUpperCase().includes((searchTermArray[0]).toUpperCase())
-                    && (jsonObj.terms[i].term).toUpperCase().includes((searchTermArray[1]).toUpperCase())
-                    && (jsonObj.terms[i].term).toUpperCase().includes((searchTermArray[2]).toUpperCase())
-                    && (jsonObj.terms[i].term).toUpperCase().includes((searchTermArray[3]).toUpperCase())
-                    && (jsonObj.terms[i].term).toUpperCase().includes((searchTermArray[4]).toUpperCase())
-                    && (jsonObj.terms[i].term).toUpperCase().includes((searchTermArray[5]).toUpperCase())) {
-                    console.log("listview search MATCH: " + nextProps.searchTerm + "\n==============================================" );
+                if((jsonObj.terms[i].term).toUpperCase().includes(searchTermArray[0])
+                    && (jsonObj.terms[i].term).toUpperCase().includes(searchTermArray[1])
+                    && (jsonObj.terms[i].term).toUpperCase().includes(searchTermArray[2])
+                    && (jsonObj.terms[i].term).toUpperCase().includes(searchTermArray[3])
+                    && (jsonObj.terms[i].term).toUpperCase().includes(searchTermArray[4])
+                    && (jsonObj.terms[i].term).toUpperCase().includes(searchTermArray[5])) {
 
-                    resultsArray.push(jsonObj.terms[i]);
-                    console.log("jsonObj.terms[i].term: " + jsonObj.terms[i].term);
+                        console.log("listview search MATCH: " + nextProps.searchTerm + "\n==============================================" );
 
-                }
+                        resultsArray.push(jsonObj.terms[i]);
+                        console.log("jsonObj.terms[i].term: " + jsonObj.terms[i].term);
+
             }
+        }
 
             this.state.resultsArray = resultsArray;
 
             if (resultsArray.length >= 1) {
                 console.log("Results#: " + resultsArray.length);
-                this.state.termDataSource = this.state.termDataSource.cloneWithRows(resultsArray)
+                this.state.termDataSource = this.state.termDataSource.cloneWithRows(resultsArray);
+            } else {
+                this.state.termDataSource = this.state.termDataSource;
+                alert("No Results!")
             }
+        } else {
+            // if search term = '', show all terms
+            this.fetchTerms();
         }
     }
 
