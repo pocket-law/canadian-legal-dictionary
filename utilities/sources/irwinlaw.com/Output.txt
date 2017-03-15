@@ -1,0 +1,750 @@
+<term>
+Abandonment
+<definition>
+The lapse of a state's sovereignty over territory, causing the territory to become a res nullius.
+<source>
+<url>
+https://www.irwinlaw.com/titles/public-international-law-2e
+<name>
+Public International Law 2/e - John H. Currie
+<definition>
+The act and intention to relinquish certain land use rights, for example, non-conforming use rights.
+<source>
+<url>
+https://www.irwinlaw.com/titles/land-use-planning
+<name>
+Land-Use Planning - Howard Epstein
+<categories>
+Housing & Urban DevelopmentInternational LawLand UseProperty Law
+<END>
+<term>
+Abatement
+<related_terms>
+Nuisance (private), Nuisance (public)
+<definition>
+A self-help remedy to remove a nuisance from which the abator suffers.
+<source>
+<url>
+https://www.irwinlaw.com/titles/law-torts-5e
+<name>
+The Law of Torts, 5/e - Philip H. Osborne
+<categories>
+RemediesTorts
+<END>
+<term>
+Aboriginal peoples
+<definition>
+The original inhabitants of North America prior to the arrival of European settlers. Section 35 of the Constitution Act, 1982 defines the “Aboriginal peoples of Canada” as including the Indian, Inuit, and Metis peoples of Canada.
+<source>
+<url>
+https://www.irwinlaw.com/titles/constitutional-law-5e
+<name>
+Constitutional Law, 5/e - Patrick Monahan, Byron Shaw and Padraic Ryan
+<categories>
+Aboriginal LawConstitutional Law
+<END>
+<term>
+Abridgment
+<definition>
+In legal literature, a summary or digest of a court case. Many publishers provide compilations of these summaries or digests organized by topic or theme. A well-known case law digest in Canada is Carswell’s Canadian Abridgment, available in print, on CD-ROM, and on WestlawNext Canada (by subscription), which has summaries of Canadian court decisions, organized by topic. LexisNexis Quicklaw has an online digest service in Canada Digest database.
+<source>
+<url>
+https://www.irwinlaw.com/titles/legal-research-and-writing-4e
+<name>
+Legal Research and Writing, 4/e - Ted Tjaden
+<categories>
+Legal Research and Writing
+<END>
+<term>
+Absconding
+<definition>
+Fleeing before trial or “skipping bail.”
+<source>
+<url>
+https://www.irwinlaw.com/titles/understanding-bail-canada
+<name>
+Understanding Bail in Canada - Gary T Trotter
+<categories>
+Criminal Law
+<END>
+<term>
+Absolute discharge
+<related_terms>
+Conditional discharge, Criminal record, Discharge, Guilty plea
+<definition>
+A disposition in which no conviction is recorded. It is available if there is no minimum penalty, the offence is not punishable by life or fourteen years’ imprisonment, and the judge determines that it is in the accused’s best interests and not contrary to the public interest.
+<source>
+<url>
+https://www.irwinlaw.com/titles/criminal-law-6e
+<name>
+Criminal Law, 6/e - Kent Roach
+<definition>
+A court decision made when, in the best interests of the accused and not contrary to the public interest, a person who has been found guilty of, or pleads guilty to, an offence under the Criminal Code, is relieved from sentencing by that court, without conditions. The offender has no record of a criminal conviction or “no criminal record” for employment purposes. The offender does have a record of a finding of guilt.
+<source>
+<url>
+https://www.irwinlaw.com/titles/mental-health-courts
+<name>
+Mental Health Courts - Richard D. Schneider, Hy Bloom and Mark Heerema
+<definition>
+A situation in which an offender is deemed not to have been convicted of the offence. However, since the offender pleaded or was found guilty, the offender will still have a federal criminal record. A judge can only order an absolute discharge if this is in the offender’s best interests and is not contrary to the public interest. An absolute discharge cannot be given if the offence carries a minimum punishment or is punishable by imprisonment for fourteen years or life.
+<source>
+<url>
+https://www.irwinlaw.com/titles/trauma-trials-and-transformation
+<name>
+Trauma, Trials, and Transformation - Judith Daylen, Wendy van Tongeren Harvey and Dennis O’Toole Foreword by Claire L’Heureux-Dubé
+<categories>
+Criminal Law
+<END>
+<term>
+Absolute jurisdiction offence
+<related_terms>
+Election by the accused
+<definition>
+An offence listed in section 553 of the Criminal Code. An accused has no election for these offences, which can be tried only by a provincial court judge.
+<source>
+<url>
+https://www.irwinlaw.com/titles/criminal-procedure-3e
+<name>
+Criminal Procedure 3/e - Steve Coughlan
+<categories>
+Criminal Law
+<END>
+<term>
+Absolute liability
+<related_terms>
+Actus reus
+<definition>
+An offence for which the accused is guilty once it is proven that the prohibited act was committed and regardless of the existence of any fault, including negligence.
+<source>
+<url>
+https://www.irwinlaw.com/titles/charter-rights-and-freedoms-6e
+<name>
+The Charter of Rights and Freedoms 6/e - Robert J. Sharpe and Kent Roach
+<categories>
+Criminal Law
+<END>
+<term>
+Absolute state immunity
+<related_terms>
+Restrictive state immunity, State immunity
+<definition>
+A theory of state immunity that does not differentiate between commercial (or “private”) and sovereign acts of states in extending immunity to them from the judicial process of foreign domestic courts.
+<source>
+<url>
+https://www.irwinlaw.com/titles/public-international-law-2e
+<name>
+Public International Law 2/e - John H. Currie
+<categories>
+International Law
+<END>
+<term>
+Abuse of process
+<related_terms>
+Stay of proceedings
+<definition>
+The use of civil process in furtherance of an improper motive.
+<source>
+<url>
+https://www.irwinlaw.com/titles/law-torts-5e
+<name>
+The Law of Torts, 5/e - Philip H. Osborne
+<definition>
+State conduct in the investigation of an offence or the conduct of a prosecution that either compromises the fairness of trial or contravenes fundamental notions of justice and undermines the integrity of the judicial process. In the clearest of cases an abuse of process can lead to the remedy of a stay of proceedings, but only if there is no alternative remedy capable of redressing the prejudice.
+<source>
+<url>
+https://www.irwinlaw.com/titles/criminal-procedure-3e
+<name>
+Criminal Procedure 3/e - Steve Coughlan
+<categories>
+Civil LitigationCriminal Law
+<END>
+<term>
+Abutting
+<definition>
+Touching and sharing a common point, line, or boundary.
+<source>
+<url>
+https://www.irwinlaw.com/titles/land-use-planning
+<name>
+Land-Use Planning - Howard Epstein
+<categories>
+Housing & Urban DevelopmentLand UseProperty Law
+<END>
+<term>
+Accessibility
+<definition>
+The quality of affording access to a building.
+<source>
+<url>
+https://www.irwinlaw.com/titles/land-use-planning
+<name>
+Land-Use Planning - Howard Epstein
+<categories>
+Housing & Urban DevelopmentHuman Rights LawLand Use
+<END>
+<term>
+Accessibility threshold
+<definition>
+The minimum level of proof that an applicant must demonstrate to be able to secure an interlocutory injunction. An accessibility threshold determines the level of proof that a court requires of an applicant that a legal right exists and the minimum level of proof that the claimed right has been factually infringed.
+<source>
+<url>
+https://www.irwinlaw.com/titles/law-equitable-remedies-2e
+<name>
+The Law of Equitable Remedies 2/e - Jeffrey Berryman
+<END>
+<term>
+Accession
+<related_terms>
+Party, Treaty
+<definition>
+The process by which a state that has not participated in the negotiation of the text of a treaty nevertheless expresses its consent to be bound by and become a party to that treaty.
+<source>
+<url>
+https://www.irwinlaw.com/titles/public-international-law-2e
+<name>
+Public International Law 2/e - John H. Currie
+<categories>
+International Law
+<END>
+<term>
+Accessory building
+<definition>
+Detached subordinate building not used for human habitation and located on the same lot as the main building or use to which it is subordinate.
+<source>
+<url>
+https://www.irwinlaw.com/titles/land-use-planning
+<name>
+Land-Use Planning - Howard Epstein
+<categories>
+Housing & Urban DevelopmentLand UseProperty Law
+<END>
+<term>
+Accessory use
+<related_terms>
+Accessory building
+<definition>
+Use of land naturally or customarily incidental to the principal use; not the same use as the principal use, since that would just extend it into the accessory building; see Sechelt (District) v Cutlan, 2008 BCCA 368.
+<source>
+<url>
+https://www.irwinlaw.com/titles/land-use-planning
+<name>
+Land-Use Planning - Howard Epstein
+<categories>
+Housing & Urban DevelopmentLand UseProperty Law
+<END>
+<term>
+Accident
+<related_terms>
+Market deterrence
+<definition>
+An unexpected or untoward event that causes injury to another, or conduct that no reasonable person would foresee as creating a risk of injury to others.
+<source>
+<url>
+https://www.irwinlaw.com/titles/law-torts-5e
+<name>
+The Law of Torts, 5/e - Philip H. Osborne
+<categories>
+Torts
+<END>
+<term>
+Account of profits
+<related_terms>
+Infringement
+<definition>
+A discretionary remedy that requires an infringer to detail the net profits made from an infringement and to pay the sum over to the claimant.
+<source>
+<url>
+https://www.irwinlaw.com/titles/copyright-law
+<name>
+Copyright Law - David Vaver Foreword by Beverley McLachlin
+<categories>
+Intellectual Property
+<END>
+<term>
+Accountability
+<definition>
+The principle of intervention and sentencing that considers the responsibility of offenders for their acts and calls for a response that is proportional to the offence. Section 3(1)(b) of the YCJA declares that youths should be held accountable, but generally not to the same extent as adults.
+<source>
+<url>
+https://www.irwinlaw.com/titles/youth-criminal-justice-law-3e
+<name>
+Youth Criminal Justice Law, 3/e - Nicholas Bala and Sanjeev Anand
+<categories>
+Criminal Law
+<END>
+<term>
+Accreditation
+<definition>
+The process by which a laboratory demonstrates adherence to standards.
+<source>
+<url>
+https://www.irwinlaw.com/titles/lawyer%E2%80%99s-guide-forensic-sciences
+<name>
+The Lawyer’s Guide to the Forensic Sciences -  Edited by Caitlin Pakosh
+<categories>
+Medical Law & LegislationScience & Technology
+<END>
+<term>
+Accretion
+<definition>
+A natural process, such as the extension of a river delta, by which the land territory of a state is gradually enlarged.
+<source>
+<url>
+https://www.irwinlaw.com/titles/public-international-law-2e
+<name>
+Public International Law 2/e - John H. Currie
+<categories>
+International Law
+<END>
+<term>
+Accused
+<related_terms>
+Defendant, Mentally disordered accused
+<definition>
+A person who is charged with a criminal offence; the defendant in a criminal action.
+<source>
+<url>
+https://www.irwinlaw.com/titles/mental-health-courts
+<name>
+Mental Health Courts - Richard D. Schneider, Hy Bloom and Mark Heerema
+<categories>
+Criminal Law
+<END>
+<term>
+Acquiescence
+<definition>
+Tacit or implied acceptance or recognition of another state’s claim or right, often in relation to territory.
+<source>
+<url>
+https://www.irwinlaw.com/titles/public-international-law-2e
+<name>
+Public International Law 2/e - John H. Currie
+<categories>
+International Law
+<END>
+<term>
+Acquired rights
+<related_terms>
+Non-conforming use
+<END>
+<term>
+Acquittal
+<definition>
+A finding of not guilty in a criminal case.
+<source>
+<url>
+https://www.irwinlaw.com/titles/trauma-trials-and-transformation
+<name>
+Trauma, Trials, and Transformation - Judith Daylen, Wendy van Tongeren Harvey and Dennis O’Toole Foreword by Claire L’Heureux-Dubé
+<categories>
+Criminal Law
+<END>
+<term>
+Act
+<related_terms>
+Primary legal resources, Proclamation, Royal assent
+<definition>
+A law passed by Parliament or a provincial legislature (also called a statute).
+<source>
+<url>
+https://www.irwinlaw.com/titles/trauma-trials-and-transformation
+<name>
+Trauma, Trials, and Transformation - Judith Daylen, Wendy van Tongeren Harvey and Dennis O’Toole Foreword by Claire L’Heureux-Dubé
+<definition>
+A written law debated and voted upon by elected officials. Statutes can be amended or repealed, so it is critical to ensure that one is consulting an up-to-date version of the statute.
+<source>
+<url>
+https://www.irwinlaw.com/titles/legal-research-and-writing-4e
+<name>
+Legal Research and Writing, 4/e - Ted Tjaden
+<definition>
+A bill that has been approved or “read” three times by the Parliament or legislature and signed into law by the queen’s representative (the governor general or lieutenant governor). Also known as a statute.
+<source>
+<url>
+https://www.irwinlaw.com/titles/constitutional-law-5e
+<name>
+Constitutional Law, 5/e - Patrick Monahan, Byron Shaw and Padraic Ryan
+<definition>
+Law passed by the Parliament of Canada or one of the provinces.
+<source>
+<url>
+https://www.irwinlaw.com/titles/employment-and-labour-law-toolbox
+<name>
+Employment and Labour Law Toolbox - Paul Wearing
+<categories>
+Constitutional LawLabour and Employment LawLegal Research and WritingPolitical Science
+<END>
+<term>
+Act of God
+<definition>
+An extraordinary natural phenomenon that is beyond the foresight of a reasonable person and could not therefore be guarded against.
+<source>
+<url>
+https://www.irwinlaw.com/titles/law-torts-5e
+<name>
+The Law of Torts, 5/e - Philip H. Osborne
+<categories>
+Torts
+<END>
+<term>
+Actio per quod consortium amisit
+<related_terms>
+Tortfeasor
+<definition>
+A Latin expression for a common law action originally available only to a husband (now extended to wives) for the loss of personal and domestic services arising from an injury caused by the tortfeasor to a spouse.
+<source>
+<url>
+https://www.irwinlaw.com/titles/law-torts-5e
+<name>
+The Law of Torts, 5/e - Philip H. Osborne
+<categories>
+Torts
+<END>
+<term>
+Actio per quod servitium amisit
+<related_terms>
+Tortfeasor
+<definition>
+A Latin expression for a common law action brought by an employer for the loss of services of an employee injured by a tortfeasor.
+<source>
+<url>
+https://www.irwinlaw.com/titles/law-torts-5e
+<name>
+The Law of Torts, 5/e - Philip H. Osborne
+<categories>
+Torts
+<END>
+<term>
+Action
+<related_terms>
+Action on the case, Cause of action, Class action, Counterclaim, Prerogative power
+<definition>
+The form of proceeding leading to a trial. It is used most commonly in administrative law for making a damages claim against a statutory or prerogative authority or in matters where there are complex issues of fact, the determination of which would be facilitated by trial-type processes.
+<source>
+<url>
+https://www.irwinlaw.com/titles/administrative-law
+<name>
+Administrative Law - David Mullan
+<definition>
+A judicial proceeding in either civil or criminal law.
+<source>
+<url>
+https://www.irwinlaw.com/titles/trauma-trials-and-transformation
+<name>
+Trauma, Trials, and Transformation - Judith Daylen, Wendy van Tongeren Harvey and Dennis O’Toole Foreword by Claire L’Heureux-Dubé
+<categories>
+Administrative LawCivil LitigationJudges and Courts
+<END>
+<term>
+Action area plan
+<related_terms>
+Community plan
+<END>
+<term>
+Action on the case
+<related_terms>
+Cause of action, Trespass, Writ
+<definition>
+A cause of action originating from the writ of trespass on the case. A feature of the writ was that the circumstances of the case were set out in it. Trespass on the case evolved into a number of nominate and innominate torts that are characterized by the need to prove fault and damage.
+<source>
+<url>
+https://www.irwinlaw.com/titles/law-torts-5e
+<name>
+The Law of Torts, 5/e - Philip H. Osborne
+<categories>
+Torts
+<END>
+<term>
+Actionable per se
+<related_terms>
+Tort, Trespass
+<definition>
+An expression indicating that a tort is complete without proof of damage. It is applicable to the torts of trespass.
+<source>
+<url>
+https://www.irwinlaw.com/titles/law-torts-5e
+<name>
+The Law of Torts, 5/e - Philip H. Osborne
+<categories>
+Torts
+<END>
+<term>
+Actus reus
+<related_terms>
+Accused, Prohibited act
+<definition>
+The prohibited act in a criminal or regulatory offence. Proof of the actus reus may also include the requirement that the prohibited act be voluntarily and consciously committed by the accused.
+<source>
+<url>
+https://www.irwinlaw.com/titles/criminal-law-6e
+<name>
+Criminal Law, 6/e - Kent Roach
+<definition>
+The Latin expression for the criminal act requirement in criminal law. For example, one requirement of murder is causing the death of a human being.
+<source>
+<url>
+https://www.irwinlaw.com/titles/understanding-bail-canada
+<name>
+Understanding Bail in Canada - Gary T Trotter
+<categories>
+Criminal Law
+<END>
+<term>
+Adaptive reuse
+<definition>
+Change in use of an older building, particularly to preserve buildings of heritage significance.
+<source>
+<url>
+https://www.irwinlaw.com/titles/land-use-planning
+<name>
+Land-Use Planning - Howard Epstein
+<categories>
+Housing & Urban DevelopmentLand UseProperty Law
+<END>
+<term>
+Addition
+<definition>
+Structure physically attached, added, or connected to a building.
+<source>
+<url>
+https://www.irwinlaw.com/titles/land-use-planning
+<name>
+Land-Use Planning - Howard Epstein
+<categories>
+Housing & Urban DevelopmentLand UseProperty Law
+<END>
+<term>
+Address of Parliament
+<definition>
+A parliamentary resolution expressing the wish or request of Parliament.
+<source>
+<url>
+https://www.irwinlaw.com/titles/laws-government-2e
+<name>
+The Laws of Government 2/e - Craig Forcese and Aaron Freeman
+<categories>
+Political Science
+<END>
+<term>
+Adjoining
+<related_terms>
+Abutting
+<END>
+<term>
+Adjournment
+<related_terms>
+Remand (adjournment)
+<definition>
+The postponement of a hearing or court sitting, usually because the scheduled proceedings were not completed or ready to commence.
+<source>
+<url>
+https://www.irwinlaw.com/titles/mental-health-courts
+<name>
+Mental Health Courts - Richard D. Schneider, Hy Bloom and Mark Heerema
+<definition>
+A temporary postponement of court proceedings.
+<source>
+<url>
+https://www.irwinlaw.com/titles/trauma-trials-and-transformation
+<name>
+Trauma, Trials, and Transformation - Judith Daylen, Wendy van Tongeren Harvey and Dennis O’Toole Foreword by Claire L’Heureux-Dubé
+<categories>
+Civil LitigationCriminal Law
+<END>
+<term>
+Adjudicative facts
+<related_terms>
+Legislative facts
+<definition>
+Facts relating to the immediate dispute between the parties, “who, what, where and how” (as distinguished from “legislative facts”).
+<source>
+<url>
+https://www.irwinlaw.com/titles/charter-rights-and-freedoms-6e
+<name>
+The Charter of Rights and Freedoms 6/e - Robert J. Sharpe and Kent Roach
+<categories>
+Constitutional Law
+<END>
+<term>
+Administrative (non-constitutional) judicial review
+<related_terms>
+Constitutional judicial review
+<definition>
+A legal proceeding in which a decision or action of a public body is challenged on the basis that the decision or action exceeded the body’s legal powers.
+<source>
+<url>
+https://www.irwinlaw.com/titles/constitutional-law-5e
+<name>
+Constitutional Law, 5/e - Patrick Monahan, Byron Shaw and Padraic Ryan
+<categories>
+Administrative Law
+<END>
+<term>
+Administrative tribunal
+<related_terms>
+Workplace administrative tribunal
+<END>
+<term>
+Adoption
+<related_terms>
+Treaty
+<definition>
+The process by which the text of a treaty is agreed to or finalized by negotiating states.
+<source>
+<url>
+https://www.irwinlaw.com/titles/public-international-law-2e
+<name>
+Public International Law 2/e - John H. Currie
+<categories>
+International Law
+<END>
+<term>
+Adoptionist
+<related_terms>
+Common law, Customary international law, Incorporationist
+<definition>
+An approach to the domestic reception of international law that presumes that international law (in particular, customary international law) is part of domestic law (in particular, the common law).
+<source>
+<url>
+https://www.irwinlaw.com/titles/public-international-law-2e
+<name>
+Public International Law 2/e - John H. Currie
+<categories>
+International Law
+<END>
+<term>
+Adult
+<related_terms>
+Adult detention, Adult sentence, Child
+<definition>
+A person eighteen years of age or older. In the criminal justice system, age is generally established as of the date of the alleged offence.
+<source>
+<url>
+https://www.irwinlaw.com/titles/youth-criminal-justice-law-3e
+<name>
+Youth Criminal Justice Law, 3/e - Nicholas Bala and Sanjeev Anand
+<categories>
+Criminal Law
+<END>
+<term>
+Adult detention
+<related_terms>
+Adult, Adult sentence, Detention, Investigative detention, Psychological detention
+<definition>
+The temporary care of adults in physically restricted facilities usually referred to as jails, detention centres, or lockups, pending court disposition or transfer to another jurisdiction or agency.
+<source>
+<url>
+https://www.irwinlaw.com/titles/mental-health-courts
+<name>
+Mental Health Courts - Richard D. Schneider, Hy Bloom and Mark Heerema
+<categories>
+Criminal Law
+<END>
+<term>
+Adult entertainment
+<definition>
+Goods, entertainment, or services designed to appeal to erotic or sexual appetites.
+<source>
+<url>
+https://www.irwinlaw.com/titles/land-use-planning
+<name>
+Land-Use Planning - Howard Epstein
+<categories>
+Housing & Urban DevelopmentProperty Law
+<END>
+<term>
+Adult sentence
+<related_terms>
+Adult, Jury, Youth justice court
+<definition>
+A youth fourteen years or older may have an adult sentence imposed; this is generally only considered if the offence is one of the most serious offences. If the Crown wishes to have the youth justice court impose an adult sentence, the youth must receive notice before trial and will have the right to a jury trial. An adult sentence can be imposed only after a youth justice court determines under section 72 of the YCJA that a youth sentence would “not be of sufficient length to hold the young person accountable for his or her offending behaviour.” If the youth justice court determines that an adult-length sentence is appropriate, the youth cannot be placed in an adult facility until reaching the age of eighteen years, and there is a discretion in the court to delay transfer to an adult facility through early adulthood.
+<source>
+<url>
+https://www.irwinlaw.com/titles/youth-criminal-justice-law-1e
+<name>
+Youth Criminal Justice Law 1/e - Nicholas Bala Foreword by Heino Lilles
+<categories>
+Criminal Law
+<END>
+<term>
+Adversarial
+<related_terms>
+Crown prosecutor
+<definition>
+A system of justice premised on each party having an obligation to present evidence and argument to support its position, though there are special obligations of fairness for the Crown prosecutor. A hallmark of Canada’s adversarial system is that the judge, a neutral figure, remains relatively passive during a trial. In the inquisitorial model of justice used in some European countries, judges play a more active role in investigating the alleged offence and questioning witnesses.
+<source>
+<url>
+https://www.irwinlaw.com/titles/youth-criminal-justice-law-3e
+<name>
+Youth Criminal Justice Law, 3/e - Nicholas Bala and Sanjeev Anand
+<categories>
+Civil LitigationCriminal LawJudges and CourtsLegal Profession
+<END>
+<term>
+Adverse environmental effect
+<definition>
+Any significant adverse effect on the components of the natural environment that may reasonably be anticipated.
+<source>
+<url>
+https://www.irwinlaw.com/titles/land-use-planning
+<name>
+Land-Use Planning - Howard Epstein
+<categories>
+Housing & Urban DevelopmentLand UseProperty LawScience & Technology
+<END>
+<term>
+Aesthetics
+<definition>
+Having to do with beauty or taste; aesthetics has been recognized as a legitimate municipal concern.
+<source>
+<url>
+https://www.irwinlaw.com/titles/land-use-planning
+<name>
+Land-Use Planning - Howard Epstein
+<categories>
+Housing & Urban DevelopmentProperty Law
+<END>
+<term>
+Affected local government
+<definition>
+Local government subject to a provincially mandated regional growth strategy.
+<source>
+<url>
+https://www.irwinlaw.com/titles/land-use-planning
+<name>
+Land-Use Planning - Howard Epstein
+<categories>
+Housing & Urban DevelopmentProperty Law
+<END>
+<term>
+Affidavit
+<related_terms>
+Declaration, Deponent
+<definition>
+A sworn, written declaration that a certain set of facts is true.
+<source>
+<url>
+https://www.irwinlaw.com/titles/trauma-trials-and-transformation
+<name>
+Trauma, Trials, and Transformation - Judith Daylen, Wendy van Tongeren Harvey and Dennis O’Toole Foreword by Claire L’Heureux-Dubé
+<categories>
+EvidenceCivil Litigation
+<END>
+<term>
+Affidavit of documents
+<related_terms>
+Examination for discovery
+<definition>
+Disclosure of all documents relevant to any matter at issue in a lawsuit that are or have been in the party’s possession, control, or power.
+<source>
+<url>
+https://www.irwinlaw.com/titles/employment-and-labour-law-toolbox
+<name>
+Employment and Labour Law Toolbox - Paul Wearing
+<categories>
+Labour and Employment Law
+<END>
+<term>
+Affiliated corporations
+<related_terms>
+Amalgamation, Controlled foreign affiliate, Director, Parent
