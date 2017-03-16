@@ -77,17 +77,6 @@
 		"tags": ["Criminal Law"],
 		"END": "end"
 		}
-		{
-		"term": "END",
-		"definition": "END",
-		"source":
-			{
-			"url": "https://www.irwinlaw.com/titles/understanding-bail-canada",
-			"name": "END"
-			},
-		"tags": ["Criminal Law"],
-		"END": "end"
-		}
 
 
 	],
