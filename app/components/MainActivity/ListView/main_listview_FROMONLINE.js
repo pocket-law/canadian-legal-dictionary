@@ -8,7 +8,7 @@ const jsonString = '';
 
 const jsonObj = null;
 
-const mDictJson = require('./json/dict.json');
+
 
 export default class MainListView extends Component{
     constructor(){
@@ -67,45 +67,39 @@ export default class MainListView extends Component{
                 console.log("Results#: " + resultsArray.length);
                 this.state.termDataSource = this.state.termDataSource.cloneWithRows(resultsArray);
             } else {
+                this.state.termDataSource = this.state.termDataSource;
                 alert("No Results!")
             }
         } else {
             // if search term = '', show all terms
-            this.getInternalJson();
+            this.fetchTerms();
         }
     }
 
     componentDidMount(){
-        this.getInternalJson();
+        this.fetchTerms();
     }
 
-    getInternalJson(){
-        this.setState({
-            //termDataSource: this.state.termDataSource.cloneWithRows(response.terms)
-            termDataSource: this.state.termDataSource.cloneWithRows(mDictJson.terms)
-        });
-
-        jsonString = JSON.stringify(mDictJson);
-
+    fetchTerms(){
+        fetch('https://raw.githubusercontent.com/pocket-law/canadian-legal-dictionary/master/app/components/MainActivity/ListView/json/dict.json')
+            .then((response) => response.json())
+            .then((response) => {
+                this.setState({
+                    termDataSource: this.state.termDataSource.cloneWithRows(response.terms)
+                });
+                jsonString = JSON.stringify(response);
+            });
     }
 
     renderRow(term, sectionId, rowId, highlightRow){
-        sourceVar = ""
-        sourceName = ""
-        try {
-            sourceName = term.source.name
-            sourceVar = "Source:"
-        } catch (error) {
-            console.log(term.term + " - ERROR")
-        }
             return(
                 <View style={styles.row}>
-                    <View style={styles.rowContent}>
+                    <View>
                         <Text style={styles.termText}>{term.term}</Text>
                         <Text style={styles.rowText}>{term.definition}</Text>
                         <View style={styles.sourceView}>
-                            <Text style={styles.rowTextSource}>{sourceVar}</Text>
-                            <Text style={styles.sourceName}>{sourceName}</Text>
+                            <Text style={styles.rowTextSource}>Source:</Text>
+                        <Text style={styles.sourceLink}>{term.source.name}</Text>
                         </View>
 
                     </View>
@@ -134,14 +128,9 @@ const styles = StyleSheet.create({
     row: {
         flexDirection: 'row',
         justifyContent: 'center',
+        padding: 10,
         backgroundColor: '#f4f4f4',
         marginBottom: 3
-    },
-
-    rowContent: {
-        flex: 1,
-        flexDirection: 'column',
-        padding: 10
     },
 
     termText: {
@@ -157,20 +146,20 @@ const styles = StyleSheet.create({
     },
 
     sourceView: {
-        flexDirection:'column',
+        flexDirection:'row',
         justifyContent:'flex-end'
     },
 
     rowTextSource: {
         flexDirection:'row',
-        flex: 1,
+        flex: 2,
         fontWeight:'bold',
         textAlign: 'right',
         fontSize: 10
     },
 
-    sourceName: {
-        flex: 2,
+    sourceLink: {
+        flex: 1,
         fontStyle: 'italic',
         fontWeight:'bold',
         color: '#2F8DFF',

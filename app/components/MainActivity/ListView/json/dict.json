@@ -198,6 +198,7 @@
 		"tags": ["Torts"],
 		"END": "end"
 		},
+
 		{
 		"term": "Account of profits",
 		"related_terms": ["Infringement"],
@@ -7316,7 +7317,6 @@
 		{
 		"term": "Floating zone",
 		"related_terms": ["Paper zoning"],
-			},
 		"tags": ["Filed in:", " Housing & Urban Development", " Land Use"],
 		"END": "end"
 		},
@@ -8248,7 +8248,6 @@
 		{
 		"term": "GST",
 		"related_terms": ["Goods and Services Tax (GST)"],
-			},
 		"tags": ["Filed in:", " Taxation"],
 		"END": "end"
 		},
@@ -17660,14 +17659,7 @@
 		},
 		{
 		"term": "Workplace administrative tribunal",
-		"definition": "Tribunals are not courts. Workplace administrative tribunals are specialized dispute adjudication forums created by the provincial government to decide blame and liability for the violation of certain provincial laws dealing with employment issues or the violation of a collective agreement’s terms.\n
-		Unlike the judges in courts, tribunal appointees are not necessarily trained lawyers, and tribunals are not “courts of record,” meaning that there are no transcripts of proceedings unless one of the parties before the tribunal chooses to engage a shorthand reporter, which can be done only with the tribunal’s permission. The decisions of Ontario workplace administrative tribunals can be overturned (appealed) only by making application for judicial review to the Divisional Court.\n
-		The following are the primary private sector workplace administrative tribunals in Ontario:\n
-		Human Rights Tribunal of Ontario (HRTO)\n
-		Ontario Labour Relations Board (OLRB)\n
-		Pay Equity Hearings Tribunal\n
-		Workplace Safety and Insurance Appeals Tribunal\n
-		An arbitrator appointed under the provisions of a collective agreement is also a workplace administrative tribunal. In addition to the above list, there are specialized workplace administrative tribunals that deal with specific public sector employment issues, for example, the Grievance Settlement Board for Ontario, which adjudicates the grievances of Crown employees in the Ontario public service.",
+		"definition": "Tribunals are not courts. Workplace administrative tribunals are specialized dispute adjudication forums created by the provincial government to decide blame and liability for the violation of certain provincial laws dealing with employment issues or the violation of a collective agreement’s terms.\n Unlike the judges in courts, tribunal appointees are not necessarily trained lawyers, and tribunals are not “courts of record,” meaning that there are no transcripts of proceedings unless one of the parties before the tribunal chooses to engage a shorthand reporter, which can be done only with the tribunal’s permission. The decisions of Ontario workplace administrative tribunals can be overturned (appealed) only by making application for judicial review to the Divisional Court.\n\nThe following are the primary private sector workplace administrative tribunals in Ontario:\n\n-> Human Rights Tribunal of Ontario (HRTO)\n->Ontario Labour Relations Board (OLRB)\n->Pay Equity Hearings Tribunal\n->Workplace Safety and Insurance Appeals Tribunal\n->An arbitrator appointed under the provisions of a collective agreement is also a workplace administrative tribunal.\n\n In addition to the above list, there are specialized workplace administrative tribunals that deal with specific public sector employment issues, for example, the Grievance Settlement Board for Ontario, which adjudicates the grievances of Crown employees in the Ontario public service.",
 		"source":
 			{
 			"url": "https://www.irwinlaw.com/titles/employment-and-labour-law-toolbox",
