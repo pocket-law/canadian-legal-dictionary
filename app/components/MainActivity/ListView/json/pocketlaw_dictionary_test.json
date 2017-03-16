@@ -1,0 +1,252 @@
+{
+"title": "Canadian Legal Dictionary",
+"version": "1.0 alpha",
+"terms":
+	[
+		{
+		"term": "Abandonment",
+		"definition": "The lapse of a state's sovereignty over territory, causing the territory to become a res nullius.",
+		"source":
+			{
+			"url": "https://www.irwinlaw.com/titles/public-international-law-2e",
+			"name": "Public International Law 2/e - John H. Currie"
+			},
+		"tags": ["Housing & Urban Development", " International Law", " Land Use", " Property Law"],
+		"END": "end"
+		},
+		{
+		"term": "Abatement",
+		"related_terms": ["Nuisance (private)", " Nuisance (public)"],
+		"definition": "A self-help remedy to remove a nuisance from which the abator suffers.",
+		"source":
+			{
+			"url": "https://www.irwinlaw.com/titles/law-torts-5e",
+			"name": "The Law of Torts, 5/e - Philip H. Osborne"
+			},
+		"tags": ["Remedies", " Torts"],
+		"END": "end"
+		},
+		{
+		"term": "Aboriginal peoples",
+		"definition": "The original inhabitants of North America prior to the arrival of European settlers. Section 35 of the Constitution Act, 1982 defines the “Aboriginal peoples of Canada” as including the Indian, Inuit, and Metis peoples of Canada.",
+		"source":
+			{
+			"url": "https://www.irwinlaw.com/titles/constitutional-law-5e",
+			"name": "Constitutional Law, 5/e - Patrick Monahan, Byron Shaw and Padraic Ryan"
+			},
+		"tags": ["Aboriginal Law", " Constitutional Law"],
+		"END": "end"
+		},
+		{
+		"term": "Abridgment",
+		"definition": "In legal literature, a summary or digest of a court case. Many publishers provide compilations of these summaries or digests organized by topic or theme. A well-known case law digest in Canada is Carswell’s Canadian Abridgment, available in print, on CD-ROM, and on WestlawNext Canada (by subscription), which has summaries of Canadian court decisions, organized by topic. LexisNexis Quicklaw has an online digest service in Canada Digest database.",
+		"source":
+			{
+			"url": "https://www.irwinlaw.com/titles/legal-research-and-writing-4e",
+			"name": "Legal Research and Writing, 4/e - Ted Tjaden"
+			},
+		"tags": ["Legal Research and Writing"],
+		"END": "end"
+		},
+		{
+		"term": "Absconding",
+		"definition": "Fleeing before trial or “skipping bail.”",
+		"source":
+			{
+			"url": "https://www.irwinlaw.com/titles/understanding-bail-canada",
+			"name": "Understanding Bail in Canada - Gary T Trotter"
+			},
+		"tags": ["Criminal Law"],
+		"END": "end"
+		},
+
+
+		{
+		"term": "END",
+		"definition": "END",
+		"source":
+			{
+			"url": "https://www.irwinlaw.com/titles/understanding-bail-canada",
+			"name": "END"
+			},
+		"tags": ["Criminal Law"],
+		"END": "end"
+		},
+
+
+	],
+"categories":
+	[
+		{
+		"name": "Aboriginal Law"
+		},
+		{
+		"name": "Access to Justice"
+		},
+		{
+		"name": "Administrative Law"
+		},
+		{
+		"name": "Agricultural"
+		},
+		{
+		"name": "Alternative Dispute Resolution"
+		},
+		{
+		"name": "Asian Law"
+		},
+		{
+		"name": "Banking"
+		},
+		{
+		"name": "Bankruptcy"
+		},
+		{
+		"name": "Civil Code"
+		},
+		{
+		"name": "Civil Litigation"
+		},
+		{
+		"name": "Communication, Media, and Technology Law"
+		},
+		{
+		"name": "Computer & Internet"
+		},
+		{
+		"name": "Constitutional Law"
+		},
+		{
+		"name": "Contract Law"
+		},
+		{
+		"name": "Corporate and Commercial Law"
+		},
+		{
+		"name": "Criminal Law"
+		},
+		{
+		"name": "Criminology"
+		},
+		{
+		"name": "Economics"
+		},
+		{
+		"name": "Environmental Law"
+		},
+		{
+		"name": "Ethics"
+		},
+		{
+		"name": "Evidence"
+		},
+		{
+		"name": "Family Law"
+		},
+		{
+		"name": "Forensic Science"
+		},
+		{
+		"name": "Health Law"
+		},
+		{
+		"name": "Housing & Urban Development"
+		},
+		{
+		"name": "Human Rights Law"
+		},
+		{
+		"name": "Humour"
+		},
+		{
+		"name": "Immigration Law"
+		},
+		{
+		"name": "Insurance Law"
+		},
+		{
+		"name": "Intellectual Property"
+		},
+		{
+		"name": "International Law"
+		},
+		{
+		"name": "Judges and Courts"
+		},
+		{
+		"name": "Labour and Employment Law"
+		},
+		{
+		"name": "Land Use"
+		},
+		{
+		"name": "Law School & Beyond"
+		},
+		{
+		"name": "Legal History"
+		},
+		{
+		"name": "Legal Profession"
+		},
+		{
+		"name": "Legal Research and Writing"
+		},
+		{
+		"name": "Legal Theory"
+		},
+		{
+		"name": "Maritime Law"
+		},
+		{
+		"name": "Medical Law & Legislation"
+		},
+		{
+		"name": "Mental Health"
+		},
+		{
+		"name": "Natural Resources"
+		},
+		{
+		"name": "Political Science"
+		},
+		{
+		"name": "Privacy Law"
+		},
+		{
+		"name": "Private Investigations"
+		},
+		{
+		"name": "Property Law"
+		},
+		{
+		"name": "Religion and the Law"
+		},
+		{
+		"name": "Remedies"
+		},
+		{
+		"name": "Science & Technology"
+		},
+		{
+		"name": "Secondary School Resources"
+		},
+		{
+		"name": "Social Welfare Law"
+		},
+		{
+		"name": "Taxation"
+		},
+		{
+		"name": "Torts"
+		},
+		{
+		"name": "Transportation Law"
+		},
+		{
+		"name": "Trusts"
+		},
+		{
+		"name": "Women and the Law"
+		}
+	]
+}

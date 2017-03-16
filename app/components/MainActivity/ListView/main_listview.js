@@ -9,6 +9,7 @@ const jsonString = '';
 const jsonObj = null;
 
 
+
 export default class MainListView extends Component{
     constructor(){
         super();
@@ -80,7 +81,7 @@ export default class MainListView extends Component{
     }
 
     fetchTerms(){
-        fetch('https://raw.githubusercontent.com/pocket-law/canadian-legal-dictionary/master/app/components/MainActivity/ListView/json/pocketlaw_dictionary%20-%20Copy.json')
+        fetch('https://raw.githubusercontent.com/pocket-law/canadian-legal-dictionary/master/app/components/MainActivity/ListView/json/pocketlaw_dictionary.json')
             .then((response) => response.json())
             .then((response) => {
                 this.setState({
