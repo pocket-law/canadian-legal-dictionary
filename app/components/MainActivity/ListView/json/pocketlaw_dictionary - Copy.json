@@ -3,17 +3,7 @@
 "version": "1.0 alpha",
 "terms":
 	[
-		{
-			"term": "Abandonment",
-			"definition": "The lapse of a state's sovereignty over territory, causing the territory to become a res nullius.",
-			"source":
-				{
-				"url": "https://www.irwinlaw.com/titles/public-international-law-2e",
-				"name": "Public International Law 2/e - John H. Currie"
-				},
-			"tags": ["Housing & Urban Development", " International Law", " Land Use", " Property Law"],
-			"END": "end"
-		},
+
 		{
 		"term": "Pen Register",
 		"definition": "An electronic surveillance device which attaches to a phone line and which registers every number dialed from a specific telephone.",
