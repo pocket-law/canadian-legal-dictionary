@@ -145,15 +145,16 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/law-equitable-remedies-2e",
 		"name": "The Law of Equitable Remedies 2/e - Jeffrey Berryman"
+		},
 	"END": "end"
 },
 {
-	"term": "Accession"
-	"related_terms": [Party, Treaty"
-	"definition": "The process by which a state that has not participated in the negotiation of the text of a treaty nevertheless expresses its consent to be bound by and become a party to that treaty."
+	"term": "Accession",
+	"related_terms": ["Party", "Treaty"],
+	"definition": "The process by which a state that has not participated in the negotiation of the text of a treaty nevertheless expresses its consent to be bound by and become a party to that treaty.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/public-international-law-2e"
+		"url": "https://www.irwinlaw.com/titles/public-international-law-2e",
 		"name": "Public International Law 2/e - John H. Currie"
 		},
 	"tags": ["International Law"],
@@ -265,6 +266,7 @@
 {
 	"term": "Acquired rights",
 	"related_terms": ["Non-conforming use"],
+
 	"END": "end"
 },
 {
@@ -340,6 +342,7 @@
 {
 	"term": "Action area plan",
 	"related_terms": ["Community plan"],
+
 	"END": "end"
 },
 {
@@ -414,6 +417,7 @@
 {
 	"term": "Adjoining",
 	"related_terms": ["Abutting"],
+
 	"END": "end"
 },
 {
@@ -455,6 +459,7 @@
 {
 	"term": "Administrative tribunal",
 	"related_terms": ["Workplace administrative tribunal"],
+
 	"END": "end"
 },
 {
@@ -884,6 +889,7 @@
 {
 	"term": "Amicus curiae",
 	"related_terms": ["Intervener"],
+
 	"END": "end"
 },
 {
@@ -912,7 +918,6 @@
 {
 	"term": "AMT",
 	"related_terms": ["Alternative minimum tax (AMT)"],
-		},
 	"tags": ["Filed in:", " Taxation"],
 	"END": "end"
 },
@@ -973,7 +978,7 @@
 },
 {
 	"term": "Ankus",
-	"definition": "Also called a "bullhook," a long metal rod with a sharp, pointed tip used to dominate elephants and other wild animals by way of pain and fear.",
+	"definition": "Also called a \"bullhook,\" a long metal rod with a sharp, pointed tip used to dominate elephants and other wild animals by way of pain and fear.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/animals-and-law",
@@ -997,8 +1002,7 @@
 {
 	"term": "Annual meeting",
 	"related_terms": ["Auditor", " Director", " Shareholder", " Special meeting"],
-	"definition": "A meeting of shareholders that must be held at least every fifteen months or six months after the end of the corporation’s financial year. Annual meetings are identified and defined by the happening of three items of business:",
-",
+	"definition": "A meeting of shareholders that must be held at least every fifteen months or six months after the end of the corporation’s financial year. Annual meetings are identified and defined by the happening of three items of business.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/law-partnerships-and-corporations-3e",
@@ -1086,15 +1090,16 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/women-law-and-equality",
 		"name": "Women, Law and Equality -  Edited by Kim Brooks and Carissima Mathen"
+		},
 	"END": "end"
 },
 {
-	"term": "Appellate court"
-	"related_terms": [Appeal, Court of Appeal, Federal Court of Canada"
-	"definition": "The court that hears appeals from judgments of the trial courts. There are provincial appellate courts to hear appeals from the provincial courts and the provincial superior courts, and a Federal Court of Appeal to hear appeals from the Federal Court, Trial Division."
+	"term": "Appellate court",
+	"related_terms": ["Appeal", "Court of Appeal", "Federal Court of Canada"],
+	"definition": "The court that hears appeals from judgments of the trial courts. There are provincial appellate courts to hear appeals from the provincial courts and the provincial superior courts, and a Federal Court of Appeal to hear appeals from the Federal Court, Trial Division.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/charter-rights-and-freedoms-6e"
+		"url": "https://www.irwinlaw.com/titles/charter-rights-and-freedoms-6e",
 		"name": "The Charter of Rights and Freedoms 6/e - Robert J. Sharpe and Kent Roach"
 		},
 	"tags": ["Constitutional Law", " Criminal Law", " Judges and Courts"],
@@ -1299,6 +1304,7 @@
 {
 	"term": "Articles of Association",
 	"related_terms": ["Memorandum and articles of association"],
+
 	"END": "end"
 },
 {
@@ -1339,19 +1345,16 @@
 {
 	"term": "Asset freezing order",
 	"related_terms": ["Freezing order", " Mareva injunction"],
+
 	"END": "end"
 },
 {
 	"term": "Assignment",
-	"definition": "The voluntary transfer of ownership of a right. The person transferring is the assignor, who transfers (assigns) to an assignee. Called "cession" in Quebec.",
+	"definition": "The voluntary transfer of ownership of a right. The person transferring is the assignor, who transfers (assigns) to an assignee. Called \"cession\" in Quebec.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property"],
 	"END": "end"
@@ -1359,6 +1362,7 @@
 {
 	"term": "Assignor estoppel",
 	"related_terms": ["Estoppel"],
+
 	"END": "end"
 },
 {
@@ -1595,6 +1599,7 @@
 {
 	"term": "Bail de novo",
 	"related_terms": ["Bail review"],
+
 	"END": "end"
 },
 {
@@ -1762,15 +1767,18 @@
 {
 	"term": "Bench warrant with discretion",
 	"related_terms": ["Bench warrant"],
+
 	"END": "end"
 },
 {
 	"term": "Berne",
 	"related_terms": ["Berne Convention "],
+
 	"END": "end"
 },
 {
 	"term": "Welcome to Irwin Law’s Canadian Online Legal Dictionary",
+
 	"END": "end"
 },
 {
@@ -1817,10 +1825,6 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/legal-research-and-writing-4e",
 		"name": "Legal Research and Writing, 4/e - Ted Tjaden"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/laws-government-2e"
-		"name": "The Laws of Government 2/e - Craig Forcese and Aaron Freeman"
 		},
 	"tags": ["Legal Research and Writing", " Political Science"],
 	"END": "end"
@@ -1832,10 +1836,6 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property"],
 	"END": "end"
@@ -1843,6 +1843,7 @@
 {
 	"term": "Bill of discovery",
 	"related_terms": ["Norwich order"],
+
 	"END": "end"
 },
 {
@@ -1925,6 +1926,7 @@
 },
 {
 	"term": "Welcome to Irwin Law’s Canadian Online Legal Dictionary",
+
 	"END": "end"
 },
 {
@@ -1985,6 +1987,7 @@
 {
 	"term": "Bond",
 	"related_terms": ["Debenture"],
+
 	"END": "end"
 },
 {
@@ -2000,7 +2003,7 @@
 },
 {
 	"term": "Boolean operators",
-	"definition": "Search commands used by Internet search engines and commercial online legal databases to allow the researcher to combine keywords. The typical Boolean operators are AND, OR, and NOT. Some search engines also allow the NEAR command (such as "wiretap NEAR unauthorized") or proximity searches, typically using the "within" command placing the words "within" so many words of each other ("wiretap /3 unauthorized"). Check the "search tips" provided with most search engines to create more precise search strategies.",
+	"definition": "Search commands used by Internet search engines and commercial online legal databases to allow the researcher to combine keywords. The typical Boolean operators are AND, OR, and NOT. Some search engines also allow the NEAR command (such as \"wiretap NEAR unauthorized\") or proximity searches, typically using the \"within\" command placing the words \"within\" so many words of each other (\"wiretap /3 unauthorized\"). Check the \"search tips\" provided with most search engines to create more precise search strategies.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/legal-research-and-writing-4e",
@@ -2012,6 +2015,7 @@
 {
 	"term": "Bootleg",
 	"related_terms": ["Piracy; pirated goods"],
+
 	"END": "end"
 },
 {
@@ -2057,10 +2061,6 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property"],
 	"END": "end"
@@ -2321,10 +2321,6 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Legal Research and Writing"],
 	"END": "end"
@@ -2366,6 +2362,7 @@
 {
 	"term": "Canadian Intellectual Property Office",
 	"related_terms": ["CIPO"],
+
 	"END": "end"
 },
 {
@@ -2393,6 +2390,7 @@
 {
 	"term": "CanLII",
 	"related_terms": ["Canadian Legal Information Institute (CanLII)"],
+
 	"END": "end"
 },
 {
@@ -2467,7 +2465,7 @@
 },
 {
 	"term": "Case comment",
-	"definition": "Structured "critiques" or comments on recent cases of significance.",
+	"definition": "Structured \"critiques\" or comments on recent cases of significance.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/legal-research-and-writing-4e",
@@ -2490,6 +2488,7 @@
 {
 	"term": "Case name",
 	"related_terms": ["Style of cause"],
+
 	"END": "end"
 },
 {
@@ -2506,6 +2505,7 @@
 {
 	"term": "Catchlines",
 	"related_terms": ["Headnote"],
+
 	"END": "end"
 },
 {
@@ -2582,13 +2582,13 @@
 {
 	"term": "CCA",
 	"related_terms": ["Capital cost allowance (CCA)"],
-		},
 	"tags": ["Filed in:", " Taxation"],
 	"END": "end"
 },
 {
 	"term": "Cemetery",
 	"related_terms": ["Graveyard"],
+
 	"END": "end"
 },
 {
@@ -2616,7 +2616,7 @@
 {
 	"term": "Certiorari",
 	"related_terms": ["Prerogative writ", " Quash"],
-	"definition": "One of the foundation prerogative writs by which the record of the proceedings under attack was submitted to the court so that the court "could be made more certain" that the decision was not infected by reviewable error. If the record was tainted, the court then ordered the quashing of it.",
+	"definition": "One of the foundation prerogative writs by which the record of the proceedings under attack was submitted to the court so that the court \"could be made more certain\" that the decision was not infected by reviewable error. If the record was tainted, the court then ordered the quashing of it.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/administrative-law",
@@ -2640,6 +2640,7 @@
 {
 	"term": "Cestui que use",
 	"related_terms": ["Use"],
+
 	"END": "end"
 },
 {
@@ -2840,6 +2841,7 @@
 {
 	"term": "CIF",
 	"related_terms": ["Coming into force"],
+
 	"END": "end"
 },
 {
@@ -2867,11 +2869,13 @@
 {
 	"term": "CISG",
 	"related_terms": ["United Nations Convention on Contracts for the International Sale of Goods"],
+
 	"END": "end"
 },
 {
 	"term": "Citation",
 	"related_terms": ["Legal citation"],
+
 	"END": "end"
 },
 {
@@ -2911,6 +2915,7 @@
 {
 	"term": "Civil search warrant",
 	"related_terms": ["Anton Piller order"],
+
 	"END": "end"
 },
 {
@@ -2998,7 +3003,6 @@
 {
 	"term": "Clearance",
 	"related_terms": ["Licence"],
-		},
 	"tags": ["Filed in:", " Intellectual Property"],
 	"END": "end"
 },
@@ -3084,6 +3088,7 @@
 {
 	"term": "Collateral",
 	"related_terms": ["Preliminary or collateral"],
+
 	"END": "end"
 },
 {
@@ -3137,6 +3142,7 @@
 {
 	"term": "Colony",
 	"related_terms": ["Colonized people"],
+
 	"END": "end"
 },
 {
@@ -3233,6 +3239,7 @@
 {
 	"term": "Common heritage of mankind",
 	"related_terms": ["Common heritage of humankind"],
+
 	"END": "end"
 },
 {
@@ -3348,14 +3355,15 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/law-equitable-remedies-2e",
 		"name": "The Law of Equitable Remedies 2/e - Jeffrey Berryman"
+		},
 	"END": "end"
 },
 {
-	"term": "Compensatory mortality"
-	"definition": "A term that describes the biological phenomenon that sometimes occurs when humans kill a number of wild or free-living animals with the intent of reducing the population of a particular species, which instead results in the return of the population to the same or even greater numbers."
+	"term": "Compensatory mortality",
+	"definition": "A term that describes the biological phenomenon that sometimes occurs when humans kill a number of wild or free-living animals with the intent of reducing the population of a particular species, which instead results in the return of the population to the same or even greater numbers.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/animals-and-law"
+		"url": "https://www.irwinlaw.com/titles/animals-and-law",
 		"name": "Animals and the Law - Lesli Bisgould"
 		},
 	"tags": ["Environmental Law", " Ethics"],
@@ -3419,13 +3427,13 @@
 {
 	"term": "Comprehensive plan",
 	"related_terms": ["Official Plan"],
-		},
 	"tags": ["Filed in:", " Housing & Urban Development", " Land Use"],
 	"END": "end"
 },
 {
 	"term": "Computer forensics",
 	"related_terms": ["Digital forensics"],
+
 	"END": "end"
 },
 {
@@ -3575,15 +3583,12 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/public-international-law-2e",
 		"name": "Public International Law 2/e - John H. Currie"
-	"END": "end"
-},		},
-	"tags": ["International Law"],
+	},
 	"END": "end"
 },
 {
 	"term": "Consent",
 	"related_terms": ["Licence"],
-		},
 	"tags": ["Filed in:", " Intellectual Property"],
 	"END": "end"
 },
@@ -3695,7 +3700,7 @@
 {
 	"term": "Constitution/Constitutional Law",
 	"related_terms": ["Constitutional law", " Constitution of Canada"],
-	"definition": "The highest or "supreme" law in any legal system, which sets out the framework under which all other laws can be made. Constitutions may be written (as in the United States) or unwritten (as in the United Kingdom). Canada's Constitution has both written and unwritten elements. The written elements that have been of most interest to the women's movement are found in the Charter of Rights and Freedoms, which was added to the Constitution of Canada in 1982. If a law is found to be inconsistent with the Constitution of Canada, it no longer has "force and effect," meaning that it cannot apply to anyone.",
+	"definition": "The highest or \"supreme\" law in any legal system, which sets out the framework under which all other laws can be made. Constitutions may be written (as in the United States) or unwritten (as in the United Kingdom). Canada's Constitution has both written and unwritten elements. The written elements that have been of most interest to the women's movement are found in the Charter of Rights and Freedoms, which was added to the Constitution of Canada in 1982. If a law is found to be inconsistent with the Constitution of Canada, it no longer has \"force and effect,\" meaning that it cannot apply to anyone.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/women-law-and-equality",
@@ -3757,18 +3762,15 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/constitutional-law-5e",
 		"name": "Constitutional Law, 5/e - Patrick Monahan, Byron Shaw and Padraic Ryan"
+	},
 	"END": "end"
 },
 {
-	"term": "Welcome to Irwin Law’s Canadian Online Legal Dictionary"
-	"END": "end"
-},
-{
-	"term": "Construct"
-	"definition": "To do anything in the erection, installation, extension, or material alteration or repair of a building and includes the installation of a building unit fabricated or moved from elsewhere: Ontario Building Code Act, 1992, SO 1992, c 23, s 1(1)); might not extend to alteration of the configuration of land: see Vancouver (City) v Reid, 2006 BCCA 251"
+	"term": "Construct",
+	"definition": "To do anything in the erection, installation, extension, or material alteration or repair of a building and includes the installation of a building unit fabricated or moved from elsewhere: Ontario Building Code Act, 1992, SO 1992, c 23, s 1(1)); might not extend to alteration of the configuration of land: see Vancouver (City) v Reid, 2006 BCCA 251",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/land-use-planning"
+		"url": "https://www.irwinlaw.com/titles/land-use-planning",
 		"name": "Land-Use Planning - Howard Epstein"
 		},
 	"tags": ["Housing & Urban Development"],
@@ -3916,6 +3918,7 @@
 {
 	"term": "Contiguous",
 	"related_terms": ["Abutting"],
+
 	"END": "end"
 },
 {
@@ -3984,18 +3987,18 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/law-equitable-remedies-2e",
 		"name": "The Law of Equitable Remedies 2/e - Jeffrey Berryman"
+	},
 	"END": "end"
 },
 {
-	"term": "Contract zoning"
-	"related_terms": [Development agreement"
-		},
+	"term": "Contract zoning",
+	"related_terms": ["Development agreement"],
 	"tags": ["Filed in:", " Housing & Urban Development", " Land Use"],
 	"END": "end"
 },
 {
 	"term": "Contracting party",
-	"definition": "The expression used in GATT 1947 and GATT 1994 to designate a "member" or a "member country."",
+	"definition": "The expression used in GATT 1947 and GATT 1994 to designate a \"member\" or a \"member country.\"",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/international-trade-law",
@@ -4053,6 +4056,7 @@
 {
 	"term": "Convention",
 	"related_terms": ["Treaty"],
+
 	"END": "end"
 },
 {
@@ -4121,10 +4125,6 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property"],
 	"END": "end"
@@ -4136,10 +4136,6 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property"],
 	"END": "end"
@@ -4262,6 +4258,7 @@
 {
 	"term": "Court mental health worker",
 	"related_terms": ["Mental health court support worker"],
+
 	"END": "end"
 },
 {
@@ -4314,11 +4311,13 @@
 {
 	"term": "Coverage",
 	"related_terms": ["Footprint"],
+
 	"END": "end"
 },
 {
 	"term": "CPIC",
 	"related_terms": ["Canadian Police Information Centre (CPIC)"],
+
 	"END": "end"
 },
 {
@@ -4475,6 +4474,7 @@
 {
 	"term": "Crown election",
 	"related_terms": ["Election by the Crown"],
+
 	"END": "end"
 },
 {
@@ -4627,6 +4627,7 @@
 {
 	"term": "Custody and supervision",
 	"related_terms": ["Custody"],
+
 	"END": "end"
 },
 {
@@ -4726,10 +4727,6 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Civil Litigation", " Torts"],
 	"END": "end"
@@ -4861,10 +4858,12 @@
 {
 	"term": "Deep underground dump",
 	"related_terms": ["Deep geological repository"],
+
 	"END": "end"
 },
 {
 	"term": "Deep web",
+
 	"END": "end"
 },
 {
@@ -4898,15 +4897,16 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/criminal-law-6e",
 		"name": "Criminal Law, 6/e - Kent Roach"
+	},
 	"END": "end"
 },
 {
-	"term": "Defendant"
-	"related_terms": [Accused, Jurisdiction, Plaintiff, R., Style of cause"
-	"definition": "The person who is sued in a civil action or charged with a criminal offence."
+	"term": "Defendant",
+	"related_terms": ["Accused", "Jurisdiction", "Plaintiff", "R.", "Style of cause"],
+	"definition": "The person who is sued in a civil action or charged with a criminal offence.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/trauma-trials-and-transformation"
+		"url": "https://www.irwinlaw.com/titles/trauma-trials-and-transformation",
 		"name": "Trauma, Trials, and Transformation - Judith Daylen, Wendy van Tongeren Harvey and Dennis O’Toole Foreword by Claire L’Heureux-Dubé"
 		},
 	"tags": ["Civil Litigation", " Criminal Law"],
@@ -4915,7 +4915,6 @@
 {
 	"term": "Defensive architecture",
 	"definition": "Design of buildings or associated features so as to discourage undesirable activity such as sleeping, sitting, skateboarding, climbing, graffiti, public urination; benches with separations are an example.",
-		},
 	"tags": ["Housing & Urban Development"],
 	"END": "end"
 },
@@ -4981,11 +4980,13 @@
 {
 	"term": "Delayed declaration of invalidity",
 	"related_terms": ["Suspended declaration of invalidity"],
+
 	"END": "end"
 },
 {
 	"term": "Delegated legislation",
 	"related_terms": ["Regulation"],
+
 	"END": "end"
 },
 {
@@ -5036,6 +5037,7 @@
 {
 	"term": "Density bonus",
 	"related_terms": ["Bonus"],
+
 	"END": "end"
 },
 {
@@ -5053,7 +5055,7 @@
 {
 	"term": "Dependent agent",
 	"related_terms": ["Permanent establishment"],
-	"definition": "The term "dependent agent" is a treaty concept which refers to a person who acts on behalf of another person. The concept of dependent agent is important in determining whether a nonresident person has a permanent establishment in a country.",
+	"definition": "The term \"dependent agent\" is a treaty concept which refers to a person who acts on behalf of another person. The concept of dependent agent is important in determining whether a nonresident person has a permanent establishment in a country.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/income-tax-law-2e",
@@ -5100,6 +5102,7 @@
 {
 	"term": "Derisory damages",
 	"related_terms": ["Contemptuous (derisory) damages"],
+
 	"END": "end"
 },
 {
@@ -5220,6 +5223,7 @@
 {
 	"term": "Development plan",
 	"related_terms": ["Official Plan"],
+
 	"END": "end"
 },
 {
@@ -5236,6 +5240,7 @@
 {
 	"term": "Development works agreement",
 	"related_terms": ["Development cost charge"],
+
 	"END": "end"
 },
 {
@@ -5439,7 +5444,7 @@
 {
 	"term": "Disclaimer",
 	"related_terms": ["CIPO", " Trade-mark", " Trade-name"],
-	"definition": "In patent law, the giving up of anything beyond what the inventor truly invented. In trade-mark law: (1) The giving up of any unregistrable parts of a trade-mark — for example, descriptive language on a label — when seeking registration. The mark owner may, however, have common law rights in the disclaimed material, which still forms part of the mark. Disclaimers take effect on being recorded on the respective CIPO register. (2) A notice, such as "my business or trade-mark is not associated with firm X or mark X," that is designed to minimize confusion between two trade-names or trade-marks. A clear and prominent notice that achieves this goal may help to avoid a passing-off or trade-mark infringement action.",
+	"definition": "In patent law, the giving up of anything beyond what the inventor truly invented. In trade-mark law: (1) The giving up of any unregistrable parts of a trade-mark — for example, descriptive language on a label — when seeking registration. The mark owner may, however, have common law rights in the disclaimed material, which still forms part of the mark. Disclaimers take effect on being recorded on the respective CIPO register. (2) A notice, such as \"my business or trade-mark is not associated with firm X or mark X,\" that is designed to minimize confusion between two trade-names or trade-marks. A clear and prominent notice that achieves this goal may help to avoid a passing-off or trade-mark infringement action.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e",
@@ -5463,6 +5468,7 @@
 {
 	"term": "Discovery",
 	"related_terms": ["Examination for discovery"],
+
 	"END": "end"
 },
 {
@@ -5500,6 +5506,7 @@
 },
 {
 	"term": "Disease of the mind",
+
 	"END": "end"
 },
 {
@@ -5657,7 +5664,7 @@
 {
 	"term": "Dividends",
 	"related_terms": ["Rateably"],
-	"definition": ""Dividends" refer to income from shares or other corporate rights (other than debt claims) that participate in profits. In general terms, dividend income must be attributable to the ownership of shares or other units of equity ownership carrying a right to participate in profits.",
+	"definition": "\"Dividends\" refer to income from shares or other corporate rights (other than debt claims) that participate in profits. In general terms, dividend income must be attributable to the ownership of shares or other units of equity ownership carrying a right to participate in profits.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/income-tax-law-2e",
@@ -5716,6 +5723,7 @@
 {
 	"term": "DNA dragnet",
 	"related_terms": ["DNA canvass"],
+
 	"END": "end"
 },
 {
@@ -5757,6 +5765,7 @@
 {
 	"term": "Domestic legal system",
 	"related_terms": ["Domestic law"],
+
 	"END": "end"
 },
 {
@@ -5784,7 +5793,6 @@
 {
 	"term": "Double",
 	"related_terms": ["Duplicitous"],
-		},
 	"tags": ["Filed in:", " Criminal Law"],
 	"END": "end"
 },
@@ -6113,7 +6121,7 @@
 {
 	"term": "Electoral district",
 	"related_terms": ["Electoral district association", " Gerrymandering"],
-	"definition": "A place or territorial area that is represented by a member in the House of Commons; also widely referred to as a "riding."",
+	"definition": "A place or territorial area that is represented by a member in the House of Commons; also widely referred to as a \"riding.\"",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/laws-government-2e",
@@ -6165,10 +6173,6 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property", " Labour and Employment Law"],
 	"END": "end"
@@ -6301,7 +6305,6 @@
 {
 	"term": "Environmental impact assessment",
 	"related_terms": ["Environmental assessment"],
-		},
 	"tags": ["Filed in:", " Environmental Law", " Land Use", " Natural Resources"],
 	"END": "end"
 },
@@ -6341,7 +6344,6 @@
 {
 	"term": "Environmentally sensitive area",
 	"definition": "“Any area in which plant or animal life or their habitats are either rare or especially valuable because of their special nature or role in an ecosystem and which could be easily disturbed or degraded by human activities and developments.”",
-		},
 	"tags": ["Environmental Law", " Housing & Urban Development", " Land Use"],
 	"END": "end"
 },
@@ -6352,23 +6354,25 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e",
 		"name": "Intellectual Property Law 2/e - David Vaver"
+	},
 	"END": "end"
 },
 {
-	"term": "EPO"
-	"definition": "The abbreviation for the European Patent Office, situated in Munich. Established under the EPC, the EPO grants national patents and may also revoke them, on an application made within nine months of grant, for invalidity. Otherwise national courts have jurisdiction over validity and infringement cases"
+	"term": "EPO",
+	"definition": "The abbreviation for the European Patent Office, situated in Munich. Established under the EPC, the EPO grants national patents and may also revoke them, on an application made within nine months of grant, for invalidity. Otherwise national courts have jurisdiction over validity and infringement cases",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
 		"name": "Intellectual Property Law 2/e - David Vaver"
+	},
 	"END": "end"
 },
 {
-	"term": "Equality"
-	"definition": "In Canada, the legal right guaranteed by section 15 of the Charter. Equality is a highly debated concept, but means, at least, that people are entitled to equal treatment from the state in respect of fundamental goods and services. In Canadian law, "equality" is measured against a guarantee of freedom from discrimination, that is, from being singled out for harmful treatment because of personal characteristics such as sex or race. Equality is also described in terms of a formal guarantee of "similar" treatment, say, in being subject to the same laws as everyone else; and as a further guarantee of "substantive equality" that recognizes that "similar treatment" is not always sufficient to ensure equality. Both meanings have been endorsed in Canadian law."
+	"term": "Equality",
+	"definition": "In Canada, the legal right guaranteed by section 15 of the Charter. Equality is a highly debated concept, but means, at least, that people are entitled to equal treatment from the state in respect of fundamental goods and services. In Canadian law, \"equality\" is measured against a guarantee of freedom from discrimination, that is, from being singled out for harmful treatment because of personal characteristics such as sex or race. Equality is also described in terms of a formal guarantee of \"similar\" treatment, say, in being subject to the same laws as everyone else; and as a further guarantee of \"substantive equality\" that recognizes that \"similar treatment\" is not always sufficient to ensure equality. Both meanings have been endorsed in Canadian law.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/women-law-and-equality"
+		"url": "https://www.irwinlaw.com/titles/women-law-and-equality",
 		"name": "Women, Law and Equality -  Edited by Kim Brooks and Carissima Mathen"
 		},
 	"tags": ["Constitutional Law", " Human Rights Law"],
@@ -6377,6 +6381,7 @@
 {
 	"term": "Equitable rights",
 	"related_terms": ["Equity", " Equitable rights"],
+
 	"END": "end"
 },
 {
@@ -6387,10 +6392,6 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Civil Code", " Intellectual Property"],
 	"END": "end"
@@ -6443,15 +6444,11 @@
 },
 {
 	"term": "Estoppel",
-	"definition": "A legal bar, from medieval law French, meaning "stop." For example, assignors are estopped from challenging their assignee's title, and licensees are estopped from challenging their licensor's title: the assignor or licensee sued by the assignee or licensor for infringement cannot defend by (is estopped from) showing that the right is invalid. Hence, the terms "assignor estoppel" and "licensee estoppel." Someone may be estopped without intending or knowing it. Thus, if A leads B to assume that a certain state of affairs exists, and it would be unfair to let A have a change of heart in the light of what has since happened, B's assumption is treated as true: that is, A is estopped from denying its validity.",
+	"definition": "A legal bar, from medieval law French, meaning \"stop.\" For example, assignors are estopped from challenging their assignee's title, and licensees are estopped from challenging their licensor's title: the assignor or licensee sued by the assignee or licensor for infringement cannot defend by (is estopped from) showing that the right is invalid. Hence, the terms \"assignor estoppel\" and \"licensee estoppel.\" Someone may be estopped without intending or knowing it. Thus, if A leads B to assume that a certain state of affairs exists, and it would be unfair to let A have a change of heart in the light of what has since happened, B's assumption is treated as true: that is, A is estopped from denying its validity.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Administrative Law", " Remedies"],
 	"END": "end"
@@ -6507,10 +6504,6 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property"],
 	"END": "end"
@@ -6552,7 +6545,6 @@
 {
 	"term": "European Union",
 	"related_terms": ["EU"],
-		},
 	"tags": ["Filed in:", " Intellectual Property"],
 	"END": "end"
 },
@@ -6563,15 +6555,16 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e",
 		"name": "Intellectual Property Law 2/e - David Vaver"
+	},
 	"END": "end"
 },
 {
-	"term": "Evocation"
-	"related_terms": [Certiorari, Prohibition"
-	"definition": "A remedy provided for in the Quebec Civil Code that combines the former prerogative remedies of certiorari and prohibition."
+	"term": "Evocation",
+	"related_terms": ["Certiorari", "Prohibition"],
+	"definition": "A remedy provided for in the Quebec Civil Code that combines the former prerogative remedies of certiorari and prohibition.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/administrative-law"
+		"url": "https://www.irwinlaw.com/titles/administrative-law",
 		"name": "Administrative Law - David Mullan"
 		},
 	"tags": ["Administrative Law", " Civil Code", " Remedies"],
@@ -6580,7 +6573,7 @@
 {
 	"term": "Ex debito justitiae",
 	"related_terms": ["Judicial review"],
-	"definition": ""As an obligation arising out of the justice of the matter" — an expression often used to describe a situation where judicial review is available automatically and will seldom be denied on any overriding discretionary basis.",
+	"definition": "\"As an obligation arising out of the justice of the matter\" — an expression often used to describe a situation where judicial review is available automatically and will seldom be denied on any overriding discretionary basis.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/administrative-law",
@@ -6592,7 +6585,7 @@
 {
 	"term": "Ex parte",
 	"related_terms": ["Ex parte injunction"],
-	"definition": "A term literally meaning "from one side"; an application is ex parte when it is made to a court or tribunal without notifying or serving anyone else with the proceedings. Because of the proceeding's one-sided nature, applicants owe the decision-maker a high duty of good faith; in practice, this means they should reveal to the decision-maker any objections that might result in a decision adverse to them.",
+	"definition": "A term literally meaning \"from one side\"; an application is ex parte when it is made to a court or tribunal without notifying or serving anyone else with the proceedings. Because of the proceeding's one-sided nature, applicants owe the decision-maker a high duty of good faith; in practice, this means they should reveal to the decision-maker any objections that might result in a decision adverse to them.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
@@ -6756,6 +6749,7 @@
 {
 	"term": "Exemplary damages",
 	"related_terms": ["Punitive damages"],
+
 	"END": "end"
 },
 {
@@ -6881,7 +6875,7 @@
 },
 {
 	"term": "Extirpated",
-	"definition": "A term used in respect of wildlife, referring to a species that no longer occurs in a particular geographic area; as distinct from "extinct" which means that no member of the species can be found anywhere.",
+	"definition": "A term used in respect of wildlife, referring to a species that no longer occurs in a particular geographic area; as distinct from \"extinct\" which means that no member of the species can be found anywhere.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/animals-and-law",
@@ -7109,6 +7103,7 @@
 {
 	"term": "Felony",
 	"related_terms": ["Indictable offence"],
+
 	"END": "end"
 },
 {
@@ -7225,6 +7220,7 @@
 {
 	"term": "Finished grade",
 	"related_terms": ["Finish elevation"],
+
 	"END": "end"
 },
 {
@@ -7538,15 +7534,16 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/law-equitable-remedies-2e",
 		"name": "The Law of Equitable Remedies 2/e - Jeffrey Berryman"
+	},
 	"END": "end"
 },
 {
-	"term": "Fractional share"
-	"related_terms": [Share"
-	"definition": "Less than one whole share. Various events can create fractions of shares issued by a corporation. If a corporation consolidates its shares on some basis, shareholders may end up with less than a whole share. For example, if all common shares of a corporation were consolidated on a ten for one basis, a holder of five shares would end up holding just one-half of a share. Fractional shares can also arise on certain kinds of corporate reorganizations, such as amalgamations, where existing shares of each amalgamating corporation are exchanged for shares of the corporation that results from the amalgamation. Under the CBCA, corporations may purchase fractional shares for cancellation so long as certain financial tests are met (s. 34)."
+	"term": "Fractional share",
+	"related_terms": ["Share"],
+	"definition": "Less than one whole share. Various events can create fractions of shares issued by a corporation. If a corporation consolidates its shares on some basis, shareholders may end up with less than a whole share. For example, if all common shares of a corporation were consolidated on a ten for one basis, a holder of five shares would end up holding just one-half of a share. Fractional shares can also arise on certain kinds of corporate reorganizations, such as amalgamations, where existing shares of each amalgamating corporation are exchanged for shares of the corporation that results from the amalgamation. Under the CBCA, corporations may purchase fractional shares for cancellation so long as certain financial tests are met (s. 34).",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/law-partnerships-and-corporations-3e"
+		"url": "https://www.irwinlaw.com/titles/law-partnerships-and-corporations-3e",
 		"name": "The Law of Partnerships and Corporations 3/e - J. Anthony VanDuzer"
 		},
 	"tags": ["Corporate and Commercial Law"],
@@ -7607,10 +7604,6 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property", " Labour and Employment Law"],
 	"END": "end"
@@ -7622,14 +7615,15 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/law-equitable-remedies-2e",
 		"name": "The Law of Equitable Remedies 2/e - Jeffrey Berryman"
+	},
 	"END": "end"
 },
 {
-	"term": "Front"
-	"definition": "For a building, where the main entrance is located.Dinnick and McCallum (Re) (1913), 28 OLR 52 (CA)"
+	"term": "Front",
+	"definition": "For a building, where the main entrance is located.Dinnick and McCallum (Re) (1913), 28 OLR 52 (CA)",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/land-use-planning"
+		"url": "https://www.irwinlaw.com/titles/land-use-planning",
 		"name": "Land-Use Planning - Howard Epstein"
 		},
 	"tags": ["Housing & Urban Development", " Land Use"],
@@ -7649,6 +7643,7 @@
 {
 	"term": "Frontier incident",
 	"related_terms": ["Mere frontier incident"],
+
 	"END": "end"
 },
 {
@@ -7795,14 +7790,6 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/international-trade-law"
-		"name": "International Trade Law - Jon R. Johnson Foreword by Gordon Ritchie"
 		},
 	"tags": ["Corporate and Commercial Law", " Intellectual Property", " International Law"],
 	"END": "end"
@@ -7846,7 +7833,6 @@
 {
 	"term": "General plan",
 	"related_terms": ["Official Plan"],
-		},
 	"tags": ["Filed in:", " Housing & Urban Development", " Land Use"],
 	"END": "end"
 },
@@ -8180,6 +8166,7 @@
 {
 	"term": "Grey marketing",
 	"related_terms": ["Parallel import"],
+
 	"END": "end"
 },
 {
@@ -8316,18 +8303,17 @@
 {
 	"term": "Habeas corpus",
 	"related_terms": ["Prerogative writ"],
-	"definition": "Another of the historic prerogative writs. A command that was issued by a judge to a person having custody of another person to bring the prisoner before the court ("Let me have the body") so that the court could inquire into the validity of that person's detention.",
+	"definition": "Another of the historic prerogative writs. A command that was issued by a judge to a person having custody of another person to bring the prisoner before the court (\"Let me have the body\") so that the court could inquire into the validity of that person's detention.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/administrative-law-0",
 		"name": "Administrative Law - Michael Head"
-	"END": "end"
-},		},
-	"tags": ["Housing & Urban Development", " Land Use"],
+	},
 	"END": "end"
 },
 {
 	"term": "Welcome to Irwin Law’s Canadian Online Legal Dictionary",
+
 	"END": "end"
 },
 {
@@ -8433,11 +8419,13 @@
 {
 	"term": "Healing circle",
 	"related_terms": ["Circle sentencing"],
+
 	"END": "end"
 },
 {
 	"term": "Health and dental benefits",
 	"related_terms": ["Employer-provided health and dental benefits"],
+
 	"END": "end"
 },
 {
@@ -8625,6 +8613,7 @@
 {
 	"term": "ICT Right",
 	"related_terms": ["Integrated Circuit Topography Right"],
+
 	"END": "end"
 },
 {
@@ -8652,7 +8641,7 @@
 {
 	"term": "Impartial",
 	"related_terms": ["Bias"],
-	"definition": "A synonym for "unbiased," used commonly in association with "independent" as in section ll(h) of the Canadian Charter of Rights and Freedoms and section 2(f) of the Canadian Bill of Rights: "an independent and impartial tribunal."",
+	"definition": "A synonym for \"unbiased,\" used commonly in association with \"independent\" as in section ll(h) of the Canadian Charter of Rights and Freedoms and section 2(f) of the Canadian Bill of Rights: \"an independent and impartial tribunal.\"",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/administrative-law",
@@ -8664,7 +8653,7 @@
 {
 	"term": "Impeach",
 	"related_terms": ["Expunge"],
-	"definition": "A word meaning "invalidate." In patent law, impeachment proceedings are proceedings that seek to have a patent invalidated.  ",
+	"definition": "A word meaning \"invalidate.\" In patent law, impeachment proceedings are proceedings that seek to have a patent invalidated.  ",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e",
@@ -8711,7 +8700,7 @@
 },
 {
 	"term": "Implied bill of rights",
-	"definition": "A possible constitutionally guaranteed source of rights and freedoms arising primarily out of the terms of the preamble to the Constitution Act, 1867 and particularly its reference to a "constitution similar in principle to that of the United Kingdom."",
+	"definition": "A possible constitutionally guaranteed source of rights and freedoms arising primarily out of the terms of the preamble to the Constitution Act, 1867 and particularly its reference to a \"constitution similar in principle to that of the United Kingdom.\"",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/administrative-law",
@@ -8723,6 +8712,7 @@
 {
 	"term": "Implied exclusion rule",
 	"related_terms": ["Expressio unius est exclusio alternius"],
+
 	"END": "end"
 },
 {
@@ -8902,6 +8892,7 @@
 {
 	"term": "Indemnification",
 	"related_terms": ["Indemnity"],
+
 	"END": "end"
 },
 {
@@ -8942,6 +8933,7 @@
 {
 	"term": "Indians",
 	"related_terms": ["Aboriginal peoples"],
+
 	"END": "end"
 },
 {
@@ -9021,10 +9013,6 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property"],
 	"END": "end"
@@ -9032,6 +9020,7 @@
 {
 	"term": "Industrial school",
 	"related_terms": ["Training school"],
+
 	"END": "end"
 },
 {
@@ -9085,15 +9074,11 @@
 {
 	"term": "Infringement",
 	"related_terms": ["Intellectual property", " Piracy; pirated goods", " Theft"],
-	"definition": "Violation or breach of a statutory intellectual property right, allowing the right-holder to recover civil remedies against the infringer. Some infringements are also criminal offences — for example, certain deliberate copyright infringements. "Substantial infringement" denotes the unauthorized taking of something less than or different from the protected subject matter — for example, taking a chapter from a copyright book. What takings are or are not substantial is often controversial.",
+	"definition": "Violation or breach of a statutory intellectual property right, allowing the right-holder to recover civil remedies against the infringer. Some infringements are also criminal offences — for example, certain deliberate copyright infringements. \"Substantial infringement\" denotes the unauthorized taking of something less than or different from the protected subject matter — for example, taking a chapter from a copyright book. What takings are or are not substantial is often controversial.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property"],
 	"END": "end"
@@ -9105,15 +9090,16 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/law-equitable-remedies-2e",
 		"name": "The Law of Equitable Remedies 2/e - Jeffrey Berryman"
+	},
 	"END": "end"
 },
 {
-	"term": "Injunction"
-	"related_terms": [Contempt of court, Ex parte injunction, Interim or interlocutory relief, Mareva injunction, Quia timet relief, Undertaking"
-	"definition": "An equitable remedy deployed in the public law arena to prevent decision-making or the enforcement of decisions or orders in breach of statute."
+	"term": "Injunction",
+	"related_terms": ["Contempt of court", "Ex parte injunction", "Interim or interlocutory relief", "Mareva injunction", "Quia timet relief", "Undertaking"],
+	"definition": "An equitable remedy deployed in the public law arena to prevent decision-making or the enforcement of decisions or orders in breach of statute.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/administrative-law"
+		"url": "https://www.irwinlaw.com/titles/administrative-law",
 		"name": "Administrative Law - David Mullan"
 		},
 	"tags": ["Administrative Law", " Constitutional Law", " Labour and Employment Law", " Remedies", " Torts"],
@@ -9172,10 +9158,6 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property"],
 	"END": "end"
@@ -9183,24 +9165,21 @@
 {
 	"term": "Intellectual property",
 	"related_terms": ["Copyright", " Industrial design", " Misappropriation of personality", " Passing off", " Patent", " Plant Breeders Right", " Priority", " Prosecution", " Right-holder", " Trade-mark", " Trade-name", " Trade secret", " TRIPS Agreement", " WIPO"],
-	"definition": "A term that denotes copyrights, patents, trade-marks, trade-names, industrial designs, plant breeders' rights, and ICT rights, and sometimes rights arising from provincial law relating to, for example, trade secrets, misappropriation of personality, and passing off. Both "intellectual" and "property" may be misnomers.",
+	"definition": "A term that denotes copyrights, patents, trade-marks, trade-names, industrial designs, plant breeders' rights, and ICT rights, and sometimes rights arising from provincial law relating to, for example, trade secrets, misappropriation of personality, and passing off. Both \"intellectual\" and \"property\" may be misnomers.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
+	},
 	"END": "end"
 },
 {
-	"term": "Intensive rehabilitative custody and supervision"
-	"related_terms": [Community supervision, Conditional supervision, Custody, Deferred custody and supervision, Intensive support and supervision, Presumptive offence, Provincial director, Youth justice court"
-	"definition": "A sentence of intensive rehabilitative custody and supervision may be imposed under section 42(2)(r) of the YCJA for a youth found guilty of one of most serious offences, namely murder, attempted murder, manslaughter, aggravated sexual assault, or a third offence involving causing or attempting to cause serious bodily harm, and if the youth is suffering from a mental or emotional disturbance. A youth receiving this sentence is placed in a facility that has more rehabilitative resources than an ordinary custody facility, which may be a mental health facility. A youth justice court may make an order for intensive rehabilitative custody only if a “plan of treatment and intensive community supervision” has been developed and the provincial director consents. The sentence includes a period of conditional supervision in the community, which is subject to stricter legal controls than for a youth released on community supervision following the custodial portion of an ordinary order of custody and supervision."
+	"term": "Intensive rehabilitative custody and supervision",
+	"related_terms": ["Community supervision", "Conditional supervision", "Custody", "Deferred custody and supervision", "Intensive support and supervision", "Presumptive offence", "Provincial director", "Youth justice court"],
+	"definition": "A sentence of intensive rehabilitative custody and supervision may be imposed under section 42(2)(r) of the YCJA for a youth found guilty of one of most serious offences, namely murder, attempted murder, manslaughter, aggravated sexual assault, or a third offence involving causing or attempting to cause serious bodily harm, and if the youth is suffering from a mental or emotional disturbance. A youth receiving this sentence is placed in a facility that has more rehabilitative resources than an ordinary custody facility, which may be a mental health facility. A youth justice court may make an order for intensive rehabilitative custody only if a “plan of treatment and intensive community supervision” has been developed and the provincial director consents. The sentence includes a period of conditional supervision in the community, which is subject to stricter legal controls than for a youth released on community supervision following the custodial portion of an ordinary order of custody and supervision.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/youth-criminal-justice-law-3e"
+		"url": "https://www.irwinlaw.com/titles/youth-criminal-justice-law-3e",
 		"name": "Youth Criminal Justice Law, 3/e - Nicholas Bala and Sanjeev Anand"
 		},
 	"tags": ["Criminal Law", " Health Law"],
@@ -9232,7 +9211,7 @@
 },
 {
 	"term": "Inter alia",
-	"definition": "A Latin phrase meaning "among other things".",
+	"definition": "A Latin phrase meaning \"among other things\".",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/law-torts-5e",
@@ -9243,7 +9222,7 @@
 },
 {
 	"term": "Inter vivos",
-	"definition": "A Latin phrase meaning "from one living person to another".",
+	"definition": "A Latin phrase meaning \"from one living person to another\".",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/law-torts-5e",
@@ -9290,6 +9269,7 @@
 {
 	"term": "Interlocutory relief",
 	"related_terms": ["Interim or interlocutory relief"],
+
 	"END": "end"
 },
 {
@@ -9307,6 +9287,7 @@
 {
 	"term": "Internal affairs",
 	"related_terms": ["Domestic affairs"],
+
 	"END": "end"
 },
 {
@@ -9364,15 +9345,16 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/women-law-and-equality",
 		"name": "Women, Law and Equality -  Edited by Kim Brooks and Carissima Mathen"
+	},
 	"END": "end"
 },
 {
-	"term": "International Law Commission (ILC)"
-	"related_terms": [General Assembly, International Court of Justice, United Nations"
-	"definition": "An international commission of jurists established in 1947 by the United Nations General Assembly with a mandate to undertake “the progressive development of inter­national law and its codification.”"
+	"term": "International Law Commission (ILC)",
+	"related_terms": ["General Assembly", "International Court of Justice", "United Nations"],
+	"definition": "An international commission of jurists established in 1947 by the United Nations General Assembly with a mandate to undertake “the progressive development of inter­national law and its codification.”",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/public-international-law-2e"
+		"url": "https://www.irwinlaw.com/titles/public-international-law-2e",
 		"name": "Public International Law 2/e - John H. Currie"
 		},
 	"tags": ["International Law", " Judges and Courts"],
@@ -9427,6 +9409,7 @@
 {
 	"term": "Internet Protocol address",
 	"related_terms": ["IP address"],
+
 	"END": "end"
 },
 {
@@ -9447,14 +9430,15 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/law-equitable-remedies-2e",
 		"name": "The Law of Equitable Remedies 2/e - Jeffrey Berryman"
+	},
 	"END": "end"
 },
 {
-	"term": "Intertemporal rule"
-	"definition": "A doctrine requiring interpretation or assessment of the legal effects of past transactions in the light of international law as it existed at the time of such transactions."
+	"term": "Intertemporal rule",
+	"definition": "A doctrine requiring interpretation or assessment of the legal effects of past transactions in the light of international law as it existed at the time of such transactions.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/public-international-law-2e"
+		"url": "https://www.irwinlaw.com/titles/public-international-law-2e",
 		"name": "Public International Law 2/e - John H. Currie"
 		},
 	"tags": ["International Law"],
@@ -9499,6 +9483,7 @@
 {
 	"term": "Inuit",
 	"related_terms": ["Aboriginal peoples"],
+
 	"END": "end"
 },
 {
@@ -9544,15 +9529,16 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/income-tax-law-2e",
 		"name": "Income Tax Law 2/e - Vern Krishna"
+	},
 	"END": "end"
 },
 {
-	"term": "Inviolability"
-	"related_terms": [Diplomatic immunity"
-	"definition": "A potent form of immunity forbidding all physical interference with foreign diplomatic premises, communications, and personnel."
+	"term": "Inviolability",
+	"related_terms": ["Diplomatic immunity"],
+	"definition": "A potent form of immunity forbidding all physical interference with foreign diplomatic premises, communications, and personnel.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/public-international-law-2e"
+		"url": "https://www.irwinlaw.com/titles/public-international-law-2e",
 		"name": "Public International Law 2/e - John H. Currie"
 		},
 	"tags": ["International Law"],
@@ -9617,6 +9603,7 @@
 {
 	"term": "ISP",
 	"related_terms": ["Internet Service Provider (ISP)"],
+
 	"END": "end"
 },
 {
@@ -9646,7 +9633,6 @@
 {
 	"term": "IT forensics",
 	"related_terms": ["Digital forensics"],
-		},
 	"tags": ["Filed in:", " Criminal Law", " Forensic Science", " Science & Technology"],
 	"END": "end"
 },
@@ -9676,6 +9662,7 @@
 {
 	"term": "Joint submission",
 	"related_terms": ["Plea bargain"],
+
 	"END": "end"
 },
 {
@@ -9787,6 +9774,7 @@
 {
 	"term": "Judicial precedent",
 	"related_terms": ["Stare decisis"],
+
 	"END": "end"
 },
 {
@@ -9874,7 +9862,7 @@
 {
 	"term": "Jurisdiction-conferring",
 	"related_terms": ["Preliminary or collateral", " Quash"],
-	"definition": "The provisions of a statute that "describe, limit, and list" the scope of a decision maker's powers or mandate and on which the tribunal has to reach a correct determination in order to avoid its decision or action being quashed or set aside.",
+	"definition": "The provisions of a statute that \"describe, limit, and list\" the scope of a decision maker's powers or mandate and on which the tribunal has to reach a correct determination in order to avoid its decision or action being quashed or set aside.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/administrative-law",
@@ -9921,7 +9909,6 @@
 {
 	"term": "Jury panel",
 	"related_terms": ["Jury array"],
-		},
 	"tags": ["Filed in:", " Criminal Law"],
 	"END": "end"
 },
@@ -10034,10 +10021,12 @@
 {
 	"term": "Juvenile delinquent",
 	"related_terms": ["Delinquent"],
+
 	"END": "end"
 },
 {
 	"term": "Welcome to Irwin Law’s Canadian Online Legal Dictionary",
+
 	"END": "end"
 },
 {
@@ -10047,15 +10036,16 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/law-equitable-remedies-2e",
 		"name": "The Law of Equitable Remedies 2/e - Jeffrey Berryman"
+	},
 	"END": "end"
 },
 {
-	"term": "Keep the peace"
-	"related_terms": [Peace bond, Probation"
-	"definition": "A statutory term included in all probation orders to maintain quiet and harmless behaviour toward the sovereign, her Government, and her people, and to prevent or dissuade others from breaking the peace."
+	"term": "Keep the peace",
+	"related_terms": ["Peace bond", "Probation"],
+	"definition": "A statutory term included in all probation orders to maintain quiet and harmless behaviour toward the sovereign, her Government, and her people, and to prevent or dissuade others from breaking the peace.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/mental-health-courts"
+		"url": "https://www.irwinlaw.com/titles/mental-health-courts",
 		"name": "Mental Health Courts - Richard D. Schneider, Hy Bloom and Mark Heerema"
 		},
 	"tags": ["Criminal Law"],
@@ -10068,14 +10058,15 @@
 		{
 		"url": "https://www.irwinlaw.com/titles/law-equitable-remedies-2e",
 		"name": "The Law of Equitable Remedies 2/e - Jeffrey Berryman"
+	},
 	"END": "end"
 },
 {
-	"term": "Law of nations"
-	"definition": "International law."
+	"term": "Law of nations",
+	"definition": "International law.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/public-international-law-2e"
+		"url": "https://www.irwinlaw.com/titles/public-international-law-2e",
 		"name": "Public International Law 2/e - John H. Currie"
 		},
 	"tags": ["International Law"],
@@ -10107,6 +10098,7 @@
 {
 	"term": "LCSH",
 	"related_terms": ["Library of Congress Subject Headings (LCSH)"],
+
 	"END": "end"
 },
 {
@@ -10181,6 +10173,7 @@
 {
 	"term": "Legislative history ",
 	"related_terms": ["Headnote"],
+
 	"END": "end"
 },
 {
@@ -10208,6 +10201,7 @@
 {
 	"term": "Letters patent",
 	"related_terms": ["Patent"],
+
 	"END": "end"
 },
 {
@@ -10227,17 +10221,18 @@
 	"related_terms": ["See also:Lex ferenda"],
 	"definition": "Source",
 	"source":
-		{Title:<url>",
-https://www.irwinlaw.com/titles/public-international-law-1e",
+	{
+		"url": "https://www.irwinlaw.com/titles/public-international-law-1e",
 		"name": "Public International Law 1/e - John H. Currie"
+},
 	"END": "end"
 },
 {
-	"term": "LexisNexis Quicklaw"
-	"definition": "LexisNexis Quicklaw was one of the first companies in the world to create online, searchable databases of information. Since the 1970s, Quicklaw has grown in depth and ease of use to include not only Canadian cases, legislation, journal articles, textbooks, and news, but also to include law-related material from the United States, the United Kingdom, Australia, Africa, and the Caribbean."
+	"term": "LexisNexis Quicklaw",
+	"definition": "LexisNexis Quicklaw was one of the first companies in the world to create online, searchable databases of information. Since the 1970s, Quicklaw has grown in depth and ease of use to include not only Canadian cases, legislation, journal articles, textbooks, and news, but also to include law-related material from the United States, the United Kingdom, Australia, Africa, and the Caribbean.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/legal-research-and-writing-4e"
+		"url": "https://www.irwinlaw.com/titles/legal-research-and-writing-4e",
 		"name": "Legal Research and Writing, 4/e - Ted Tjaden"
 		},
 	"tags": ["Communication", " Media", " and Technology Law", " Legal Research and Writing"],
@@ -10285,10 +10280,6 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Communication", " Media", " and Technology Law", " Corporate and Commercial Law", " Intellectual Property"],
 	"END": "end"
@@ -10296,6 +10287,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Licensee estoppel",
 	"related_terms": ["Estoppel"],
+
 	"END": "end"
 },
 {
@@ -10313,6 +10305,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Lieutenant governor in council",
 	"related_terms": ["Governor in council"],
+
 	"END": "end"
 },
 {
@@ -10322,10 +10315,6 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Civil Litigation", " Intellectual Property"],
 	"END": "end"
@@ -10344,7 +10333,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 },
 {
 	"term": "Limitations of benefits",
-	"definition": "Treaty benefits are generally available only to residents of a contracting state, which, in the case of corporations, includes corporations incorporated in the contracting state. Hence, corporations can engage in "treaty-shopping" by incorporating in a convenient state merely for the purpose of deriving treaty benefits. A limitation on benefits article in a treaty generally limits the ability of third-country residents to shop for a favourable treaty.",
+	"definition": "Treaty benefits are generally available only to residents of a contracting state, which, in the case of corporations, includes corporations incorporated in the contracting state. Hence, corporations can engage in \"treaty-shopping\" by incorporating in a convenient state merely for the purpose of deriving treaty benefits. A limitation on benefits article in a treaty generally limits the ability of third-country residents to shop for a favourable treaty.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/income-tax-law-2e",
@@ -10449,7 +10438,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Locus standi",
 	"related_terms": ["Application for judicial review", " Judicial review", " Standing"],
-	"definition": "The Latin term for "standing" or the capacity to commence an application for judicial review and to obtain relief from the court.",
+	"definition": "The Latin term for \"standing\" or the capacity to commence an application for judicial review and to obtain relief from the court.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/administrative-law",
@@ -10550,7 +10539,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Mandamus",
 	"related_terms": ["Prerogative writ"],
-	"definition": "Another of the historic prerogative writs under which the courts order ("We command") the performance of a legal duty that, having become due, stands unfulfilled.",
+	"definition": "Another of the historic prerogative writs under which the courts order (\"We command\") the performance of a legal duty that, having become due, stands unfulfilled.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/administrative-law",
@@ -10585,6 +10574,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 },
 {
 	"term": "Welcome to Irwin Law’s Canadian Online Legal Dictionary",
+
 	"END": "end"
 },
 {
@@ -10651,12 +10641,12 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/law-equitable-remedies-2e",
 		"name": "The Law of Equitable Remedies 2/e - Jeffrey Berryman"
+	},
 	"END": "end"
 },
 {
-	"term": "McGill Guide"
-	"related_terms": [Canadian Guide to Uniform Legal Citation"
-		},
+	"term": "McGill Guide",
+	"related_terms": ["Canadian Guide to Uniform Legal Citation"],
 	"tags": ["Filed in:", " Legal Research and Writing"],
 	"END": "end"
 },
@@ -10756,8 +10746,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 	"term": "Mental element",
 	"related_terms": ["Mens rea"],
 	"related_terms": ["See also:Fault element", " Specific intent"],
-		},
-	"tags": ["Filed in:", " Criminal Law"],
+	"tags": [" Criminal Law"],
 	"END": "end"
 },
 {
@@ -10856,6 +10845,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Metabolites",
 	"related_terms": ["Metabolism (toxicology)"],
+
 	"END": "end"
 },
 {
@@ -10883,6 +10873,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Metis",
 	"related_terms": ["Aboriginal peoples"],
+
 	"END": "end"
 },
 {
@@ -10981,26 +10972,23 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Misappropriation",
 	"related_terms": ["Unfair competition"],
+
 	"END": "end"
 },
 {
 	"term": "Misappropriation of personality",
-	"definition": "The right to prevent commercial uses of one's name, voice, or image. It is roughly equivalent to the U.S. "right of publicity."",
+	"definition": "The right to prevent commercial uses of one's name, voice, or image. It is roughly equivalent to the U.S. \"right of publicity.\"",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property", " Torts"],
 	"END": "end"
 },
 {
 	"term": "Miscarriage of justice",
-	"definition": "" . . . like 'wrongful conviction' [the expression] can be used to describe the conviction of the demonstrably innocent . . . . But, again like 'wrongful conviction,' it can be and has been used to describe cases in which defendants, guilty or not, should not have been convicted."",
+	"definition": "\" . . . like 'wrongful conviction' [the expression] can be used to describe the conviction of the demonstrably innocent . . . . But, again like 'wrongful conviction,' it can be and has been used to describe cases in which defendants, guilty or not, should not have been convicted.\"",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/forensic-investigations-and-miscarriages-justice",
@@ -11012,6 +11000,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Misdemeanour",
 	"related_terms": ["Summary conviction offence"],
+
 	"END": "end"
 },
 {
@@ -11109,6 +11098,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "MOPOP",
 	"related_terms": ["Manual of Patent Office Practice"],
+
 	"END": "end"
 },
 {
@@ -11138,23 +11128,20 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Moral rights",
 	"related_terms": ["WIPO Performances and Phonograms Treaty"],
-	"definition": "Authors' rights to have work properly attributed and not prejudicially modified or associated with other products; a poor, but commonly used, translation of the French droits moraux ("personal" or "intellectual" rights). The rights are as legally enforceable as any others; they have nothing to do with morals or morality.",
+	"definition": "Authors' rights to have work properly attributed and not prejudicially modified or associated with other products; a poor, but commonly used, translation of the French droits moraux (\"personal\" or \"intellectual\" rights). The rights are as legally enforceable as any others; they have nothing to do with morals or morality.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
+	},
 	"END": "end"
 },
 {
-	"term": "Moral schizophrenia"
-	"definition": "A term coined by American legal scholar Gary Francione to decribe humanity's ambivalent relationship with other animals; generally, the conflict between the stated desire not to cause animals any unnecessary pain and suffering, and the support of practices that cause pain and suffering that cannot be regarded as necessary in any normal sense of the word."
+	"term": "Moral schizophrenia",
+	"definition": "A term coined by American legal scholar Gary Francione to decribe humanity's ambivalent relationship with other animals; generally, the conflict between the stated desire not to cause animals any unnecessary pain and suffering, and the support of practices that cause pain and suffering that cannot be regarded as necessary in any normal sense of the word.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/animals-and-law"
+		"url": "https://www.irwinlaw.com/titles/animals-and-law",
 		"name": "Animals and the Law - Lesli Bisgould"
 		},
 	"tags": ["Environmental Law", " Ethics"],
@@ -11227,10 +11214,6 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property", " International Law"],
 	"END": "end"
@@ -11255,10 +11238,6 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property", " International Law"],
 	"END": "end"
@@ -11337,6 +11316,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Neighbouring rights",
 	"related_terms": ["Rome Convention"],
+
 	"END": "end"
 },
 {
@@ -11422,6 +11402,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "No certiorari clause",
 	"related_terms": ["Privative clause"],
+
 	"END": "end"
 },
 {
@@ -11443,14 +11424,15 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/abcs-law-school",
 		"name": "The ABCs of Law School - Ramsay Ali, Daniel Batista, Koker Christiensen and 1 other"
+	},
 	"END": "end"
 },
 {
-	"term": "Noise"
-	"definition": "In statistics, noise is a term for random error. It is generally used in time series analysis.  In data, mining noise refers to messy data with typos, non-standardized entries, and so on."
+	"term": "Noise",
+	"definition": "In statistics, noise is a term for random error. It is generally used in time series analysis.  In data, mining noise refers to messy data with typos, non-standardized entries, and so on.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/lawyer%E2%80%99s-guide-forensic-sciences"
+		"url": "https://www.irwinlaw.com/titles/lawyer%E2%80%99s-guide-forensic-sciences",
 		"name": "The Lawyer’s Guide to the Forensic Sciences -  Edited by Caitlin Pakosh"
 		},
 	"tags": ["Science & Technology"],
@@ -11585,6 +11567,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "North American Free Trade Agreement",
 	"related_terms": ["NAFTA"],
+
 	"END": "end"
 },
 {
@@ -11594,14 +11577,15 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/law-equitable-remedies-2e",
 		"name": "The Law of Equitable Remedies 2/e - Jeffrey Berryman"
+	},
 	"END": "end"
 },
 {
-	"term": "Noscitur a sociis"
-	"definition": "Literally “one is known by one’s associates”. This maxim suggests that courts should look to the common features of words linked by “and” or “or” and limit the interpretation of those words to fit within the scope of those terms."
+	"term": "Noscitur a sociis",
+	"definition": "Literally “one is known by one’s associates”. This maxim suggests that courts should look to the common features of words linked by “and” or “or” and limit the interpretation of those words to fit within the scope of those terms.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/legal-research-and-writing-4e"
+		"url": "https://www.irwinlaw.com/titles/legal-research-and-writing-4e",
 		"name": "Legal Research and Writing, 4/e - Ted Tjaden"
 		},
 	"tags": ["Legal Research and Writing", " Legal Theory"],
@@ -11634,7 +11618,6 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Notwithstanding clause",
 	"related_terms": ["Legislative override"],
-		},
 	"tags": ["Filed in:", " Constitutional Law"],
 	"END": "end"
 },
@@ -11784,7 +11767,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Obviousness",
 	"related_terms": ["Industrial design", " Integrated Circuit Topography Right", " Originality"],
-	"definition": "A feature of an alleged invention that prevents its being patented; "invention" and "obviousness" are antitheses. Analogous requirements exist for industrial designs and ICTs.",
+	"definition": "A feature of an alleged invention that prevents its being patented; \"inventio\" and \"obviousness\" are antitheses. Analogous requirements exist for industrial designs and ICTs.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e",
@@ -11950,11 +11933,13 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Omnibus clause",
 	"related_terms": ["General (grants of) power"],
+
 	"END": "end"
 },
 {
 	"term": "Online discussion groups",
 	"related_terms": ["Listservs"],
+
 	"END": "end"
 },
 {
@@ -12110,6 +12095,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Override",
 	"related_terms": ["Legislative override"],
+
 	"END": "end"
 },
 {
@@ -12160,15 +12146,11 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 },
 {
 	"term": "Parallel import",
-	"definition": "The importation, without the authorization of the owner of a Canadian intellectual property right, of a product lawfully made abroad; it is sometimes pejoratively called "grey marketing." It is often (controversially) barred by Canadian law, but is challenged by global technology like the Internet.",
+	"definition": "The importation, without the authorization of the owner of a Canadian intellectual property right, of a product lawfully made abroad; it is sometimes pejoratively called \"grey marketing.\" It is often (controversially) barred by Canadian law, but is challenged by global technology like the Internet.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property"],
 	"END": "end"
@@ -12222,7 +12204,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Parent corporation",
 	"related_terms": ["Affiliated corporations", " Subsidiary"],
-	"definition": "A corporation that controls another corporation. The controlled corporation is a “subsidiary corporation."",
+	"definition": "A corporation that controls another corporation. The controlled corporation is a “subsidiary corporation.\"",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/law-partnerships-and-corporations-3e",
@@ -12246,7 +12228,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Parliament of Canada",
 	"related_terms": ["Address of Parliament", " Hansard", " House of Commons", " Officers of Parliament", " Parliamentary law", " Parliamentary privileges", " Parliamentary secretary", " Parliamentary supremacy", " Prorogation", " Senate", " Standing committee"],
-	"definition": "The federal legislative branch that, by the terms of the Constitution Act, 1867, consists "of the Queen, an Upper House styled the Senate, and the House of Commons."",
+	"definition": "The federal legislative branch that, by the terms of the Constitution Act, 1867, consists \"of the Queen, an Upper House styled the Senate, and the House of Commons.\"",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/laws-government-2e",
@@ -12363,6 +12345,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Partnership",
 	"related_terms": ["General partnership", " Limited liability partnership", " Limited partnership"],
+
 	"END": "end"
 },
 {
@@ -12385,10 +12368,6 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property", " Torts"],
 	"END": "end"
@@ -12408,15 +12387,11 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Patent",
 	"related_terms": ["Injunction", " Patent Appeal Board", " Patentee", " POSITA", " Reissue", " Usefulness; utility"],
-	"definition": "A term used here to denote a patent for invention, an exclusive right granted to work new inventions. It is sometimes called "letters patent," from the Latin litterae patentes ("open letters"), meaning that the royal seal was placed at the bottom of the document, making the document a public record open for all to see. The Patent Act still defines "patent" as "letters patent for an invention," being one species of the genus of letters patent, which at various times covered franchises, land grants, honours, and company incorporations.A patent lasts for twenty years from the date when the application for it is filed, but the actual monopoly starts when the patent is granted, typically around two years later. The application is made public no later than eighteen months after the filing of the application. If a patent is granted, the patentee can get compensation from unauthorized users of the invention as from the date of making public. An injunction and money remedies are available against unauthorized uses after the date of grant.",
+	"definition": "A term used here to denote a patent for invention, an exclusive right granted to work new inventions. It is sometimes called \"letters patent,\" from the Latin litterae patentes (\"open letters\"), meaning that the royal seal was placed at the bottom of the document, making the document a public record open for all to see. The Patent Act still defines \"patent\" as \"letters patent for an invention,\" being one species of the genus of letters patent, which at various times covered franchises, land grants, honours, and company incorporations.A patent lasts for twenty years from the date when the application for it is filed, but the actual monopoly starts when the patent is granted, typically around two years later. The application is made public no later than eighteen months after the filing of the application. If a patent is granted, the patentee can get compensation from unauthorized users of the invention as from the date of making public. An injunction and money remedies are available against unauthorized uses after the date of grant.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property"],
 	"END": "end"
@@ -12471,6 +12446,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Payments in lieu of taxes",
 	"related_terms": ["Grants-in-lieu of taxes"],
+
 	"END": "end"
 },
 {
@@ -12511,6 +12487,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Penile plethysmography",
 	"related_terms": ["Phallometric testing"],
+
 	"END": "end"
 },
 {
@@ -12575,6 +12552,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Permission",
 	"related_terms": ["Licence"],
+
 	"END": "end"
 },
 {
@@ -12627,7 +12605,6 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Petit jury",
 	"related_terms": ["Jury"],
-		},
 	"tags": ["Filed in:", " Criminal Law"],
 	"END": "end"
 },
@@ -12706,10 +12683,6 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property", " International Law"],
 	"END": "end"
@@ -12774,7 +12747,6 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Plasma",
 	"related_terms": ["Serum"],
-		},
 	"tags": ["Filed in:", " Science & Technology"],
 	"END": "end"
 },
@@ -12805,6 +12777,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Plea resolution discussion",
 	"related_terms": ["Plea bargain"],
+
 	"END": "end"
 },
 {
@@ -12822,6 +12795,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Plebescite",
 	"related_terms": ["Referendum"],
+
 	"END": "end"
 },
 {
@@ -12850,6 +12824,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Political donation",
 	"related_terms": ["Contribution"],
+
 	"END": "end"
 },
 {
@@ -12928,15 +12903,16 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e",
 		"name": "Intellectual Property Law 2/e - David Vaver"
+	},
 	"END": "end"
 },
 {
-	"term": "Positive right"
-	"related_terms": [Parliamentary privileges"
-	"definition": "A right to be accorded some privilege or benefit, therefore requiring action on the part of Parliament or a legislature."
+	"term": "Positive right",
+	"related_terms": ["Parliamentary privileges"],
+	"definition": "A right to be accorded some privilege or benefit, therefore requiring action on the part of Parliament or a legislature.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/charter-rights-and-freedoms-6e"
+		"url": "https://www.irwinlaw.com/titles/charter-rights-and-freedoms-6e",
 		"name": "The Charter of Rights and Freedoms 6/e - Robert J. Sharpe and Kent Roach"
 		},
 	"tags": ["Constitutional Law"],
@@ -12968,6 +12944,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Pre-disposition report",
 	"related_terms": ["Pre-sentence report"],
+
 	"END": "end"
 },
 {
@@ -13031,6 +13008,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Preclusive clause",
 	"related_terms": ["Privative clause"],
+
 	"END": "end"
 },
 {
@@ -13049,6 +13027,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 	"term": "Preferred indictment",
 	"related_terms": ["Direct indictment"],
 	"related_terms": ["See also:Prefer"],
+
 	"END": "end"
 },
 {
@@ -13066,7 +13045,6 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Preliminary or collateral",
 	"related_terms": ["Jurisdiction-conferring"],
-		},
 	"tags": ["Filed in:", " Administrative Law"],
 	"END": "end"
 },
@@ -13284,6 +13262,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Principles of fundamental justice",
 	"related_terms": ["Fundamental justice "],
+
 	"END": "end"
 },
 {
@@ -13374,7 +13353,6 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 	"term": "Private issuer",
 	"related_terms": ["Constating documents", " Private company", " Prospectus", " Securities"],
 	"definition": "An issuer meeting the following provincial securities law criteria after a trade in its securities:",
-",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/law-partnerships-and-corporations-3e",
@@ -13410,7 +13388,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Privative clause",
 	"related_terms": ["Certiorari", " Judicial review"],
-	"definition": "A statutory provision which attempts to eliminate or restrict the scope of judicial review. Sometimes called a "preclusive" or "no certiorari" clause.",
+	"definition": "A statutory provision which attempts to eliminate or restrict the scope of judicial review. Sometimes called a \"preclusive\" or \"no certiorari\" clause.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/administrative-law",
@@ -13422,6 +13400,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Privy Council",
 	"related_terms": ["Judicial Committee of the Privy Council (JCPC)"],
+
 	"END": "end"
 },
 {
@@ -13462,6 +13441,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Probation officer",
 	"related_terms": ["Youth worker"],
+
 	"END": "end"
 },
 {
@@ -13561,7 +13541,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Prohibition",
 	"related_terms": ["Prerogative writ"],
-	"definition": "Another of the historic prerogative writs by which the courts prevented or "prohibited" the continuation of a proceeding that was outside or in excess of the decision maker's jurisdiction.",
+	"definition": "Another of the historic prerogative writs by which the courts prevented or \"prohibited\" the continuation of a proceeding that was outside or in excess of the decision maker's jurisdiction.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/administrative-law",
@@ -13840,6 +13820,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Psychiatric risk assessment",
 	"related_terms": ["Violence risk assessment"],
+
 	"END": "end"
 },
 {
@@ -13943,15 +13924,16 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/using-international-law-canadian-courts-2e",
 		"name": "Using International Law in Canadian Courts 2/e - Gib Van Ert"
+	},
 	"END": "end"
 },
 {
-	"term": "Public prosecution"
-	"related_terms": [Charge, Crown prosecutor, Prosecutor"
-	"definition": "A criminal charge laid and pursued on behalf of the state by a Crown prosecutor."
+	"term": "Public prosecution",
+	"related_terms": ["Charge", "Crown prosecutor", "Prosecutor"],
+	"definition": "A criminal charge laid and pursued on behalf of the state by a Crown prosecutor.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/criminal-procedure-3e"
+		"url": "https://www.irwinlaw.com/titles/criminal-procedure-3e",
 		"name": "Criminal Procedure 3/e - Steve Coughlan"
 		},
 	"tags": ["Criminal Law"],
@@ -13960,6 +13942,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Public welfare offence",
 	"related_terms": ["Regulatory offence"],
+
 	"END": "end"
 },
 {
@@ -14046,7 +14029,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Queen's Privy Council for Canada",
 	"related_terms": ["Cabinet", " Privy Council Office"],
-	"definition": "A body named in the Constitution Act, 1867 to "aid and advise in the Government of Canada" whose powers are, in practice, exercised by Cabinet.",
+	"definition": "A body named in the Constitution Act, 1867 to \"aid and advise in the Government of Canada\" whose powers are, in practice, exercised by Cabinet.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/laws-government-2e",
@@ -14057,15 +14040,11 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 },
 {
 	"term": "Quia timet relief",
-	"definition": "Relief, typically an injunction, sought where the commission of a wrong is anticipated. Quia timet literally means "because he or she fears"; so a quia timet injunction is granted when a claimant reasonably fears it will be injured by the imminent commission of a wrong.",
+	"definition": "Relief, typically an injunction, sought where the commission of a wrong is anticipated. Quia timet literally means \"because he or she fears\"; so a quia timet injunction is granted when a claimant reasonably fears it will be injured by the imminent commission of a wrong.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Remedies"],
 	"END": "end"
@@ -14073,7 +14052,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Quo warranto",
 	"related_terms": ["Prerogative power", " Prerogative writ"],
-	"definition": "Another of the prerogative writs, now abolished in some provinces and fallen into disuse in others. It called upon potential usurpers of statutory powers to indicate "by what warrant" or authority they were exercising a particular statutory or prerogative power.",
+	"definition": "Another of the prerogative writs, now abolished in some provinces and fallen into disuse in others. It called upon potential usurpers of statutory powers to indicate \"by what warrant\" or authority they were exercising a particular statutory or prerogative power.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/administrative-law",
@@ -14084,6 +14063,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 },
 {
 	"term": "Welcome to Irwin Law’s Canadian Online Legal Dictionary",
+
 	"END": "end"
 },
 {
@@ -14181,6 +14161,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 },
 {
 	"term": "Welcome to Irwin Law’s Canadian Online Legal Dictionary",
+
 	"END": "end"
 },
 {
@@ -14197,14 +14178,12 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 },
 {
 	"term": "Reasonable grounds to believe",
-		},
 	"tags": ["Criminal Law"],
 	"END": "end"
 },
 {
 	"term": "Reasonable grounds to suspect",
 	"related_terms": ["Reasonable suspicion"],
-		},
 	"tags": ["Filed in:", " Criminal Law"],
 	"END": "end"
 },
@@ -14361,7 +14340,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 },
 {
 	"term": "Referendum",
-	"definition": "A method of referring a question or set of questions to the people directly, rather than allowing them to be settled by the people's representatives in the legislature; the term is often used interchangeably with "plebiscite," although as a technical matter, the latter is nonbinding, whereas "referendum" is a binding process.",
+	"definition": "A method of referring a question or set of questions to the people directly, rather than allowing them to be settled by the people's representatives in the legislature; the term is often used interchangeably with \"plebiscite,\" although as a technical matter, the latter is nonbinding, whereas \"referendum\" is a binding process.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/laws-government-2e",
@@ -14373,6 +14352,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Reformatory",
 	"related_terms": ["Training school"],
+
 	"END": "end"
 },
 {
@@ -14618,15 +14598,16 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/law-equitable-remedies-2e",
 		"name": "The Law of Equitable Remedies 2/e - Jeffrey Berryman"
+	},
 	"END": "end"
 },
 {
-	"term": "Res communis"
-	"related_terms": [High seas, Res nullius"
-	"definition": "Areas beyond, and not subject to incorporation into, state territory; thus available for unilateral use and exploitation by all states; examples include the high seas."
+	"term": "Res communis",
+	"related_terms": ["High seas", "Res nullius"],
+	"definition": "Areas beyond, and not subject to incorporation into, state territory; thus available for unilateral use and exploitation by all states; examples include the high seas.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/public-international-law-2e"
+		"url": "https://www.irwinlaw.com/titles/public-international-law-2e",
 		"name": "Public International Law 2/e - John H. Currie"
 		},
 	"tags": ["International Law"],
@@ -14659,7 +14640,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Rescission",
 	"related_terms": ["Equity", " Equitable rights", " Fraud"],
-	"definition": "An equitable remedy that annuls or avoids a contract. Rescission is a remedy granted to a plaintiff in the case of fraud, innocent misrepresentation, or because of some other action on the defendant's behalf that amounts to undue influence, unconscionability, or makes the bargain questionable on some other equitable grounds. Rescission in equity operates to roll the contract back to the position the parties were in prior to contracting. This is referred to as rescission ab initio, or "from the beginning." It is to be distinguished from rescission de futuro, or "for the future." The latter terminology is unwisely used to describe the position of a plaintiff who is entitled to terminate a contract for breach. As an equitable remedy rescission is subject to a number of discretionary barriers including delay and affirmation. It is also important for the plaintiff to be able to effect restitutio in integrium. That requires both parties to be restored to their pre-contractual positions. The degree of complete restoration will vary depending on the particular underlying cause of action. In the case of fraud a court will be less particular with giving complete restoration, whereas for an innocent misrepresentation, anything less that complete restoration will bar rescission.",
+	"definition": "An equitable remedy that annuls or avoids a contract. Rescission is a remedy granted to a plaintiff in the case of fraud, innocent misrepresentation, or because of some other action on the defendant's behalf that amounts to undue influence, unconscionability, or makes the bargain questionable on some other equitable grounds. Rescission in equity operates to roll the contract back to the position the parties were in prior to contracting. This is referred to as rescission ab initio, or \"from the beginning.\" It is to be distinguished from rescission de futuro, or \"for the future.\" The latter terminology is unwisely used to describe the position of a plaintiff who is entitled to terminate a contract for breach. As an equitable remedy rescission is subject to a number of discretionary barriers including delay and affirmation. It is also important for the plaintiff to be able to effect restitutio in integrium. That requires both parties to be restored to their pre-contractual positions. The degree of complete restoration will vary depending on the particular underlying cause of action. In the case of fraud a court will be less particular with giving complete restoration, whereas for an innocent misrepresentation, anything less that complete restoration will bar rescission.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/law-equitable-remedies-2e",
@@ -14734,15 +14715,16 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/women-law-and-equality",
 		"name": "Women, Law and Equality -  Edited by Kim Brooks and Carissima Mathen"
+	},
 	"END": "end"
 },
 {
-	"term": "Responsibility to protect"
-	"related_terms": [Security Council"
-	"definition": "An emerging doctrine positing a responsibility, borne by the international community, to protect civilian populations from gross human rights violations. The focal point for discharge of this responsibility appears at present to be the UN Security Council."
+	"term": "Responsibility to protect",
+	"related_terms": ["Security Council"],
+	"definition": "An emerging doctrine positing a responsibility, borne by the international community, to protect civilian populations from gross human rights violations. The focal point for discharge of this responsibility appears at present to be the UN Security Council.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/public-international-law-2e"
+		"url": "https://www.irwinlaw.com/titles/public-international-law-2e",
 		"name": "Public International Law 2/e - John H. Currie"
 		},
 	"tags": ["Human Rights Law", " International Law"],
@@ -14791,15 +14773,16 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/youth-criminal-justice-law-3e",
 		"name": "Youth Criminal Justice Law, 3/e - Nicholas Bala and Sanjeev Anand"
+	},
 	"END": "end"
 },
 {
-	"term": "Restrictive state immunity"
-	"related_terms": [Absolute state immunity, State immunity"
-	"definition": "A theory of state immunity that differentiates between commercial (or “private”) and sovereign acts of states, extending immunity from the judicial process of foreign domestic courts in respect of the latter but not the former; contrast with absolute state immunity."
+	"term": "Restrictive state immunity",
+	"related_terms": ["Absolute state immunity", "State immunity"],
+	"definition": "A theory of state immunity that differentiates between commercial (or “private”) and sovereign acts of states, extending immunity from the judicial process of foreign domestic courts in respect of the latter but not the former; contrast with absolute state immunity.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/public-international-law-2e"
+		"url": "https://www.irwinlaw.com/titles/public-international-law-2e",
 		"name": "Public International Law 2/e - John H. Currie"
 		},
 	"tags": ["International Law"],
@@ -14854,11 +14837,13 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Riding",
 	"related_terms": ["Electoral district"],
+
 	"END": "end"
 },
 {
 	"term": "Right of collective self-defence",
 	"related_terms": ["Collective self-defence", " right of"],
+
 	"END": "end"
 },
 {
@@ -14876,16 +14861,19 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Right of self-defence",
 	"related_terms": ["Self-defence", " right of"],
+
 	"END": "end"
 },
 {
 	"term": "Right of transit passage",
 	"related_terms": ["Transit passage", " right of"],
+
 	"END": "end"
 },
 {
 	"term": "Right of unilateral humanitarian intervention",
 	"related_terms": ["Humanitarian intervention"],
+
 	"END": "end"
 },
 {
@@ -14896,10 +14884,6 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property"],
 	"END": "end"
@@ -14917,15 +14901,11 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 },
 {
 	"term": "Rome Convention",
-	"definition": "Rome Convention for the Protection of Performers, Producers of Phonograms and Broadcasting Organisations of 1961. This treaty protects performers, record producers, and broadcasters through droits voisins ("neighbouring rights") similar to traditional copyright. The Act to Amend the Copyright Act of 1997 implemented these rights in Canada and enabled Canada to adhere to Rome as of 4 June 1998. About fifty states presently adhere to this Convention, though the United States is notably absent. Rome may be partly eclipsed by the WIPO Performances and Phonograms Treaty.",
+	"definition": "Rome Convention for the Protection of Performers, Producers of Phonograms and Broadcasting Organisations of 1961. This treaty protects performers, record producers, and broadcasters through droits voisins (\"neighbouring rights\") similar to traditional copyright. The Act to Amend the Copyright Act of 1997 implemented these rights in Canada and enabled Canada to adhere to Rome as of 4 June 1998. About fifty states presently adhere to this Convention, though the United States is notably absent. Rome may be partly eclipsed by the WIPO Performances and Phonograms Treaty.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property", " International Law"],
 	"END": "end"
@@ -14990,7 +14970,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Rule of law",
 	"related_terms": ["Opinio juris sive necessitatis"],
-	"definition": "A legal principle, of general application, sanctioned by the recognition of authorities, and usually expressed in the form of a maxim or logical proposition. Called a "rule," because in doubtful or unforeseen causes it is a guide or nom for their decision. The rule of law, sometimes called "the supremacy of law," provides that decisions should be made by the application of known principles or laws without the intervention of discretion in their application. [Black's]. The restriction of arbitrary authority in government, and the necessity for all acts of government to be authorized by reasonably precise laws as applied and interpreted by the courts." [quoting Prof. R.M. Dawson, The Govt. of Canada.]",
+	"definition": "A legal principle, of general application, sanctioned by the recognition of authorities, and usually expressed in the form of a maxim or logical proposition. Called a \"rule,\" because in doubtful or unforeseen causes it is a guide or nom for their decision. The rule of law, sometimes called \"the supremacy of law,\" provides that decisions should be made by the application of known principles or laws without the intervention of discretion in their application. [Black's]. The restriction of arbitrary authority in government, and the necessity for all acts of government to be authorized by reasonably precise laws as applied and interpreted by the courts.\" [quoting Prof. R.M. Dawson, The Govt. of Canada.]",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/administrative-law",
@@ -15001,7 +14981,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 },
 {
 	"term": "Ruminant",
-	"definition": "Animals such as cows, goats, sheep, deer, and giraffes, whose stomachs are characteristically divided into four compartments and whose digestion includes a process often referred to as "chewing their cud."",
+	"definition": "Animals such as cows, goats, sheep, deer, and giraffes, whose stomachs are characteristically divided into four compartments and whose digestion includes a process often referred to as \"chewing their cud.\"",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/animals-and-law",
@@ -15012,10 +14992,12 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 },
 {
 	"term": "Welcome to Irwin Law’s Canadian Online Legal Dictionary",
+
 	"END": "end"
 },
 {
 	"term": "Welcome to Irwin Law’s Canadian Online Legal Dictionary",
+
 	"END": "end"
 },
 {
@@ -15044,6 +15026,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 },
 {
 	"term": "COLD Search results for “”",
+
 	"END": "end"
 },
 {
@@ -15054,10 +15037,6 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/criminal-law-6e",
 		"name": "Criminal Law, 6/e - Kent Roach"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/charter-rights-and-freedoms-6e"
-		"name": "The Charter of Rights and Freedoms 6/e - Robert J. Sharpe and Kent Roach"
 		},
 	"tags": ["Constitutional Law", " Criminal Law"],
 	"END": "end"
@@ -15094,15 +15073,16 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/law-equitable-remedies-2e",
 		"name": "The Law of Equitable Remedies 2/e - Jeffrey Berryman"
+	},
 	"END": "end"
 },
 {
-	"term": "Search warrant"
-	"related_terms": [Anton Piller order, Search, Search and seizure"
-	"definition": "A warrant issued under section 487 of the Criminal Code authorizing the bearer to search a building receptacle or place and seize evidence or other specified items."
+	"term": "Search warrant",
+	"related_terms": ["Anton Piller order", "Search", "Search and seizure"],
+	"definition": "A warrant issued under section 487 of the Criminal Code authorizing the bearer to search a building receptacle or place and seize evidence or other specified items.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/criminal-procedure-3e"
+		"url": "https://www.irwinlaw.com/titles/criminal-procedure-3e",
 		"name": "Criminal Procedure 3/e - Steve Coughlan"
 		},
 	"tags": ["Criminal Law"],
@@ -15234,19 +15214,20 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e",
 		"name": "Intellectual Property Law 2/e - David Vaver"
+	},
 	"END": "end"
 },
 {
-	"term": "Segment"
-	"related_terms": [Field"
+	"term": "Segment",
+	"related_terms": ["Field"],
 	"END": "end"
 },
 {
-	"term": "Self-defence"
-	"definition": "A justification to a crime under section 34 of the Criminal Codegenerally available when a person reasonably apprehends a threat and responds in a reasonable manner."
+	"term": "Self-defence",
+	"definition": "A justification to a crime under section 34 of the Criminal Codegenerally available when a person reasonably apprehends a threat and responds in a reasonable manner.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/criminal-law-6e"
+		"url": "https://www.irwinlaw.com/titles/criminal-law-6e",
 		"name": "Criminal Law, 6/e - Kent Roach"
 		},
 	"tags": ["Criminal Law"],
@@ -15302,6 +15283,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Sentence",
 	"related_terms": ["Disposition"],
+
 	"END": "end"
 },
 {
@@ -15591,6 +15573,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Société en nom collectif à responsabilité limitée",
 	"related_terms": ["Limited liability partnership"],
+
 	"END": "end"
 },
 {
@@ -15643,6 +15626,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "SOR",
 	"related_terms": ["Statutory Orders and Regulations"],
+
 	"END": "end"
 },
 {
@@ -15730,7 +15714,6 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Species at risk",
 	"related_terms": ["Endangered species"],
-		},
 	"tags": ["Filed in:", " Environmental Law", " Land Use", " Natural Resources"],
 	"END": "end"
 },
@@ -15961,12 +15944,13 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Statute",
 	"related_terms": ["Act"],
+
 	"END": "end"
 },
 {
 	"term": "Statute of Monopolies",
 	"related_terms": ["Patent"],
-	"definition": "The English patent law of 1624 that first curbed the Crown's power to grant monopolies at its discretion, while excepting (in section 6) fourteen-year grants for "the sole working or making of any manner of new manufactures within this realm." This statute and the Venetian Patent Law of 1474 are treated as progenitors of modern patent laws. Even today, Australia's patent law, entirely revamped in 1990, continues to define invention as "any manner of new manufacture . . . within section 6 of the Statute of Monopolies".",
+	"definition": "The English patent law of 1624 that first curbed the Crown's power to grant monopolies at its discretion, while excepting (in section 6) fourteen-year grants for \"the sole working or making of any manner of new manufactures within this realm.\" This statute and the Venetian Patent Law of 1474 are treated as progenitors of modern patent laws. Even today, Australia's patent law, entirely revamped in 1990, continues to define invention as \"any manner of new manufacture . . . within section 6 of the Statute of Monopolies\".",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e",
@@ -16089,15 +16073,16 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/law-equitable-remedies-2e",
 		"name": "The Law of Equitable Remedies 2/e - Jeffrey Berryman"
+	},
 	"END": "end"
 },
 {
-	"term": "Style of cause"
-	"related_terms": [Headnote, Neutral citation, R."
-	"definition": "The names of the parties in a lawsuit. A style of cause in a civil lawsuit could be Smith v. Jones (meaning, most likely, that someone named Smith is suing someone named Jones). In a criminal matter, a style of cause in Canada could be R. v. Williams, in which the “R.” stands for Regina, being the symbolic name in which all prosecutions by the government against an accused are brought. (If there is a King in power, the “R.” stands for Rex); in the foregoing example, Williams would be the accused, the person being tried by the government. The style of cause is always italicized. In online commercial databases, such as LexisNexis Quicklaw, one can usually search for cases by the style of cause in the “case name” field."
+	"term": "Style of cause",
+	"related_terms": ["Headnote", "Neutral citation", "R."],
+	"definition": "The names of the parties in a lawsuit. A style of cause in a civil lawsuit could be Smith v. Jones (meaning, most likely, that someone named Smith is suing someone named Jones). In a criminal matter, a style of cause in Canada could be R. v. Williams, in which the “R.” stands for Regina, being the symbolic name in which all prosecutions by the government against an accused are brought. (If there is a King in power, the “R.” stands for Rex); in the foregoing example, Williams would be the accused, the person being tried by the government. The style of cause is always italicized. In online commercial databases, such as LexisNexis Quicklaw, one can usually search for cases by the style of cause in the “case name” field.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/legal-research-and-writing-4e"
+		"url": "https://www.irwinlaw.com/titles/legal-research-and-writing-4e",
 		"name": "Legal Research and Writing, 4/e - Ted Tjaden"
 		},
 	"tags": ["Legal Research and Writing"],
@@ -16479,14 +16464,15 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/income-tax-law-2e",
 		"name": "Income Tax Law 2/e - Vern Krishna"
+	},
 	"END": "end"
 },
 {
-	"term": "Taxing officer"
-	"definition": "A court official (sometimes a Master, sometimes a judge, and sometimes a person specially designated as a taxing officer). This court official is given power to determine what costs, if any, a successful party is entitled to after a lawsuit has finished. Taxing officers can also settle “fees” disputes between a lawyer and his or her own client. In the context of legal research, there are a number of cases where the taxing officer has allowed a successful litigant to recover the costs incurred to conduct online searches on commercial online legal databases such as LexisNexis Quicklaw."
+	"term": "Taxing officer",
+	"definition": "A court official (sometimes a Master, sometimes a judge, and sometimes a person specially designated as a taxing officer). This court official is given power to determine what costs, if any, a successful party is entitled to after a lawsuit has finished. Taxing officers can also settle “fees” disputes between a lawyer and his or her own client. In the context of legal research, there are a number of cases where the taxing officer has allowed a successful litigant to recover the costs incurred to conduct online searches on commercial online legal databases such as LexisNexis Quicklaw.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/legal-research-and-writing-4e"
+		"url": "https://www.irwinlaw.com/titles/legal-research-and-writing-4e",
 		"name": "Legal Research and Writing, 4/e - Ted Tjaden"
 		},
 	"tags": ["Judges and Courts", " Legal Research and Writing"],
@@ -16507,6 +16493,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Temporary suspension of invalidity",
 	"related_terms": ["Invalidity", " Suspended declaration of invalidity"],
+
 	"END": "end"
 },
 {
@@ -16595,15 +16582,11 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Theft",
 	"related_terms": ["Infringement", " Piracy; pirated goods"],
-	"definition": "An abusive term used to describe an intellectual property infringement or, sometimes more loosely, any act to which a right-holder objects. An association of computer software manufacturers even calls itself the Canadian Alliance against Software Theft. But intellectual property infringement is not "theft" in Canada because, after the "taking," the right-holder is still left with the "property."",
+	"definition": "An abusive term used to describe an intellectual property infringement or, sometimes more loosely, any act to which a right-holder objects. An association of computer software manufacturers even calls itself the Canadian Alliance against Software Theft. But intellectual property infringement is not \"theft\" in Canada because, after the \"taking,\" the right-holder is still left with the \"property.\"",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property"],
 	"END": "end"
@@ -16615,15 +16598,16 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/mental-health-courts",
 		"name": "Mental Health Courts - Richard D. Schneider, Hy Bloom and Mark Heerema"
+	},
 	"END": "end"
 },
 {
-	"term": "Thin capitalization"
-	"related_terms": [Capital, Corporation, Shareholder"
-	"definition": "Thin capitalization refers to the ratio of debt to equity. Where a corporation is heavily capitalized by debt claims, it is considered to be thinly capitalized. In certain circumstances, a corporation that is thinly capitalized by non-residents may not be entitled to a full deduction of its interest expense. "
+	"term": "Thin capitalization",
+	"related_terms": ["Capital", "Corporation", "Shareholder"],
+	"definition": "Thin capitalization refers to the ratio of debt to equity. Where a corporation is heavily capitalized by debt claims, it is considered to be thinly capitalized. In certain circumstances, a corporation that is thinly capitalized by non-residents may not be entitled to a full deduction of its interest expense. ",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/income-tax-law-2e"
+		"url": "https://www.irwinlaw.com/titles/income-tax-law-2e",
 		"name": "Income Tax Law 2/e - Vern Krishna"
 		},
 	"tags": ["Corporate and Commercial Law", " Taxation"],
@@ -16680,7 +16664,6 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Threatened species",
 	"related_terms": ["Endangered species"],
-		},
 	"tags": ["Filed in:", " Environmental Law", " Land Use", " Natural Resources"],
 	"END": "end"
 },
@@ -16698,6 +16681,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "TMO",
 	"related_terms": ["Trade-marks Office"],
+
 	"END": "end"
 },
 {
@@ -16784,6 +16768,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Tracing",
 	"related_terms": ["Trace"],
+
 	"END": "end"
 },
 {
@@ -16801,15 +16786,11 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Trade-mark",
 	"related_terms": ["Franchise", " Passing off", " Service mark", " Trade-marks Office", " Trade-marks Opposition Board", " Trade-name"],
-	"definition": "A mark distinguishing one trader's product or service from another's. Also spelled "trademark" (U.S.) and "trade mark" (other countries). Aptly for legislation on the need to be distinctive, Canada today uses the distinctive hyphenated spelling “trade-mark.” The usage was not uncommon in the nineteenth and early twentieth century although “trade mark” was used for most of the twentieth century, as in the rest of the Commonwealth. A return to the hyphenated spelling came without warning in the 1985 consolidation of the federal statutes, with no corresponding change in the French version (“marque-commerce,” anyone?). The Copyright Act did not then become the Copy-right Act even though "copy-right" was a spelling also used in the nineteenth century.",
+	"definition": "A mark distinguishing one trader's product or service from another's. Also spelled \"trademark\" (U.S.) and \"trade mark\" (other countries). Aptly for legislation on the need to be distinctive, Canada today uses the distinctive hyphenated spelling “trade-mark.” The usage was not uncommon in the nineteenth and early twentieth century although “trade mark” was used for most of the twentieth century, as in the rest of the Commonwealth. A return to the hyphenated spelling came without warning in the 1985 consolidation of the federal statutes, with no corresponding change in the French version (“marque-commerce,” anyone?). The Copyright Act did not then become the Copy-right Act even though \"copy-right\" was a spelling also used in the nineteenth century.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Corporate and Commercial Law", " Intellectual Property"],
 	"END": "end"
@@ -16853,6 +16834,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Trademark",
 	"related_terms": ["Trade-mark"],
+
 	"END": "end"
 },
 {
@@ -16944,9 +16926,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/public-international-law-2e",
 		"name": "Public International Law 2/e - John H. Currie"
-	"END": "end"
-},		},
-	"tags": ["Property Law", " Torts"],
+	},
 	"END": "end"
 },
 {
@@ -17029,10 +17009,6 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property", " International Law"],
 	"END": "end"
@@ -17056,14 +17032,15 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/income-tax-law-2e",
 		"name": "Income Tax Law 2/e - Vern Krishna"
+	},
 	"END": "end"
 },
 {
-	"term": "Twenty-one-year deemed disposition rule"
-	"definition": "A rule requiring that trust assets be treated for tax purposes as if they were disposed of every twenty-one years. This measure accompanied the introduction of capital gains taxation in 1972 to prevent trusts from being used to avoid the taxation of capital gains on death."
+	"term": "Twenty-one-year deemed disposition rule",
+	"definition": "A rule requiring that trust assets be treated for tax purposes as if they were disposed of every twenty-one years. This measure accompanied the introduction of capital gains taxation in 1972 to prevent trusts from being used to avoid the taxation of capital gains on death.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/income-tax-law-2e"
+		"url": "https://www.irwinlaw.com/titles/income-tax-law-2e",
 		"name": "Income Tax Law 2/e - Vern Krishna"
 		},
 	"tags": ["Taxation"],
@@ -17072,6 +17049,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "UCC",
 	"related_terms": ["Universal Copyright Convention "],
+
 	"END": "end"
 },
 {
@@ -17100,6 +17078,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Unbiased",
 	"related_terms": ["Impartial"],
+
 	"END": "end"
 },
 {
@@ -17133,10 +17112,6 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property"],
 	"END": "end"
@@ -17166,6 +17141,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Uniform Resource Locator",
 	"related_terms": ["URL"],
+
 	"END": "end"
 },
 {
@@ -17220,24 +17196,21 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/law-equitable-remedies-2e",
 		"name": "The Law of Equitable Remedies 2/e - Jeffrey Berryman"
+	},
 	"END": "end"
 },
 {
-	"term": "United Nations Security Council"
-	"related_terms": [Security Council"
+	"term": "United Nations Security Council",
+	"related_terms": ["Security Council"],
 	"END": "end"
 },
 {
-	"term": "Welcome to Irwin Law’s Canadian Online Legal Dictionary"
-	"END": "end"
-},
-{
-	"term": "Universal human rights"
-	"related_terms": [First generation human rights, Regional human rights, Second generation human rights, Third generation human rights"
-	"definition": "Human rights protections that have been articulated at a universal or global level."
+	"term": "Universal human rights",
+	"related_terms": ["First generation human rights", "Regional human rights", "Second generation human rights", "Third generation human rights"],
+	"definition": "Human rights protections that have been articulated at a universal or global level.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/public-international-law-2e"
+		"url": "https://www.irwinlaw.com/titles/public-international-law-2e",
 		"name": "Public International Law 2/e - John H. Currie"
 		},
 	"tags": ["Human Rights Law", " International Law"],
@@ -17261,15 +17234,16 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/law-equitable-remedies-2e",
 		"name": "The Law of Equitable Remedies 2/e - Jeffrey Berryman"
+	},
 	"END": "end"
 },
 {
-	"term": "Unlimited liability company"
-	"related_terms": [Company, Shareholder, Winding up"
-	"definition": "A company in which the shareholders are liable for the obligations of the company in some circumstances. Only a few provinces permit the incorporation of unlimited liability companies and the rules in the provinces that do are not the same. Under the Nova Scotia model, the shareholders are only liable to contribute to paying the company’s creditors where the corporation is being wound up and there are insufficient assets to pay off the creditors. Shareholders are not liable for obligations of the company on a day-to-day basis. Under Alberta law, shareholders are liable for any act, liability, or default on an ongoing basis. Some provinces also permit some professionals like lawyers to form professional corporations that do not provide full limited liability. Though the rules vary from one province to the next, in general, shareholders remain liable for their own professional negligence."
+	"term": "Unlimited liability company",
+	"related_terms": ["Company", "Shareholder", "Winding up"],
+	"definition": "A company in which the shareholders are liable for the obligations of the company in some circumstances. Only a few provinces permit the incorporation of unlimited liability companies and the rules in the provinces that do are not the same. Under the Nova Scotia model, the shareholders are only liable to contribute to paying the company’s creditors where the corporation is being wound up and there are insufficient assets to pay off the creditors. Shareholders are not liable for obligations of the company on a day-to-day basis. Under Alberta law, shareholders are liable for any act, liability, or default on an ongoing basis. Some provinces also permit some professionals like lawyers to form professional corporations that do not provide full limited liability. Though the rules vary from one province to the next, in general, shareholders remain liable for their own professional negligence.",
 	"source":
 		{
-		"url": "https://www.irwinlaw.com/titles/law-partnerships-and-corporations-3e"
+		"url": "https://www.irwinlaw.com/titles/law-partnerships-and-corporations-3e",
 		"name": "The Law of Partnerships and Corporations 3/e - J. Anthony VanDuzer"
 		},
 	"tags": ["Corporate and Commercial Law"],
@@ -17290,7 +17264,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Unreasonableness",
 	"related_terms": ["Judicial review", " Patent unreasonableness"],
-	"definition": "One of the three standards of review deployed by Canadian courts in reviewing administrative decision-making. This is an intermediate standard employed frequently in appeals from expert administrative tribunals and reflecting a certain level of judicial deference or respect for the decision or action under challenge. It is sometimes referred to as "unreasonableness simpliciter" to distinguish it from the even more deferential standard of "patent unreasonableness."",
+	"definition": "One of the three standards of review deployed by Canadian courts in reviewing administrative decision-making. This is an intermediate standard employed frequently in appeals from expert administrative tribunals and reflecting a certain level of judicial deference or respect for the decision or action under challenge. It is sometimes referred to as \"unreasonableness simpliciter\" to distinguish it from the even more deferential standard of \"patent unreasonableness.\"",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/administrative-law",
@@ -17302,6 +17276,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Unreasonableness simpliciter",
 	"related_terms": ["Unreasonableness"],
+
 	"END": "end"
 },
 {
@@ -17340,7 +17315,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Usefulness; utility",
 	"related_terms": ["Industrial design", " Patent"],
-	"definition": "In patent law, the requirement that an invention must have a practical use, must relate to the "useful" (not fine or professional) arts, and do what the patent specification claims it can. In copyright law, the design of "useful" articles receives only limited protection; further protection for their appearance may be gained by registration under the Industrial Design Act.",
+	"definition": "In patent law, the requirement that an invention must have a practical use, must relate to the \"useful\" (not fine or professional) arts, and do what the patent specification claims it can. In copyright law, the design of \"useful\" articles receives only limited protection; further protection for their appearance may be gained by registration under the Industrial Design Act.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e",
@@ -17364,6 +17339,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Utility",
 	"related_terms": ["Usefulness; utility"],
+
 	"END": "end"
 },
 {
@@ -17513,10 +17489,6 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property"],
 	"END": "end"
@@ -17547,6 +17519,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "WCT",
 	"related_terms": ["WIPO Copyright Treaty"],
+
 	"END": "end"
 },
 {
@@ -17615,14 +17588,6 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/international-trade-law"
-		"name": "International Trade Law - Jon R. Johnson Foreword by Gordon Ritchie"
 		},
 	"tags": ["Intellectual Property"],
 	"END": "end"
@@ -17641,7 +17606,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "WIPO Performances and Phonograms Treaty",
 	"related_terms": ["Moral rights", " Rome Convention", " WIPO", " WIPO Copyright Treaty"],
-	"definition": "The WIPO Performances and Phonograms Treaty, signed at Geneva on 20 December 1996 by about fifty countries at the same time as the WIPO Copyright Treaty, this treaty improves on the rights that record makers and performers have under the RomeConvention. Thus, performers are granted moral rights, and the same measures against decryption and circumvention of tracking devices are provided for records as the WIPO Copyright Treaty provides for traditional "works."",
+	"definition": "The WIPO Performances and Phonograms Treaty, signed at Geneva on 20 December 1996 by about fifty countries at the same time as the WIPO Copyright Treaty, this treaty improves on the rights that record makers and performers have under the RomeConvention. Thus, performers are granted moral rights, and the same measures against decryption and circumvention of tracking devices are provided for records as the WIPO Copyright Treaty provides for traditional \"works.\"",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
@@ -17653,7 +17618,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Withdrawal",
 	"related_terms": ["Multi-lateral treaty", " Stay of proceedings"],
-	"definition": "When charges against an accused are withdrawn (a matter of common law), no further legal action will be taken against the accused on that matter as contrasted with a "stay of proceedings" which is a statutory vehicle.",
+	"definition": "When charges against an accused are withdrawn (a matter of common law), no further legal action will be taken against the accused on that matter as contrasted with a \"stay of proceedings\" which is a statutory vehicle.",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/mental-health-courts",
@@ -17676,7 +17641,7 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 {
 	"term": "Without reasonable cause",
 	"related_terms": ["Probation"],
-	"definition": "The act of knowingly refusing to follow a condition or conditions in a probation order, resulting in a new criminal charge of "Breach Probation."",
+	"definition": "The act of knowingly refusing to follow a condition or conditions in a probation order, resulting in a new criminal charge of \"Breach Probation.\"",
 	"source":
 		{
 		"url": "https://www.irwinlaw.com/titles/mental-health-courts",
@@ -17710,13 +17675,13 @@ https://www.irwinlaw.com/titles/public-international-law-1e",
 },
 {
 	"term": "Workplace administrative tribunal",
-	"definition": "Tribunals are not courts. Workplace administrative tribunals are specialized dispute adjudication forums created by the provincial government to decide blame and liability for the violation of certain provincial laws dealing with employment issues or the violation of a collective agreement’s terms.",
-Unlike the judges in courts, tribunal appointees are not necessarily trained lawyers, and tribunals are not “courts of record,” meaning that there are no transcripts of proceedings unless one of the parties before the tribunal chooses to engage a shorthand reporter, which can be done only with the tribunal’s permission. The decisions of Ontario workplace administrative tribunals can be overturned (appealed) only by making application for judicial review to the Divisional Court.",
-The following are the primary private sector workplace administrative tribunals in Ontario:",
-Human Rights Tribunal of Ontario (HRTO)",
-Ontario Labour Relations Board (OLRB)",
-Pay Equity Hearings Tribunal",
-Workplace Safety and Insurance Appeals Tribunal",
+	"definition": "Tribunals are not courts. Workplace administrative tribunals are specialized dispute adjudication forums created by the provincial government to decide blame and liability for the violation of certain provincial laws dealing with employment issues or the violation of a collective agreement’s terms.\n
+Unlike the judges in courts, tribunal appointees are not necessarily trained lawyers, and tribunals are not “courts of record,” meaning that there are no transcripts of proceedings unless one of the parties before the tribunal chooses to engage a shorthand reporter, which can be done only with the tribunal’s permission. The decisions of Ontario workplace administrative tribunals can be overturned (appealed) only by making application for judicial review to the Divisional Court.\n
+The following are the primary private sector workplace administrative tribunals in Ontario:\n
+Human Rights Tribunal of Ontario (HRTO)\n
+Ontario Labour Relations Board (OLRB)\n
+Pay Equity Hearings Tribunal\n
+Workplace Safety and Insurance Appeals Tribunal\n
 An arbitrator appointed under the provisions of a collective agreement is also a workplace administrative tribunal. In addition to the above list, there are specialized workplace administrative tribunals that deal with specific public sector employment issues, for example, the Grievance Settlement Board for Ontario, which adjudicates the grievances of Crown employees in the Ontario public service.",
 	"source":
 		{
@@ -17729,6 +17694,7 @@ An arbitrator appointed under the provisions of a collective agreement is also a
 {
 	"term": "World Intellectual Property Organization",
 	"related_terms": ["WIPO"],
+
 	"END": "end"
 },
 {
@@ -17739,10 +17705,6 @@ An arbitrator appointed under the provisions of a collective agreement is also a
 		{
 		"url": "https://www.irwinlaw.com/titles/copyright-law",
 		"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-	"source":
-		{
-		"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-		"name": "Intellectual Property Law 2/e - David Vaver"
 		},
 	"tags": ["Intellectual Property"],
 	"END": "end"
@@ -17750,6 +17712,7 @@ An arbitrator appointed under the provisions of a collective agreement is also a
 {
 	"term": "WPPT",
 	"related_terms": ["WIPO Performances and Phonograms Treaty"],
+
 	"END": "end"
 },
 {
@@ -17779,6 +17742,7 @@ An arbitrator appointed under the provisions of a collective agreement is also a
 {
 	"term": "WTO",
 	"related_terms": ["World Trade Organization"],
+
 	"END": "end"
 },
 {
@@ -17831,11 +17795,13 @@ An arbitrator appointed under the provisions of a collective agreement is also a
 {
 	"term": "Youth",
 	"related_terms": ["Young person"],
+
 	"END": "end"
 },
 {
 	"term": "Youth court",
 	"related_terms": ["Youth justice court"],
+
 	"END": "end"
 },
 {
@@ -17872,4 +17838,6 @@ An arbitrator appointed under the provisions of a collective agreement is also a
 		},
 	"tags": ["Criminal Law", " Social Work"],
 	"END": "end"
-},]
+}
+
+]

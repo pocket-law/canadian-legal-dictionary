@@ -12,6 +12,7 @@ FIRST_DEFINITION = False
 
 TAGGING = False
 TAG_ONE = False
+WERE_TAGS = False
 
 text_file.write("[\n")
 
@@ -46,12 +47,16 @@ try:
 			SKIP_TO_TAGS = False
 			KILL_COMMA = False
 			TAGGING = True
+			WERE_TAGS = True
 			text_file.write("		},\n")
 			text_file.write("	\"tags\": [")
 		elif line.replace("\n","") == "<END>":
+			if WERE_TAGS == False:
+				text_file.write("\n")
 			text_file.write("	\"END\": \"end\"\n")
 			text_file.write("},")
 			FIRST_DEFINITION = False
+			WERE_TAGS = False
 			TAG_ONE = False
 			TAGGING = False
 		else:
