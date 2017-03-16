@@ -81,7 +81,7 @@ export default class MainListView extends Component{
     }
 
     fetchTerms(){
-        fetch('https://raw.githubusercontent.com/pocket-law/canadian-legal-dictionary/master/app/components/MainActivity/ListView/json/pocketlaw_dictionary.json')
+        fetch('https://raw.githubusercontent.com/pocket-law/canadian-legal-dictionary/master/app/components/MainActivity/ListView/json/pocketlaw_dictionary_test.json')
             .then((response) => response.json())
             .then((response) => {
                 this.setState({
