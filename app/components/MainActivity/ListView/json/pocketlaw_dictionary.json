@@ -17480,7 +17480,6 @@
 		{
 		"term": "Vulnerable species",
 		"related_terms": ["Endangered species"],
-			},
 		"tags": ["Filed in:", " Environmental Law", " Land Use", " Natural Resources"],
 		"END": "end"
 		},
@@ -17797,7 +17796,6 @@
 		{
 		"term": "Youth",
 		"related_terms": ["Young person"],
-
 		"END": "end"
 		},
 		{
@@ -17841,9 +17839,9 @@
 		"tags": ["Criminal Law", " Social Work"],
 		"END": "end"
 		}
-
-		],
-		"categories": [
+	],
+"categories":
+	[
 		{
 		"name": "Aboriginal Law"
 		},
@@ -18015,5 +18013,5 @@
 		{
 		"name": "Women and the Law"
 		}
-		]
-		}
+	]
+}
