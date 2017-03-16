@@ -6863,10 +6863,6 @@
 			{
 			"url": "https://www.irwinlaw.com/titles/copyright-law",
 			"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-		"source":
-			{
-			"url": "https://www.irwinlaw.com/titles/intellectual-property-law-2e"
-			"name": "Intellectual Property Law 2/e - David Vaver"
 			},
 		"tags": ["Intellectual Property"],
 		"END": "end"
@@ -11314,7 +11310,6 @@
 		{
 		"term": "Neighbouring rights",
 		"related_terms": ["Rome Convention"],
-
 		"END": "end"
 		},
 		{
