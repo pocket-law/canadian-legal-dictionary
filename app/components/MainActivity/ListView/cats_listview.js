@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import {AppRegistry, Text, View, ListView, StyleSheet, TouchableHighlight} from 'react-native';
 
+const mDictJson = require('./json/dict.json');
 
 export default class CatsListView extends Component{
     constructor(){
@@ -13,17 +14,16 @@ export default class CatsListView extends Component{
 
 
     componentDidMount(){
-        this.fetchCategories();
+        this.getInternalJson();
     }
 
-    fetchCategories(){
-        fetch('https://raw.githubusercontent.com/pocket-law/canadian-legal-dictionary/master/app/components/MainActivity/ListView/json/pocketlaw_dictionary.json')
-            .then((response) => response.json())
-            .then((response) => {
-                this.setState({
-                    catsDataSource: this.state.catsDataSource.cloneWithRows(response.categories)
-                });
-            });
+    getInternalJson(){
+        this.setState({
+            catsDataSource: this.state.catsDataSource.cloneWithRows(mDictJson.categories)
+        });
+
+        jsonString = JSON.stringify(mDictJson);
+
     }
 
     renderRow(category, sectionId, rowId, highlightRow){

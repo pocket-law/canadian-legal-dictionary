@@ -81,7 +81,6 @@ export default class MainListView extends Component{
 
     getInternalJson(){
         this.setState({
-            //termDataSource: this.state.termDataSource.cloneWithRows(response.terms)
             termDataSource: this.state.termDataSource.cloneWithRows(mDictJson.terms)
         });
 
@@ -90,23 +89,51 @@ export default class MainListView extends Component{
     }
 
     renderRow(term, sectionId, rowId, highlightRow){
-        sourceVar = ""
-        sourceName = ""
+        sourceVar = false;
+        relatedTermsVar = false;
+        relatedTerms = ""
+
+
         try {
-            sourceName = term.source.name
-            sourceVar = "Source:"
+            test = term.source.name;
+            sourceVar = true;
         } catch (error) {
-            console.log(term.term + " - ERROR")
+            console.log(term.term + "source - ERROR")
+        }
+
+        try {
+            relTerms = term.related_terms;
+            if (relTerms.length > 0) {
+                for (i = 0; i < relTerms.length; i++) {
+                    if (i == 0) {
+                        newTerms = relTerms[i];
+                    } else {
+                        newTerms = relatedTerms + ", " +relTerms[i];
+                    }
+                    relatedTerms = newTerms;
+                    relatedTermsVar = true;
+                }
+            }
+        } catch (error) {
+            console.log(term.term + " related_terms - ERROR")
         }
             return(
                 <View style={styles.row}>
                     <View style={styles.rowContent}>
                         <Text style={styles.termText}>{term.term}</Text>
-                        <Text style={styles.rowText}>{term.definition}</Text>
+                        {relatedTermsVar &&
+                            <View style={styles.seeAlsoView}>
+                                <Text style={styles.rowTextSeeAlso}>see also: </Text>
+                                <Text style={styles.seeAlsoName}>{relatedTerms}</Text>
+                            </View>
+                        }
+                        <Text style={styles.definitionText}>{term.definition}</Text>
+                        {sourceVar &&
                         <View style={styles.sourceView}>
-                            <Text style={styles.rowTextSource}>{sourceVar}</Text>
-                            <Text style={styles.sourceName}>{sourceName}</Text>
+                            <Text style={styles.rowTextSource}>SOURCE</Text>
+                            <Text style={styles.sourceName}>{term.source.name}</Text>
                         </View>
+                        }
 
                     </View>
                 </View>
@@ -145,14 +172,15 @@ const styles = StyleSheet.create({
     },
 
     termText: {
+        color: '#46474c',
         flex: 1,
-        fontSize: 16,
+        fontSize: 18,
         fontWeight:'bold'
     },
 
-    rowText: {
+    definitionText: {
         flex: 1,
-        marginLeft: 8,
+        marginBottom: 4,
         marginTop: 4
     },
 
@@ -162,21 +190,39 @@ const styles = StyleSheet.create({
     },
 
     rowTextSource: {
-        flexDirection:'row',
-        flex: 1,
         fontWeight:'bold',
         textAlign: 'right',
+        color: '#7d8693',
         fontSize: 10
     },
 
     sourceName: {
-        flex: 2,
         fontStyle: 'italic',
         fontWeight:'bold',
-        color: '#2F8DFF',
+        color: '#5474a8',
         textAlign: 'right',
         fontSize: 10
+    },
+
+    seeAlsoView: {
+        marginLeft: 16,
+        flex: 1,
+        flexDirection:'row'
+    },
+
+    rowTextSeeAlso: {
+        color: '#5474a8',
+        fontWeight: 'bold',
+        fontSize: 10
+    },
+
+    seeAlsoName: {
+        fontStyle: 'italic',
+        fontWeight:'bold',
+        color: '#7d8693',
+        fontSize: 10
     }
+
 });
 
 AppRegistry.registerComponent('MainListView', () => MainListView);

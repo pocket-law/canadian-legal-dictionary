@@ -78,8 +78,8 @@ const styles = StyleSheet.create({
     },
 
     leaf: {
-        height: 44,
-        width: 44,
+        height: 40,
+        width: 40,
         marginLeft: 4,
         marginTop: 8
 
@@ -91,7 +91,7 @@ const styles = StyleSheet.create({
         marginBottom: 3,
         color: '#FFFFFF',
         fontWeight: 'bold',
-        fontSize: 26
+        fontSize: 24
     },
 
     search_bar_view: {
