@@ -10,6 +10,8 @@ const jsonObj = null;
 
 const mDictJson = require('./json/dict.json');
 
+const sortedDict = null;
+
 export default class MainListView extends Component{
     constructor(){
         super();
@@ -76,12 +78,15 @@ export default class MainListView extends Component{
     }
 
     componentDidMount(){
+        sortedDict = mDictJson.terms.sort();
         this.getInternalJson();
     }
 
+
+
     getInternalJson(){
         this.setState({
-            termDataSource: this.state.termDataSource.cloneWithRows(mDictJson.terms)
+            termDataSource: this.state.termDataSource.cloneWithRows(sortedDict.sort())
         });
 
         jsonString = JSON.stringify(mDictJson);
