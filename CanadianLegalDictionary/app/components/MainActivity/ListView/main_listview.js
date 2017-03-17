@@ -1,16 +1,18 @@
 import React, {Component} from 'react';
 import {AppRegistry, Text, View, ListView, StyleSheet, TouchableHighlight} from 'react-native';
 
-import jsonPath from './utilities/jsonPath';
-
-
 const jsonString = '';
 
 const jsonObj = null;
 
 const mDictJson = require('./json/dict.json');
 
-const sortedDict = null;
+function sortByKey(array, key) {
+    return array.sort(function(a, b) {
+        var x = a[key]; var y = b[key];
+        return ((x < y) ? -1 : ((x > y) ? 1 : 0));
+    });
+}
 
 export default class MainListView extends Component{
     constructor(){
@@ -78,7 +80,6 @@ export default class MainListView extends Component{
     }
 
     componentDidMount(){
-        sortedDict = mDictJson.terms.sort();
         this.getInternalJson();
     }
 
@@ -86,7 +87,7 @@ export default class MainListView extends Component{
 
     getInternalJson(){
         this.setState({
-            termDataSource: this.state.termDataSource.cloneWithRows(sortedDict.sort())
+            termDataSource: this.state.termDataSource.cloneWithRows(sortByKey(mDictJson.terms, 'term'))
         });
 
         jsonString = JSON.stringify(mDictJson);
