@@ -77,6 +77,7 @@ export default class MainListView extends Component{
             // if search term = '', show all terms
             this.getInternalJson();
         }
+        this.refs.mainListviewRef.getScrollResponder().scrollTo({x:0, y:0, animated: false});
     }
 
     componentDidMount(){
@@ -150,6 +151,7 @@ export default class MainListView extends Component{
         return(
             <ListView
                 style={styles.listView}
+                ref='mainListviewRef'
                 dataSource={this.state.termDataSource}
                 renderRow={this.renderRow.bind(this)} />
         );
@@ -161,7 +163,7 @@ const styles = StyleSheet.create({
     listView: {
         // TODO: to get past the bottom bar on android, maybe theres a better way?
         // seems to be based on the height of the top bar
-        marginBottom: 236
+        marginBottom: 232
     },
 
     row: {
