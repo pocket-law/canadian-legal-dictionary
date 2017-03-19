@@ -22,12 +22,14 @@ export default class MainListView extends Component{
             termDataSource: ds,
             resultsArray: [],
             searchTerm:  '',
+            categorySet: ''
 
         };
     }
 
 
     componentWillReceiveProps(nextProps) {
+
         // Update state searchTerm when prop searchTerm updated
         if (nextProps.searchTerm != '') {
             console.log("MainListView new search: " + nextProps.searchTerm);
@@ -73,10 +75,16 @@ export default class MainListView extends Component{
             } else {
                 alert("No Results!")
             }
-        } else {
+        } else if (nextProps.searchTerm == '') {
             // if search term = '', show all terms
             this.getInternalJson();
         }
+
+        if (nextProps.categorySet != '' && nextProps.categorySet != null) {
+            console.log("AyeCaramba! categorySet = " + nextProps.categorySet);
+        }
+
+        // Scroll mainlistview to top after changing it's contents
         this.refs.mainListviewRef.getScrollResponder().scrollTo({x:0, y:0, animated: false});
     }
 
@@ -105,7 +113,7 @@ export default class MainListView extends Component{
             test = term.source.name;
             sourceVar = true;
         } catch (error) {
-            console.log(term.term + "source - ERROR")
+            //console.log(term.term + "source - ERROR")
         }
 
         try {
@@ -122,7 +130,7 @@ export default class MainListView extends Component{
                 }
             }
         } catch (error) {
-            console.log(term.term + " related_terms - ERROR")
+            //console.log(term.term + " related_terms - ERROR")
         }
             return(
                 <View style={styles.row}>

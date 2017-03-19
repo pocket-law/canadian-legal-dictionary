@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {AppRegistry, Text, View, ListView, StyleSheet, TouchableHighlight} from 'react-native';
+import {AppRegistry, Text, View, ListView, StyleSheet, TouchableOpacity} from 'react-native';
 
 const mDictJson = require('./json/dict.json');
 
@@ -9,12 +9,18 @@ export default class CatsListView extends Component{
         const ds = new ListView.DataSource({rowHasChanged: (r1, r2) => r1 !== r2});
         this.state = {
             catsDataSource: ds,
+            categorySet: ''
         };
     }
 
 
     componentDidMount(){
         this.getInternalJson();
+    }
+
+    handlePress(category) {
+        this.state.categorySet = category.name;
+        this.props.changeCategory(category.name);
     }
 
     getInternalJson(){
@@ -29,9 +35,13 @@ export default class CatsListView extends Component{
     renderRow(category, sectionId, rowId, highlightRow){
             return(
                 <View style={styles.row}>
-                    <View>
-                        <Text style={styles.categoryText}>{category.name}</Text>
-                    </View>
+                    <TouchableOpacity onPress={()=>this.handlePress(category)}>
+
+                        <View>
+                            <Text style={styles.categoryText}>{category.name}</Text>
+                        </View>
+                    </TouchableOpacity>
+
                 </View>
             )
         }
@@ -45,6 +55,7 @@ export default class CatsListView extends Component{
         );
     }
 }
+
 
 const styles = StyleSheet.create({
     listView: {

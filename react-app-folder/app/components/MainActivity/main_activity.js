@@ -9,28 +9,35 @@ export default class MainActivity extends Component{
     constructor(){
         super();
         this.state = {
-            mainListView: true,
-            catsListView: false,
-            searchTerm: ''
+            isVisible: 'full-list',
+            searchTerm: '',
+            categorySet: ''
         };
     }
 
     handleListView(isVisible) {
+        this.state.categorySet = ''
 
         if (isVisible == 'categories') {
-            this.setState({catsListView: true});
-            this.setState({mainListView: false});
+            this.setState({isVisible: 'categories'});
         } else if (isVisible == 'full-list') {
-            this.setState({mainListView: true});
-            this.setState({catsListView: false});
+            this.setState({isVisible: 'full-list'});
         }
-
     }
 
     handleSearch(searchTerm) {
         this.setState({searchTerm: searchTerm});
+        this.setState({categorySet: ''});
         console.log("MainActivity search: " + searchTerm);
     }
+
+    handleCategoryChange(category) {
+        this.setState({categorySet: category});
+        this.setState({searchTerm: ''});
+        this.setState({isVisible: 'full-list'})
+        console.log("MainActivity category: " + category);
+    }
+
 
     render(){
         return(
@@ -38,12 +45,34 @@ export default class MainActivity extends Component{
                 <View style={styles.titleBar}>
                     <TitleBar
                         changeListView={this.handleListView.bind(this)}
-                        searchFor={this.handleSearch.bind(this)}
-                        />
+                        isVisible={this.state.isVisible}
+                        searchFor={this.handleSearch.bind(this)} />
                 </View>
                 <View style={styles.listView}>
-                    {this.state.mainListView ? <MainListView searchTerm={this.state.searchTerm}/> : null}
-                    {this.state.catsListView ? <CatsListView/> : null}
+                    {this.state.isVisible == 'full-list' ?
+                        <View>
+                            <MainListView
+                                categorySet={this.state.categorySet}
+                                searchTerm={this.state.searchTerm} />
+                        </View>
+                    :
+                        <View style={styles.noHeight}>
+                            <MainListView
+                                categorySet={this.state.categorySet}
+                                searchTerm={this.state.searchTerm} />
+                        </View>
+                    }
+                    {this.state.isVisible == 'categories'  ?
+                        <View>
+                            <CatsListView
+                                changeCategory={this.handleCategoryChange.bind(this)} />
+                        </View>
+                    :
+                    <View style={styles.noHeight}>
+                        <CatsListView
+                            changeCategory={this.handleCategoryChange.bind(this)} />
+                    </View>
+                    }
                 </View>
             </View>
         );
@@ -53,6 +82,10 @@ export default class MainActivity extends Component{
 const styles = StyleSheet.create({
     container: {
         flexDirection:'column'
+    },
+
+    noHeight: {
+        height: 0
     },
 
     titleBar: {

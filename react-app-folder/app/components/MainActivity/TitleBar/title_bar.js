@@ -12,15 +12,16 @@ export default class TitleBar extends Component{
     }
 
     handleHamburger() {
-        var isVisible = this.state.isVisible;
+        var isVisible = this.props.isVisible;
+
         console.log('was visible - ' + isVisible);
 
         if (isVisible == 'full-list') {
-            this.setState({ isVisible: 'categories' });
             isVisible = 'categories';
         } else if (isVisible == 'categories') {
-            this.setState({ isVisible: 'full-list' });
             isVisible = 'full-list';
+        } else {
+            isVisible = 'full-list'
         }
         console.log('now visible - ' + isVisible);
 
