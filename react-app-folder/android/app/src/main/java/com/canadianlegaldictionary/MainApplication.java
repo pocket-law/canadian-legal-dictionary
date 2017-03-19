@@ -1,4 +1,4 @@
-package com.canadianlegaldictionary;
+package org.pocketlaw.cld;
 
 import android.app.Application;
 
