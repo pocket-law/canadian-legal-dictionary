@@ -14,6 +14,18 @@
 			},
 		"tags": ["Women and the Law"]
 		},
+		{
+		"term": "Suffrage",
+		"definition": "Suffrage, political franchise, or simply franchise is the right to vote in public, political elections (although the term is sometimes used for any right to vote). Women's suffrage (also known as female suffrage, woman suffrage or women's right to vote) is the right of women to vote in elections.",
+		"source":
+			{
+			"url": "https://en.wikipedia.org/wiki/Suffrage",
+			"name": "Wikipedia"
+			},
+		"tags": ["Women and the Law"]
+		},
+
+
 
 
 
@@ -25,8 +37,7 @@
 			"url": "https://www.irwinlaw.com/titles/public-international-law-2e",
 			"name": "Public International Law 2/e - John H. Currie"
 			},
-		"tags": ["Housing & Urban Development", " International Law", " Land Use", " Property Law"],
-		"END": "end"
+		"tags": ["Housing & Urban Development", " International Law", " Land Use", " Property Law"]
 		},
 		{
 		"term": "Abatement",
@@ -37,8 +48,7 @@
 			"url": "https://www.irwinlaw.com/titles/law-torts-5e",
 			"name": "The Law of Torts, 5/e - Philip H. Osborne"
 			},
-		"tags": ["Remedies", " Torts"],
-		"END": "end"
+		"tags": ["Remedies", " Torts"]
 		},
 		{
 		"term": "Aboriginal peoples",
@@ -48,8 +58,7 @@
 			"url": "https://www.irwinlaw.com/titles/constitutional-law-5e",
 			"name": "Constitutional Law, 5/e - Patrick Monahan, Byron Shaw and Padraic Ryan"
 			},
-		"tags": ["Aboriginal Law", " Constitutional Law"],
-		"END": "end"
+		"tags": ["Aboriginal Law", " Constitutional Law"]
 		},
 		{
 		"term": "Abridgment",
@@ -59,8 +68,7 @@
 			"url": "https://www.irwinlaw.com/titles/legal-research-and-writing-4e",
 			"name": "Legal Research and Writing, 4/e - Ted Tjaden"
 			},
-		"tags": ["Legal Research and Writing"],
-		"END": "end"
+		"tags": ["Legal Research and Writing"]
 		},
 		{
 		"term": "Absconding",
@@ -70,8 +78,7 @@
 			"url": "https://www.irwinlaw.com/titles/understanding-bail-canada",
 			"name": "Understanding Bail in Canada - Gary T Trotter"
 			},
-		"tags": ["Criminal Law"],
-		"END": "end"
+		"tags": ["Criminal Law"]
 		},
 		{
 		"term": "Absolute discharge",
@@ -82,8 +89,7 @@
 			"url": "https://www.irwinlaw.com/titles/criminal-law-6e",
 			"name": "Criminal Law, 6/e - Kent Roach"
 			},
-		"tags": ["Criminal Law"],
-		"END": "end"
+		"tags": ["Criminal Law"]
 		},
 		{
 		"term": "Absolute jurisdiction offence",
@@ -94,8 +100,7 @@
 			"url": "https://www.irwinlaw.com/titles/criminal-procedure-3e",
 			"name": "Criminal Procedure 3/e - Steve Coughlan"
 			},
-		"tags": ["Criminal Law"],
-		"END": "end"
+		"tags": ["Criminal Law"]
 		},
 		{
 		"term": "Absolute liability",
@@ -106,8 +111,7 @@
 			"url": "https://www.irwinlaw.com/titles/charter-rights-and-freedoms-6e",
 			"name": "The Charter of Rights and Freedoms 6/e - Robert J. Sharpe and Kent Roach"
 			},
-		"tags": ["Criminal Law"],
-		"END": "end"
+		"tags": ["Criminal Law"]
 		},
 		{
 		"term": "Absolute state immunity",
@@ -118,8 +122,7 @@
 			"url": "https://www.irwinlaw.com/titles/public-international-law-2e",
 			"name": "Public International Law 2/e - John H. Currie"
 			},
-		"tags": ["International Law"],
-		"END": "end"
+		"tags": ["International Law"]
 		},
 		{
 		"term": "Abuse of process",
@@ -130,8 +133,7 @@
 			"url": "https://www.irwinlaw.com/titles/law-torts-5e",
 			"name": "The Law of Torts, 5/e - Philip H. Osborne"
 			},
-		"tags": ["Civil Litigation", " Criminal Law"],
-		"END": "end"
+		"tags": ["Civil Litigation", " Criminal Law"]
 		},
 		{
 		"term": "Abutting",
@@ -141,8 +143,7 @@
 			"url": "https://www.irwinlaw.com/titles/land-use-planning",
 			"name": "Land-Use Planning - Howard Epstein"
 			},
-		"tags": ["Housing & Urban Development", " Land Use", " Property Law"],
-		"END": "end"
+		"tags": ["Housing & Urban Development", " Land Use", " Property Law"]
 		},
 		{
 		"term": "Accessibility",
@@ -152,8 +153,7 @@
 			"url": "https://www.irwinlaw.com/titles/land-use-planning",
 			"name": "Land-Use Planning - Howard Epstein"
 			},
-		"tags": ["Housing & Urban Development", " Human Rights Law", " Land Use"],
-		"END": "end"
+		"tags": ["Housing & Urban Development", " Human Rights Law", " Land Use"]
 		},
 		{
 		"term": "Accessibility threshold",
@@ -163,7 +163,7 @@
 			"url": "https://www.irwinlaw.com/titles/law-equitable-remedies-2e",
 			"name": "The Law of Equitable Remedies 2/e - Jeffrey Berryman"
 			},
-		"END": "end"
+		"tags": ["Remedies"]
 		},
 		{
 		"term": "Accession",
@@ -174,8 +174,7 @@
 			"url": "https://www.irwinlaw.com/titles/public-international-law-2e",
 			"name": "Public International Law 2/e - John H. Currie"
 			},
-		"tags": ["International Law"],
-		"END": "end"
+		"tags": ["International Law"]
 		},
 		{
 		"term": "Accessory building",
@@ -185,8 +184,7 @@
 			"url": "https://www.irwinlaw.com/titles/land-use-planning",
 			"name": "Land-Use Planning - Howard Epstein"
 			},
-		"tags": ["Housing & Urban Development", " Land Use", " Property Law"],
-		"END": "end"
+		"tags": ["Housing & Urban Development", " Land Use", " Property Law"]
 		},
 		{
 		"term": "Accessory use",
@@ -197,8 +195,7 @@
 			"url": "https://www.irwinlaw.com/titles/land-use-planning",
 			"name": "Land-Use Planning - Howard Epstein"
 			},
-		"tags": ["Housing & Urban Development", " Land Use", " Property Law"],
-		"END": "end"
+		"tags": ["Housing & Urban Development", " Land Use", " Property Law"]
 		},
 		{
 		"term": "Accident",
@@ -209,8 +206,7 @@
 			"url": "https://www.irwinlaw.com/titles/law-torts-5e",
 			"name": "The Law of Torts, 5/e - Philip H. Osborne"
 			},
-		"tags": ["Torts"],
-		"END": "end"
+		"tags": ["Torts"]
 		},
 
 		{
@@ -222,8 +218,7 @@
 			"url": "https://www.irwinlaw.com/titles/copyright-law",
 			"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
 			},
-		"tags": ["Intellectual Property"],
-		"END": "end"
+		"tags": ["Intellectual Property"]
 		},
 		{
 		"term": "Accountability",
@@ -233,8 +228,7 @@
 			"url": "https://www.irwinlaw.com/titles/youth-criminal-justice-law-3e",
 			"name": "Youth Criminal Justice Law, 3/e - Nicholas Bala and Sanjeev Anand"
 			},
-		"tags": ["Criminal Law"],
-		"END": "end"
+		"tags": ["Criminal Law"]
 		},
 		{
 		"term": "Accreditation",
@@ -244,8 +238,7 @@
 			"url": "https://www.irwinlaw.com/titles/lawyer%E2%80%99s-guide-forensic-sciences",
 			"name": "The Lawyer’s Guide to the Forensic Sciences -  Edited by Caitlin Pakosh"
 			},
-		"tags": ["Medical Law & Legislation", " Science & Technology"],
-		"END": "end"
+		"tags": ["Medical Law & Legislation", " Science & Technology"]
 		},
 		{
 		"term": "Accretion",
@@ -255,8 +248,7 @@
 			"url": "https://www.irwinlaw.com/titles/public-international-law-2e",
 			"name": "Public International Law 2/e - John H. Currie"
 			},
-		"tags": ["International Law"],
-		"END": "end"
+		"tags": ["International Law"]
 		},
 		{
 		"term": "Accused",
@@ -267,8 +259,7 @@
 			"url": "https://www.irwinlaw.com/titles/mental-health-courts",
 			"name": "Mental Health Courts - Richard D. Schneider, Hy Bloom and Mark Heerema"
 			},
-		"tags": ["Criminal Law"],
-		"END": "end"
+		"tags": ["Criminal Law"]
 		},
 		{
 		"term": "Acquiescence",
@@ -278,14 +269,11 @@
 			"url": "https://www.irwinlaw.com/titles/public-international-law-2e",
 			"name": "Public International Law 2/e - John H. Currie"
 			},
-		"tags": ["International Law"],
-		"END": "end"
+		"tags": ["International Law"]
 		},
 		{
 		"term": "Acquired rights",
-		"related_terms": ["Non-conforming use"],
-
-		"END": "end"
+		"related_terms": ["Non-conforming use"]
 		},
 		{
 		"term": "Acquittal",
@@ -295,8 +283,7 @@
 			"url": "https://www.irwinlaw.com/titles/trauma-trials-and-transformation",
 			"name": "Trauma, Trials, and Transformation - Judith Daylen, Wendy van Tongeren Harvey and Dennis O’Toole Foreword by Claire L’Heureux-Dubé"
 			},
-		"tags": ["Criminal Law"],
-		"END": "end"
+		"tags": ["Criminal Law"]
 		},
 		{
 		"term": "Act",
@@ -307,8 +294,7 @@
 			"url": "https://www.irwinlaw.com/titles/trauma-trials-and-transformation",
 			"name": "Trauma, Trials, and Transformation - Judith Daylen, Wendy van Tongeren Harvey and Dennis O’Toole Foreword by Claire L’Heureux-Dubé"
 			},
-		"tags": ["Constitutional Law", " Labour and Employment Law", " Legal Research and Writing", " Political Science"],
-		"END": "end"
+		"tags": ["Constitutional Law", " Labour and Employment Law", " Legal Research and Writing", " Political Science"]
 		},
 		{
 		"term": "Act of God",
@@ -318,8 +304,7 @@
 			"url": "https://www.irwinlaw.com/titles/law-torts-5e",
 			"name": "The Law of Torts, 5/e - Philip H. Osborne"
 			},
-		"tags": ["Torts"],
-		"END": "end"
+		"tags": ["Torts"]
 		},
 		{
 		"term": "Actio per quod consortium amisit",
@@ -330,8 +315,7 @@
 			"url": "https://www.irwinlaw.com/titles/law-torts-5e",
 			"name": "The Law of Torts, 5/e - Philip H. Osborne"
 			},
-		"tags": ["Torts"],
-		"END": "end"
+		"tags": ["Torts"]
 		},
 		{
 		"term": "Actio per quod servitium amisit",
@@ -342,8 +326,7 @@
 			"url": "https://www.irwinlaw.com/titles/law-torts-5e",
 			"name": "The Law of Torts, 5/e - Philip H. Osborne"
 			},
-		"tags": ["Torts"],
-		"END": "end"
+		"tags": ["Torts"]
 		},
 		{
 		"term": "Action",
@@ -354,14 +337,11 @@
 			"url": "https://www.irwinlaw.com/titles/administrative-law",
 			"name": "Administrative Law - David Mullan"
 			},
-		"tags": ["Administrative Law", " Civil Litigation", " Judges and Courts"],
-		"END": "end"
+		"tags": ["Administrative Law", " Civil Litigation", " Judges and Courts"]
 		},
 		{
 		"term": "Action area plan",
-		"related_terms": ["Community plan"],
-
-		"END": "end"
+		"related_terms": ["Community plan"]
 		},
 		{
 		"term": "Action on the case",
@@ -372,8 +352,7 @@
 			"url": "https://www.irwinlaw.com/titles/law-torts-5e",
 			"name": "The Law of Torts, 5/e - Philip H. Osborne"
 			},
-		"tags": ["Torts"],
-		"END": "end"
+		"tags": ["Torts"]
 		},
 		{
 		"term": "Actionable per se",
@@ -384,8 +363,7 @@
 			"url": "https://www.irwinlaw.com/titles/law-torts-5e",
 			"name": "The Law of Torts, 5/e - Philip H. Osborne"
 			},
-		"tags": ["Torts"],
-		"END": "end"
+		"tags": ["Torts"]
 		},
 		{
 		"term": "Actus reus",
@@ -396,8 +374,7 @@
 			"url": "https://www.irwinlaw.com/titles/criminal-law-6e",
 			"name": "Criminal Law, 6/e - Kent Roach"
 			},
-		"tags": ["Criminal Law"],
-		"END": "end"
+		"tags": ["Criminal Law"]
 		},
 		{
 		"term": "Adaptive reuse",
@@ -407,8 +384,7 @@
 			"url": "https://www.irwinlaw.com/titles/land-use-planning",
 			"name": "Land-Use Planning - Howard Epstein"
 			},
-		"tags": ["Housing & Urban Development", " Land Use", " Property Law"],
-		"END": "end"
+		"tags": ["Housing & Urban Development", " Land Use", " Property Law"]
 		},
 		{
 		"term": "Addition",
@@ -418,8 +394,7 @@
 			"url": "https://www.irwinlaw.com/titles/land-use-planning",
 			"name": "Land-Use Planning - Howard Epstein"
 			},
-		"tags": ["Housing & Urban Development", " Land Use", " Property Law"],
-		"END": "end"
+		"tags": ["Housing & Urban Development", " Land Use", " Property Law"]
 		},
 		{
 		"term": "Address of Parliament",
@@ -429,14 +404,11 @@
 			"url": "https://www.irwinlaw.com/titles/laws-government-2e",
 			"name": "The Laws of Government 2/e - Craig Forcese and Aaron Freeman"
 			},
-		"tags": ["Political Science"],
-		"END": "end"
+		"tags": ["Political Science"]
 		},
 		{
 		"term": "Adjoining",
-		"related_terms": ["Abutting"],
-
-		"END": "end"
+		"related_terms": ["Abutting"]
 		},
 		{
 		"term": "Adjournment",
@@ -447,8 +419,7 @@
 			"url": "https://www.irwinlaw.com/titles/mental-health-courts",
 			"name": "Mental Health Courts - Richard D. Schneider, Hy Bloom and Mark Heerema"
 			},
-		"tags": ["Civil Litigation", " Criminal Law"],
-		"END": "end"
+		"tags": ["Civil Litigation", " Criminal Law"]
 		},
 		{
 		"term": "Adjudicative facts",
@@ -459,8 +430,7 @@
 			"url": "https://www.irwinlaw.com/titles/charter-rights-and-freedoms-6e",
 			"name": "The Charter of Rights and Freedoms 6/e - Robert J. Sharpe and Kent Roach"
 			},
-		"tags": ["Constitutional Law"],
-		"END": "end"
+		"tags": ["Constitutional Law"]
 		},
 		{
 		"term": "Administrative (non-constitutional) judicial review",
@@ -471,14 +441,11 @@
 			"url": "https://www.irwinlaw.com/titles/constitutional-law-5e",
 			"name": "Constitutional Law, 5/e - Patrick Monahan, Byron Shaw and Padraic Ryan"
 			},
-		"tags": ["Administrative Law"],
-		"END": "end"
+		"tags": ["Administrative Law"]
 		},
 		{
 		"term": "Administrative tribunal",
-		"related_terms": ["Workplace administrative tribunal"],
-
-		"END": "end"
+		"related_terms": ["Workplace administrative tribunal"]
 		},
 		{
 		"term": "Adoption",
@@ -489,8 +456,7 @@
 			"url": "https://www.irwinlaw.com/titles/public-international-law-2e",
 			"name": "Public International Law 2/e - John H. Currie"
 			},
-		"tags": ["International Law"],
-		"END": "end"
+		"tags": ["International Law"]
 		},
 		{
 		"term": "Adoptionist",
@@ -501,8 +467,7 @@
 			"url": "https://www.irwinlaw.com/titles/public-international-law-2e",
 			"name": "Public International Law 2/e - John H. Currie"
 			},
-		"tags": ["International Law"],
-		"END": "end"
+		"tags": ["International Law"]
 		},
 		{
 		"term": "Adult",
@@ -513,8 +478,7 @@
 			"url": "https://www.irwinlaw.com/titles/youth-criminal-justice-law-3e",
 			"name": "Youth Criminal Justice Law, 3/e - Nicholas Bala and Sanjeev Anand"
 			},
-		"tags": ["Criminal Law"],
-		"END": "end"
+		"tags": ["Criminal Law"]
 		},
 		{
 		"term": "Adult detention",
@@ -525,8 +489,7 @@
 			"url": "https://www.irwinlaw.com/titles/mental-health-courts",
 			"name": "Mental Health Courts - Richard D. Schneider, Hy Bloom and Mark Heerema"
 			},
-		"tags": ["Criminal Law"],
-		"END": "end"
+		"tags": ["Criminal Law"]
 		},
 		{
 		"term": "Adult entertainment",
@@ -536,8 +499,7 @@
 			"url": "https://www.irwinlaw.com/titles/land-use-planning",
 			"name": "Land-Use Planning - Howard Epstein"
 			},
-		"tags": ["Housing & Urban Development", " Property Law"],
-		"END": "end"
+		"tags": ["Housing & Urban Development", " Property Law"]
 		},
 		{
 		"term": "Adult sentence",
@@ -548,8 +510,7 @@
 			"url": "https://www.irwinlaw.com/titles/youth-criminal-justice-law-1e",
 			"name": "Youth Criminal Justice Law 1/e - Nicholas Bala Foreword by Heino Lilles"
 			},
-		"tags": ["Criminal Law"],
-		"END": "end"
+		"tags": ["Criminal Law"]
 		},
 		{
 		"term": "Adversarial",
@@ -560,8 +521,7 @@
 			"url": "https://www.irwinlaw.com/titles/youth-criminal-justice-law-3e",
 			"name": "Youth Criminal Justice Law, 3/e - Nicholas Bala and Sanjeev Anand"
 			},
-		"tags": ["Civil Litigation", " Criminal Law", " Judges and Courts", " Legal Profession"],
-		"END": "end"
+		"tags": ["Civil Litigation", " Criminal Law", " Judges and Courts", " Legal Profession"]
 		},
 		{
 		"term": "Adverse environmental effect",
@@ -571,8 +531,7 @@
 			"url": "https://www.irwinlaw.com/titles/land-use-planning",
 			"name": "Land-Use Planning - Howard Epstein"
 			},
-		"tags": ["Housing & Urban Development", " Land Use", " Property Law", " Science & Technology"],
-		"END": "end"
+		"tags": ["Housing & Urban Development", " Land Use", " Property Law", " Science & Technology"]
 		},
 		{
 		"term": "Aesthetics",
@@ -582,8 +541,7 @@
 			"url": "https://www.irwinlaw.com/titles/land-use-planning",
 			"name": "Land-Use Planning - Howard Epstein"
 			},
-		"tags": ["Housing & Urban Development", " Property Law"],
-		"END": "end"
+		"tags": ["Housing & Urban Development", " Property Law"]
 		},
 		{
 		"term": "Affected local government",
@@ -593,8 +551,7 @@
 			"url": "https://www.irwinlaw.com/titles/land-use-planning",
 			"name": "Land-Use Planning - Howard Epstein"
 			},
-		"tags": ["Housing & Urban Development", " Property Law"],
-		"END": "end"
+		"tags": ["Housing & Urban Development", " Property Law"]
 		},
 		{
 		"term": "Affidavit",
@@ -605,8 +562,7 @@
 			"url": "https://www.irwinlaw.com/titles/trauma-trials-and-transformation",
 			"name": "Trauma, Trials, and Transformation - Judith Daylen, Wendy van Tongeren Harvey and Dennis O’Toole Foreword by Claire L’Heureux-Dubé"
 			},
-		"tags": ["Evidence", " Civil Litigation"],
-		"END": "end"
+		"tags": ["Evidence", " Civil Litigation"]
 		},
 		{
 		"term": "Affidavit of documents",
@@ -617,8 +573,7 @@
 			"url": "https://www.irwinlaw.com/titles/employment-and-labour-law-toolbox",
 			"name": "Employment and Labour Law Toolbox - Paul Wearing"
 			},
-		"tags": ["Labour and Employment Law"],
-		"END": "end"
+		"tags": ["Labour and Employment Law"]
 		},
 		{
 		"term": "Affiliated corporations",
@@ -629,8 +584,7 @@
 			"url": "https://www.irwinlaw.com/titles/law-partnerships-and-corporations-3e",
 			"name": "The Law of Partnerships and Corporations 3/e - J. Anthony VanDuzer"
 			},
-		"tags": ["Corporate and Commercial Law"],
-		"END": "end"
+		"tags": ["Corporate and Commercial Law"]
 		},
 		{
 		"term": "Affiliated municipality",
@@ -640,8 +594,7 @@
 			"url": "https://www.irwinlaw.com/titles/land-use-planning",
 			"name": "Land-Use Planning - Howard Epstein"
 			},
-		"tags": ["Housing & Urban Development", " Property Law"],
-		"END": "end"
+		"tags": ["Housing & Urban Development", " Property Law"]
 		},
 		{
 		"term": "Affirmation",
@@ -651,8 +604,7 @@
 			"url": "https://www.irwinlaw.com/titles/trauma-trials-and-transformation",
 			"name": "Trauma, Trials, and Transformation - Judith Daylen, Wendy van Tongeren Harvey and Dennis O’Toole Foreword by Claire L’Heureux-Dubé"
 			},
-		"tags": ["Evidence"],
-		"END": "end"
+		"tags": ["Evidence"]
 		},
 		{
 		"term": "Affirmative action",
@@ -662,8 +614,7 @@
 			"url": "https://www.irwinlaw.com/titles/charter-rights-and-freedoms-6e",
 			"name": "The Charter of Rights and Freedoms 6/e - Robert J. Sharpe and Kent Roach"
 			},
-		"tags": ["Constitutional Law", " Labour and Employment Law"],
-		"END": "end"
+		"tags": ["Constitutional Law", " Labour and Employment Law"]
 		},
 		{
 		"term": "Agency costs",
@@ -674,8 +625,7 @@
 			"url": "https://www.irwinlaw.com/titles/law-partnerships-and-corporations-3e",
 			"name": "The Law of Partnerships and Corporations 3/e - J. Anthony VanDuzer"
 			},
-		"tags": ["Corporate and Commercial Law"],
-		"END": "end"
+		"tags": ["Corporate and Commercial Law"]
 		},
 		{
 		"term": "Agency shop provision",
@@ -686,8 +636,7 @@
 			"url": "https://www.irwinlaw.com/titles/charter-rights-and-freedoms-6e",
 			"name": "The Charter of Rights and Freedoms 6/e - Robert J. Sharpe and Kent Roach"
 			},
-		"tags": ["Labour and Employment Law"],
-		"END": "end"
+		"tags": ["Labour and Employment Law"]
 		},
 		{
 		"term": "Aggravated damages",
@@ -1357,14 +1306,11 @@
 			"url": "https://www.irwinlaw.com/titles/law-torts-5e",
 			"name": "The Law of Torts, 5/e - Philip H. Osborne"
 			},
-		"tags": ["Criminal Law", " Torts"],
-		"END": "end"
+		"tags": ["Criminal Law", " Torts"]
 		},
 		{
 		"term": "Asset freezing order",
-		"related_terms": ["Freezing order", " Mareva injunction"],
-
-		"END": "end"
+		"related_terms": ["Freezing order", " Mareva injunction"]
 		},
 		{
 		"term": "Assignment",
@@ -1374,14 +1320,11 @@
 			"url": "https://www.irwinlaw.com/titles/copyright-law",
 			"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
 			},
-		"tags": ["Intellectual Property"],
-		"END": "end"
+		"tags": ["Intellectual Property"]
 		},
 		{
 		"term": "Assignor estoppel",
-		"related_terms": ["Estoppel"],
-
-		"END": "end"
+		"related_terms": ["Estoppel"]
 		},
 		{
 		"term": "Associated enterprises",
@@ -1392,8 +1335,7 @@
 			"url": "https://www.irwinlaw.com/titles/income-tax-law-2e",
 			"name": "Income Tax Law 2/e - Vern Krishna"
 			},
-		"tags": ["International Law", " Taxation"],
-		"END": "end"
+		"tags": ["International Law", " Taxation"]
 		},
 		{
 		"term": "At pleasure",
@@ -1403,8 +1345,7 @@
 			"url": "https://www.irwinlaw.com/titles/administrative-law",
 			"name": "Administrative Law - David Mullan"
 			},
-		"tags": ["Administrative Law"],
-		"END": "end"
+		"tags": ["Administrative Law"]
 		},
 		{
 		"term": "Attempt",
@@ -1414,8 +1355,7 @@
 			"url": "https://www.irwinlaw.com/titles/criminal-law-6e",
 			"name": "Criminal Law, 6/e - Kent Roach"
 			},
-		"tags": ["Criminal Law"],
-		"END": "end"
+		"tags": ["Criminal Law"]
 		},
 		{
 		"term": "Attendance order",
@@ -1425,8 +1365,7 @@
 			"url": "https://www.irwinlaw.com/titles/youth-criminal-justice-law-3e",
 			"name": "Youth Criminal Justice Law, 3/e - Nicholas Bala and Sanjeev Anand"
 			},
-		"tags": ["Criminal Law"],
-		"END": "end"
+		"tags": ["Criminal Law"]
 		},
 		{
 		"term": "Attorney General",
@@ -1437,8 +1376,7 @@
 			"url": "https://www.irwinlaw.com/titles/charter-rights-and-freedoms-6e",
 			"name": "The Charter of Rights and Freedoms 6/e - Robert J. Sharpe and Kent Roach"
 			},
-		"tags": ["Constitutional Law", " Criminal Law", " Political Science"],
-		"END": "end"
+		"tags": ["Constitutional Law", " Criminal Law", " Political Science"]
 		},
 		{
 		"term": "Attributability",
@@ -1448,8 +1386,7 @@
 			"url": "https://www.irwinlaw.com/titles/public-international-law-2e",
 			"name": "Public International Law 2/e - John H. Currie"
 			},
-		"tags": ["International Law"],
-		"END": "end"
+		"tags": ["International Law"]
 		},
 		{
 		"term": "Audi alteram partem",
@@ -1460,8 +1397,7 @@
 			"url": "https://www.irwinlaw.com/titles/administrative-law",
 			"name": "Administrative Law - David Mullan"
 			},
-		"tags": ["Administrative Law"],
-		"END": "end"
+		"tags": ["Administrative Law"]
 		},
 		{
 		"term": "Auditor",
@@ -1472,8 +1408,7 @@
 			"url": "https://www.irwinlaw.com/titles/law-partnerships-and-corporations-3e",
 			"name": "The Law of Partnerships and Corporations 3/e - J. Anthony VanDuzer"
 			},
-		"tags": ["Corporate and Commercial Law"],
-		"END": "end"
+		"tags": ["Corporate and Commercial Law"]
 		},
 		{
 		"term": "Auditor General",
@@ -2909,7 +2844,7 @@
 			"url": "https://www.irwinlaw.com/titles/charter-rights-and-freedoms-6e",
 			"name": "The Charter of Rights and Freedoms 6/e - Robert J. Sharpe and Kent Roach"
 			},
-		"tags": ["Civil Code", " Constitutional Law"],
+		"tags": ["Civil Law", " Constitutional Law"],
 		"END": "end"
 		},
 		{
@@ -4783,7 +4718,7 @@
 			"url": "https://www.irwinlaw.com/titles/law-partnerships-and-corporations-3e",
 			"name": "The Law of Partnerships and Corporations 3/e - J. Anthony VanDuzer"
 			},
-		"tags": ["Banking", " Corporate and Commercial Law"],
+		"tags": ["Securities", " Corporate and Commercial Law"],
 		"END": "end"
 		},
 		{
@@ -6403,7 +6338,7 @@
 			"url": "https://www.irwinlaw.com/titles/copyright-law",
 			"name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
 			},
-		"tags": ["Civil Code", " Intellectual Property"],
+		"tags": ["Civil Law", " Intellectual Property"],
 		"END": "end"
 		},
 		{
@@ -11121,8 +11056,7 @@
 			"url": "https://www.irwinlaw.com/titles/criminal-law-6e",
 			"name": "Criminal Law, 6/e - Kent Roach"
 			},
-		"tags": ["Criminal Law"],
-		"END": "end"
+		"tags": ["Criminal Law"]
 		},
 		{
 		"term": "Moral rights",
@@ -13753,7 +13687,7 @@
 			"url": "https://www.irwinlaw.com/titles/trauma-trials-and-transformation",
 			"name": "Trauma, Trials, and Transformation - Judith Daylen, Wendy van Tongeren Harvey and Dennis O’Toole Foreword by Claire L’Heureux-Dubé"
 			},
-		"tags": ["Civil Code", " Judges and Courts"],
+		"tags": ["Civil Law", " Judges and Courts"],
 		"END": "end"
 		},
 		{
@@ -22566,7 +22500,7 @@
     	},
     	{
     	"term": "Receiver-Manager ",
-    	"definition": "Similar to Receiver above, except the Receiver-Manager can manage or operate the company.",
+    	"definition": "Similar to Receiver, except the Receiver-Manager can manage or operate the company.",
     	"source":
     		{
     		"url": "http://www.canadianlawsite.ca",
@@ -22580,26 +22514,28 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Receiving Order ",
     	"definition": "An Order handed down by the Court following the successful petition to have a person or company placed into bankruptcy.",
     	"source":
     		{
     		"url": "http://www.canadianlawsite.ca",
-    		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Bankruptcy"]
+		},
     	{
     	"term": "Redemption ",
-    	"definition": "Buying back.Redemption Period. The period of time, in a foreclosure, that the court will establish for which the property will be for sale before the owner will have to vacate and the time at which potentially the mortgage holder can take control of the property.If there is a significant anticipated shortfall the lawyer for the mortgage holder will argue for no redemption period. If there is anticipated equity then the owner of the property will ask the court for a longer redemption period so the property can be sold in an orderly manner and not as a \"fire sale\", thus allowing the owner to sell for as high a price as possible and therefore not suffer a loss or worse a shortfall. Typically the courts will grant a 6 month redemption period if there is a likelihood of some equity or a small shortfall.",
+    	"definition": "Buying back. Redemption Period. The period of time, in a foreclosure, that the court will establish for which the property will be for sale before the owner will have to vacate and the time at which potentially the mortgage holder can take control of the property.If there is a significant anticipated shortfall the lawyer for the mortgage holder will argue for no redemption period. If there is anticipated equity then the owner of the property will ask the court for a longer redemption period so the property can be sold in an orderly manner and not as a \"fire sale\", thus allowing the owner to sell for as high a price as possible and therefore not suffer a loss or worse a shortfall. Typically the courts will grant a 6 month redemption period if there is a likelihood of some equity or a small shortfall.",
     	"source":
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Registrar ",
     	"definition": "An Officer of the Supreme Court appointed by the Chief Justice and empowered to deal with various matters as set out in the Bankruptcy and Insolvency Act.",
@@ -22607,8 +22543,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Bankruptcy"]
+		},
     	{
     	"term": "Relator ",
     	"definition": "An informer; a person who has supplied the facts required for a criminal prosecution or a civil suit.",
@@ -22616,8 +22553,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Evidence"]
+		},
     	{
     	"term": "Remainder ",
     	"definition": "A right to future enjoyment or ownership of real property. The \"left-over\" after property has been conveyed first to another party. A remainder interest is what if left-over after a life estate has run its course. Contrary to a reversion, a remainder does not go to the grantor or his (or her) heirs.",
@@ -22625,8 +22563,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law", "Trusts"]
+		},
     	{
     	"term": "REMO ",
     	"definition": "Abbreviation for \"reciprocal enforcement of maintenance orders\" and the name of the international system of recognition, registration and enforcement of child and spousal support orders between countries which have agreed, between themselves, to enforce each other's maintenance orders. The international REMO system now spreads over many countries. In the USA, the system is known as UIFSA or URESA. ",
@@ -22634,8 +22573,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Family Law", "International Law"]
+		},
     	{
     	"term": "Repairer's Lien ",
     	"definition": "A mechanic or other person who, by bestowing money, skills or material on any chattel, is entitled to a lien on the chattel, which empowers that person to sell the chattel if he is not paid within a prescribed period of time.",
@@ -22661,8 +22601,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Contracts"]
+		},
     	{
     	"term": "Res Gestae ",
     	"definition": "Latin for \"things done.\" A peculiar rule, used mostly in criminal cases, which allows hearsay if the statement is made during the excitement of the litigated event. For example, the words \"stick 'em up!\" used during an armed robbery would be admissible in evidence under the res gestae rule.",
@@ -22670,8 +22611,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Evidence", "Criminal Law"]
+		},
     	{
     	"term": "Res Ipsa Loquitur ",
     	"definition": "A word used in tort to refer to situations where negligence is presumed on the defendant since the object causing injury was in his or her control.",
@@ -22679,8 +22621,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Torts"]
+		},
     	{
     	"term": "Res Judicata ",
     	"definition": "Latin: A matter which has already been conclusively decided by a court.",
@@ -22688,8 +22631,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts"]
+		},
     	{
     	"term": "Respondent ",
     	"definition": "The party who responds to a claim filed in Court against him by a Plaintiff or the person who is being sued.  Another term for the Respondent is the Defendant.",
@@ -22697,8 +22641,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Civil Litigation"]
+		},
     	{
     	"term": "Restitutio in Integrum ",
     	"definition": "Latin for restitution to the original position.",
@@ -22706,8 +22651,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Common Law"]
+		},
     	{
     	"term": "Restitution ",
     	"definition": "Under ancient English common law, when a party enforced a court judgement and then that judgement was overturned on appeal, the appellant could ask the appeal court for \"restitution\", or financial compensation placing that appellant in the same position as if the original legal decision had not been enforced.",
@@ -22715,8 +22661,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Common Law"]
+		},
     	{
     	"term": "Resulting Trust ",
     	"definition": "A trust that is presumed by the court from certain situations. Similar to a constructive trust but for resulting trusts, the court presumes an intention to create a trust; the law assumes that the property is not held by the right person and that the possessor is only holding the property \"in trust\" for the rightful owner.",
@@ -22724,8 +22671,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Trusts"]
+		},
     	{
     	"term": "Retainer ",
     	"definition": "General- A contract between a lawyer and his (or her) client, wherein the lawyer agrees to represent and provide legal advice to the client, in exchange for money. The signed retainer begins the client-lawyer relationship from which flow many responsibilities and duties, primarily on the lawyer, including to provide accurate legal advice, to monitor limitation dates and to not allow any conflict of interest with the relationship with the client. Bankruptcy- Under the Bankruptcy and Insolvency Act it is common for the Trustee in Bankruptcy to ask for a retainer before he accepts an appointment.  There is also a special type of retainer called a Third Party Retainer, whereby funds are put up that secure the fees and disbursements of the Trustee but are returned to the party putting up the funds if the Trustee realizes enough out of the estate to cover the fees and costs and, in the case of a proposal, returned to the party putting up the funds if the proposal is refused by the creditors or not approved by the Court.",
@@ -22733,8 +22681,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal Profession"]
+		},
     	{
     	"term": "Reversion ",
     	"definition": "A future interest left in a transferror or his (or her) heirs. A reservation in a real property conveyance that the property reverts back to the original owner upon the occurence of a certain event.",
@@ -22742,8 +22691,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Trusts"]
+		},
     	{
     	"term": "Right of First Refusal ",
     	"definition": "A right given to a person to be the first person allowed to purchase a certain object if it is ever offered for sale.",
@@ -22751,8 +22701,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Riparian Rights ",
     	"definition": "Special rights of people who own land that runs into a river bank (a \"riparian owner\" is a person who owns land that runs into a river).",
@@ -22760,8 +22711,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Rule Against Perpetuities ",
     	"definition": "A common law rule that prevents suspending the transfer of property for more then 21 years or a lifetime plus 21 years. For example, if a will proposes the transfer of an estate to some future date, which is uncertain, for either more than 21 years after the death of the testator or for the life of a person identified in the will and 21 years, the transfer is void.",
@@ -22769,8 +22721,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Trusts", "Wills and Estates"]
+		},
     	{
     	"term": "Respondent ",
     	"definition": "The party who responds to a claim filed in Court against him by a Plaintiff or the person who is being sued.  Another term for the Respondent is the Defendant.",
@@ -22778,8 +22731,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Civil Litigation"]
+		},
     	{
     	"term": "Retainer ",
     	"definition": "Under the Bankruptcy and Insolvency Act it is common for the Trustee in Bankruptcy to ask for a retainer before he accepts an appointment.  There is also a special type of retainer called a Third Party Retainer, whereby funds are put up that secure the fees and disbursements of the Trustee but are returned to the party putting up the funds if the Trustee realizes enough out of the estate to cover the fees and costs and, in the case of a proposal, returned to the party putting up the funds if the proposal is refused by the creditors or not approved by the Court.",
@@ -22787,8 +22741,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Bankruptcy"]
+		},
     	{
     	"term": "RHOSP",
     	"definition": "Registered Home Ownership Savings Plan.",
@@ -22796,8 +22751,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Securities"]
+		},
     	{
     	"term": "RRSP",
     	"definition": "Registered Retirement Savings Plan.",
@@ -22805,8 +22761,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Securities"]
+		},
     	{
     	"term": "Sanction ",
     	"definition": "This is a very unusual word with two contradictory meanings. To \"sanction\" can mean to ratify or to approve but it can also mean to punish. The \"sanction\" of a crime refers to the actual punishment, usually expressed as a fine or jail term.",
@@ -22814,8 +22771,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Criminal Law"]
+		},
     	{
     	"term": "Scienter ",
     	"definition": "Latin for knowledge. In legal situations, the word is usually used to refer to \"guilty knowledge\". For example, owners of vicious dogs may be liable for injuries caused by these dogs if they can prove the owner's \"scienter\" (i.e. that the owner was aware, before the attack, of the dog's vicious character).",
@@ -22823,8 +22781,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Evidence"]
+		},
     	{
     	"term": "Search Warrant ",
     	"definition": "A court order (i.e. signed by a judge) that gives a police the permission to enter private property and to search for evidence of the commission of a crime, for the proceeds of crime or property that the police suspect may be used to commit a crime.",
@@ -22832,8 +22791,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Criminal Law"]
+		},
     	{
     	"term": "Secured ",
     	"definition": "The status a creditor has when he has security or a right in some property that he can sell or realize on.",
@@ -22841,8 +22801,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Securities"]
+		},
     	{
     	"term": "Security ",
     	"definition": "Something given or pledged to a person who is lending money in order to secure or guarantee payment of that debt.",
@@ -22850,8 +22811,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Securities"]
+		},
     	{
     	"term": "Security Agreement",
     	"definition": "A verbal or written agreement between a secured party and a debtor giving the secured party a security interest in personal property; a written agreement is not necessary of the secured party is in possession of the collateral.",
@@ -22859,8 +22821,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Securities"]
+		},
     	{
     	"term": "Seisin ",
     	"definition": "The legal possession of property. In law, the term refers more specifically to the possession of land by a freeholder.",
@@ -22868,8 +22831,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Seize or Sue ",
     	"definition": "That phrase referring to a concept that, in British Columbia under the Personal Property Security Act, allows a secured creditor, in regard to consumer goods, to either seize or sue for the goods but not do both.  For example, a financial institution holding security over a vehicle that is used for personal use and not for business can on default either seize that vehicle and sell it in satisfaction of its debt or sue the person for what is owed, but cannot do both.",
@@ -22877,8 +22841,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Remedies"]
+		},
     	{
     	"term": "Sentence ",
     	"definition": "The punishment given to a person who has been convicted (i.e. found to be guilty) of a crime.Sentencing Circles An option in restorative justice that brings together affected people (victim, offender, police, etc.) to help sentence (decide the penalty for) the offender.",
@@ -22886,8 +22851,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Criminal Law"]
+		},
     	{
     	"term": "Sequestration ",
     	"definition": "The taking of someone's property, voluntarily (by deposit) or involuntarily (by seizure), by court officers or into the possession of a third party, awaiting the outcome of a trial in which ownership of that property is at issue.",
@@ -22895,8 +22861,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Remedies"]
+		},
     	{
     	"term": "Servient Tenement ",
     	"definition": "The land which suffers or has the burden of an easement. The beneficiary of the easement is called a dominant tenement.",
@@ -22904,8 +22871,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Settlement ",
     	"definition": "The transferring of property to another person or a gift.  Under certain circumstances, settlements are void against the Trustee and are brought back into the bankruptcy estate.",
@@ -22913,8 +22881,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Trusts"]
+		},
     	{
     	"term": "Settlor ",
     	"definition": "The person who actually creates a trust by donating property to be managed and administered by a trustee but from which all profits would go to a beneficiary. The law books of some countries refer to this person as a \"donor.\"",
@@ -22922,8 +22891,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Trusts"]
+		},
     	{
     	"term": "Shortfall",
     	"definition": "A dollar realization on assets that is not sufficient to clear the debt completely.",
@@ -22940,8 +22910,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Corporate and Commercial Law"]
+		},
     	{
     	"term": "Sine Die",
     	"definition": "Adjourned without giving any future date of meeting or hearing.",
@@ -22949,8 +22920,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts"]
+		},
     	{
     	"term": "Slander ",
     	"definition": "Verbal or spoken defamation.",
@@ -22958,8 +22930,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Torts"]
+		},
     	{
     	"term": "Slander of Title ",
     	"definition": "Intentionally casting aspersion on someone's property including real property, a business or goods (the latter might also be called \"slander of goods\").",
@@ -22967,8 +22940,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Small Claims/Small Claims Court ",
     	"definition": "A Court which has simplified rules, thus encouraging non-lawyers to attend at the Court without legal representation.  In British Columbia, the amount that can be considered in a small claims action is $10,000 or less.",
@@ -22976,8 +22950,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Civil Litigation"]
+		},
     	{
     	"term": "Socage ",
     	"definition": "A term of the feudal system which referred to the tenure which was exchanged for certain goods or services which were not military in nature. Socage is often described as \"free and common socage\" although the \"free and common\" qualification is now of a purely historical significance.",
@@ -22985,8 +22960,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal History"]
+		},
     	{
     	"term": "Solemn Affirmation",
     	"definition": "A solemn promise that has the same effect as a religious oath.",
@@ -22994,8 +22970,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts"]
+		},
     	{
     	"term": "Solicitor ",
     	"definition": "A lawyer that restricts his or her practice to the giving of legal advice and does not normally litigate in the court room. Canadian lawyers can litigate or give legal advice.",
@@ -23003,8 +22980,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal Profession"]
+		},
     	{
     	"term": "Son of Sam law",
     	"definition": "The phrase refers to laws that are designed to keep criminals from profiting from their crimes by selling their stories to publishers or movie makers. Named after the Son of Sam murders committed from between July 1976 and August 1977 by New York serial killer David Berkowitz, such laws authorize the state to seize money from criminals' book or movie deals and use it to compensate victims.",
@@ -23012,8 +22990,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Criminal Law"]
+		},
     	{
     	"term": "Special Resolution ",
     	"definition": "A term under the Bankruptcy and Insolvency Act whereby voting is carried out, for example when creditors accept or refuse a proposal.  In order for the Special Resolution to pass, of those creditors who vote there must be in excess of 2/3 of the dollars voting in favor and a simple majority in number of the creditors voting in favor.",
@@ -23021,8 +23000,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Bankruptcy"]
+		},
     	{
     	"term": "Specific Charge ",
     	"definition": "A lien or security interest in a specific piece of property that can be distinguished from other pieces of property.  For example, security over a vehicle.",
@@ -23030,8 +23010,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Springing Power of Attorney",
     	"definition": "A Springing Power of Attorney allows you to appoint a trusted individual who will have authority to run your affairs while you are mentally incapacitated. Sometimes referred to as a \"Enduring Power of Attorney\" or \"Durable Power of Attorney\".",
@@ -23039,8 +23020,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Mental Health", "Health Law", "Medical Law & Legislation"]
+		},
     	{
     	"term": "Stalking Horse",
     	"definition": "This is the name given to the party submitting the first bid to purchase assets. The stalking horse bid can be used to solicit interest from other bidders and also acts as a floor for what will be realized at an auction. (US term - This strategy is seldom used in Canada)",
@@ -23048,8 +23030,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Standing Committee ",
     	"definition": "A term of parliamentary law which refers to those committees which have a continued existence; that are not related to the accomplishment of a specific, once-only task as are ad hoc or special committees.",
@@ -23057,8 +23040,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Administrative Law"]
+		},
     	{
     	"term": "Stare Decisis ",
     	"definition": "A basic principle of the law whereby once a decision (a precedent) on a certain set of facts has been made, the courts will apply that decision in cases which subsequently come before it embodying the same set of facts. A precedent which is binding; must be followed.",
@@ -23066,8 +23050,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts"]
+		},
     	{
     	"term": "Statement of Affairs ",
     	"definition": "The listing of a debtor's assets and liabilities and sworn under oath by the debtor before a lawyer or Commissioner for Taking Oaths.",
@@ -23084,8 +23069,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Bankruptcy"]
+		},
     	{
     	"term": "Status Quo ",
     	"definition": "The current state of affairs, or current position.",
@@ -23102,8 +23088,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Civil Litigation"]
+		},
     	{
     	"term": "Statutes ",
     	"definition": "The written laws approved by legislatures, parliaments or houses of assembly (i.e., politicians). Also known as \"legislation\".",
@@ -23111,8 +23098,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Common Law"]
+		},
     	{
     	"term": "Statutory Trust ",
     	"definition": "A trust created by the effect of a statute.",
@@ -23120,8 +23108,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Trusts"]
+		},
     	{
     	"term": "Stay of Proceedings ",
     	"definition": "The stopping or preventing of legal actions undertaken.  In the Bankruptcy and Insolvency Act, there is a stay of proceedings in the case of a bankruptcy or in the case of a proposal.  This stops all legal actions against the company or person.",
@@ -23129,8 +23118,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts"]
+		},
     	{
     	"term": "Stirpes ",
     	"definition": "Latin: the offspring of a person; his or her descendants. For example, inheriting per stirpes means having a right to a deceased's estate because you happen to be a descendant of the deceased.",
@@ -23138,8 +23128,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Wills and Estates"]
+		},
     	{
     	"term": "Strict Liability ",
     	"definition": "Tort liability which is set upon the defendant without need to prove intent, negligence or fault; as long as you can prove that it was the defendant's object that caused the damage.",
@@ -23147,8 +23138,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Torts"]
+		},
     	{
     	"term": "Subinfeudation ",
     	"definition": "The process whereby, under the feudal system of tenure, a person receiving a grant of land from a lord, could himself become a lord by subdividing and subletting that land to others.",
@@ -23156,8 +23148,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property"]
+		},
     	{
     	"term": "Sub Judice ",
     	"definition": "A matter that is still under consideration by a court. You will hear of politicians declining to speak on a certain subject because the subject matter is \"sub judice\".",
@@ -23165,8 +23158,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts"]
+		},
     	{
     	"term": "Subordination ",
     	"definition": "To be subject to the orders or direction of another; of lower rank.",
@@ -23183,8 +23177,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts"]
+		},
     	{
     	"term": "Subrogation ",
     	"definition": "The legal right that a person or corporation has when he pays someone's debt to recover that money from the debtor.",
@@ -23192,8 +23187,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Remedies"]
+		},
     	{
     	"term": "Subservient Tenement ",
     	"definition": "The real property that supports or endures an easement. The real property benefitting from an easement is called the dominant tenement.",
@@ -23201,8 +23197,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Substituted Service ",
     	"definition": "If a party appears to be avoiding service of court documents, a request may be made with the court to, instead of personal service (i.e. giving the document directly to the person), that the document be published in a local newspaper, served on a person believed to frequent the person or mailed to his (or her) last known address.",
@@ -23210,8 +23207,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts"]
+		},
     	{
     	"term": "Successor ",
     	"definition": "A person who takes over the rights of another.",
@@ -23237,8 +23235,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Bankruptcy"]
+		},
     	{
     	"term": "Summary Conviction Offence ",
     	"definition": "In Canada, a less serious offence than indictable offences.",
@@ -23246,8 +23245,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Criminal Law"]
+		},
     	{
     	"term": "Summons ",
     	"definition": "In the USA, this is one of the initial documents issued in a civil suit; giving the defendant notice of the claim and an opportunity to defend it. The summons also gives the court which issues it the authority to dispose of the matter. In Canadian criminal law, this is the document used by the police to compel an accused to attend court to answer the charges. It does not involve the arrest of the accused and is used where the police, either by the relatively less serious nature of the crime or because of the standing of the accused in the community, do not believe that arrest is necessary to ensure the attendance of the accused at court.",
@@ -23255,8 +23255,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Civil Law", "Criminal Law"]
+		},
     	{
     	"term": "Surety ",
     	"definition": "The person who has pledged him or herself to pay back money or perform a certain action if the principal to a contract fails, as collateral, and as part of the original contract.",
@@ -23264,8 +23265,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Contract Law"]
+		},
     	{
     	"term": "Synallagmatic Contract ",
     	"definition": "A civil law term for a reciprocal or bilateral contract - one in which both parties provide consideration. A contract of sale is a classic example, where one party provides money and the other, goods or services. A gift is not a synallagmatic contract.",
@@ -23273,8 +23275,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Civil Law", "Contract Law"]
+		},
     	{
     	"term": "Tenant ",
     	"definition": "A person to whom a landlord grants temporary and exclusive use of land or a part of a building, usually in exchange for rent.",
@@ -23282,8 +23285,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Tenants in Common ",
     	"definition": "Similar to joints tenants. All tenants in common share equal property rights except that, upon the death of a tenant in common, that share does not go to the surviving tenants but is transferred to the estate of the deceased tenant. Unity of possession but distinct titles.",
@@ -23291,17 +23295,19 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Tender ",
-    	"definition": "An unconditional offer of a party to a contract to perform their part of the bargain. For example, if the contract is a loan contract, a tender would be an act of the debtor where he produces the amount owing and offers to the creditor. In real property law, when a party suspects that the other may be preparing to renege, he or she can write a tender in which they unequivocally re-assert their intention to respect the contract and tender their end of the bargain; either by paying the purchase or delivering the title.Bankruptcy - The process whereby a trustee in bankruptcy offers goods for sale with the offers to be opened and considered by a certain date.",
+    	"definition": "An unconditional offer of a party to a contract to perform their part of the bargain. For example, if the contract is a loan contract, a tender would be an act of the debtor where he produces the amount owing and offers to the creditor. In real property law, when a party suspects that the other may be preparing to renege, he or she can write a tender in which they unequivocally re-assert their intention to respect the contract and tender their end of the bargain; either by paying the purchase or delivering the title.\n\nBankruptcy - The process whereby a trustee in bankruptcy offers goods for sale with the offers to be opened and considered by a certain date.",
     	"source":
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Trusts"]
+		},
     	{
     	"term": "Tenure ",
     	"definition": "A right of holding or occupying land or a position for a certain amount of time. The term was first used in the English feudal land system, whereby all land belonged to the king but was lent out to lords for a certain period of time; the lord never owning, but having tenure in the land. Used in modern law mostly to refer to a position a person occupies such as in the expression \"a judge holds tenure for life and on good behavior.\"",
@@ -23309,8 +23315,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Testamentary Trust ",
     	"definition": "A trust which is to take effect only upon the death of the settlor and is commonly found as part of a will. Trusts which take effect during the life of the settlor are called inter vivos trusts.",
@@ -23318,8 +23325,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Trusts", "Wills and Estates"]
+		},
     	{
     	"term": "Testator ",
     	"definition": "A person who dies with a valid will.",
@@ -23327,8 +23335,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Wills and Estates"]
+		},
     	{
     	"term": "Testimony ",
     	"definition": "The verbal presentation of a witness in a judicial proceeding.",
@@ -23336,8 +23345,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts"]
+		},
     	{
     	"term": "Torrens Land Registration System ",
     	"definition": "A land registration system invented by Robert Torrens and in which the government is the keeper of the master record of all land and their owners. In the Torrens system, a land title certificate suffices to show full, valid and indefeasible title. Used in Australia and several Canadian provinces.",
@@ -23345,8 +23355,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Tort ",
     	"definition": "Derived from the Latin word tortus which meant wrong. In French, \"tort\" means a wrong\". Tort refers to that body of the law which will allow an injured person to obtain compensation from the person who caused the injury.",
@@ -23354,8 +23365,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Torts"]
+		},
     	{
     	"term": "Tort-Feasor ",
     	"definition": "Name given to a person or persons who have committed a tort.",
@@ -23363,8 +23375,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Torts"]
+		},
     	{
     	"term": "Tracing ",
     	"definition": "A legal proceeding taken under the law of equity where the plaintiff attempts to reclaim specific property, through the court, whether the property is still in the first acquirer's hands or it has passed onto others, and even if the property has been converted.",
@@ -23372,8 +23385,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law", "Remedies"]
+		},
     	{
     	"term": "Trademark",
     	"definition": "Either a word, phrase, symbol or design, or combination of words, phrases, symbols or designs, which identifies and distinguishes the source of the goods or services of one party from those of others. A service mark is the same as a trademark except that it identifies and distinguishes the source of a service rather than a product. Normally, a mark for goods appears on the product or on its packaging, while a service mark appears in advertising for the services.",
@@ -23381,8 +23395,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Intellectual Property"]
+		},
     	{
     	"term": "Transferee ",
     	"definition": "A person who receives property being transferred.",
@@ -23390,8 +23405,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property"]
+		},
     	{
     	"term": "Transferor ",
     	"definition": "A person who transfers property.",
@@ -23399,8 +23415,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property"]
+		},
     	{
     	"term": "Trespass ",
     	"definition": "Unlawful interference with another's person, property or rights. Theoretically, all torts are trespasses.",
@@ -23408,8 +23425,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Torts"]
+		},
     	{
     	"term": "Trover ",
     	"definition": "An old English and common law legal proceeding against a person who had found someone else's property and has converted that property to their own purposes.",
@@ -23417,8 +23435,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Torts"]
+		},
     	{
     	"term": "Trust ",
     	"definition": "Property given by a person called the donor or settlor, to a trustee, for the benefit of another person (the beneficiary or donee).",
@@ -23426,8 +23445,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Trusts"]
+		},
     	{
     	"term": "Trustee ",
     	"definition": "The person who holds property rights for the benefit of another through the legal mechanism of the trust.Bankruptcy - The person under the Bankruptcy and Insolvency Act who administers bankruptcy and proposal estates.  Often referred to as a trustee in bankruptcy.",
@@ -23435,8 +23455,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Trusts"]
+		},
     	{
     	"term": "Trustee de Son Tort ",
     	"definition": "A trustee \"of his own wrong\"; a person who is not a regularly appointed trustee but because of his or her intermeddling with the trust and the exercise of some control over the trust property, can be held by a court as \"constructive\" trustee which entails liability for losses to the trust.",
@@ -23444,8 +23465,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Trusts"]
+		},
     	{
     	"term": "Ultra Vires ",
     	"definition": "Without authority.",
@@ -23453,8 +23475,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Constitutional Law"]
+		},
     	{
     	"term": "Unjust Enrichment ",
     	"definition": "A legal procedure whereby you can seek reimbursement from another who benefitted from your action or property without legal justification. There are said to be three conditions which must be met before you can get a court to force reimbursement based on \"unjust enrichment\" - an actual enrichment or benefit to the defendant, a corresponding deprivation to the plaintiff, and the absence of a legal reason for the defendant's enrichment.",
@@ -23480,8 +23503,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Securities"]
+		},
     	{
     	"term": "Vesting Order ",
     	"definition": "An Order by the Court that gives to a person, possession, control or title of property.",
@@ -23498,8 +23522,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal Research and Writing"]
+		},
     	{
     	"term": "Verdict ",
     	"definition": "The decision of a jury. In criminal cases, this is usually expressed as \"guilty\" or \"not guilty\".In a civil case, the verdict would be a finding for the plaintiff or for the defendant.",
@@ -23507,8 +23532,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts"]
+		},
     	{
     	"term": "Vexatious ",
     	"definition": "An act done by a person in order to annoy, embarrass or otherwise aggravate that person.",
@@ -23525,8 +23551,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal Research and Writing"]
+		},
     	{
     	"term": "Vienna Code ",
     	"definition": "Vienna Code is an international Classification system to categorize Trade-mark design by its figurative elements.",
@@ -23534,8 +23561,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal Research and Writing"]
+		},
     	{
     	"term": "Vienna Classification ",
     	"definition": "Constitutes a hierarchical system that proceeds from the general to the particular, dividing all figurative elements into Categories, Divisions and Sections. For example, the ԨandsԠis a figurative element with the Vienna code 2.9.14 which the category is 2, the division is 9 and the section is 14.",
@@ -23543,8 +23571,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal Research and Writing"]
+		},
     	{
     	"term": "Vis ",
     	"definition": "An abbreviation of the Latin word videlicet. Short for \"namely\" or \"that is to say.\"",
@@ -23552,8 +23581,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal History"]
+		},
     	{
     	"term": "Vicarious Liability ",
     	"definition": "When a person is held responsible for the tort of another even though the person being held responsible may not have done anything wrong. This is often the case with employers who are held vicariously liable for the damages caused by their employees.",
@@ -23561,8 +23591,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Torts"]
+		},
     	{
     	"term": "Vir ",
     	"definition": "Latin: man or husband. Vir et uxor censentur in lege una persona is an old (and long abandoned in most countries) legal principle meaning that man and wife are considered to be one person in law.",
@@ -23570,8 +23601,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Family Law"]
+		},
     	{
     	"term": "Void or Void ab Initio ",
     	"definition": "Not legally binding.",
@@ -23579,8 +23611,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Contract Law"]
+		},
     	{
     	"term": "Voidable ",
     	"definition": "The law distinguishes between contracts which are void and those which are voidable. Some contracts have such a latent defect that they are said to be void (see definition of \"void\" above). Other have more minor defects to them and are voidable at the option of the party victimized by the defect. For example, contracts signed by a person when they are totally drunk are voidable by that person upon recovering sobriety.",
@@ -23588,8 +23621,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Contract Law"]
+		},
     	{
     	"term": "Voir Dire ",
     	"definition": "A mini-hearing held during a trial on the admissibility of contested evidence.",
@@ -23597,8 +23631,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts"]
+		},
     	{
     	"term": "Volenti Non Fit Injuria ",
     	"definition": "Voluntary assumption of risk. A defence in tort that means where a person engages in an event accepting and aware of the risks inherent in that event, then they can not later complain of, or seek compensation for an injury suffered during the event.",
@@ -23606,8 +23641,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Torts"]
+		},
     	{
     	"term": "Voting Letter ",
     	"definition": "A document in which a proven creditor registers his vote for or against the acceptance of a proposal.",
@@ -23615,8 +23651,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Corporate and Commercial Law"]
+		},
     	{
     	"term": "Waiver ",
     	"definition": "When a person disclaims or renounces a right that they may have otherwise had. Waivers are not always in writing. Sometimes a person's actions can be interpreted as a waiver.",
@@ -23624,8 +23661,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Contract Law"]
+		},
     	{
     	"term": "Warehouseman's Lien ",
     	"definition": "The charge that a warehouseman has on goods left for storage in his care.  The warehouseman has the right to hold onto the goods until he is paid or to sell the goods to recover his account.",
@@ -23642,8 +23680,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Ethics"]
+		},
     	{
     	"term": "Without Prejudice",
     	"definition": "Without dismissing, damaging or otherwise affecting a legal interest or demand; without detriment to existing right or claim; relates to fact, not to opinion. This expression is used when a person, in the desire to avoid litigation or dispute without admitting that the other party has a claim, offers to do something he need not do, such as to compromise a claim of his own or to pay when he feels he is not liable.",
@@ -23660,8 +23699,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Wills and Estates"]
+		},
     	{
     	"term": "Words of Purchase ",
     	"definition": "Words which specifically name the person to whom land is being conveyed.",
@@ -23669,8 +23709,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Writ",
     	"definition": "Form of written notice or command issued by a Court or other official. Can include Writ of Summons, Writ of Subpoena, Writ of Attachment, Writ of Habeas Corpus, etc.",
@@ -23678,8 +23719,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Civil Litigation"]
+		},
     	{
     	"term": "Writ of Summons",
     	"definition": "Form of written notice prepared by the Plaintiff which is registered at the appropriate Court Registry, giving notice to the defendants that a legal action has been commenced against them and containing details of the Plaintiff's claims.",
@@ -23687,8 +23729,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Civil Litigation"]
+		},
     	{
     	"term": "Wrongful Death",
     	"definition": "An American tort law action which claims damages from any person who, through negligence or direct act or omission, caused the death of certain relatives (eg. spouse, children or parent). The Canadian equivalent of the wrongful death legislation is generally known as the \"fatal accidents act.\".",
@@ -23696,8 +23739,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Torts"]
+		},
         {
         "term": "Wrongful Dismissal",
         "definition": "Being fired from a job without an adequate reason or without any reason whatsoever. Employees do not have a right to a job for life and can be dismissed for economic or performance reasons but they cannot be dismissed capriciously.",
@@ -23705,8 +23749,9 @@
             {
             "url": "http://www.canadianlawsite.ca",
             "name": "Canadian Law Site"
-            }
-        }
+			},
+		"tags": ["Labour and Employment Law"]
+		}
 	],
 "categories":
 	[
@@ -23729,13 +23774,10 @@
 		"name": "Asian Law"
 		},
 		{
-		"name": "Banking"
-		},
-		{
 		"name": "Bankruptcy"
 		},
 		{
-		"name": "Civil Code"
+		"name": "Civil Law"
 		},
 		{
 		"name": "Civil Litigation"
@@ -23846,9 +23888,6 @@
 		"name": "Privacy Law"
 		},
 		{
-		"name": "Private Investigations"
-		},
-		{
 		"name": "Property Law"
 		},
 		{
@@ -23864,6 +23903,9 @@
 		"name": "Secondary School Resources"
 		},
 		{
+		"name": "Securities"
+		},
+		{
 		"name": "Social Welfare Law"
 		},
 		{
@@ -23877,6 +23919,9 @@
 		},
 		{
 		"name": "Trusts"
+		},
+		{
+		"name": "Wills and Estates"
 		},
 		{
 		"name": "Women and the Law"

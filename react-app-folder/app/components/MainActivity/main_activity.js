@@ -28,6 +28,7 @@ export default class MainActivity extends Component{
     handleSearch(searchTerm) {
         this.setState({searchTerm: searchTerm});
         this.setState({categorySet: ''});
+        this.setState({isVisible: 'full-list'})
         console.log("MainActivity search: " + searchTerm);
     }
 
