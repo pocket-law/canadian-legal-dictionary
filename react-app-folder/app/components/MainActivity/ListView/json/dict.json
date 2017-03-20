@@ -21308,8 +21308,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Political Science"]
+		},
     	{
     	"term": "Look-See",
     	"definition": "Slang expression meaning \"Business Review\".",
@@ -21317,8 +21318,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Corporate and Commerical Law", "Securities"]
+		},
     	{
     	"term": "Maintenance ",
     	"definition": "The obligation that one person has to contribute in part or in whole to the cost of living of another person.",
@@ -21326,8 +21328,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Family Law"]
+		},
     	{
     	"term": "Malfeasance ",
     	"definition": "Doing something which is illegal. Compare with misfeasance and nonfeasance.",
@@ -21335,8 +21338,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Torts"]
+		},
     	{
     	"term": "Mandamus ",
     	"definition": "A writ which commands an individual, organization (eg. government), administrative tribunal or court to perform a certain action, usually to correct a prior illegal action or a failure to act in the first place.",
@@ -21344,8 +21348,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts", "Remedies"]
+		},
     	{
     	"term": "Manslaughter",
     	"definition": "Accidental homicide or homicide which occurs without an intent to kill, and which does not occur during the commission of another crime or under extreme provocation.",
@@ -21353,8 +21358,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Criminal Law"]
+		},
     	{
     	"term": "Maritime Law ",
     	"definition": "A very specific body of law peculiar to transportation by water, seamen and harbors.",
@@ -21362,8 +21368,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Maritime Law"]
+		},
     	{
     	"term": "Marine Registry",
     	"definition": "Federal registry for registering title documents against ships.",
@@ -21371,8 +21378,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Transportation Law"]
+		},
     	{
     	"term": "Massachusetts Trust ",
     	"definition": "An organization structure where the property is bought by, or transferred to, a trustee (such as a trust company) and the trustee issues trust \"units\", which the investors, or their designates, hold as beneficiaries. This is a common way to structure a large real estate purchase.",
@@ -21380,8 +21388,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Trusts"]
+		},
     	{
     	"term": "Mediation ",
     	"definition": "An alternate dispute mechanism whereby the mediator acts as a facilitator assisting the parties in coming to a mutually agreed settlement.  Under the Bankruptcy and Insolvency Act, mediation can be used, for example, if a creditor or the Trustee opposes a bankrupt's discharge.",
@@ -21389,8 +21398,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Alternative Dispute Resolution"]
+		},
     	{
     	"term": "Misappropriation of Funds",
     	"definition": "The wrongful taking of funds by a person to whom funds are entrusted.",
@@ -21398,8 +21408,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Trusts"]
+		},
     	{
     	"term": "Misrepresentation",
     	"definition": "To describe or present incorrectly, improperly or falsely.",
@@ -21416,8 +21427,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Corporate and Commercial Law"]
+		},
     	{
     	"term": "Mortgage ",
     	"definition": "An interest given on real property to guarantee the payment of a debt or execution of some action.",
@@ -21425,8 +21437,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "MOU ",
     	"definition": "Abbreviation fo \"Memorandum of Understanding.\" A document which, if meeting the other criteria, can be, in law, a contract. Generally, in the world of commerce or international negotiations, a MOU is considered to be a preliminary document; not a comprehensive agreement between two parties but rather an interim or partial agreement on some elements, in some cases a mere agreement in principle, on which there has been accord. Most MOU's imply that something more is eventually expected.",
@@ -21434,8 +21447,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Contract Law"]
+		},
     	{
     	"term": "Mens Rea ",
     	"definition": "Latin for \"guilty mind.\" Many serious crimes require the proof of \"mens rea\" before a person can be convicted. In other words, the prosecution must prove not only that the accused committed the offence but that he (or she) did it knowing that it was prohibited; that their act (or omission) was done with an intent to commit a crime.",
@@ -21443,8 +21457,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Criminal Law"]
+		},
     	{
     	"term": "Misfeasance ",
     	"definition": "Improperly doing something which a person has the legal right to do. Compare with malfeasance and nonfeasance.",
@@ -21452,8 +21467,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Torts"]
+		},
     	{
     	"term": "Mis-joinder ",
     	"definition": "When a person has been named as a party to a law suit when that person should not have been added. When this is asserted, a court will usually accommodate a request to amend the court documents to strike, or substitute for, the name of the mis-joined party. Compare with non-joinder.",
@@ -21461,8 +21477,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts"]
+		},
     	{
     	"term": "Misrepresentation ",
     	"definition": "A false and material statement which induces a party to enter into a contract.",
@@ -21470,8 +21487,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Contract Law"]
+		},
     	{
     	"term": "Mistrial ",
     	"definition": "A partial or complete trial which is found to be null and void and of no effect because of some irregularity.",
@@ -21479,8 +21497,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts"]
+		},
     	{
     	"term": "Mitigating Circumstances ",
     	"definition": "These are facts that, while not negating an offence or wrongful action, tend to show that the defendant may have had some grounds for acting the way he/she did.",
@@ -21488,8 +21507,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Civil Litigation"]
+		},
     	{
     	"term": "Mitigation of Damages ",
     	"definition": "A person who sues another for damages has a responsibility to minimize those damages, as far as reasonable. For example, if a tenant vacates rental premices the landlord has a responsibiliy to find another tenant so as to minimize the economic damage on themselves.",
@@ -21497,8 +21517,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Civil Litigation"]
+		},
     	{
     	"term": "Modus Operandi ",
     	"definition": "Latin: method of operation. Used by law enforcement officials to refer to a criminal's preferred method of committing crime.",
@@ -21506,8 +21527,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Criminal Law", "Forensic Science"]
+		},
     	{
     	"term": "Moiety ",
     	"definition": "Half of something. For example, it can be said that joint tenants hold a moiety in property.",
@@ -21515,8 +21537,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Moot",
     	"definition": "Also called a \"moot point\" - a side issue, problem or question which does not have to be decided to resolve the main issues in a dispute.",
@@ -21524,8 +21547,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal Theory"]
+		},
     	{
     	"term": "Moot Court ",
     	"definition": "Fictional or hypothetical trial, usually hosted by law schools, as training for future barristers or litigators.",
@@ -21533,8 +21557,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal Profession"]
+		},
     	{
     	"term": "Moratorium ",
     	"definition": "The temporary suspension of legal action against a person.",
@@ -21551,8 +21576,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Mutatis Mutandis ",
     	"definition": "With appropriate changes as applicable.  For example, in proposals all other sections of the Bankruptcy and Insolvency Act, over and above the section on proposals, applies to proposals, mutatis mutandis.",
@@ -21560,8 +21586,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal Theory"]
+		},
     	{
     	"term": "Natural Justice ",
     	"definition": "A word used to refer to situations where audi alteram partem (the right to be heard) and nemo judex in parte sua (no person may judge their own case) apply. The principles of natural justice were derived from the Romans who believed that some legal principles were \"natural\" or self-evident and did not require a statutory basis. These two basic legal safeguards govern all decisions by judges or government officials when they take quasi-judicial or judicial decisions.",
@@ -21569,8 +21596,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal History", "Legal Theory"]
+		},
     	{
     	"term": "Negligence ",
     	"definition": "Not only are people responsible for the intentional harm they cause, but their failure to act as a reasonable person would be expected to act in similar circumstances (i.e. \"negligence\") will also give rise to compensation.",
@@ -21578,8 +21606,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Criminal Law", "Torts"]
+		},
     	{
     	"term": "Nemo Judex in Parte Sua ",
     	"definition": "Latin and a fundamental principle of natural justice which states that no person can judge a case in which he or she is party. May also be called nemo judex in sua causa or nemo debet esse judex in propria causa.",
@@ -21587,8 +21616,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts"]
+		},
     	{
     	"term": "Neutral Evaluation",
     	"definition": "A process in which parties obtain from an experienced (and possibly expert) neutral third party a non-binding, reasoned evaluation of their case on its merits.",
@@ -21596,8 +21626,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Alternative Dispute Resolution"]
+		},
     	{
     	"term": "Nolo Contendere ",
     	"definition": "Latin for \"I will not defend it.\" Used primarily in criminal proceedings whereby the defendant declines to refute the evidence of the prosecution. In some jurisdictions, this response by the defendant has same effect as a plea of guilty.",
@@ -21605,8 +21636,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Criminal Law"]
+		},
     	{
     	"term": "Non est Factum ",
     	"definition": "Latin for \"not his deed\" and a special defense in contract law to allow a person to avoid having to respect a contract that she or he signed because of certain reasons such as a mistake as to the kind of contract.",
@@ -21614,8 +21646,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Contract Law"]
+		},
     	{
     	"term": "Nonfeasance ",
     	"definition": "Not doing something that a person should be doing. Compare with malfeasance and misfeasance.",
@@ -21623,8 +21656,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Torts"]
+		},
     	{
     	"term": "Non-joinder ",
     	"definition": "When a person who should have been made a party to a legal proceedings has been forgotten or omitted. This is usually addressed by asking the court to amend documents and including the forgotten party to the proceedings. It is the opposite of mis-joinder.",
@@ -21632,8 +21666,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Civil Litigation"]
+		},
     	{
     	"term": "Notary ",
     	"definition": "Also known as \"notary public\" - a legal officer with specific judicial authority to attest to legal documents usually with an official seal.",
@@ -21641,8 +21676,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal Profession"]
+		},
     	{
     	"term": "Notice of Disclaimer - Lease ",
     	"definition": "In a proposal, the company may disclaim a lease or, in other words, state that it does not require that lease and is cancelling it.  The proposal must indicate one of the options that is given to the landlord for him to file a claim as follows actual losses resulting from the disclaimer or the lesser of   (i) three years rent, or   (ii) the aggregate of the rent provided for in the lease for the first year of the lease following the date on which the disclaimer becomes effective and 15% of the rent for the remainder of the term of the lease after that year.",
@@ -21650,8 +21686,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Notice to Mediate",
     	"definition": "This is unique to B.C. It is a process by which any party to an action in the Supreme Court can require that all other parties to the action attend a mediation session to attempt to settle the matters in dispute. While the Notice to Mediate process requires that the parties attend a mediation session, it does not force them to reach an agreement.",
@@ -21659,8 +21696,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Alternative Dispute Resolution"]
+		},
     	{
     	"term": "Notwithstanding ",
     	"definition": "In spite of, even if, without regard to or impediment by other things.",
@@ -21677,8 +21715,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Human Rights Law"]
+		},
     	{
     	"term": "Novation ",
     	"definition": "Substitute a new debt for an old debt cancelling the old debt. (Compare with \"subrogation\").",
@@ -21695,8 +21734,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Contract Law"]
+		},
     	{
     	"term": "Nuisance ",
     	"definition": "Excessive or unlawful use of one's property to the extent of unreasonable annoyance or inconvenience to a neighbor or to the public. Nuisance is a tort.",
@@ -21704,8 +21744,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Torts"]
+		},
     	{
     	"term": "Nulla Bona ",
     	"definition": "Unable to locate assets.",
@@ -21713,8 +21754,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Nunc Pro Tunc ",
     	"definition": "Latin: now for then. It refers to the doing of something late (after it should have been done in the first place), with effect as if it had been done on time.",
@@ -21722,8 +21764,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal History"]
+		},
     	{
     	"term": "Oath ",
     	"definition": "A solid affirmation to tell the truth, oftentimes sworn in front of a Notary or Commissioner for Taking Oaths. ",
@@ -21731,8 +21774,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts"]
+		},
     	{
     	"term": "Obiter Dictum ",
     	"definition": "Latin: an observation by a judge on a matter not specifically before the court or not necessary in determining the issue before the court; a side opinion which does not form part of the judgment for the purposes of stare decisis May also be referred to as \"dicta\" or \"dictum.\"",
@@ -21740,8 +21784,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts"]
+		},
     	{
     	"term": "Obligee ",
     	"definition": "The person who is to receive the benefit of someone else's obligation; that \"someone else\" being the obligor. Also called a \"promisee.\" Some countries refer to the recipient of family support as an \"obligee\".",
@@ -21749,8 +21794,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Contract Law"]
+		},
     	{
     	"term": "Obligor ",
     	"definition": "A person who is contractually or legally, committed or obliged, to providing something to another person; the recipient of the benefit being called the obligee. Also known as the \"promisor.\"",
@@ -21758,8 +21804,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Contract Law"]
+		},
     	{
     	"term": "Obstructing Justice ",
     	"definition": "An act which tends to impede or thwart the administration of justice.",
@@ -21767,8 +21814,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts"]
+		},
     	{
     	"term": "Offence ",
     	"definition": "A crime; any act which contravenes the criminal law.",
@@ -21776,8 +21824,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Criminal Law"]
+		},
     	{
     	"term": "Offer ",
     	"definition": "A explicit proposal to contract which, if accepted, completes the contract and binds both the person that made the offer and the person accepting the offer to the terms of the contract. See also \"acceptance\".",
@@ -21785,8 +21834,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Contract Law"]
+		},
     	{
     	"term": "Official Receiver ",
     	"definition": "A person deemed to be an officer of the Court who reports to the Superintendent of Bankruptcy and performs duties as specified by the Bankruptcy and Insolvency Act.",
@@ -21794,8 +21844,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Bankruptcy"]
+		},
     	{
     	"term": "Ombudsman ",
     	"definition": "A person whose occupation consists of investigating customer complaints against his or her employer. Many governments have ombudsmen who will investigate citizen complaints against government services.",
@@ -21803,8 +21854,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Political Science"]
+		},
     	{
     	"term": "Omnibus Bill ",
     	"definition": "A draft law before a legislature which contains more than one substantive matter, or several minor matters which have been combined into one bill.",
@@ -21812,8 +21864,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Political Science"]
+		},
     	{
     	"term": "Onus ",
     	"definition": "Latin: the burden. It is usually used in the context of evidence. The onus of proof in criminal cases lies with the state.",
@@ -21821,8 +21874,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Criminal Law", "Civil Litigation", "Judges and Courts"]
+		},
     	{
     	"term": "Open-Ended Agreement ",
     	"definition": "An agreement or contract which does not have an ending date but which will continue for as long as certain conditions, identified in the agreement, exist.",
@@ -21830,8 +21884,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Contract Law"]
+		},
     	{
     	"term": "Order",
     	"definition": "A command of a Court or Judge.",
@@ -21839,8 +21894,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts"]
+		},
     	{
     	"term": "Order Absolute",
     	"definition": "A judgment or decree that is free from restriction or limitation.",
@@ -21848,8 +21904,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts"]
+		},
     	{
     	"term": "Orderly Payment of Debts ",
     	"definition": "A scheme governed by Provincial Court to allow a debtor to pay his debts in accordance with the sections under Part X of the Bankruptcy and Insolvency Act.",
@@ -21857,8 +21914,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Bankruptcy"]
+		},
     	{
     	"term": "Ordinance ",
     	"definition": "This term is in disuse in many jurisdictions and the words \"regulations\" or \"bylaws\" are preferred.",
@@ -21866,8 +21924,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Political Science"]
+		},
     	{
     	"term": "Out-of-Court Settlement ",
     	"definition": "An agreement between two litigants to settle a matter privately before the Court has rendered its decision.",
@@ -21875,8 +21934,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Civil Litigation", "Judges and Courts"]
+		},
     	{
     	"term": "Paralegal ",
     	"definition": "A person who is not a lawyer or is not acting in that capacity but who provides a limited number of legal services.",
@@ -21884,8 +21944,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal Profession"]
+		},
     	{
     	"term": "Pardon ",
     	"definition": "A government decision to allow a person who has been convicted of a crime, to be free and absolved of that conviction, as if never convicted.",
@@ -21893,8 +21954,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Criminal Law"]
+		},
     	{
     	"term": "Parens Patriae ",
     	"definition": "Latin: A British common law creation whereby the courts have the right to make unfettered decisions concerning people who are not able to take care of themselves.",
@@ -21902,8 +21964,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Common Law", "Judges and Courts"]
+		},
     	{
     	"term": "Pari Delicto ",
     	"definition": "Latin for \"of equal fault.\" For example, if two parties complain to a judge of the non-performance of a contract by the other, the judge could refuse to provide a remedy to either of them because of \"pari delicto\" - a finding that they were equally at fault in causing the contract's breach.",
@@ -21911,8 +21974,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Contract Law"]
+		},
     	{
     	"term": "Pari Passu ",
     	"definition": "Equally and without preference.  This term is often used in bankruptcy proceedings where creditors are said to be paid pari passu, or each creditor is paid pro rata in accordance with the amount of his claim.",
@@ -21920,8 +21984,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Bankruptcy"]
+		},
     	{
     	"term": "Patent ",
     	"definition": "An exclusive privilege granted to an inventor to make, use or sell an invention for a set number of years (17 years in Canada, ).Paternity TestingPaternity testing uses DNA, normally from blood samples, to determine whether the presumed father is the biological father.",
@@ -21929,8 +21994,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Intellectual Property"]
+		},
     	{
     	"term": "Peace Bond",
     	"definition": "A peace bond is a court order that sets out specific conditions to protect the safety of others or property. It can be ordered where there is a reasonable fear that someone will cause personal injury to another person or their family, will damage his/her property, or where there is a reasonable fear that a sexual offence will be committed. A peace bond may be issued under section 810 of the Canadian Criminal Code. Section 810.1 for example outlines pedophile peace bonds.",
@@ -21938,8 +22004,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Criminal Law", "Remedies"]
+		},
     	{
     	"term": "Pen Register ",
     	"definition": "An electronic surveillance device which attaches to a phone line and which registers every number dialed from a specific telephone.",
@@ -21947,8 +22014,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Criminal Law"]
+		},
     	{
     	"term": "Pendente Lite ",
     	"definition": "Latin: during litigation. For example, if the validity of a will is challenged, a court might appoint an administrator pendente lite with limited powers to do such things as may be necessary to preserve the assets of the deceased until a hearing can be convened on the validity of the will.",
@@ -21956,8 +22024,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Civil Litigation", "Judges and Courts"]
+		},
     	{
     	"term": "Peremptory Challenge ",
     	"definition": "A formal objection to a potential juror for which no specific reason is given, unlike a challenge for cause.",
@@ -21965,8 +22034,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Criminal Law", "Judges and Courts"]
+		},
     	{
     	"term": "Perfection ",
     	"definition": "An action that has to be taken before a security interest is secured.",
@@ -21974,8 +22044,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Securities"]
+		},
     	{
     	"term": "Personal Property",
     	"definition": "Property that is not real property; things moveable, also known as chattels.",
@@ -21983,8 +22054,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Personation",
     	"definition": "To assume the identity of, with intent to deceive.",
@@ -21996,13 +22068,14 @@
     	},
     	{
     	"term": "Petition ",
-    	"definition": "Bankruptcy- The application made under the Bankruptcy and Insolvency Act for the Court to hand down a Receiving Order stating the person is in bankruptcy.Other- The formal, written document submitted to a court, and which asks for the court to redress what is described in the petition as being an injustice of some kind.",
+    	"definition": "Bankruptcy- The application made under the Bankruptcy and Insolvency Act for the Court to hand down a Receiving Order stating the person is in bankruptcy. Other- The formal, written document submitted to a court, and which asks for the court to redress what is described in the petition as being an injustice of some kind.",
     	"source":
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts", "Bankruptcy"]
+		},
     	{
     	"term": "Pettifogger ",
     	"definition": "A petty or underhanded lawyer or an attorney who sustains a professional livelihood on disreputable or dishonorable business.",
@@ -22010,8 +22083,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal Profession"]
+		},
     	{
     	"term": "Petty Offense ",
     	"definition": "A minor crime and for which the punishment is usually just a small fine or short term of imprisonment.",
@@ -22019,8 +22093,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Criminal Law"]
+		},
     	{
     	"term": "Physical Custody ",
     	"definition": "A child custody decision which grants the right to organize and administer the day to day residential care of a child. This is usually combined with legal custody. ",
@@ -22028,8 +22103,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Family Law"]
+		},
     	{
     	"term": "Plaintiff ",
     	"definition": "A person who initiates a case in Court.  That person may also be referred to as the Claimant, Petitioner or Applicant.  The person who is being sued is generally called the Defendant or Respondent.",
@@ -22037,8 +22113,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Civil Litigation", "Judges and Courts"]
+		},
     	{
     	"term": "Plea Bargaining ",
     	"definition": "Negotiations during a criminal trial, between an accused person and a prosecutor in which the accused agrees to admit to a crime (sometimes a lesser crime than the one set out in the original charge), avoiding the expense of a public trial, in exchange for which the prosecutor agrees to ask for a more lenient sentence than would have been recommended if the case had of proceeded to full trial.",
@@ -22046,8 +22123,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Criminal Law"]
+		},
     	{
     	"term": "Pleadings ",
     	"definition": "That part of a party's case in which he or she formally sets out the facts and legal arguments which support that party's position. Pleadings can be in writing or they can be made verbally to a court, during the trial.",
@@ -22055,8 +22133,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Civil Litigation", "Judges and Courts"]
+		},
     	{
     	"term": "Possession Date ",
     	"definition": "That time that is mutually agreed that the person buying property will take ownership, control or possession of it.",
@@ -22064,8 +22143,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Possessory Lien",
     	"definition": "Charge for an unpaid debt, enforced by having physical custody of the asset to which the lien applies.",
@@ -22091,8 +22171,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Contract Law"]
+		},
     	{
     	"term": "Postponement",
     	"definition": "To place after in order of importance; to put off to a later time.",
@@ -22118,8 +22199,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Praecipe",
     	"definition": "An original writ commanding the defendant to do the thing required; also an order addressed to the Clerk of the Court requesting him to issue a particular writ.",
@@ -22127,8 +22209,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal History"]
+		},
     	{
     	"term": "Praemunire ",
     	"definition": "An offence against the King or Parliament, in old English law, which led to serious penalties but not capital punishment.",
@@ -22136,8 +22219,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Common Law", "Legal History"]
+		},
     	{
     	"term": "Precatory Words ",
     	"definition": "Words that express a wish or a desire rather than a clear command. \"Precatory words\" are often found in trusts or wills and cause great difficulties when courts try to find the real intention of the settlor or testator.",
@@ -22145,8 +22229,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Wills and Estates"]
+		},
     	{
     	"term": "PPSA - Personal Property Security Act ",
     	"definition": "The system, for example, in British Columbia and most common-law provinces, whereby a person is required to register any interest that he has in the property of another before the security is valid.  The Registry can therefore be used if an institution is considering taking security on various assets, or if a person is contemplating purchasing an item such as a vehicle and wants to ensure that he purchases it free and clear of any encumbrances.",
@@ -22154,8 +22239,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Preference or Preferred Creditors ",
     	"definition": "Those creditors, in the Bankruptcy and Insolvency Act specified in Section 136, that rank ahead of ordinary or unsecured creditors.  Some preferred creditors are employees for wages, and a landlord for some specified rental arrears.",
@@ -22163,8 +22249,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Bankruptcy"]
+		},
     	{
     	"term": "Preliminary Report",
     	"definition": "Report presented by the trustee at the first meeting of creditors which details trustee's finding with regard to taking possession of the debtor's records and property; conservatory and protective measures; any legal proceedings undertaken or proposed to review provable claims, anticipated realization, and projected distribution.",
@@ -22181,8 +22268,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Bankruptcy"]
+		},
     	{
     	"term": "Presumption of Advancement ",
     	"definition": "A presumption in trust, contract and family law which suggests that property transferred from a parent to a child, or spouse to spouse, is a gift and would defeat any presumption of a resulting trust.",
@@ -22190,8 +22278,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Trusts"]
+		},
     	{
     	"term": "Prima Facie ",
     	"definition": "On the face of it or at first sight.",
@@ -22199,8 +22288,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal Theory"]
+		},
     	{
     	"term": "Probate ",
     	"definition": "The formal certificate given by a court that certifies that a will has been proven, validated and registered and which, from that point on, gives the executor the legal authority to execute the will.",
@@ -22208,8 +22298,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Wills and Estates"]
+		},
     	{
     	"term": "Pro Rata ",
     	"definition": "To divide proportionately amongst people having a claim.",
@@ -22217,8 +22308,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Remedies", "Torts"]
+		},
     	{
     	"term": "Pro Bono ",
     	"definition": "Provided for free.",
@@ -22226,17 +22318,19 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal Profession"]
+		},
     	{
-    	"term": "Profit ࡐrendre ",
+    	"term": "Profit à Prendre ",
     	"definition": "A servitude which resembles an easement and which allows the holder to enter the land of another and to take some natural produce such as mineral deposits, fish or game, timber, crops or pasture.",
     	"source":
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Pro Forma ",
     	"definition": "As a matter of form; in keeping with a form or practice. Something done pro forma may not be essential but it facilitates future dealings.",
@@ -22244,8 +22338,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Corporate and Commercial Law"]
+		},
     	{
     	"term": "Promissory Note ",
     	"definition": "An unconditional, written, signed promise to pay a certain amount of money on demand or at a certain date defined in the future.",
@@ -22253,8 +22348,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Securities"]
+		},
     	{
     	"term": "Propinquity ",
     	"definition": "Nearness in place; close-by. Also used to describe relationships as synonymous for \"kin.\"",
@@ -22271,8 +22367,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal Theory", "Bankruptcy"]
+		},
     	{
     	"term": "Pro Se ",
     	"definition": "Latin: in one's personal behalf. Without a lawyer.",
@@ -22280,8 +22377,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal Theory"]
+		},
     	{
     	"term": "Pro Socio ",
     	"definition": "Latin: on behalf of a partner; not on one's personal behalf.",
@@ -22289,8 +22387,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal Theory"]
+		},
     	{
     	"term": "Pro Tempore ",
     	"definition": "Latin: something done temporarily only and not intended to be permanent.",
@@ -22298,8 +22397,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal Theory"]
+		},
     	{
     	"term": "Proposal ",
     	"definition": "Under the Bankruptcy and Insolvency Act there are two types of proposals that can be made.  A proposal filed under Division I, which is applicable to companies and any individual who wants to avail himself of it.  There are also \"consumer proposals\", which are a special type of proposal that a consumer can avail himself of but only if his comsumer and commercial debts, excluding mortgages on real property, do not exceed $250,000.  One of the main features of a consumer proposal is that if the creditors do not accept the proposal, the person is not automatically bankrupt as in a Division I proposal.",
@@ -22307,8 +22407,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Bankruptcy"]
+		},
     	{
     	"term": "Propound ",
     	"definition": "To offer a document as being authentic or valid. Used mostly in the law of wills; to propound a will means to take legal action, as part of probate, including a formal inspection of the will, by the court.",
@@ -22316,8 +22417,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Wills and Estates"]
+		},
     	{
     	"term": "Prospectus ",
     	"definition": "A document in which a corporation sets out the material details of a share or bond issue and inviting the public to invest by purchasing these financial instruments.",
@@ -22325,8 +22427,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Securities"]
+		},
     	{
     	"term": "Provable Claims ",
     	"definition": "All those debts of a bankrupt outstanding as of the date of the bankruptcy.",
@@ -22334,8 +22437,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Bankruptcy"]
+		},
     	{
     	"term": "Proven Claims ",
     	"definition": "Claims that have been filed in the proper manner with evidence to prove what is owed and subsequently accepted by the Trustee in Bankruptcy and used as the basis for the payment of dividends when there are monies to distribute.",
@@ -22343,8 +22447,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Bankruptcy"]
+		},
     	{
     	"term": "Proxy ",
     	"definition": "Under the Bankruptcy and Insolvency Act a written statement can be made whereby a creditor appoints another person to act on his behalf in a creditors meeting and any other matters pertaining to that bankruptcy.",
@@ -22352,8 +22457,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Bankruptcy"]
+		},
     	{
     	"term": "Puisne ",
     	"definition": "Junior or lower in rank, as opposed to the chief justice. For example, there are 8 puisne judges on the Supreme Court of Canada and a chief justice.",
@@ -22361,8 +22467,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts"]
+		},
     	{
     	"term": "Punitive Damages ",
     	"definition": "Special and highly exceptional damages ordered by a court against a defendant where the act or omission which caused the suit, was of a particularly heinous, malicious or highhanded nature. Where awarded, they are an exception to the rule that damages are to compensate not to punish.",
@@ -22370,8 +22477,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Civil Litigation"]
+		},
     	{
     	"term": "Purchase Money Security Interest (PMSI - pronounced \"pimzee\") ",
     	"definition": "A security that a person takes in property, such as inventory for example, that secures payment with regard to those assets of all or part of its purchase price.",
@@ -22379,8 +22487,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property"]
+		},
     	{
     	"term": "Quantum ",
     	"definition": "Amount.",
@@ -22406,8 +22515,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Administrative Law"]
+		},
     	{
     	"term": "Quid Pro Quo ",
     	"definition": "Latin: something for something. The giving of something in exchange for another thing of equal value.",
@@ -22415,8 +22525,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal Theory"]
+		},
     	{
     	"term": "Quit Claim ",
     	"definition": "A deed releasing interest in real property.  Sometimes, when a Trustee has real property vested in him pursuant to the bankruptcy and there is no equity in that property, he may quit claim it to the mortgage holder, thereby saving the mortgage holder time and expense.  The Trustee should charge the mortgage holder for executing this deed.",
@@ -22424,8 +22535,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Quorum ",
     	"definition": "The number of people who must be present at a meeting before business can be conducted. For example, under the Bankruptcy and Insolvency Act there must be one person present, either in person or by proxy, at a meeting of creditors before the meeting is considered to be a properly constituted one and hence can carry on with the business of the meeting.",
@@ -22433,8 +22545,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Corporate and Commercial Law"]
+		},
     	{
     	"term": "Quo Warranto ",
     	"definition": "Latin and referring to a special legal procedure taken to stop a person or organization from doing something for which it may not have the legal authority.",
@@ -22442,8 +22555,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Legal Theory"]
+		},
     	{
     	"term": "Rank",
     	"definition": "Having a rightful place on the list of claims for a bankrupt estate.",
@@ -22451,8 +22565,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Bankruptcy"]
+		},
     	{
     	"term": "Real Property ",
     	"definition": "Immovable property such as a building and land.",
@@ -22460,8 +22575,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Realization ",
     	"definition": "The amount of money received from the sale of assets.",
@@ -22469,8 +22585,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Property Law"]
+		},
     	{
     	"term": "Rebuttable Presumption ",
     	"definition": "Usually, every element of a case must be proven to a judge or a jury. The exception is a \"presumption\", which means that if certain other facts are proven, then another fact can be taken for granted by the judge (or jury).",
@@ -22478,8 +22595,9 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
-    	},
+			},
+		"tags": ["Judges and Courts", "Evidence"]
+		},
     	{
     	"term": "Receiver ",
     	"definition": "A person or corporation appointed by a person who holds a debenture or other security agreement, giving that person authority to take possession of the specified in the debenture.  A Receiver cannot manage or operate a company for more than 14 days.",
@@ -22523,6 +22641,7 @@
     	"source":
     		{
     		"url": "http://www.canadianlawsite.ca",
+			"name": "Canadian Law Site"
 			},
 		"tags": ["Bankruptcy"]
 		},
@@ -23188,7 +23307,7 @@
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
 			},
-		"tags": ["Remedies"]
+		"tags": ["Remedies", "Insurance Law"]
 		},
     	{
     	"term": "Subservient Tenement ",
@@ -23771,9 +23890,6 @@
 		"name": "Alternative Dispute Resolution"
 		},
 		{
-		"name": "Asian Law"
-		},
-		{
 		"name": "Bankruptcy"
 		},
 		{
@@ -23801,12 +23917,6 @@
 		"name": "Criminal Law"
 		},
 		{
-		"name": "Criminology"
-		},
-		{
-		"name": "Economics"
-		},
-		{
 		"name": "Environmental Law"
 		},
 		{
@@ -23831,9 +23941,6 @@
 		"name": "Human Rights Law"
 		},
 		{
-		"name": "Humour"
-		},
-		{
 		"name": "Immigration Law"
 		},
 		{
@@ -23853,9 +23960,6 @@
 		},
 		{
 		"name": "Land Use"
-		},
-		{
-		"name": "Law School & Beyond"
 		},
 		{
 		"name": "Legal History"
@@ -23891,16 +23995,10 @@
 		"name": "Property Law"
 		},
 		{
-		"name": "Religion and the Law"
-		},
-		{
 		"name": "Remedies"
 		},
 		{
 		"name": "Science & Technology"
-		},
-		{
-		"name": "Secondary School Resources"
 		},
 		{
 		"name": "Securities"
