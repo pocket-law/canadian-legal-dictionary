@@ -90,8 +90,6 @@ export default class MainListView extends Component{
 
             for (i = 0; i < jsonObj.terms.length; i++) {
 
-                console.log("TAGSOYO: " + jsonObj.terms[i].tags);
-
                 // check if category is in term tags ising .indexOf()
                 if((''+jsonObj.terms[i].tags).includes(nextProps.categorySet)) {
 

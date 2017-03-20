@@ -35,6 +35,16 @@ export default class TitleBar extends Component{
         this.props.searchFor(searchTerm);
     }
 
+    componentWillReceiveProps(nextProps) {
+        // Remove searchterm if a '' is sent from MainActivity
+        // Usually in response to a category selection by the user
+        if (nextProps.searchTerm == '') {
+            console.log("TESTOS" + nextProps.searchTerm);
+            this.refs.searchInputRef.setNativeProps({text: ''})
+        }
+    }
+
+
     render(){
         return(
         <View style={styles.title_bar_view}>
@@ -52,6 +62,7 @@ export default class TitleBar extends Component{
                 </TouchableOpacity>
                 <TextInput
                     style={styles.search_text}
+                    ref='searchInputRef'
                     returnKeyType='search'
                     placeholder="Search..."
                     onChangeText={(text) => this.setState({text})}

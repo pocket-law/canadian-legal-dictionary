@@ -8,6 +8,16 @@ This is a repository to store the latest build of the PocketLaw Canadian Legal D
   <img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/cats2.png" width="320">
 </p>
 
+## Sources
+### Current:
+* http://www.irwinlaw.com/cold
+* http://www.canadianlawsite.ca
+
+### Prospective:
+* http://www.duhaim.org
+* http://www.legalaid.ab.ca/information_resources/Pages/Dictionary.aspx
+* http://www.wikipedia.org (ie. the Common Law series)
+* http://www.legalglossary.ca (multilingual, but perhaps no longer online)
 
 If you'd like to contribute, get in <b><a href="mailto:ggdev3@gmail.com">touch</a></b>.
 

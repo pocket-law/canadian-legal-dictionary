@@ -47,6 +47,7 @@ export default class MainActivity extends Component{
                     <TitleBar
                         changeListView={this.handleListView.bind(this)}
                         isVisible={this.state.isVisible}
+                        searchTerm={this.state.searchTerm}
                         searchFor={this.handleSearch.bind(this)} />
                 </View>
                 <View style={styles.listView}>
