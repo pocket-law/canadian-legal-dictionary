@@ -64,14 +64,14 @@ export default class MainListView extends Component{
                         resultsArray.push(jsonObj.terms[i]);
                         console.log("jsonObj.terms[i].term: " + jsonObj.terms[i].term);
 
+                }
             }
-        }
 
             this.state.resultsArray = resultsArray;
 
             if (resultsArray.length >= 1) {
-                console.log("Results#: " + resultsArray.length);
-                this.state.termDataSource = this.state.termDataSource.cloneWithRows(resultsArray);
+                console.log("Results# : " + resultsArray.length);
+                this.setState({termDataSource: this.state.termDataSource.cloneWithRows(resultsArray)});
             } else {
                 alert("No Results!")
             }
@@ -81,7 +81,34 @@ export default class MainListView extends Component{
         }
 
         if (nextProps.categorySet != '' && nextProps.categorySet != null) {
-            console.log("AyeCaramba! categorySet = " + nextProps.categorySet);
+            console.log("MainListView categorySet: " + nextProps.categorySet);
+            this.setState({ categorySet: nextProps.categorySet });
+
+            jsonObj = JSON.parse(jsonString);
+
+            var resultsArray = [];
+
+            for (i = 0; i < jsonObj.terms.length; i++) {
+
+                console.log("TAGSOYO: " + jsonObj.terms[i].tags);
+
+                // check if category is in term tags ising .indexOf()
+                if((''+jsonObj.terms[i].tags).includes(nextProps.categorySet)) {
+
+                        console.log("listview category MATCH: " + nextProps.categorySet + "\n==============================================" );
+
+                        resultsArray.push(jsonObj.terms[i]);
+                        console.log("jsonObj.terms[i].term: " + jsonObj.terms[i].term);
+
+                }
+            }
+
+            this.state.resultsArray = resultsArray;
+
+            if (resultsArray.length >= 1) {
+                console.log("Results# : " + resultsArray.length);
+                this.setState({termDataSource: this.state.termDataSource.cloneWithRows(resultsArray)});
+            }
         }
 
         // Scroll mainlistview to top after changing it's contents

@@ -3,6 +3,20 @@
 "version": "1.0 alpha",
 "terms":
 	[
+
+		{
+		"term": "Reproductive Rights",
+		"definition": "'Reproductive rights' are the rights of individuals to decide whether to reproduce and have reproductive health. This may include an individual's right to plan a family, terminate a pregnancy, use contraceptives, learn about sex education in public schools, and gain access to reproductive health services.",
+		"source":
+			{
+			"url": "http://family.findlaw.com/reproductive-rights/what-are-reproductive-rights-.html",
+			"name": "FindLaw.com"
+			},
+		"tags": ["Women and the Law"]
+		},
+
+
+
 		{
 		"term": "Abandonment",
 		"definition": "The lapse of a state's sovereignty over territory, causing the territory to become a res nullius.",
@@ -10360,8 +10374,7 @@
 			"url": "https://www.irwinlaw.com/titles/law-partnerships-and-corporations-3e",
 			"name": "The Law of Partnerships and Corporations 3/e - J. Anthony VanDuzer"
 			},
-		"tags": ["Bankruptcy", " Corporate and Commercial Law"],
-		"END": "end"
+		"tags": ["Bankruptcy", " Corporate and Commercial Law"]
 		},
 		{
 		"term": "Lis pendens",
@@ -16911,8 +16924,8 @@
 			{
 			"url": "https://www.irwinlaw.com/titles/public-international-law-2e",
 			"name": "Public International Law 2/e - John H. Currie"
-		},
-		"END": "end"
+			},
+		"tags": ["International Law"]
 		},
 		{
 		"term": "Trespass ab initio",
@@ -18497,7 +18510,8 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
+			},
+		"tags": ["Bankruptcy"]
     	},
     	{
     	"term": "Bankruptcy ",
@@ -18506,7 +18520,8 @@
     		{
     		"url": "http://www.canadianlawsite.ca",
     		"name": "Canadian Law Site"
-    		}
+			},
+		"tags": ["Bankruptcy"]
     	},
     	{
     	"term": "Bare Trust ",
