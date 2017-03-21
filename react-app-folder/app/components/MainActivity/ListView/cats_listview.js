@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {AppRegistry, Text, View, ListView, StyleSheet, TouchableOpacity} from 'react-native';
+import {AppRegistry, Text, View, ListView, StyleSheet, TouchableHighlight} from 'react-native';
 
 const mDictJson = require('./json/dict.json');
 
@@ -29,20 +29,17 @@ export default class CatsListView extends Component{
         });
 
         jsonString = JSON.stringify(mDictJson);
-
     }
 
     renderRow(category, sectionId, rowId, highlightRow){
             return(
-                <View style={styles.row}>
-                    <TouchableOpacity onPress={()=>this.handlePress(category)}>
-
+                <TouchableHighlight onPress={()=>this.handlePress(category)}>
+                    <View style={styles.row}>
                         <View>
                             <Text style={styles.categoryText}>{category.name}</Text>
                         </View>
-                    </TouchableOpacity>
-
-                </View>
+                    </View>
+                </TouchableHighlight>
             )
         }
 

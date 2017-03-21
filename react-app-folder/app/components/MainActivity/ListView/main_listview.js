@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {AppRegistry, Text, View, ListView, StyleSheet, TouchableHighlight} from 'react-native';
+import {AppRegistry, Text, View, ListView, StyleSheet, TouchableOpacity, Linking, Alert} from 'react-native';
 
 const jsonString = '';
 
@@ -117,15 +117,28 @@ export default class MainListView extends Component{
         this.getInternalJson();
     }
 
-
-
     getInternalJson(){
         this.setState({
             termDataSource: this.state.termDataSource.cloneWithRows(sortByKey(mDictJson.terms, 'term'))
         });
 
         jsonString = JSON.stringify(mDictJson);
+    }
 
+    handleSourcePress(url) {
+        // open url in a browser
+        Alert.alert(
+          'External URL',
+          url,
+          [
+            {text: 'Cancel', onPress: () => console.log('Cancel Link Pressed'), style: 'cancel'},
+            {text: 'Open', onPress: () => this.openUrl(url)},
+          ]
+        )
+    }
+
+    openUrl(url) {
+        Linking.openURL(url).catch(err => console.error('An error occurred', err));
     }
 
     renderRow(term, sectionId, rowId, highlightRow){
@@ -169,10 +182,12 @@ export default class MainListView extends Component{
                         }
                         <Text style={styles.definitionText}>{term.definition}</Text>
                         {sourceVar &&
-                        <View style={styles.sourceView}>
-                            <Text style={styles.rowTextSource}>SOURCE</Text>
-                            <Text style={styles.sourceName}>{term.source.name}</Text>
-                        </View>
+                            <View style={styles.sourceView}>
+                                <Text style={styles.rowTextSource}>SOURCE</Text>
+                                <TouchableOpacity onPress={()=>this.handleSourcePress(term.source.url)}>
+                                    <Text style={styles.sourceName}>{term.source.name}</Text>
+                                </TouchableOpacity>
+                            </View>
                         }
 
                     </View>

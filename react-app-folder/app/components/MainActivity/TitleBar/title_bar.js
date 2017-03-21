@@ -39,7 +39,6 @@ export default class TitleBar extends Component{
         // Remove searchterm if a '' is sent from MainActivity
         // Usually in response to a category selection by the user
         if (nextProps.searchTerm == '') {
-            console.log("TESTOS" + nextProps.searchTerm);
             this.refs.searchInputRef.setNativeProps({text: ''})
         }
     }
