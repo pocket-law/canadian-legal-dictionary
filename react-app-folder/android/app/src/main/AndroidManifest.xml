@@ -4,10 +4,13 @@
     android:versionCode="1"
     android:versionName="0.01">
 
-<!-- REACT auto-added perms? :
-    <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
--->
+    <!-- REACT auto-added perms, need to remove here with <... tools:node="remove"> -->
+    <!-- These are added by React Native for debug mode, but actually aren't needed in releasemode -->
+    <uses-permission android:name="android.permission.INTERNET"  tools:node="remove" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"  tools:node="remove" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" tools:node="remove" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" tools:node="remove" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" tools:node="remove"/>
 
     <uses-sdk
         android:minSdkVersion="16"
