@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {AppRegistry, Text, View, StyleSheet, TouchableHighlight} from 'react-native';
+import {AppRegistry, Text, View, StyleSheet, TouchableHighlight, Keyboard, BackAndroid} from 'react-native';
 
 import MainListView from './ListView/main_listview';
 import CatsListView from './ListView/cats_listview';
@@ -9,7 +9,7 @@ export default class MainActivity extends Component{
     constructor(){
         super();
         this.state = {
-            isVisible: 'full-list',
+            isVisible: 'full-list', // 'full-list', 'categories'
             searchTerm: '',
             categorySet: ''
         };
@@ -28,18 +28,45 @@ export default class MainActivity extends Component{
     handleSearch(searchTerm) {
         this.setState({searchTerm: searchTerm});
         this.setState({categorySet: ''});
-        this.setState({isVisible: 'full-list'})
+        this.setState({isVisible: 'full-list'});
+        Keyboard.dismiss();
         console.log("MainActivity search: " + searchTerm);
     }
 
     handleCategoryChange(category) {
         this.setState({categorySet: category});
         this.setState({searchTerm: ''});
-        this.setState({isVisible: 'full-list'})
+        this.setState({isVisible: 'full-list'});
         console.log("MainActivity category: " + category);
     }
 
+    componentDidMount() {
+        console.log("BACKK! " + this.state.isVisible);
+        BackAndroid.addEventListener('hardwareBackPress', this.handleBack.bind(this));
+    }
 
+    componentWillUnmount() {
+        //Forgetting to remove the listener will cause pop executes multiple times
+        BackAndroid.removeEventListener('hardwareBackPress', this.handleBack.bind(this));
+    }
+
+    handleBack() {
+        if (this.state.isVisible != 'full-list') {
+            this.setState({isVisible: 'full-list'});
+            return true; //avoid closing the app
+        } else if (this.state.searchTerm != '') {
+            this.handleSearch('');
+            return true; //avoid closing the app
+        } else if (this.state.categorySet != '') {
+            this.state.categorySet = '';
+            this.setState({isVisible: 'categories'});
+            return true; //avoid closing the app
+        }
+
+    return false; //close the app
+    }
+
+    //RENDER RENDER
     render(){
         return(
             <View style={styles.container}>

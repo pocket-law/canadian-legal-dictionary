@@ -1,11 +1,14 @@
 import React, {Component} from 'react';
-import {AppRegistry, Text, View, ListView, StyleSheet, TouchableOpacity, Linking, Alert} from 'react-native';
+import {AppRegistry, Text, View, ListView, StyleSheet, TouchableOpacity, Linking, Alert, ToastAndroid} from 'react-native';
 
 const jsonString = '';
 
 const jsonObj = null;
 
 const mDictJson = require('./json/dict.json');
+
+// This variable is used to avoid searching again when clicking the hamburger menu after a search
+const lastSearch = '';
 
 function sortByKey(array, key) {
     return array.sort(function(a, b) {
@@ -31,7 +34,10 @@ export default class MainListView extends Component{
     componentWillReceiveProps(nextProps) {
 
         // Update state searchTerm when prop searchTerm updated
-        if (nextProps.searchTerm != '') {
+        if ((nextProps.searchTerm != '') && (nextProps.searchTerm != lastSearch)) {
+
+            lastSearch = nextProps.searchTerm;
+
             console.log("MainListView new search: " + nextProps.searchTerm);
             this.setState({ searchTerm: nextProps.searchTerm });
 
@@ -70,10 +76,18 @@ export default class MainListView extends Component{
             this.state.resultsArray = resultsArray;
 
             if (resultsArray.length >= 1) {
-                console.log("Results# : " + resultsArray.length);
+
+                //TODO: custom toast solution to work on iOS as well
+                if (resultsArray.length > 1) {
+                    ToastAndroid.showWithGravity(resultsArray.length + " Results!", ToastAndroid.SHORT, ToastAndroid.CENTER);
+                } else {
+                    ToastAndroid.showWithGravity(resultsArray.length + " Result!", ToastAndroid.SHORT, ToastAndroid.CENTER);
+                }
+
                 this.setState({termDataSource: this.state.termDataSource.cloneWithRows(resultsArray)});
             } else {
                 alert("No Results!")
+                this.getInternalJson();
             }
         } else if (nextProps.searchTerm == '') {
             // if search term = '', show all terms
@@ -81,6 +95,10 @@ export default class MainListView extends Component{
         }
 
         if (nextProps.categorySet != '' && nextProps.categorySet != null) {
+
+            // clear lastSearch as at this point the mainlistview will no longer reflect it
+            lastSearch = '';
+
             console.log("MainListView categorySet: " + nextProps.categorySet);
             this.setState({ categorySet: nextProps.categorySet });
 
