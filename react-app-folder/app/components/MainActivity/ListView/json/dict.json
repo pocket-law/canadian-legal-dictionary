@@ -14981,13 +14981,7 @@
 			"url": "https://www.irwinlaw.com/titles/law-torts-5e",
 			"name": "The Law of Torts, 5/e - Philip H. Osborne"
 			},
-		"tags": ["Torts"],
-		"END": "end"
-		},
-		{
-		"term": "COLD Search results for “”",
-
-		"END": "end"
+		"tags": ["Torts"]
 		},
 		{
 		"term": "Search and seizure",
@@ -14998,8 +14992,7 @@
 			"url": "https://www.irwinlaw.com/titles/criminal-law-6e",
 			"name": "Criminal Law, 6/e - Kent Roach"
 			},
-		"tags": ["Constitutional Law", " Criminal Law"],
-		"END": "end"
+		"tags": ["Constitutional Law", " Criminal Law"]
 		},
 		{
 		"term": "Search incident to arrest",

@@ -1,14 +1,16 @@
 # <img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/logos/logo.png" width="40"> <i>Canadian Legal Dictionary</i>
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=org.pocketlaw.cld"><img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/cs1.png" height="64">
-  <img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/cs2.png" height="64">
+	<a href="https://play.google.com/store/apps/details?id=org.pocketlaw.cld">
+		<img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/cs1.png" height="64">
+	</a>
+	<img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/cs2.png" height="64">
 </p>
 
 <p align="center">
-  <img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/sc1.jpg" width="284">
-  <img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/sc2.jpg" width="284">
-  <img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/sc3.jpg" width="284">
+	<img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/sc1.jpg" width="284">
+	<img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/sc2.jpg" width="284">
+	<img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/sc3.jpg" width="284">
 </p>
 
 ## PocketLaw - ***Canadian Legal Dictionary***
