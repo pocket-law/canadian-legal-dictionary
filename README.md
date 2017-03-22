@@ -7,7 +7,8 @@
 
 <p align="center">
   <img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/main2.png" width="320">
-  <img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/cats2.png" width="320">
+  <img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/sc2.png" width="320">
+  <img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/sc3.png" width="320">
 </p>
 
 ## PocketLaw - ***Canadian Legal Dictionary***
