@@ -1,7 +1,7 @@
 # <img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/logos/logo.png" width="40"> <i>Canadian Legal Dictionary</i>
 
 <p align="center">
-  [<img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/cs1.png" height="64">](https://play.google.com/store/apps/details?id=org.pocketlaw.cld)
+  <a href="https://play.google.com/store/apps/details?id=org.pocketlaw.cld"><img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/cs1.png" height="64">
   <img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/cs2.png" height="64">
 </p>
 
