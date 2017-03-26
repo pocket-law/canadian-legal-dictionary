@@ -25,6 +25,9 @@ This is a repository to store the latest build of the PocketLaw Canadian Legal D
 
 ### Prospective:
 * http://www.duhaim.org
+* https://www.attorneygeneral.jus.gov.on.ca/english/glossary/
+* http://www2.gov.bc.ca/gov/content/justice/criminal-justice/bcs-criminal-justice-system/justice-terms
+* http://www.justice.gc.ca/eng/rp-pr/cp-pm/eval/rep-rap/12/lap-paj/p7g.html
 * http://www.legalaid.ab.ca/information-resources/Pages/Dictionary.aspx
 * http://www.wikipedia.org (ie. the Common Law series)
 * http://www.legalglossary.ca (multilingual, but perhaps no longer online)
