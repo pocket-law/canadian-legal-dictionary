@@ -2314,7 +2314,6 @@
     {
       "definition": "The intentional and direct interference with the body of another that is either harmful or offensive.",
       "term": "Battery",
-      "END": "end",
       "tags": [
         "Criminal Law",
         " Torts"
@@ -6485,7 +6484,6 @@
     {
       "definition": "Binary information that is digitally recorded and forensically displayed in various forms, such as a series of bits represented by a 1 or a 0, that are converted to a human-readable format.",
       "term": "Data",
-      "END": "end",
       "tags": [
         "Communication",
         " Media",
@@ -6501,8 +6499,7 @@
     },
     {
       "definition": "De minimis is a shortened form of the Latin legal maxim de minimis non curat lex: the law does not concern itself with the trivial. For example, an act that is technically an infringement can be called de minimis if it is thought to be outside the purpose of the law to catch it; the claim can then be dismissed with costs. This decision involves a value judgment that the complaint should either have been resolved without taking up the time of a court or is a minor irritant that, like the unintentional jostle in a crowded street, the complainant should have borne with equanimity.",
-      "term": "De minimis non curat lex",
-      "END": "end",
+      "term": "De Minimis Non Curat Lex",
       "tags": [
         "Civil Litigation",
         " Torts"
@@ -6516,7 +6513,6 @@
     {
       "definition": "A hearing in which the decision-making authority deals completely afresh with a matter that has already been heard once before either by that or another authority.",
       "term": "De novo hearing",
-      "END": "end",
       "tags": [
         "Administrative Law"
       ],
@@ -6529,7 +6525,6 @@
     {
       "definition": "A procedure common in intensive agriculture where the snood, or flap of skin that hangs over a turkey's beak, is cut off, often without anaesthetic, to reduce the risk of cannibalism among stressed and frustrated confined birds.",
       "term": "De-snood",
-      "END": "end",
       "tags": [
         "Environmental Law",
         " Ethics"
@@ -25550,12 +25545,25 @@
       }
     },
     {
-      "definition": "The state of being bankrupt.Battery Intentional physical contact that is harmful or offensive to the other person; the completion of an assault in tort law. ",
+      "definition": "The state of being bankrupt.",
       "term": "Bankruptcy ",
       "tags": [
         "Bankruptcy"
       ],
       "uniqueID": "032817n1703",
+      "source": {
+        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
+        "name": "Canadian Law Site"
+      }
+    },
+    {
+      "definition": "Intentional physical contact that is harmful or offensive to the other person; the completion of an assault in tort law. ",
+      "term": "Battery",
+      "related_terms": ["Assault"],
+      "tags": [
+        "Torts"
+      ],
+      "uniqueID": "032817n2279",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"

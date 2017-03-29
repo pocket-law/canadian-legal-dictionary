@@ -4,18 +4,20 @@ import {AppRegistry, Text, View, StyleSheet, TouchableHighlight, Keyboard, BackA
 import MainListView from './ListView/main_listview';
 import CatsListView from './ListView/cats_listview';
 import TitleBar from './TitleBar/title_bar';
+import Details from './Details/details';
 
 export default class MainActivity extends Component{
     constructor(){
         super();
         this.state = {
-            isVisible: 'full-list', // 'full-list', 'categories'
+            isVisible: 'full-list', // 'full-list', 'categories', 'details'
             searchTerm: '',
-            categorySet: ''
+            categorySet: '',
+            detailTerm: []
         };
     }
 
-    handleListView(isVisible) {
+    handleVisible(isVisible) {
         this.state.categorySet = ''
 
         if (isVisible == 'categories') {
@@ -23,6 +25,11 @@ export default class MainActivity extends Component{
         } else if (isVisible == 'full-list') {
             this.setState({isVisible: 'full-list'});
         }
+    }
+
+    handleDetails(currentTerm) {
+        this.setState({detailTerm: currentTerm});
+        this.setState({isVisible: 'details'});
     }
 
     handleSearch(searchTerm) {
@@ -72,7 +79,7 @@ export default class MainActivity extends Component{
             <View style={styles.container}>
                 <View style={styles.titleBar}>
                     <TitleBar
-                        changeListView={this.handleListView.bind(this)}
+                        changeListView={this.handleVisible.bind(this)}
                         isVisible={this.state.isVisible}
                         searchTerm={this.state.searchTerm}
                         searchFor={this.handleSearch.bind(this)} />
@@ -81,6 +88,7 @@ export default class MainActivity extends Component{
                     {this.state.isVisible == 'full-list' ?
                         <View>
                             <MainListView
+                                showDetails={this.handleDetails.bind(this)}
                                 categorySet={this.state.categorySet}
                                 searchTerm={this.state.searchTerm} />
                         </View>
@@ -97,10 +105,20 @@ export default class MainActivity extends Component{
                                 changeCategory={this.handleCategoryChange.bind(this)} />
                         </View>
                     :
-                    <View style={styles.noHeight}>
-                        <CatsListView
-                            changeCategory={this.handleCategoryChange.bind(this)} />
-                    </View>
+                        <View style={styles.noHeight}>
+                            <CatsListView
+                                changeCategory={this.handleCategoryChange.bind(this)} />
+                        </View>
+                    }
+                    {this.state.isVisible == 'details'  ?
+                        <View>
+                            <Details
+                                detailTerm = {this.state.detailTerm}/>
+                        </View>
+                    :
+                        <View style={styles.noHeight}>
+                            <Details />
+                        </View>
                     }
                 </View>
             </View>

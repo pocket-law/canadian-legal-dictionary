@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {AppRegistry, Image, Text, TextInput, View, Button, StyleSheet,TouchableOpacity} from 'react-native';
+import {AppRegistry, Image, Text, TextInput, View, StyleSheet, TouchableOpacity} from 'react-native';
 
 export default class TitleBar extends Component{
     constructor(props){
@@ -17,6 +17,8 @@ export default class TitleBar extends Component{
         console.log('was visible - ' + isVisible);
 
         if (isVisible == 'full-list') {
+            isVisible = 'categories';
+        } else if (isVisible == 'details') {
             isVisible = 'categories';
         } else if (isVisible == 'categories') {
             isVisible = 'full-list';

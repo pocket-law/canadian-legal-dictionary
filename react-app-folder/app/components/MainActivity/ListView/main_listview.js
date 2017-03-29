@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {AppRegistry, Text, View, ListView, StyleSheet, TouchableOpacity, Linking, Alert, ToastAndroid} from 'react-native';
+import {AppRegistry, Text, View, ListView, StyleSheet, TouchableOpacity, ToastAndroid} from 'react-native';
 
 const jsonString = '';
 
@@ -18,8 +18,8 @@ function sortByKey(array, key) {
 }
 
 export default class MainListView extends Component{
-    constructor(){
-        super();
+    constructor(props){
+        super(props);
         const ds = new ListView.DataSource({rowHasChanged: (r1, r2) => r1 !== r2});
         this.state = {
             termDataSource: ds,
@@ -143,20 +143,9 @@ export default class MainListView extends Component{
         jsonString = JSON.stringify(mDictJson);
     }
 
-    handleSourcePress(url) {
-        // open url in a browser
-        Alert.alert(
-          'External URL',
-          url,
-          [
-            {text: 'Cancel', onPress: () => console.log('Cancel Link Pressed'), style: 'cancel'},
-            {text: 'Open', onPress: () => this.openUrl(url)},
-          ]
-        )
-    }
-
-    openUrl(url) {
-        Linking.openURL(url).catch(err => console.error('An error occurred', err));
+    // Open Details view for term on row click
+    handleDetailPress(term) {
+         this.props.showDetails(term);
     }
 
     renderRow(term, sectionId, rowId, highlightRow){
@@ -189,27 +178,20 @@ export default class MainListView extends Component{
             //console.log(term.term + " related_terms - ERROR")
         }
             return(
-                <View style={styles.row}>
-                    <View style={styles.rowContent}>
-                        <Text style={styles.termText}>{term.term}</Text>
-                        {relatedTermsVar &&
-                            <View style={styles.seeAlsoView}>
-                                <Text style={styles.rowTextSeeAlso}>see also: </Text>
-                                <Text style={styles.seeAlsoName}>{relatedTerms}</Text>
-                            </View>
-                        }
-                        <Text style={styles.definitionText}>{term.definition}</Text>
-                        {sourceVar &&
-                            <View style={styles.sourceView}>
-                                <Text style={styles.rowTextSource}>SOURCE</Text>
-                                <TouchableOpacity onPress={()=>this.handleSourcePress(term.source.url)}>
-                                    <Text style={styles.sourceName}>{term.source.name}</Text>
-                                </TouchableOpacity>
-                            </View>
-                        }
-
+                <TouchableOpacity onPress={()=>this.handleDetailPress(term)}>
+                    <View style={styles.row}>
+                        <View style={styles.rowContent}>
+                            <Text style={styles.termText}>{term.term}</Text>
+                            {relatedTermsVar &&
+                                <View style={styles.seeAlsoView}>
+                                    <Text style={styles.rowTextSeeAlso}>see also: </Text>
+                                    <Text style={styles.seeAlsoName}>{relatedTerms}</Text>
+                                </View>
+                            }
+                            <Text style={styles.definitionText}>{term.definition}</Text>
+                        </View>
                     </View>
-                </View>
+                </TouchableOpacity>
             )
         }
 
@@ -255,6 +237,7 @@ const styles = StyleSheet.create({
     definitionText: {
         flex: 1,
         marginBottom: 4,
+        marginLeft: 8,
         marginTop: 4
     },
 
