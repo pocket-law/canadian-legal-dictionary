@@ -6,8 +6,7 @@ export default class Header extends Component{
         super(props);
         this.state = {
             appname: 'Canadian Legal Dictionary',
-            searchTerm: '',
-            isVisible: 'full-list' // categories, full-list, sub-list
+            searchTerm: ''
         }
     }
 
@@ -17,6 +16,8 @@ export default class Header extends Component{
         console.log('was visible - ' + isVisible);
 
         if (isVisible == 'full-list') {
+            isVisible = 'categories';
+        } else if (isVisible == 'bookmarks') {
             isVisible = 'categories';
         } else if (isVisible == 'details') {
             isVisible = 'categories';

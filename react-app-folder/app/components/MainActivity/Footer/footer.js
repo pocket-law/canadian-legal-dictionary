@@ -5,7 +5,7 @@ export default class Footer extends Component{
     constructor(props){
         super(props);
         this.state = {
-            isVisible: 'full-list' // 'full-list', 'categories', 'details', bookmarks
+
         }
     }
 
@@ -15,6 +15,26 @@ export default class Footer extends Component{
 
     handleBookmarks() {
         console.log("bookmarks pressed...");
+
+        var isVisible = this.props.isVisible;
+
+        console.log('was visible - ' + isVisible);
+
+        if (isVisible == 'full-list') {
+            isVisible = 'bookmarks';
+        } else if (isVisible == 'categories') {
+            isVisible = 'bookmarks';
+        } else if (isVisible == 'details') {
+            isVisible = 'bookmarks';
+        } else if (isVisible == 'bookmarks') {
+            isVisible = 'full-list';
+        } else {
+            isVisible = 'full-list'
+        }
+        console.log('now visible - ' + isVisible);
+
+       // Providing `isVisible` variable to changeListView callback.
+        this.props.changeListView(isVisible);
     }
 
 

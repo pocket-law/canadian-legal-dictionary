@@ -68,14 +68,6 @@ const styles = StyleSheet.create({
         margin: 2
     },
 
-    // row: {
-    //     flexDirection: 'row',
-    //     justifyContent: 'center',
-    //     padding: 10,
-    //     margin: 4,
-    //     elevation: 2
-    // },
-
     categoryText: {
         flex: 1,
         fontSize: 20,

@@ -9,6 +9,10 @@ export default class Details extends Component{
         }
     }
 
+    handleBookmarkPress() {
+        console.log("Details bookmark pressed!");
+    }
+
     handleSourcePress(url) {
         // Alert giving option to open url in a browser
         Alert.alert(
@@ -71,7 +75,12 @@ export default class Details extends Component{
             <View style={styles.detail_container}>
                 <View>
                     {this.state.detailTerm != null ?
-                        <Text style={styles.term}>{this.state.detailTerm.term}</Text>
+                        <View style={styles.term_bar}>
+                            <Text style={styles.term}>{this.state.detailTerm.term}</Text>
+                            <TouchableOpacity  onPress={this.handleBookmarkPress.bind(this)}>
+                                <Image style={styles.bookmark_button} source={require('./res/bookmark_blank.png')}/>
+                            </TouchableOpacity>
+                        </View>
                     :
                         <Text/>
                     }
@@ -116,12 +125,22 @@ const styles = StyleSheet.create({
 
     },
 
+    term_bar: {
+        flexDirection: 'row'
+    },
+
     term: {
         fontWeight: 'bold',
         color: '#46474c',
         fontSize: 22,
-        marginBottom: 2
+        marginBottom: 2,
+        flex: 1
+    },
 
+    bookmark_button: {
+        height: 40,
+        width: 40,
+        margin: 4
     },
 
     definition: {

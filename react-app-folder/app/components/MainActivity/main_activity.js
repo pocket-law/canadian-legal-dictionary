@@ -5,6 +5,7 @@ import Header from './Header/header';
 import Footer from './Footer/footer';
 import MainListView from './BodyView/main_listview';
 import CatsListView from './BodyView/cats_listview';
+import BkmkListView from './BodyView/bkmk_listview';
 import Details from './BodyView/details';
 
 
@@ -12,22 +13,25 @@ export default class MainActivity extends Component{
     constructor(){
         super();
         this.state = {
-            isVisible: 'full-list', // 'full-list', 'categories', 'details', bookmarks
+            isVisible: 'full-list', // 'full-list', 'categories', 'details', 'bookmarks'
             searchTerm: '',
             categorySet: '',
             detailTerm: []
         };
     }
 
-    handleVisible(isVisible) {
+    handleVisible(newVisible) {
         this.state.categorySet = ''
 
-        if (isVisible == 'categories') {
+        //TODO: clearly this can be simplify to simple making isVisible == newVisible...
+        if (newVisible == 'categories') {
             this.setState({isVisible: 'categories'});
-        } else if (isVisible == 'full-list') {
+        } else if (newVisible == 'full-list') {
             this.setState({isVisible: 'full-list'});
+        } else if (newVisible == 'bookmarks') {
+            this.setState({isVisible: 'bookmarks'});
         }
-    }
+     }
 
     handleDetails(currentTerm) {
         this.setState({detailTerm: currentTerm});
@@ -111,6 +115,18 @@ export default class MainActivity extends Component{
                                 changeCategory={this.handleCategoryChange.bind(this)} />
                         </View>
                     }
+                    {this.state.isVisible == 'bookmarks'  ?
+                        <View>
+                            <BkmkListView
+                                showDetails={this.handleDetails.bind(this)}
+                                changeCategory={this.handleCategoryChange.bind(this)} />
+                        </View>
+                    :
+                        <View style={styles.noHeight}>
+                            <BkmkListView
+                                changeCategory={this.handleCategoryChange.bind(this)} />
+                        </View>
+                    }
                     {this.state.isVisible == 'details'  ?
                         <View>
                             <Details
@@ -122,7 +138,9 @@ export default class MainActivity extends Component{
                         </View>
                     }
                 </View>
-                <Footer/>
+                <Footer
+                    changeListView={this.handleVisible.bind(this)}
+                    isVisible={this.state.isVisible}/>
             </View>
         );
     }
