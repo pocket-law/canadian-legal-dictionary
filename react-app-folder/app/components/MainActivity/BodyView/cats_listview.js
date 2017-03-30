@@ -62,10 +62,19 @@ const styles = StyleSheet.create({
     row: {
         flexDirection: 'row',
         justifyContent: 'center',
-        padding: 10,
         backgroundColor: '#2e3f76',
-        marginBottom: 3
+        elevation: 2,
+        padding: 10,
+        margin: 2
     },
+
+    // row: {
+    //     flexDirection: 'row',
+    //     justifyContent: 'center',
+    //     padding: 10,
+    //     margin: 4,
+    //     elevation: 2
+    // },
 
     categoryText: {
         flex: 1,

@@ -84,7 +84,7 @@ const styles = StyleSheet.create({
     title_bar_view: {
         flexDirection:'column',
         backgroundColor:'#3B5198',
-        elevation: 6
+        elevation: 2
     },
 
     titleBar: {
