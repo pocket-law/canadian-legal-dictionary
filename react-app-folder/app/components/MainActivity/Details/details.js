@@ -30,7 +30,6 @@ export default class Details extends Component{
         // Usually in response to a category selection by the user
         if (nextProps.detailTerm != null) {
             this.state.detailTerm = nextProps.detailTerm;
-            console.log("IN DETAILS" + this.state.detailTerm.term);
         }
     }
 
@@ -45,7 +44,7 @@ export default class Details extends Component{
             test = this.state.detailTerm.source.name;
             sourceVar = true;
         } catch (error) {
-            console.log("source - ERROR")
+            //console.log("source - ERROR")
         }
 
         try {
@@ -62,7 +61,7 @@ export default class Details extends Component{
                 }
             }
         } catch (error) {
-            console.log(" related_terms - ERROR")
+            //console.log(" related_terms - ERROR")
         }
 
         var detailTerm = this.props.detailTerm;

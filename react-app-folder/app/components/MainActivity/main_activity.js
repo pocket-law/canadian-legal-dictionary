@@ -5,12 +5,13 @@ import MainListView from './ListView/main_listview';
 import CatsListView from './ListView/cats_listview';
 import TitleBar from './TitleBar/title_bar';
 import Details from './Details/details';
+import Footer from './Footer/footer';
 
 export default class MainActivity extends Component{
     constructor(){
         super();
         this.state = {
-            isVisible: 'full-list', // 'full-list', 'categories', 'details'
+            isVisible: 'full-list', // 'full-list', 'categories', 'details', bookmarks
             searchTerm: '',
             categorySet: '',
             detailTerm: []
@@ -48,7 +49,6 @@ export default class MainActivity extends Component{
     }
 
     componentDidMount() {
-        console.log("BACKK! " + this.state.isVisible);
         BackAndroid.addEventListener('hardwareBackPress', this.handleBack.bind(this));
     }
 
@@ -84,7 +84,7 @@ export default class MainActivity extends Component{
                         searchTerm={this.state.searchTerm}
                         searchFor={this.handleSearch.bind(this)} />
                 </View>
-                <View style={styles.listView}>
+                <View style={styles.bodyView}>
                     {this.state.isVisible == 'full-list' ?
                         <View>
                             <MainListView
@@ -121,6 +121,7 @@ export default class MainActivity extends Component{
                         </View>
                     }
                 </View>
+                <Footer/>
             </View>
         );
     }
@@ -128,20 +129,22 @@ export default class MainActivity extends Component{
 
 const styles = StyleSheet.create({
     container: {
+        flex: 1,
         flexDirection:'column'
-    },
-
-    noHeight: {
-        height: 0
     },
 
     titleBar: {
 
     },
 
-    listView: {
+    bodyView: {
+        flex: 1
+    },
 
+    noHeight: {
+        height: 0
     }
+
 });
 
 AppRegistry.registerComponent('MainActivity', () => MainActivity);
