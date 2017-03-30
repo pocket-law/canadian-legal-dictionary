@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {AppRegistry, Image, Text, TextInput, View, StyleSheet, TouchableOpacity} from 'react-native';
 
-export default class TitleBar extends Component{
+export default class Header extends Component{
     constructor(props){
         super(props);
         this.state = {
@@ -53,14 +53,14 @@ export default class TitleBar extends Component{
 
             {/* }AppTitle */}
             <View style={styles.titleBar}>
-                <Image style={styles.leaf} source={require('./leaf.png')} />
+                <Image style={styles.leaf} source={require('./res/leaf.png')} />
                 <Text style={styles.apptitle}>{this.state.appname}</Text>
             </View>
 
             {/* }SearchBar */}
             <View style={styles.search_bar_view}>
                 <TouchableOpacity  onPress={this.handleHamburger.bind(this)}>
-                    <Image style={styles.button} source={require('./menu_white.png')}/>
+                    <Image style={styles.button} source={require('./res/menu_white.png')}/>
                 </TouchableOpacity>
                 <TextInput
                     style={styles.search_text}
@@ -71,7 +71,7 @@ export default class TitleBar extends Component{
                     onChangeText={(text) => this.setState({ searchTerm: text })}
                     onSubmitEditing={this.handleSearch.bind(this)}/>
                 <TouchableOpacity  onPress={this.handleSearch.bind(this)}>
-                    <Image style={styles.button} source={require('./search_white.png')} />
+                    <Image style={styles.button} source={require('./res/search_white.png')} />
                 </TouchableOpacity>
             </View>
 
@@ -134,4 +134,4 @@ const styles = StyleSheet.create({
 });
 
 
-AppRegistry.registerComponent('TitleBar', () => TitleBar);
+AppRegistry.registerComponent('Header', () => Header);

@@ -23,7 +23,7 @@ export default class Footer extends Component{
         <View style={styles.container}>
             <View style={styles.fill}/>
             <TouchableOpacity  onPress={this.handleBookmarks.bind(this)}>
-                <Image style={styles.button} source={require('./bookmarks_white.png')}/>
+                <Image style={styles.button} source={require('./res/bookmarks_white.png')}/>
             </TouchableOpacity>
         </View>
         );

@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {AppRegistry, Text, View, ListView, StyleSheet, TouchableHighlight} from 'react-native';
 
-const mDictJson = require('./json/dict.json');
+const mDictJson = require('./res/dict.json');
 
 export default class CatsListView extends Component{
     constructor(){

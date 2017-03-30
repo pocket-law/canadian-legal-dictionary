@@ -1,11 +1,12 @@
 import React, {Component} from 'react';
 import {AppRegistry, Text, View, StyleSheet, TouchableHighlight, Keyboard, BackAndroid} from 'react-native';
 
-import MainListView from './ListView/main_listview';
-import CatsListView from './ListView/cats_listview';
-import TitleBar from './TitleBar/title_bar';
-import Details from './Details/details';
+import Header from './Header/header';
 import Footer from './Footer/footer';
+import MainListView from './BodyView/main_listview';
+import CatsListView from './BodyView/cats_listview';
+import Details from './BodyView/details';
+
 
 export default class MainActivity extends Component{
     constructor(){
@@ -78,7 +79,7 @@ export default class MainActivity extends Component{
         return(
             <View style={styles.container}>
                 <View style={styles.titleBar}>
-                    <TitleBar
+                    <Header
                         changeListView={this.handleVisible.bind(this)}
                         isVisible={this.state.isVisible}
                         searchTerm={this.state.searchTerm}

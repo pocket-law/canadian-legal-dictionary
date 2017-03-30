@@ -5,7 +5,7 @@ const jsonString = '';
 
 const jsonObj = null;
 
-const mDictJson = require('./json/dict.json');
+const mDictJson = require('./res/dict.json');
 
 // This variable is used to avoid searching again when clicking the hamburger menu after a search
 const lastSearch = '';
