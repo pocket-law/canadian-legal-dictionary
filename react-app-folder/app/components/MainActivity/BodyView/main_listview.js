@@ -216,7 +216,8 @@ const styles = StyleSheet.create({
         flexDirection: 'row',
         justifyContent: 'center',
         backgroundColor: '#f4f4f4',
-        marginBottom: 3
+        elevation: 2,
+        margin: 4
     },
 
     rowContent: {

@@ -83,7 +83,8 @@ export default class Header extends Component{
 const styles = StyleSheet.create({
     title_bar_view: {
         flexDirection:'column',
-        backgroundColor:'#3B5198'
+        backgroundColor:'#3B5198',
+        elevation: 6
     },
 
     titleBar: {
@@ -96,7 +97,6 @@ const styles = StyleSheet.create({
         width: 40,
         marginLeft: 4,
         marginTop: 8
-
     },
 
     apptitle: {
@@ -105,10 +105,14 @@ const styles = StyleSheet.create({
         marginBottom: 3,
         color: '#FFFFFF',
         fontWeight: 'bold',
-        fontSize: 24
+        fontSize: 24,
+        textShadowColor: '#0d2347',
+        textShadowOffset: {width: 1, height: 2},
+        textShadowRadius: 2
     },
 
     search_bar_view: {
+        elevation: 8,
         flexDirection:'row',
         margin: 4,
         backgroundColor: '#FFFFFF'

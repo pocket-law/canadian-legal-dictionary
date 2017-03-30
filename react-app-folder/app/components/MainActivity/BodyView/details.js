@@ -67,36 +67,38 @@ export default class Details extends Component{
         var detailTerm = this.props.detailTerm;
 
         return(
-        <View style={styles.detail_container}>
-            <View>
-                {this.state.detailTerm != null ?
-                    <Text style={styles.term}>{this.state.detailTerm.term}</Text>
-                :
-                    <Text/>
-                }
-                {relatedTermsVar &&
-                    <View style={styles.seeAlsoView}>
-                        <Text style={styles.rowTextSeeAlso}>see also: </Text>
-                        <Text style={styles.seeAlsoName}>{relatedTerms}</Text>
-                    </View>
-                }
-            </View>
-            <View>
-                {this.state.detailTerm != null ?
-                    <Text style={styles.definition}>{this.state.detailTerm.definition}</Text>
-                :
-                    <Text/>
-                }
-            </View>
-            <View>
-                {sourceVar &&
-                    <View style={styles.sourceView}>
-                        <Text style={styles.sourceLabel}>SOURCE</Text>
-                        <TouchableOpacity onPress={()=>this.handleSourcePress(this.state.detailTerm.source.url)}>
-                            <Text style={styles.sourceName}>{this.state.detailTerm.source.name}</Text>
-                        </TouchableOpacity>
-                    </View>
-                }
+        <View style={styles.container}>
+            <View style={styles.detail_container}>
+                <View>
+                    {this.state.detailTerm != null ?
+                        <Text style={styles.term}>{this.state.detailTerm.term}</Text>
+                    :
+                        <Text/>
+                    }
+                    {relatedTermsVar &&
+                        <View style={styles.seeAlsoView}>
+                            <Text style={styles.rowTextSeeAlso}>see also: </Text>
+                            <Text style={styles.seeAlsoName}>{relatedTerms}</Text>
+                        </View>
+                    }
+                </View>
+                <View>
+                    {this.state.detailTerm != null ?
+                        <Text style={styles.definition}>{this.state.detailTerm.definition}</Text>
+                    :
+                        <Text/>
+                    }
+                </View>
+                <View>
+                    {sourceVar &&
+                        <View style={styles.sourceView}>
+                            <Text style={styles.sourceLabel}>SOURCE</Text>
+                            <TouchableOpacity onPress={()=>this.handleSourcePress(this.state.detailTerm.source.url)}>
+                                <Text style={styles.sourceName}>{this.state.detailTerm.source.name}</Text>
+                            </TouchableOpacity>
+                        </View>
+                    }
+                </View>
             </View>
         </View>
         );
@@ -105,7 +107,13 @@ export default class Details extends Component{
 
 const styles = StyleSheet.create({
     detail_container: {
-        padding: 16
+        padding: 8,
+        elevation: 2,
+        backgroundColor: '#f4f4f4'
+    },
+
+    style_none: {
+
     },
 
     term: {
