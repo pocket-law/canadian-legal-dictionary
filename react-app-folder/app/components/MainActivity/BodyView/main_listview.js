@@ -240,26 +240,6 @@ const styles = StyleSheet.create({
         marginTop: 4
     },
 
-    sourceView: {
-        flexDirection:'column',
-        justifyContent:'flex-end'
-    },
-
-    rowTextSource: {
-        fontWeight:'bold',
-        textAlign: 'right',
-        color: '#7d8693',
-        fontSize: 10
-    },
-
-    sourceName: {
-        fontStyle: 'italic',
-        fontWeight:'bold',
-        color: '#5474a8',
-        textAlign: 'right',
-        fontSize: 10
-    },
-
     seeAlsoView: {
         marginLeft: 16,
         flex: 1,

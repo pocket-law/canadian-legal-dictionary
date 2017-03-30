@@ -1,16 +1,31 @@
 import React, {Component} from 'react';
-import {AppRegistry, Image, Text, TextInput, View, StyleSheet, Alert, TouchableOpacity, Linking} from 'react-native';
+import {AppRegistry, Image, Text, TextInput, View, StyleSheet, Alert, TouchableOpacity, Linking, AsyncStorage} from 'react-native';
 
 export default class Details extends Component{
     constructor(props){
         super(props);
         this.state = {
-
+            detailTerm: ''
         }
     }
 
     handleBookmarkPress() {
         console.log("Details bookmark pressed!");
+
+        detailID = this.state.detailTerm.uniqueID;
+
+        var bookmarksObj = [detailID];
+
+        // ASYNC set
+        AsyncStorage.setItem("bookmarks", JSON.stringify(bookmarksObj));
+
+        //ASYNC get
+        AsyncStorage.getItem("bookmarks").then((bookmarksStr)=>{
+            const returnObj = JSON.parse(bookmarksStr);
+
+            console.log("bookmarksStr from details getItem" + bookmarksStr);
+        });
+
     }
 
     handleSourcePress(url) {

@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {AppRegistry, Text, View, ListView, StyleSheet, TouchableOpacity, ToastAndroid} from 'react-native';
+import {AppRegistry, Text, View, ListView, StyleSheet, TouchableOpacity, ToastAndroid, AsyncStorage} from 'react-native';
 
 const jsonString = '';
 
@@ -9,6 +9,8 @@ const mDictJson = require('./res/dict.json');
 
 // This variable is used to avoid searching again when clicking the hamburger menu after a search
 const lastSearch = '';
+
+var mBookmarks = [];
 
 // TODO: sort options
 function sortByKey(array, key) {
@@ -23,11 +25,10 @@ export default class BkmkListView extends Component{
         super(props);
         const ds = new ListView.DataSource({rowHasChanged: (r1, r2) => r1 !== r2});
         this.state = {
-            termDataSource: ds,
+            bkmkDataSource: ds,
             resultsArray: [],
             searchTerm:  '',
             categorySet: ''
-
         };
     }
 
@@ -37,15 +38,41 @@ export default class BkmkListView extends Component{
     }
 
     componentDidMount(){
-        this.getInternalJson();
+        this.getBookmarks();
     }
 
-    getInternalJson(){
-        this.setState({
-            termDataSource: this.state.termDataSource.cloneWithRows(sortByKey(mDictJson.terms, 'term'))
-        });
 
-        jsonString = JSON.stringify(mDictJson);
+
+
+    findBookmarks() {
+
+        var resultsArray = [];
+
+        for (i = 0; i < mDictJson.terms.length; i++) {
+            // check if term is bookmarked
+            if(mBookmarks.includes(mDictJson.terms[i].uniqueID)) {
+
+                resultsArray.push(mDictJson.terms[i]);
+                console.log(" bookmark jsonObj.terms[i].term: " + mDictJson.terms[i].term);
+            }
+        }
+
+        this.state.resultsArray = resultsArray;
+
+        if (resultsArray.length >= 1) {
+            this.setState({bkmkDataSource: this.state.bkmkDataSource.cloneWithRows(resultsArray)});
+        } else {
+            //alert("No Bookmarks!")
+        }
+    }
+
+
+    getBookmarks(){
+        AsyncStorage.getItem("bookmarks").then((bookmarksStr)=>{
+            mBookmarks = JSON.parse(bookmarksStr);
+            console.log("details bookmarksStr" + bookmarksStr)
+            this.findBookmarks();
+        });
     }
 
     // Open Details view for term on row click
@@ -66,46 +93,25 @@ export default class BkmkListView extends Component{
             //console.log(term.term + "source - ERROR")
         }
 
-        try {
-            relTerms = term.related_terms;
-            if (relTerms.length > 0) {
-                for (i = 0; i < relTerms.length; i++) {
-                    if (i == 0) {
-                        newTerms = relTerms[i];
-                    } else {
-                        newTerms = relatedTerms + ", " +relTerms[i];
-                    }
-                    relatedTerms = newTerms;
-                    relatedTermsVar = true;
-                }
-            }
-        } catch (error) {
-            //console.log(term.term + " related_terms - ERROR")
-        }
-            return(
-                <TouchableOpacity onPress={()=>this.handleDetailPress(term)}>
-                    <View style={styles.row}>
-                        <View style={styles.rowContent}>
-                            <Text style={styles.termText}>{term.term}</Text>
-                            {relatedTermsVar &&
-                                <View style={styles.seeAlsoView}>
-                                    <Text style={styles.rowTextSeeAlso}>see also: </Text>
-                                    <Text style={styles.seeAlsoName}>{relatedTerms}</Text>
-                                </View>
-                            }
-                            <Text style={styles.definitionText}>{term.definition}</Text>
-                        </View>
+
+        return(
+            <TouchableOpacity onPress={()=>this.handleDetailPress(term)}>
+                <View style={styles.row}>
+                    <View style={styles.rowContent}>
+                        <Text style={styles.termText}>{term.term}</Text>
+                        <Text style={styles.definitionText}>{term.definition}</Text>
                     </View>
-                </TouchableOpacity>
-            )
-        }
+                </View>
+            </TouchableOpacity>
+        )
+    }
 
     render(){
         return(
             <ListView
                 style={styles.listView}
                 ref='mainListviewRef'
-                dataSource={this.state.termDataSource}
+                dataSource={this.state.bkmkDataSource}
                 renderRow={this.renderRow.bind(this)} />
         );
     }
@@ -120,7 +126,7 @@ const styles = StyleSheet.create({
     row: {
         flexDirection: 'row',
         justifyContent: 'center',
-        backgroundColor: '#0000FF',
+        backgroundColor: '#7a9cd3',
         elevation: 2,
         margin: 4
     },
@@ -162,25 +168,6 @@ const styles = StyleSheet.create({
         fontWeight:'bold',
         color: '#5474a8',
         textAlign: 'right',
-        fontSize: 10
-    },
-
-    seeAlsoView: {
-        marginLeft: 16,
-        flex: 1,
-        flexDirection:'row'
-    },
-
-    rowTextSeeAlso: {
-        color: '#5474a8',
-        fontWeight: 'bold',
-        fontSize: 10
-    },
-
-    seeAlsoName: {
-        fontStyle: 'italic',
-        fontWeight:'bold',
-        color: '#7d8693',
         fontSize: 10
     }
 
