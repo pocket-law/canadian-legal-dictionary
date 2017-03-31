@@ -58,12 +58,16 @@ export default class BkmkListView extends Component{
         var resultsArray = [];
 
         for (i = 0; i < mDictJson.terms.length; i++) {
-            // check if term is bookmarked
-            if(mBookmarks.includes(mDictJson.terms[i].uniqueID)) {
 
-                resultsArray.push(mDictJson.terms[i]);
-                //console.log(" bookmark jsonObj.terms[i].term: " + mDictJson.terms[i].term);
+            // check if term is bookmarked
+            try {
+                if(mBookmarks.includes(mDictJson.terms[i].uniqueID)) {
+                    resultsArray.push(mDictJson.terms[i]);
+                }
+            } catch (err) {
+                console.log('null in bkmk listview:', err);
             }
+
         }
 
         this.state.resultsArray = resultsArray;

@@ -11,13 +11,10 @@ export default class Details extends Component{
     }
 
     componentDidMount(){
-        console.log("detail term" + this.props.detailTerm.term);
         this.checkBookmarked();
     }
 
     componentWillReceiveProps(nextProps) {
-        // Remove searchterm if a '' is sent from MainActivity
-        // Usually in response to a category selection by the user
 
         this.checkBookmarked();
 
@@ -30,19 +27,17 @@ export default class Details extends Component{
         // done this way because it looks better for the bookmark to become filled at a
         // delay rather than to become unfilled after a delay
         // there are definitely better ways  to accomplish better results here
+        // TODO: fix, as this isn't even performing what as it's supposed to.
         if (nextProps.isVisible != 'details') {
             this.state.isVisible = nextProps.isVisible;
-            console.log("Falsing")
             this.setState({ isBookmarked: false });
-            //this.state.isBookmarked = false;
-
         }
     }
 
 
     checkBookmarked() {
         // TODO: calling here and in handleBookmarking(), fix.
-        detailID = this.state.detailTerm.uniqueID;
+        var detailID = this.state.detailTerm.uniqueID;
 
         // Check to see if already bookmarked, if so, unbookmarked, else, add bookmark
         AsyncStorage.getItem("bookmarks").then((bookmarksStr)=>{
@@ -51,12 +46,19 @@ export default class Details extends Component{
             console.log("bookmarksStr in details.js checkBookmarked(): " + bookmarksStr);
 
             // IF found in array, isBookmarked set to true
-            var i = returnObj.indexOf(detailID);
-            if(i != -1) {
-            	this.setState({ isBookmarked: true });
-            } else {
-                this.setState({ isBookmarked: false });
+            try {
+                var i = returnObj.indexOf(detailID);
+                if (i != -1) {
+                    this.setState({ isBookmarked: true });
+                } else {
+                    this.setState({ isBookmarked: false });
+                }
+            } catch (err) {
+              console.log('null in details:', err);
             }
+
+
+
         });
     }
 
@@ -64,7 +66,7 @@ export default class Details extends Component{
         console.log("Details bookmark pressed!");
 
         // TODO: calling here and in checkBookmarked(), fix.
-        detailID = this.state.detailTerm.uniqueID;
+        var detailID = this.state.detailTerm.uniqueID;
 
         // Check to see if already bookmarked, if so, unbookmarked, else, add bookmark
         // TODO: use isBookmarked state value instead of fresh call to async storage
@@ -72,20 +74,30 @@ export default class Details extends Component{
             const returnObj = JSON.parse(bookmarksStr);
 
             // Find and remove item from an array
-            var i = returnObj.indexOf(detailID);
-            if(i != -1) {
-            	returnObj.splice(i, 1);
-                this.setState({ isBookmarked: false });
-                console.log("details bookmark removed");
-            } else {
-                returnObj.push(detailID);
-                this.setState({ isBookmarked: true });
-                console.log("details bookmark removed");
+            try {
+                var i = returnObj.indexOf(detailID);
+
+                if(i != -1) {
+                	returnObj.splice(i, 1);
+                    this.setState({ isBookmarked: false });
+                    console.log("details bookmark removed " + detailID);
+                } else {
+                    returnObj.push(detailID);
+                    this.setState({ isBookmarked: true });
+                    console.log("details bookmark added  " + detailID);
+                }
+
+                AsyncStorage.setItem("bookmarks", JSON.stringify(returnObj));
+
+            } catch (err) {
+                console.log('error handling bookmarking: ', err);
+
+                // This error is guarenteed is a bookmarks key has not yet been created in AsyncStorage,
+                // Therefore, create blank and recall handleBookmarking if error hit
+                // TODO: think this through, might cause infinite calls to handleBookmarking in some case...
+                AsyncStorage.setItem("bookmarks", '[]');
+                this.handleBookmarking();
             }
-
-            AsyncStorage.setItem("bookmarks", JSON.stringify(returnObj));
-
-            console.log(" afterpress bookmarksStr from details getItem" + JSON.stringify(returnObj));
         });
     }
 
@@ -216,7 +228,7 @@ const styles = StyleSheet.create({
     bookmark_button: {
         height: 40,
         width: 40,
-        margin: 2
+        margin: 1
     },
 
     definition: {
@@ -224,6 +236,8 @@ const styles = StyleSheet.create({
     },
 
     sourceView: {
+        marginRight: 8,
+        marginBottom: 4,
         flexDirection:'column',
         justifyContent:'flex-end'
     },
