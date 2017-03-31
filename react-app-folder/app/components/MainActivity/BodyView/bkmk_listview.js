@@ -34,6 +34,11 @@ export default class BkmkListView extends Component{
 
 
     componentWillReceiveProps(nextProps) {
+        // TODO: causes an update after user sees listview, can be done better
+        // Update bookmarks
+        if (nextProps.isVisible == 'bookmarks') {
+            this.getBookmarks();
+        }
 
     }
 
@@ -41,11 +46,15 @@ export default class BkmkListView extends Component{
         this.getBookmarks();
     }
 
-
-
+    getBookmarks(){
+        AsyncStorage.getItem("bookmarks").then((bookmarksStr)=>{
+            mBookmarks = JSON.parse(bookmarksStr);
+            //console.log("details bookmarksStr" + bookmarksStr)
+            this.findBookmarks();
+        });
+    }
 
     findBookmarks() {
-
         var resultsArray = [];
 
         for (i = 0; i < mDictJson.terms.length; i++) {
@@ -53,7 +62,7 @@ export default class BkmkListView extends Component{
             if(mBookmarks.includes(mDictJson.terms[i].uniqueID)) {
 
                 resultsArray.push(mDictJson.terms[i]);
-                console.log(" bookmark jsonObj.terms[i].term: " + mDictJson.terms[i].term);
+                //console.log(" bookmark jsonObj.terms[i].term: " + mDictJson.terms[i].term);
             }
         }
 
@@ -62,18 +71,11 @@ export default class BkmkListView extends Component{
         if (resultsArray.length >= 1) {
             this.setState({bkmkDataSource: this.state.bkmkDataSource.cloneWithRows(resultsArray)});
         } else {
-            //alert("No Bookmarks!")
+            console.log("No Bookmarks!")
+            this.setState({bkmkDataSource: this.state.bkmkDataSource.cloneWithRows(resultsArray)});
         }
     }
 
-
-    getBookmarks(){
-        AsyncStorage.getItem("bookmarks").then((bookmarksStr)=>{
-            mBookmarks = JSON.parse(bookmarksStr);
-            console.log("details bookmarksStr" + bookmarksStr)
-            this.findBookmarks();
-        });
-    }
 
     // Open Details view for term on row click
     handleDetailPress(term) {
@@ -109,6 +111,7 @@ export default class BkmkListView extends Component{
     render(){
         return(
             <ListView
+                enableEmptySections={true}
                 style={styles.listView}
                 ref='mainListviewRef'
                 dataSource={this.state.bkmkDataSource}
@@ -126,7 +129,7 @@ const styles = StyleSheet.create({
     row: {
         flexDirection: 'row',
         justifyContent: 'center',
-        backgroundColor: '#7a9cd3',
+        backgroundColor: '#97b5e5',
         elevation: 2,
         margin: 4
     },
@@ -138,7 +141,7 @@ const styles = StyleSheet.create({
     },
 
     termText: {
-        color: '#46474c',
+        color: '#203556',
         flex: 1,
         fontSize: 18,
         fontWeight:'bold'
@@ -148,27 +151,8 @@ const styles = StyleSheet.create({
         flex: 1,
         marginBottom: 4,
         marginLeft: 8,
-        marginTop: 4
-    },
-
-    sourceView: {
-        flexDirection:'column',
-        justifyContent:'flex-end'
-    },
-
-    rowTextSource: {
-        fontWeight:'bold',
-        textAlign: 'right',
-        color: '#7d8693',
-        fontSize: 10
-    },
-
-    sourceName: {
-        fontStyle: 'italic',
-        fontWeight:'bold',
-        color: '#5474a8',
-        textAlign: 'right',
-        fontSize: 10
+        marginTop: 4,
+        color: '#363e49'
     }
 
 });

@@ -119,22 +119,27 @@ export default class MainActivity extends Component{
                         <View>
                             <BkmkListView
                                 showDetails={this.handleDetails.bind(this)}
+                                isVisible={this.state.isVisible}
                                 changeCategory={this.handleCategoryChange.bind(this)} />
                         </View>
                     :
                         <View style={styles.noHeight}>
                             <BkmkListView
+                                isVisible={this.state.isVisible}
                                 changeCategory={this.handleCategoryChange.bind(this)} />
                         </View>
                     }
                     {this.state.isVisible == 'details'  ?
                         <View>
                             <Details
+                                isVisible={this.state.isVisible}
                                 detailTerm = {this.state.detailTerm}/>
                         </View>
                     :
                         <View style={styles.noHeight}>
-                            <Details />
+                            <Details
+                                isVisible={this.state.isVisible}
+                                detailTerm = {this.state.detailTerm}/>
                         </View>
                     }
                 </View>

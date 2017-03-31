@@ -5,27 +5,88 @@ export default class Details extends Component{
     constructor(props){
         super(props);
         this.state = {
-            detailTerm: ''
+            detailTerm: '',
+            isBookmarked: false
         }
     }
 
-    handleBookmarkPress() {
-        console.log("Details bookmark pressed!");
+    componentDidMount(){
+        console.log("detail term" + this.props.detailTerm.term);
+        this.checkBookmarked();
+    }
 
+    componentWillReceiveProps(nextProps) {
+        // Remove searchterm if a '' is sent from MainActivity
+        // Usually in response to a category selection by the user
+
+        this.checkBookmarked();
+
+        if (nextProps.detailTerm != null) {
+            this.state.detailTerm = nextProps.detailTerm;
+            this.checkBookmarked();
+        }
+
+        // TODO: kinda hacky, reseting bookmark visual if leaving details View
+        // done this way because it looks better for the bookmark to become filled at a
+        // delay rather than to become unfilled after a delay
+        // there are definitely better ways  to accomplish better results here
+        if (nextProps.isVisible != 'details') {
+            this.state.isVisible = nextProps.isVisible;
+            console.log("Falsing")
+            this.setState({ isBookmarked: false });
+            //this.state.isBookmarked = false;
+
+        }
+    }
+
+
+    checkBookmarked() {
+        // TODO: calling here and in handleBookmarking(), fix.
         detailID = this.state.detailTerm.uniqueID;
 
-        var bookmarksObj = [detailID];
-
-        // ASYNC set
-        AsyncStorage.setItem("bookmarks", JSON.stringify(bookmarksObj));
-
-        //ASYNC get
+        // Check to see if already bookmarked, if so, unbookmarked, else, add bookmark
         AsyncStorage.getItem("bookmarks").then((bookmarksStr)=>{
             const returnObj = JSON.parse(bookmarksStr);
 
-            console.log("bookmarksStr from details getItem" + bookmarksStr);
-        });
+            console.log("bookmarksStr in details.js checkBookmarked(): " + bookmarksStr);
 
+            // IF found in array, isBookmarked set to true
+            var i = returnObj.indexOf(detailID);
+            if(i != -1) {
+            	this.setState({ isBookmarked: true });
+            } else {
+                this.setState({ isBookmarked: false });
+            }
+        });
+    }
+
+    handleBookmarking() {
+        console.log("Details bookmark pressed!");
+
+        // TODO: calling here and in checkBookmarked(), fix.
+        detailID = this.state.detailTerm.uniqueID;
+
+        // Check to see if already bookmarked, if so, unbookmarked, else, add bookmark
+        // TODO: use isBookmarked state value instead of fresh call to async storage
+        AsyncStorage.getItem("bookmarks").then((bookmarksStr)=>{
+            const returnObj = JSON.parse(bookmarksStr);
+
+            // Find and remove item from an array
+            var i = returnObj.indexOf(detailID);
+            if(i != -1) {
+            	returnObj.splice(i, 1);
+                this.setState({ isBookmarked: false });
+                console.log("details bookmark removed");
+            } else {
+                returnObj.push(detailID);
+                this.setState({ isBookmarked: true });
+                console.log("details bookmark removed");
+            }
+
+            AsyncStorage.setItem("bookmarks", JSON.stringify(returnObj));
+
+            console.log(" afterpress bookmarksStr from details getItem" + JSON.stringify(returnObj));
+        });
     }
 
     handleSourcePress(url) {
@@ -44,16 +105,9 @@ export default class Details extends Component{
         Linking.openURL(url).catch(err => console.error('An error occurred', err));
     }
 
-    componentWillReceiveProps(nextProps) {
-        // Remove searchterm if a '' is sent from MainActivity
-        // Usually in response to a category selection by the user
-        if (nextProps.detailTerm != null) {
-            this.state.detailTerm = nextProps.detailTerm;
-        }
-    }
-
 
     render(){
+
         sourceVar = false;
         relatedTermsVar = false;
         relatedTerms = ""
@@ -92,9 +146,16 @@ export default class Details extends Component{
                     {this.state.detailTerm != null ?
                         <View style={styles.term_bar}>
                             <Text style={styles.term}>{this.state.detailTerm.term}</Text>
-                            <TouchableOpacity  onPress={this.handleBookmarkPress.bind(this)}>
-                                <Image style={styles.bookmark_button} source={require('./res/bookmark_blank.png')}/>
-                            </TouchableOpacity>
+                                {this.state.isBookmarked == true ?
+                                    <TouchableOpacity  onPress={this.handleBookmarking.bind(this)}>
+                                        <Image style={styles.bookmark_button} source={require('./res/bookmark_check.png')}/>
+                                    </TouchableOpacity>
+                                :
+                                    <TouchableOpacity  onPress={this.handleBookmarking.bind(this)}>
+                                        <Image style={styles.bookmark_button} source={require('./res/bookmark_blank.png')}/>
+                                    </TouchableOpacity>
+                                }
+
                         </View>
                     :
                         <Text/>
@@ -155,7 +216,7 @@ const styles = StyleSheet.create({
     bookmark_button: {
         height: 40,
         width: 40,
-        margin: 4
+        margin: 2
     },
 
     definition: {
