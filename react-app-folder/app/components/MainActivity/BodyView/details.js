@@ -1,6 +1,7 @@
 import React, {Component} from 'react';
 import {AppRegistry, Image, Text, TextInput, View, StyleSheet, Alert, TouchableOpacity, Linking, AsyncStorage} from 'react-native';
 
+
 export default class Details extends Component{
     constructor(props){
         super(props);
@@ -15,22 +16,18 @@ export default class Details extends Component{
     }
 
     componentWillReceiveProps(nextProps) {
+        // Update state and recheck bookmark on recieve props
 
-        this.checkBookmarked();
-
-        if (nextProps.detailTerm != null) {
+        if (nextProps.detailTerm) {
+            this.state.isBookmarked = false;
             this.state.detailTerm = nextProps.detailTerm;
             this.checkBookmarked();
         }
 
-        // TODO: kinda hacky, reseting bookmark visual if leaving details View
-        // done this way because it looks better for the bookmark to become filled at a
-        // delay rather than to become unfilled after a delay
-        // there are definitely better ways  to accomplish better results here
-        // TODO: fix, as this isn't even performing what as it's supposed to.
-        if (nextProps.isVisible != 'details') {
+        if (nextProps.isVisible) {
+            this.state.isBookmarked = false;
             this.state.isVisible = nextProps.isVisible;
-            this.setState({ isBookmarked: false });
+            this.checkBookmarked();
         }
     }
 
@@ -43,22 +40,19 @@ export default class Details extends Component{
         AsyncStorage.getItem("bookmarks").then((bookmarksStr)=>{
             const returnObj = JSON.parse(bookmarksStr);
 
-            console.log("bookmarksStr in details.js checkBookmarked(): " + bookmarksStr);
-
             // IF found in array, isBookmarked set to true
             try {
                 var i = returnObj.indexOf(detailID);
                 if (i != -1) {
+                    this.state.isBookmarked = true;
                     this.setState({ isBookmarked: true });
                 } else {
+                    this.state.isBookmarked = false;
                     this.setState({ isBookmarked: false });
                 }
             } catch (err) {
               console.log('null in details:', err);
             }
-
-
-
         });
     }
 
@@ -125,6 +119,7 @@ export default class Details extends Component{
         relatedTerms = ""
 
 
+        // Check for source
         try {
             test = this.state.detailTerm.source.name;
             sourceVar = true;
@@ -132,6 +127,7 @@ export default class Details extends Component{
             //console.log("source - ERROR")
         }
 
+        //Check for related terms
         try {
             relTerms = this.state.detailTerm.related_terms;
             if (relTerms.length > 0) {
@@ -158,7 +154,7 @@ export default class Details extends Component{
                     {this.state.detailTerm != null ?
                         <View style={styles.term_bar}>
                             <Text style={styles.term}>{this.state.detailTerm.term}</Text>
-                                {this.state.isBookmarked == true ?
+                                {this.state.isBookmarked ?
                                     <TouchableOpacity  onPress={this.handleBookmarking.bind(this)}>
                                         <Image style={styles.bookmark_button} source={require('./res/bookmark_check.png')}/>
                                     </TouchableOpacity>

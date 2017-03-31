@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-	<img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/sc1.jpg" width="284">
-	<img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/sc2.jpg" width="284">
-	<img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/sc3.jpg" width="284">
+	<img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/sc003.png" width="284">
+	<img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/sc001.png" width="284">
+	<img src="https://github.com/pocket-law/canadian-legal-dictionary/blob/master/screenshots/sc005.png" width="284">
 </p>
 
 ## PocketLaw - ***Canadian Legal Dictionary***

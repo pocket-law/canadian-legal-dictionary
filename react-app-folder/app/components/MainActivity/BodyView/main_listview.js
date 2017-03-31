@@ -36,8 +36,6 @@ export default class MainListView extends Component{
         // Update state searchTerm when prop searchTerm updated
         if ((nextProps.searchTerm != '') && (nextProps.searchTerm != lastSearch)) {
 
-            lastSearch = nextProps.searchTerm;
-
             console.log("MainListView new search: " + nextProps.searchTerm);
             this.setState({ searchTerm: nextProps.searchTerm });
 
@@ -65,10 +63,8 @@ export default class MainListView extends Component{
                     && (jsonObj.terms[i].term).toUpperCase().includes(searchTermArray[4])
                     && (jsonObj.terms[i].term).toUpperCase().includes(searchTermArray[5])) {
 
-                        console.log("listview search MATCH: " + nextProps.searchTerm + "\n==============================================" );
-
                         resultsArray.push(jsonObj.terms[i]);
-                        console.log("jsonObj.terms[i].term: " + jsonObj.terms[i].term);
+                        console.log("search match: " + jsonObj.terms[i].term);
 
                 }
             }
@@ -89,9 +85,24 @@ export default class MainListView extends Component{
                 alert("No Results!")
                 this.getInternalJson();
             }
+
+            // Scroll mainlistview to top after changing it's contents only if searchTerm is new
+            if (nextProps.searchTerm != lastSearch) {
+                this.refs.mainListviewRef.getScrollResponder().scrollTo({x:0, y:0, animated: false});
+            }
+            // set last search so above getScrollResponder not called if simply returning to listview
+            lastSearch = nextProps.searchTerm;
+
         } else if (nextProps.searchTerm == '') {
             // if search term = '', show all terms
             this.getInternalJson();
+
+            // Scroll mainlistview to top after changing it's contents if searchTerm is newly blanked
+            if (nextProps.searchTerm != lastSearch) {
+                this.refs.mainListviewRef.getScrollResponder().scrollTo({x:0, y:0, animated: false});
+            }
+            // set last search so above getScrollResponder not called if simply returning to listview
+            lastSearch = '';
         }
 
         if (nextProps.categorySet != '' && nextProps.categorySet != null) {
@@ -126,9 +137,6 @@ export default class MainListView extends Component{
                 this.setState({termDataSource: this.state.termDataSource.cloneWithRows(resultsArray)});
             }
         }
-
-        // Scroll mainlistview to top after changing it's contents
-        this.refs.mainListviewRef.getScrollResponder().scrollTo({x:0, y:0, animated: false});
     }
 
     componentDidMount(){
