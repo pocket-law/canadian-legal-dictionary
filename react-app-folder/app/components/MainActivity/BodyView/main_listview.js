@@ -157,49 +157,20 @@ export default class MainListView extends Component{
 
     // Open Details view for term on row click
     handleDetailPress(term) {
-         this.props.showDetails(term);
+        try {
+            this.props.showDetails(term);
+        } catch (err) {
+            console.log("handleDetailPress err: ", err);
+        }
     }
 
     renderRow(term, sectionId, rowId, highlightRow){
-        sourceVar = false;
-        relatedTermsVar = false;
-        relatedTerms = ""
 
-
-        try {
-            test = term.source.name;
-            sourceVar = true;
-        } catch (error) {
-            //console.log(term.term + "source - ERROR")
-        }
-
-        try {
-            relTerms = term.related_terms;
-            if (relTerms.length > 0) {
-                for (i = 0; i < relTerms.length; i++) {
-                    if (i == 0) {
-                        newTerms = relTerms[i];
-                    } else {
-                        newTerms = relatedTerms + ", " +relTerms[i];
-                    }
-                    relatedTerms = newTerms;
-                    relatedTermsVar = true;
-                }
-            }
-        } catch (error) {
-            //console.log(term.term + " related_terms - ERROR")
-        }
             return(
                 <TouchableOpacity onPress={()=>this.handleDetailPress(term)}>
                     <View style={styles.row}>
                         <View style={styles.rowContent}>
                             <Text style={styles.termText}>{term.term}</Text>
-                            {relatedTermsVar &&
-                                <View style={styles.seeAlsoView}>
-                                    <Text style={styles.rowTextSeeAlso}>see also: </Text>
-                                    <Text style={styles.seeAlsoName}>{relatedTerms}</Text>
-                                </View>
-                            }
                             <Text style={styles.definitionText}>{term.definition}</Text>
                         </View>
                     </View>

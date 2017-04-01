@@ -22,10 +22,10 @@ This is a repository to store the latest build of the PocketLaw Canadian Legal D
 ### Current:
 * http://www.irwinlaw.com/cold
 * http://www.canadianlawsite.ca
+* https://www.attorneygeneral.jus.gov.on.ca/english/glossary/
 
 ### Prospective:
 * http://www.duhaim.org
-* https://www.attorneygeneral.jus.gov.on.ca/english/glossary/
 * http://www2.gov.bc.ca/gov/content/justice/criminal-justice/bcs-criminal-justice-system/justice-terms
 * http://www.justice.gc.ca/eng/rp-pr/cp-pm/eval/rep-rap/12/lap-paj/p7g.html
 * http://www.legalaid.ab.ca/information-resources/Pages/Dictionary.aspx

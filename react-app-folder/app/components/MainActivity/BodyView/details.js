@@ -51,7 +51,7 @@ export default class Details extends Component{
                     this.setState({ isBookmarked: false });
                 }
             } catch (err) {
-              console.log('null in details:', err);
+                //console.log('null in details:', err);
             }
         });
     }

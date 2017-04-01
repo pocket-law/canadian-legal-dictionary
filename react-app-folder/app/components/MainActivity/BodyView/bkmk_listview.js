@@ -65,7 +65,7 @@ export default class BkmkListView extends Component{
                     resultsArray.push(mDictJson.terms[i]);
                 }
             } catch (err) {
-                console.log('null in bkmk listview:', err);
+                //console.log('null in bkmk listview:', err);
             }
 
         }

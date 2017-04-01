@@ -11,16 +11,16 @@ terms_list = open('source.txt')
 try:
     for line in terms_list:
 		line = line.replace("\"","\\\"")
-		if ":" in line:
-			text_file.write("\n	\"definition\": \"" + DEF_FULL + "\",\n")
-			text_file.write("	\"source\": \n		{\n		\"url\": \"http://www.canadianlawsite.ca\",\n		\"name\": \"Canadian Law Site\"\n		}\n	},\n")
+		if line.isupper and DEF_FULL != "":
+				
+			text_file.write("	{\n	\"definition\": ")
+			text_file.write("\"" + line.replace("\n","") + "\",")
+			
+			text_file.write("\n	\"term\": \"" + DEF_FULL.title() + "\",\n")
+			text_file.write("	\"source\": \n		{\n		\"url\": \"https://www.attorneygeneral.jus.gov.on.ca/english/glossary\",\n		\"name\": \"Ministry of the Attorney General (Ont)\"\n		},\n	\"tags\":[\"\"]\n	},\n")
 			
 			DEF_FULL = "" # Reset DEF_FULL
-		
-			line = line.replace(":","")
-			
-			text_file.write("	{\n	\"term\": ")
-			text_file.write("\"" + line.replace("\n","") + "\",")
+
 		else:
 			DEF_FULL = DEF_FULL + line.replace("\n","")
 finally:
