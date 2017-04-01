@@ -4917,17 +4917,19 @@
         "Licence"
       ],
       "term": "Consent",
-
+      "definition": "Defined in Canada’s Criminal Code in s. 273.1(1), as the voluntary agreement to engage in sexual activity. The law focuses on what the person was actually thinking and feeling at the time of the sexual activity. Sexual touching is only lawful if the person affirmatively communicated their consent, whether through words or conduct. Silence or passivity does not equal consent.",
+      "source": {
+        "url": "http:\/\/www.leaf.ca\/the-law-of-consent-in-sexual-assault",
+        "name": "LEAF.ca"
+      },
       "uniqueID": "032817n333",
       "tags": [
-        "Filed in:",
-        " Intellectual Property"
+        "Criminal Law"
       ]
     },
     {
       "definition": "The essential ingredient in the formation of binding treaty obligations, consisting of the expression by a state or other subject of international law of its intent to fulfill the obligations stipulated in the treaty as a matter of international law.",
       "term": "Consent to be bound",
-
       "tags": [
         "International Law"
       ],

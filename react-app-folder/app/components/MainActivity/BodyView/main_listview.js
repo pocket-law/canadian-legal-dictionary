@@ -33,8 +33,12 @@ export default class MainListView extends Component{
 
     componentWillReceiveProps(nextProps) {
 
+        // when cat is changed, space is passed to search term to tell listview to reset scroll
+        if (nextProps.searchTerm == ' ') {
+            this.refs.mainListviewRef.getScrollResponder().scrollTo({x:0, y:0, animated: false});
+        }
         // Update state searchTerm when prop searchTerm updated
-        if ((nextProps.searchTerm != '') && (nextProps.searchTerm != lastSearch)) {
+        if ((nextProps.searchTerm != ' ') && (nextProps.searchTerm != '') && (nextProps.searchTerm != lastSearch)) {
 
             console.log("MainListView new search: " + nextProps.searchTerm);
             this.setState({ searchTerm: nextProps.searchTerm });

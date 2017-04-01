@@ -48,7 +48,7 @@ export default class MainActivity extends Component{
 
     handleCategoryChange(category) {
         this.setState({categorySet: category});
-        this.setState({searchTerm: ''});
+        this.setState({searchTerm: ' '});
         this.setState({isVisible: 'full-list'});
         console.log("MainActivity category: " + category);
     }
