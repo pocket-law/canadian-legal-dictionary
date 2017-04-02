@@ -90,8 +90,8 @@ android {
         applicationId "org.pocketlaw.cld"
         minSdkVersion 16
         targetSdkVersion 22
-        versionCode 2
-        versionName "0.02"
+        versionCode 3
+        versionName "0.03"
         ndk {
             abiFilters "armeabi-v7a", "x86"
         }
