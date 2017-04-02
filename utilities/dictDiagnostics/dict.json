@@ -2,6 +2,7 @@
   "title": "Canadian Legal Dictionary",
   "version": "3",
   "terms": [
+
       {
    "definition": "A person who has disappeared or whose whereabouts are unknown.",
    "term": "Absentee",
@@ -425,18 +426,6 @@
      ""
    ],
    "uniqueID": "040117n53",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "Latin for \"friend of the court.\" A lawyer who assists the court during the course of a hearing, to represent a position or interest, usually at the court's request.",
-   "term": "Amicus Curiae",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n55",
    "source": {
      "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
      "name": "Ministry of the Attorney General (Ont)"
@@ -4550,18 +4539,6 @@
    }
  },
  {
-   "definition": "Latin term for the principle by which a precedent or decision of one court binds lower courts.",
-   "term": "Stare Decisis",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n445",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
    "definition": "In child protection cases, an application for the review of a child's status by the court before the end of the current protection order.",
    "term": "Status Review",
    "tags": [
@@ -5739,13 +5716,6 @@
       }
     },
     {
-      "related_terms": [
-        "Non-conforming use"
-      ],
-      "term": "Acquired rights",
-      "uniqueID": "032817n29"
-    },
-    {
       "definition": "A finding of not guilty in a criminal case.",
       "term": "Acquittal",
       "tags": [
@@ -5819,13 +5789,6 @@
         "name": "Administrative Law - David Mullan"
       },
       "uniqueID": "032817n35"
-    },
-    {
-      "related_terms": [
-        "Community plan"
-      ],
-      "term": "Action area plan",
-      "uniqueID": "032817n36"
     },
     {
       "definition": "A cause of action originating from the writ of trespass on the case. A feature of the writ was that the circumstances of the case were set out in it. Trespass on the case evolved into a number of nominate and innominate torts that are characterized by the need to prove fault and damage.",
@@ -5917,9 +5880,12 @@
       }
     },
     {
-      "related_terms": [
-        "Abutting"
-      ],
+        "definition": "Touching and sharing a common point, line, or boundary.",
+        "tags": [
+          "Housing & Urban Development",
+          " Land Use",
+          " Property Law"
+        ],
       "term": "Adjoining",
       "uniqueID": "032817n43"
     },
@@ -5970,6 +5936,11 @@
       "uniqueID": "032817n46"
     },
     {
+        "definition": "An administrative tribunal is an autonomous agency that is independent of the provincial government and is responsible for settling disputes between the province and its citizens. An administrative tribunal is also known as an agency, board or commission.",
+        "source": {
+          "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/justice-ont\/french_language_services\/services\/administrative_tribunals.php",
+          "name": "Ministry of the Attorney General"
+        },
       "related_terms": [
         "Workplace administrative tribunal"
       ],
@@ -6476,14 +6447,6 @@
       "uniqueID": "032817n84"
     },
     {
-      "related_terms": [
-        "Intervener"
-      ],
-      "term": "Amicus curiae",
-
-      "uniqueID": "032817n85"
-    },
-    {
       "definition": "A single round of ammunition can also be referred to as an unfired cartridge or live ammunition and it consists of a cartridge case fitted with a primer, the case containing propellant\/gunpowder, with one or more projectiles inserted into the open end.",
       "term": "Ammunition",
 
@@ -6987,14 +6950,6 @@
         "name": "Trauma, Trials, and Transformation - Judith Daylen, Wendy van Tongeren Harvey and Dennis O'Toole Foreword by Claire L'Heureux-Dub\u00e9"
       },
       "uniqueID": "032817n118"
-    },
-    {
-      "related_terms": [
-        "Memorandum and articles of association"
-      ],
-      "term": "Articles of Association",
-
-      "uniqueID": "032817n121"
     },
     {
       "definition": "The document filed with the director appointed under the CBCA and the statutes modelled after it to create a corporation. They must be filed in the form established by the director (Form 1), along with an Initial Registered Office Address and First Board of Directors (Form 2). They set out the fundamental characteristics of the corporation \u2014 for example, its name, the class and number of shares authorized to be issued, any restrictions on transferring shares, and any restrictions on the business the corporation may carry on. Once the director issues a certificate to which the articles are attached, a corporation with the characteristics set out in the articles comes into existence.",
@@ -7885,14 +7840,6 @@
       "uniqueID": "032817n186"
     },
     {
-      "related_terms": [
-        "Piracy; pirated goods"
-      ],
-      "term": "Bootleg",
-
-      "uniqueID": "032817n187"
-    },
-    {
       "definition": "Area where different land uses abut each other.",
       "term": "Border area",
 
@@ -8346,7 +8293,7 @@
     },
     {
       "definition": "The McGill Guide is the colloquial name given to the Canadian Guide to Uniform Legal Citation (Carswell), the standard reference book in Canada to cite legal materials.",
-      "term": "Canadian Guide to Uniform Legal Citation",
+      "term": "Canadian Guide to Uniform Legal Citation (McGill Guide)",
 
       "tags": [
         "Legal Research and Writing"
@@ -8360,14 +8307,6 @@
         "name": "Legal Research and Writing, 4\/e - Ted Tjaden"
       },
       "uniqueID": "032817n217"
-    },
-    {
-      "related_terms": [
-        "CIPO"
-      ],
-      "term": "Canadian Intellectual Property Office",
-
-      "uniqueID": "032817n218"
     },
     {
       "definition": "CanLII is a free online database containing legislation and case law for all Canadian jurisdictions. Similar Legal Information Institutes are available for other countries, including Australia, the United States and the United Kingdom.",
@@ -8394,14 +8333,6 @@
         "name": "Mental Health Courts - Richard D. Schneider, Hy Bloom and Mark Heerema"
       },
       "uniqueID": "032817n220"
-    },
-    {
-      "related_terms": [
-        "Canadian Legal Information Institute (CanLII)"
-      ],
-      "term": "CanLII",
-
-      "uniqueID": "032817n221"
     },
     {
       "definition": "Generally refers to amounts contributed to a business organization that are not loans. Often those who contribute capital receive a claim to the residual value of the organization after all other claims have been paid. In relation to a corporation, capital refers to contributions by shareholders. In relation to a partnership, it refers to amounts contributed by partners. Sometimes, however, capital may be used to refer to amounts lent to a business organization as well.",
@@ -8511,14 +8442,6 @@
       "uniqueID": "032817n229"
     },
     {
-      "related_terms": [
-        "Style of cause"
-      ],
-      "term": "Case name",
-
-      "uniqueID": "032817n230"
-    },
-    {
       "definition": "Payment made to a level of government as an alternative to a dedication of land for public purposes, for example, as part of a subdivision development.",
       "term": "Cash in lieu",
 
@@ -8531,14 +8454,6 @@
         "name": "Land-Use Planning - Howard Epstein"
       },
       "uniqueID": "032817n231"
-    },
-    {
-      "related_terms": [
-        "Headnote"
-      ],
-      "term": "Catchlines",
-
-      "uniqueID": "032817n232"
     },
     {
       "definition": "Legal publishers sometimes add headnotes or summaries of facts and law to court cases that they publish. Above the headnote and usually after the style of cause (the names of the parties to the lawsuit), the publisher may add \u201ccatchwords\u201d (often in italics) that are the keywords by which the publisher has \u201ctagged\u201d or identified a particular case. Browsing through the catchwords can be a quick way of getting an idea of the relevancy of the case.",
@@ -8640,20 +8555,9 @@
     },
     {
       "related_terms": [
-        "Capital cost allowance (CCA)"
-      ],
-      "term": "CCA",
-
-      "uniqueID": "032817n239",
-      "tags": [
-        "Filed in:",
-        " Taxation"
-      ]
-    },
-    {
-      "related_terms": [
         "Graveyard"
       ],
+      "definition": "Graveyard; a place for the interment of dead bodies; sometimes defined in statutes as a place where a minimum number of persons (as \u201csix or more\u201d) are buried.",
       "term": "Cemetery",
 
       "uniqueID": "032817n240"
@@ -8702,14 +8606,6 @@
         "name": "Public International Law 2\/e - John H. Currie"
       },
       "uniqueID": "032817n244"
-    },
-    {
-      "related_terms": [
-        "Use"
-      ],
-      "term": "Cestui que use",
-
-      "uniqueID": "032817n245"
     },
     {
       "definition": "An abbreviation for \u201ccommon general knowledge,\u201d that is, the knowledge that most skilled workers in a science or art are presumed to have. The abbreviation is part of the jargon of some patent aficionados and is also sometimes found in modern British decisions.",
@@ -8949,13 +8845,14 @@
       "related_terms": [
         "Coming into force"
       ],
+      "definition": "Coming into force.",
       "term": "CIF",
 
       "uniqueID": "032817n263"
     },
     {
       "definition": "Canadian Intellectual Property Office, located in Hull, Quebec. The umbrella government department under which the Copyright Office, Patent Office, Trade-marks Office, and the Industrial Design Office operate.",
-      "term": "CIPO",
+      "term": "Canadian Intellectual Property Office (CIPO)",
 
       "tags": [
         "Intellectual Property"
@@ -8979,22 +8876,6 @@
         "name": "Youth Criminal Justice Law, 3\/e - Nicholas Bala and Sanjeev Anand"
       },
       "uniqueID": "032817n265"
-    },
-    {
-      "related_terms": [
-        "United Nations Convention on Contracts for the International Sale of Goods"
-      ],
-      "term": "CISG",
-
-      "uniqueID": "032817n266"
-    },
-    {
-      "related_terms": [
-        "Legal citation"
-      ],
-      "term": "Citation",
-
-      "uniqueID": "032817n267"
     },
     {
       "definition": "Opportunities for members of the general public to have meaningful and effective involvement in important land-use planning decisions.",
@@ -9044,6 +8925,7 @@
       "related_terms": [
         "Anton Piller order"
       ],
+      "definition": "Another name for an Anton Pillar order.",
       "term": "Civil search warrant",
 
       "uniqueID": "032817n271"
@@ -9159,18 +9041,6 @@
       "uniqueID": "032817n278"
     },
     {
-      "related_terms": [
-        "Licence"
-      ],
-      "term": "Clearance",
-
-      "uniqueID": "032817n279",
-      "tags": [
-        "Filed in:",
-        " Intellectual Property"
-      ]
-    },
-    {
       "definition": "A provision in a collective agreement compelling membership in a union.",
       "term": "Closed shop provision",
 
@@ -9275,14 +9145,6 @@
       "uniqueID": "032817n286"
     },
     {
-      "related_terms": [
-        "Preliminary or collateral"
-      ],
-      "term": "Collateral",
-
-      "uniqueID": "032817n287"
-    },
-    {
       "definition": "A challenge to administrative decision making or action in proceedings that do not have as their direct target the validity of the relevant decision or action; for example, challenging the validity of a by-law by way of defence to a prosecution for breach of that by- law.",
       "term": "Collateral attack",
 
@@ -9349,14 +9211,6 @@
         "name": "Public International Law 2\/e - John H. Currie"
       },
       "uniqueID": "032817n291"
-    },
-    {
-      "related_terms": [
-        "Colonized people"
-      ],
-      "term": "Colony",
-
-      "uniqueID": "032817n292"
     },
     {
       "definition": "In legal research parlance, C.I.F. stands for \u201ccoming into force\u201d and is used by Queen's Printers to indicate in a Table of Public Statutes when an amendment to a statute comes into force. Example from the Statutes of Canada Table of Public Statutes: CIF, 1995, c. 45 in force 01.03.96 see SI\/96-23. The foregoing example tells the reader that chapter 45 of the 1995 Statutes of Canada is in force on 1 March 1996, as per a government order registered as SI\/96-23 (which can be found in the Canada Gazette Part II).",
@@ -9479,14 +9333,6 @@
         "name": "Public International Law 2\/e - John H. Currie"
       },
       "uniqueID": "032817n300"
-    },
-    {
-      "related_terms": [
-        "Common heritage of humankind"
-      ],
-      "term": "Common heritage of mankind",
-
-      "uniqueID": "032817n301"
     },
     {
       "definition": "Official plan under the City of Winnipeg Charter, SM 2002, c 39",
@@ -9692,19 +9538,7 @@
       "uniqueID": "032817n317"
     },
     {
-      "related_terms": [
-        "Official Plan"
-      ],
-      "term": "Comprehensive plan",
-
-      "uniqueID": "032817n318",
-      "tags": [
-        "Filed in:",
-        " Housing & Urban Development",
-        " Land Use"
-      ]
-    },
-    {
+      "definition": "The methodological acquisition, authentication, reconstruction, and examination of digital media using computer software, hardware, and analytical techniques for the purpose of presenting digital evidence at any judicial or quasi-judicial proceeding. \u201cComputer forensics\u201d is used interchangeably with the term digital forensics.",
       "related_terms": [
         "Digital forensics"
       ],
@@ -10364,6 +10198,7 @@
       "related_terms": [
         "Abutting"
       ],
+      "definition": "Touching and sharing a common point, line, or boundary.",
       "term": "Contiguous",
 
       "uniqueID": "032817n362"
@@ -10463,19 +10298,6 @@
       }
     },
     {
-      "related_terms": [
-        "Development agreement"
-      ],
-      "term": "Contract zoning",
-
-      "uniqueID": "032817n369",
-      "tags": [
-        "Filed in:",
-        " Housing & Urban Development",
-        " Land Use"
-      ]
-    },
-    {
       "definition": "The expression used in GATT 1947 and GATT 1994 to designate a \"member\" or a \"member country.\"",
       "term": "Contracting party",
 
@@ -10554,6 +10376,11 @@
       "related_terms": [
         "Treaty"
       ],
+      "definition": "International conventions are treaties or agreements between states (the primary actors in international law).",
+      "source": {
+        "url": "https:\/\/www.law.cornell.edu\/wex\/international_conventions",
+        "name": "Cornell University Law School"
+      },
       "term": "Convention",
 
       "uniqueID": "032817n375"
@@ -10801,14 +10628,6 @@
       "uniqueID": "032817n392"
     },
     {
-      "related_terms": [
-        "Mental health court support worker"
-      ],
-      "term": "Court mental health worker",
-
-      "uniqueID": "032817n393"
-    },
-    {
       "definition": "The highest court in a jurisdiction for indictable offences, but designated differently in various provinces and territories. For summary conviction matters, the court of appeal is the jurisdiction's superior court of criminal jurisdiction that is not the highest court in the jurisdiction. See the definitions in sections 2, 673, and 812 of the Criminal Code.",
       "term": "Court of Appeal",
 
@@ -10874,22 +10693,6 @@
         "name": "Employment and Labour Law Toolbox - Paul Wearing"
       },
       "uniqueID": "032817n397"
-    },
-    {
-      "related_terms": [
-        "Footprint"
-      ],
-      "term": "Coverage",
-
-      "uniqueID": "032817n398"
-    },
-    {
-      "related_terms": [
-        "Canadian Police Information Centre (CPIC)"
-      ],
-      "term": "CPIC",
-
-      "uniqueID": "032817n399"
     },
     {
       "definition": "Construction, renovation, and demolition waste.",
@@ -11078,14 +10881,6 @@
       "uniqueID": "032817n412"
     },
     {
-      "related_terms": [
-        "Election by the Crown"
-      ],
-      "term": "Crown election",
-
-      "uniqueID": "032817n413"
-    },
-    {
       "definition": "The situation that exists at a bail hearing when the prosecutor must justify why the accused person should not be released from custody.",
       "term": "Crown onus",
 
@@ -11262,14 +11057,6 @@
         "name": "Criminal Procedure 3\/e - Steve Coughlan"
       },
       "uniqueID": "032817n425"
-    },
-    {
-      "related_terms": [
-        "Custody"
-      ],
-      "term": "Custody and supervision",
-
-      "uniqueID": "032817n427"
     },
     {
       "definition": "A source of international law predicated upon general state practice accompanied by the conviction that such practice is required as a matter of international law.",
@@ -11536,19 +11323,6 @@
       "uniqueID": "032817n447"
     },
     {
-      "related_terms": [
-        "Deep geological repository"
-      ],
-      "term": "Deep underground dump",
-
-      "uniqueID": "032817n448"
-    },
-    {
-      "term": "Deep web",
-
-      "uniqueID": "032817n449"
-    },
-    {
       "definition": "A communication that leads an ordinary person to think less of another person.",
       "term": "Defamation",
 
@@ -11695,14 +11469,6 @@
       "uniqueID": "032817n460"
     },
     {
-      "related_terms": [
-        "Regulation"
-      ],
-      "term": "Delegated legislation",
-
-      "uniqueID": "032817n461"
-    },
-    {
       "definition": "The term (juvenile) delinquent was developed in the late-nineteenth century to distinguish youthful offenders from adult criminals. Delinquents were to be treated in a fashion that promoted their welfare, as reflected in the JDA, in force from 1908 to 1984. The term \u201cdelinquent\u201d is sometimes used to refer to any youthful offender.",
       "term": "Delinquent",
 
@@ -11759,14 +11525,6 @@
         "name": "Land-Use Planning - Howard Epstein"
       },
       "uniqueID": "032817n465"
-    },
-    {
-      "related_terms": [
-        "Bonus"
-      ],
-      "term": "Density bonus",
-
-      "uniqueID": "032817n466"
     },
     {
       "definition": "The repudiation by one party of a bilateral treaty.",
@@ -11993,14 +11751,6 @@
       "uniqueID": "032817n482"
     },
     {
-      "related_terms": [
-        "Official Plan"
-      ],
-      "term": "Development plan",
-
-      "uniqueID": "032817n483"
-    },
-    {
       "definition": "Crystallized entitlement to the issuance of a development permit.",
       "term": "Development right",
 
@@ -12013,14 +11763,6 @@
         "name": "Land-Use Planning - Howard Epstein"
       },
       "uniqueID": "032817n484"
-    },
-    {
-      "related_terms": [
-        "Development cost charge"
-      ],
-      "term": "Development works agreement",
-
-      "uniqueID": "032817n485"
     },
     {
       "definition": "The relationship of give and take between courts and legislatures resulting from judicial decisions striking down laws and fresh legislation enacted in response.",
@@ -12349,11 +12091,6 @@
       "uniqueID": "032817n508"
     },
     {
-      "term": "Disease of the mind",
-
-      "uniqueID": "032817n509"
-    },
-    {
       "definition": "The use of animals or the body parts of animals who have been killed for purposes of research, teaching, or testing.",
       "term": "Dissection",
 
@@ -12600,14 +12337,6 @@
       "uniqueID": "032817n527"
     },
     {
-      "related_terms": [
-        "DNA canvass"
-      ],
-      "term": "DNA dragnet",
-
-      "uniqueID": "032817n528"
-    },
-    {
       "definition": "A warrant issued under section 487.05 of the Criminal Code authorizing the taking of bodily samples from a person for the purpose of DNA analysis.",
       "term": "DNA Warrant",
 
@@ -12659,14 +12388,6 @@
       "uniqueID": "032817n531"
     },
     {
-      "related_terms": [
-        "Domestic law"
-      ],
-      "term": "Domestic legal system",
-
-      "uniqueID": "032817n532"
-    },
-    {
       "definition": "Animals that have been specifically bred, generally for hundreds of generations, to bring out particular physical and psychological traits that make them amenable to living with or among humans; having been bred in captivity for several generations does not make an animal domesticated.",
       "term": "Domesticated",
 
@@ -12693,18 +12414,6 @@
         "name": "Land-Use Planning - Howard Epstein"
       },
       "uniqueID": "032817n534"
-    },
-    {
-      "related_terms": [
-        "Duplicitous"
-      ],
-      "term": "Double",
-
-      "uniqueID": "032817n535",
-      "tags": [
-        "Filed in:",
-        " Criminal Law"
-      ]
     },
     {
       "definition": "An animal who, by reason of illness or injury, is so debilitated that she cannot stand up or remain standing; used in the agricultural context, most commonly, but not exclusively, in respect of dairy cows.",
@@ -13396,6 +13105,7 @@
       "related_terms": [
         "Environmental assessment"
       ],
+      "definition": "Assessment of the environmental effects of a project or undertaking, conducted in accordance with the governing federal or provincial laws; different levels of intensity of scrutiny exist, and most do not require public hearings; projects subject to environmental assessment are not to proceed without the environmental assessment, which is to be conducted as early in the planning stage as possible and before irrevocable decisions are made.",
       "term": "Environmental impact assessment",
 
       "uniqueID": "032817n580",
@@ -13596,8 +13306,8 @@
       "uniqueID": "032817n598"
     },
     {
-      "definition": "The abbreviation for the European Union and the states that belong to it. The way intellectual property laws are harmonized within the EU frequently influences international treaties and other international developments.",
-      "term": "EU",
+      "definition": "EU is the abbreviation for the European Union and the states that belong to it. The way intellectual property laws are harmonized within the EU frequently influences international treaties and other international developments.",
+      "term": "European Union (EU)",
 
       "tags": [
         "Intellectual Property"
@@ -13650,18 +13360,6 @@
         "name": "Intellectual Property Law 2\/e - David Vaver"
       },
       "uniqueID": "032817n602"
-    },
-    {
-      "related_terms": [
-        "EU"
-      ],
-      "term": "European Union",
-
-      "uniqueID": "032817n603",
-      "tags": [
-        "Filed in:",
-        " Intellectual Property"
-      ]
     },
     {
       "definition": "A colourful colloquialism of slightly shady connotation, referring to the practice by which an IP right-holder seeks to extend the duration of protection by adding further IP rights to his initial right. So\u00a0 nineteenth-century publishers would encourage authors or editors to update or revise publications near the end of the term of copyright; the new edition could then be marketed as \u201cnew and improved\u201d and could depress the sale of the competing but now less attractive out-of-copyright work. The practice still continues: \u201capproved\u201d editions of James Joyce's works, authorized by Joyce's heirs, may seem more attractive than \u201cunapproved\u201d reprints. Elsewhere patent holders trawl for aspects of their invention which they further patent (e.g., new dosages of patented drugs), or obtain trade-marks over some feature of the invention so that those copying the no longer patented invention will now be sued for trade-mark infringement or passing-off. Wily rights-holders can thus turn decidedly \u201cdeciduous\u201d finite terms of protection lives into \u201cevergreen\u201d infinite terms, unless thwarted by a wilier CIPO or court.",
@@ -14023,7 +13721,7 @@
     },
     {
       "definition": "Literally \u201cto express one thing is to exclude another\u201d; also known as the implied exclusion rule. This rule suggests that if the legislature left something out, it intended to do so since if it had wanted to include something it would have expressly set it out.",
-      "term": "Expressio unius est exclusio alternius",
+      "term": "Expressio unius est exclusio alternius (Implied exclusion rule)",
 
       "tags": [
         "Legal Research and Writing",
@@ -14362,6 +14060,7 @@
       "uniqueID": "032817n651"
     },
     {
+      "definition": "American term for what roughly equates to an Inictable Offence",
       "related_terms": [
         "Indictable offence"
       ],
@@ -14494,14 +14193,6 @@
         "name": "Land-Use Planning - Howard Epstein"
       },
       "uniqueID": "032817n662"
-    },
-    {
-      "related_terms": [
-        "Finish elevation"
-      ],
-      "term": "Finished grade",
-
-      "uniqueID": "032817n663"
     },
     {
       "definition": "The scientific method that primarily determines if a fired bullet, fired cartridge case, or other ammunition component was fired by a particular firearm, or if certain parts of a live round of ammunition were marked by a particular firearm.",
@@ -14648,19 +14339,6 @@
         "name": "Income Tax Law 2\/e - Vern Krishna"
       },
       "uniqueID": "032817n672"
-    },
-    {
-      "related_terms": [
-        "Paper zoning"
-      ],
-      "term": "Floating zone",
-
-      "uniqueID": "032817n673",
-      "tags": [
-        "Filed in:",
-        " Housing & Urban Development",
-        " Land Use"
-      ]
     },
     {
       "definition": "Area of land subject to periodic flooding.",
@@ -15075,14 +14753,6 @@
       "uniqueID": "032817n700"
     },
     {
-      "related_terms": [
-        "Mere frontier incident"
-      ],
-      "term": "Frontier incident",
-
-      "uniqueID": "032817n701"
-    },
-    {
       "definition": "In the context of treaty negotiations, documents or other proof attesting to a state representative's authority to negotiate on behalf of, or to bind, his or her government or state.",
       "term": "Full powers",
 
@@ -15133,7 +14803,7 @@
     },
     {
       "definition": "The standard expected of those decision makers who come within the ambit of section 7 of the Canadian Charter of Rights and Freedoms and section 2(e) of the Canadian Bill of Rights. Under the Charter, it has both procedural and substantive components. Under the Bill of Rights, it is a source of procedural entitlements only.",
-      "term": "Fundamental justice ",
+      "term": "Principles of Fundamental justice",
 
       "tags": [
         "Constitutional Law"
@@ -15330,19 +15000,6 @@
         "name": "The Law of Partnerships and Corporations 3\/e - J. Anthony VanDuzer"
       },
       "uniqueID": "032817n717"
-    },
-    {
-      "related_terms": [
-        "Official Plan"
-      ],
-      "term": "General plan",
-
-      "uniqueID": "032817n718",
-      "tags": [
-        "Filed in:",
-        " Housing & Urban Development",
-        " Land Use"
-      ]
     },
     {
       "definition": "A formal source of international law, identified in Article 38(1)(c) of the Statute of the International Court of Justice, based on legal principles generally found in domestic legal systems.",
@@ -15784,14 +15441,6 @@
       "uniqueID": "032817n747"
     },
     {
-      "related_terms": [
-        "Parallel import"
-      ],
-      "term": "Grey marketing",
-
-      "uniqueID": "032817n748"
-    },
-    {
       "definition": "Streets patterned so as to be parallel and\/or at right angles to one another.",
       "term": "Gridiron plan",
 
@@ -15907,18 +15556,6 @@
         "name": "Land-Use Planning - Howard Epstein"
       },
       "uniqueID": "032817n756"
-    },
-    {
-      "related_terms": [
-        "Goods and Services Tax (GST)"
-      ],
-      "term": "GST",
-
-      "uniqueID": "032817n757",
-      "tags": [
-        "Filed in:",
-        " Taxation"
-      ]
     },
     {
       "definition": "Taxable (including zero-rated) sales by all sectors are eligible for full rebate of tax paid on associated inputs through the input tax credit mechanism. However, certain sectors are also eligible for rebates of a portion of the GST paid on inputs into exempt sales. These rebates go to qualifying public-sector bodies such as municipalities, universities, schools, and hospitals (MUSH), as well as to qualifying public service organizations such as charities and non-profit organizations. GST rebates to these institutions minimize the impact of the GST on the cost of providing exempt public services. Other GST rebates include a rebate to foreign tourists for GST paid on hotel accommodation in Canada and goods taken out of the country, as well as a rebate of a portion of the GST paid on the purchase of a new home (excluding rental properties).",
@@ -16110,22 +15747,6 @@
         "name": "Legal Research and Writing, 4\/e - Ted Tjaden"
       },
       "uniqueID": "032817n771"
-    },
-    {
-      "related_terms": [
-        "Circle sentencing"
-      ],
-      "term": "Healing circle",
-
-      "uniqueID": "032817n772"
-    },
-    {
-      "related_terms": [
-        "Employer-provided health and dental benefits"
-      ],
-      "term": "Health and dental benefits",
-
-      "uniqueID": "032817n773"
     },
     {
       "definition": "Indirect knowledge learned from what someone else said or told another person.",
@@ -16374,14 +15995,6 @@
       "uniqueID": "032817n789"
     },
     {
-      "related_terms": [
-        "Integrated Circuit Topography Right"
-      ],
-      "term": "ICT Right",
-
-      "uniqueID": "032817n790"
-    },
-    {
       "definition": "A process through which an imagined event can take on an aura of subjective reality over time. In such cases, a person will remember having experienced an event that, in reality, they only imagined.",
       "term": "Imagination inflation",
 
@@ -16512,14 +16125,6 @@
         "name": "Administrative Law - David Mullan"
       },
       "uniqueID": "032817n798"
-    },
-    {
-      "related_terms": [
-        "Expressio unius est exclusio alternius"
-      ],
-      "term": "Implied exclusion rule",
-
-      "uniqueID": "032817n799"
     },
     {
       "definition": "The most commonly encountered fingerprint impression at crime scenes. This type of impression is invisible to the naked eye and requires some form of development technique to render it visible. These development techniques can include the use of fingerprint powder, chemical treatment, or a light source. Oblique or grazed lighting techniques can assist in visualizing a latent impression prior to the application of any development technique.",
@@ -16762,6 +16367,7 @@
       "uniqueID": "032817n814"
     },
     {
+      "definition": "A promise by one person to compensate another person for an obligation incurred or payment made by the second person. Usually, an indemnity is given for obligations or payments imposed on the second person caused by something that the first person did. One partner, for example, may agree to indemnify the other partners for payments that the other partners are forced to make under obligations that the first partner imposes on the partnership in breach of the partnership agreement. Corporate statutes provide that corporations must indemnify officers, directors, and certain other persons for expenses incurred in connection with performing duties for or at the request of the corporation, but only if certain requirements are satisfied (e.g., CBCA, s. 124). Corporations have a discretion to indemnify in a broader range of circumstances.",
       "related_terms": [
         "Indemnity"
       ],
@@ -16818,14 +16424,6 @@
         "name": "Youth Criminal Justice Law, 3\/e - Nicholas Bala and Sanjeev Anand"
       },
       "uniqueID": "032817n818"
-    },
-    {
-      "related_terms": [
-        "Aboriginal peoples"
-      ],
-      "term": "Indians",
-
-      "uniqueID": "032817n819"
     },
     {
       "definition": "The most serious category of criminal offences. In most cases, the accused has the option to be tried before a provincial court without a preliminary inquiry or a jury, or tried in a superior court with a preliminary inquiry and\/or a jury.",
@@ -16932,14 +16530,6 @@
         "name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
       },
       "uniqueID": "032817n826"
-    },
-    {
-      "related_terms": [
-        "Training school"
-      ],
-      "term": "Industrial school",
-
-      "uniqueID": "032817n827"
     },
     {
       "definition": "A document sworn in front of a justice of the peace, alleging that a person has committed an offence. An information is required for the issuance of some process, such as an arrest warrant, and is the document based upon which the trial for a summary conviction offence will occur.",
@@ -17108,7 +16698,7 @@
     },
     {
       "definition": "Integrated Circuit Topography right, granted on registration under the federal ICT Act for ten years. The U.S. equivalent is a semiconductor chip right, also lasting for ten years.",
-      "term": "Integrated Circuit Topography Right",
+      "term": "Integrated Circuit Topography (ICT) Right",
 
       "tags": [
         "Intellectual Property"
@@ -17282,14 +16872,6 @@
       "uniqueID": "032817n848"
     },
     {
-      "related_terms": [
-        "Interim or interlocutory relief"
-      ],
-      "term": "Interlocutory relief",
-
-      "uniqueID": "032817n849"
-    },
-    {
       "definition": "A sentence of imprisonment that is served in intervals (usually on weekends) over a period of time. Under the Criminal Code, a judge can only impose an intermittent sentence if the term of imprisonment is ninety days or less. The offender must comply with the conditions of a probation order when not in confinement.",
       "term": "Intermittent sentence",
 
@@ -17306,14 +16888,6 @@
         "name": "Trauma, Trials, and Transformation - Judith Daylen, Wendy van Tongeren Harvey and Dennis O'Toole Foreword by Claire L'Heureux-Dub\u00e9"
       },
       "uniqueID": "032817n850"
-    },
-    {
-      "related_terms": [
-        "Domestic affairs"
-      ],
-      "term": "Internal affairs",
-
-      "uniqueID": "032817n851"
     },
     {
       "definition": "The law or legal system established within a state to govern events, transactions, and persons within or having a connection to that state.",
@@ -17477,14 +17051,6 @@
       "uniqueID": "032817n861"
     },
     {
-      "related_terms": [
-        "IP address"
-      ],
-      "term": "Internet Protocol address",
-
-      "uniqueID": "032817n862"
-    },
-    {
       "definition": "A company that provides individuals or organizations access to the Internet through a subscription. Increasingly in Canada, ISPs offer a flat monthly rate for unlimited access (7 days a week\/24 hours a day) to the Internet. ISPs are competing with each other to also provide faster Internet access through digital lines or cable modems.",
       "term": "Internet Service Provider (ISP)",
 
@@ -17575,14 +17141,6 @@
         "name": "Administrative Law - David Mullan"
       },
       "uniqueID": "032817n868"
-    },
-    {
-      "related_terms": [
-        "Aboriginal peoples"
-      ],
-      "term": "Inuit",
-
-      "uniqueID": "032817n869"
     },
     {
       "definition": "In relation to treaties, a basis for vitiating a treaty ab initio.",
@@ -17693,7 +17251,7 @@
     },
     {
       "definition": "This address is used to identify the individual computing devices, often referred to as a \u201cnode,\u201d that are communicating over a network.",
-      "term": "IP address",
+      "term": "Internet Protocol (IP) address",
 
       "tags": [
         "Computer & Internet"
@@ -17733,14 +17291,6 @@
       "uniqueID": "032817n879"
     },
     {
-      "related_terms": [
-        "Internet Service Provider (ISP)"
-      ],
-      "term": "ISP",
-
-      "uniqueID": "032817n880"
-    },
-    {
       "definition": "A doctrine whereby issues that have already been finally determined in other proceedings cannot be reopened or relitigated.",
       "term": "Issue estoppel",
 
@@ -17775,6 +17325,7 @@
       "uniqueID": "032817n882"
     },
     {
+      "definition": "IT forensics focuses on a networked environment and deals with a current or previous breach of network security.",
       "related_terms": [
         "Digital forensics"
       ],
@@ -17823,8 +17374,11 @@
       "related_terms": [
         "Plea bargain"
       ],
+      "definition": "A joint submission is when both the Crown and the offender’s lawyer (or duty counsel) agree on the sentence they are asking the judge to give. In most cases, a joint submission will have been agreed to by lawyers in a resolution meeting.\n\nHowever, even when the lawyers have a joint submission, the judge does not necessarily have to agree with them and can still give a different type or length of sentence. In many cases, the judge will agree with the joint submission, but the judge always makes the final decision on a sentence",
       "term": "Joint submission",
-
+      "tags": [
+        "Criminal Law"
+      ],
       "uniqueID": "032817n886"
     },
     {
@@ -17979,6 +17533,7 @@
       "uniqueID": "032817n895"
     },
     {
+      "definition": "The principle by which decisions of a higher court are binding on and must be followed by lower courts. Also known as Stare decisis.",
       "related_terms": [
         "Stare decisis"
       ],
@@ -18166,6 +17721,7 @@
         "Jury array"
       ],
       "term": "Jury panel",
+      "definition": "A large number of potential jurors summoned to court from whom the actual jurors for a particular trial will be chosen. A jury panel is also called a jury array.",
 
       "uniqueID": "032817n908",
       "tags": [
@@ -18318,14 +17874,6 @@
       "uniqueID": "032817n917"
     },
     {
-      "related_terms": [
-        "Delinquent"
-      ],
-      "term": "Juvenile delinquent",
-
-      "uniqueID": "032817n918"
-    },
-    {
       "definition": "A clause included in a commercial lease agreement which requires the lessee to keep its store open, or requires a certain level of staffing and product range be maintained in the store. The clause is used to ensure the economic viability of stores in retail malls.",
       "term": "Keep open clause",
 
@@ -18404,14 +17952,6 @@
         "name": "Animals and the Law - Lesli Bisgould"
       },
       "uniqueID": "032817n925"
-    },
-    {
-      "related_terms": [
-        "Library of Congress Subject Headings (LCSH)"
-      ],
-      "term": "LCSH",
-
-      "uniqueID": "032817n926"
     },
     {
       "definition": "An international organization established between the First and Second World Wars in an early attempt to foster international peace and cooperation.",
@@ -18507,14 +18047,6 @@
       "uniqueID": "032817n932"
     },
     {
-      "related_terms": [
-        "Headnote"
-      ],
-      "term": "Legislative history ",
-
-      "uniqueID": "032817n933"
-    },
-    {
       "definition": "Section 33 of the Charter of Rights and Freedoms permits a legislature to declare, for a period of five years, that a law shall operate \u201cnotwithstanding a provision included in section 2 or sections 7 to 15\u201d of the Charter.",
       "term": "Legislative override",
 
@@ -18539,14 +18071,6 @@
         "name": "Administrative Law - David Mullan"
       },
       "uniqueID": "032817n935"
-    },
-    {
-      "related_terms": [
-        "Patent"
-      ],
-      "term": "Letters patent",
-
-      "uniqueID": "032817n936"
     },
     {
       "definition": "\u201cSoft\u201d law; non-binding or emerging norms which may or may not eventually harden into binding law; rules not yet grounded in a recognized, formal source of law.",
@@ -18671,14 +18195,6 @@
         "name": "Constitutional Law, 5\/e - Patrick Monahan, Byron Shaw and Padraic Ryan"
       },
       "uniqueID": "032817n945"
-    },
-    {
-      "related_terms": [
-        "Governor in council"
-      ],
-      "term": "Lieutenant governor in council",
-
-      "uniqueID": "032817n946"
     },
     {
       "definition": "Generally, a restriction placed on a right; specifically, a time-bar within which legal proceedings must be commenced, failing which a claimant can no longer sue.",
@@ -18998,7 +18514,7 @@
     },
     {
       "definition": "The Canadian Intellectual Property Office's Manual of Patent Office Practice.\u00a0 The current 1998 edition, updated to December 2009, is a guide for patent applicants and holders, outlining the rules patent examiners usually follow. Courts often look at the Manual when considering disputes but are not bound by it. The Manual is available for download from CIPO's website.",
-      "term": "Manual of Patent Office Practice",
+      "term": "Manual of Patent Office Practice (MOPOP)",
 
       "tags": [
         "Intellectual Property"
@@ -19096,18 +18612,6 @@
       }
     },
     {
-      "related_terms": [
-        "Canadian Guide to Uniform Legal Citation"
-      ],
-      "term": "McGill Guide",
-
-      "uniqueID": "032817n977",
-      "tags": [
-        "Filed in:",
-        " Legal Research and Writing"
-      ]
-    },
-    {
       "definition": "The sum of a list of numbers, divided by the count of the numbers. May refer to a sample or a population. Also known as an average.",
       "term": "Mean",
 
@@ -19148,7 +18652,7 @@
     },
     {
       "definition": "The constitution of a corporation under English registration model corporate statutes, such as is in force in Nova Scotia. The memorandum is similar to the articles under a CBCA model statute. The articles are similar to a general by-law under a CBCA model statute. The memorandum and articles constitute a contract between the corporation and the members. Under the BCBCA, the Memorandum has been replaced by a notice of articles.",
-      "term": "Memorandum and articles of association",
+      "term": "Articles of Association",
 
       "tags": [
         "Corporate and Commercial Law"
@@ -19218,18 +18722,6 @@
         "name": "Criminal Law, 6\/e - Kent Roach"
       },
       "uniqueID": "032817n985"
-    },
-    {
-      "related_terms": [
-        "See also:Fault element",
-        " Specific intent"
-      ],
-      "term": "Mental element",
-
-      "uniqueID": "032817n986",
-      "tags": [
-        " Criminal Law"
-      ]
     },
     {
       "definition": "Provincial legislation specifying how the state responds to an individual's mental health-care needs.",
@@ -19367,14 +18859,6 @@
       "uniqueID": "032817n994"
     },
     {
-      "related_terms": [
-        "Metabolism (toxicology)"
-      ],
-      "term": "Metabolites",
-
-      "uniqueID": "032817n995"
-    },
-    {
       "definition": "Metadata is \u201cdata about the data\u201d and not all files contain metadata. For example, metadata may be the date, time, and GPS coordinates of a photograph included within the digital photograph itself.",
       "term": "Metadata",
 
@@ -19403,14 +18887,6 @@
         "name": "The Lawyer's Guide to the Forensic Sciences -  Edited by Caitlin Pakosh"
       },
       "uniqueID": "032817n997"
-    },
-    {
-      "related_terms": [
-        "Aboriginal peoples"
-      ],
-      "term": "Metis",
-
-      "uniqueID": "032817n998"
     },
     {
       "definition": "A state that exercises sovereignty over colonies or that has established a colonial empire.",
@@ -19546,14 +19022,6 @@
       "uniqueID": "032817n1006"
     },
     {
-      "related_terms": [
-        "Unfair competition"
-      ],
-      "term": "Misappropriation",
-
-      "uniqueID": "032817n1007"
-    },
-    {
       "definition": "The right to prevent commercial uses of one's name, voice, or image. It is roughly equivalent to the U.S. \"right of publicity.\"",
       "term": "Misappropriation of personality",
 
@@ -19581,17 +19049,19 @@
       "uniqueID": "032817n1009"
     },
     {
+      "definition": "American term for what roughly equates to a summary conviction offence.",
       "related_terms": [
         "Summary conviction offence"
       ],
       "term": "Misdemeanour",
-
+      "tags": [
+        "Criminal Law"
+      ],
       "uniqueID": "032817n1010"
     },
     {
       "definition": "An act or the failure to act which creates a risk of harm to another person.",
       "term": "Misfeasance",
-
       "tags": [
         "Torts"
       ],
@@ -19710,14 +19180,6 @@
       "uniqueID": "032817n1018"
     },
     {
-      "related_terms": [
-        "Manual of Patent Office Practice"
-      ],
-      "term": "MOPOP",
-
-      "uniqueID": "032817n1019"
-    },
-    {
       "definition": "The quality of a person who commits a prohibited act with no fault such as negligence or subjective mens rea. A morally innocent person cannot be imprisoned under section 7 of the Charter.",
       "term": "Moral innocence",
 
@@ -19753,7 +19215,7 @@
       "term": "Moral rights",
 
       "related_terms": [
-        "WIPO Performances and Phonograms Treaty"
+        "WIPO Performances and Phonograms Treaty (WPPT)"
       ],
       "source": {
         "url": "https:\/\/www.irwinlaw.com\/titles\/copyright-law",
@@ -19849,7 +19311,7 @@
     },
     {
       "definition": "North American Free Trade Agreement of 1992, between Canada, Mexico, and the United States. Chapter 17 obliges the parties to maintain high levels of intellectual property protection. Canada implemented this treaty through theNorth American Free Trade Agreement Implementation Act, S.C. 1993, c. 44, mostly effective from 1 January 1994, which made substantial changes to all intellectual property legislation.",
-      "term": "NAFTA",
+      "term": "North American Free Trade Agreement (NAFTA)",
 
       "tags": [
         "Intellectual Property",
@@ -19984,14 +19446,6 @@
       "uniqueID": "032817n1036"
     },
     {
-      "related_terms": [
-        "Rome Convention"
-      ],
-      "term": "Neighbouring rights",
-
-      "uniqueID": "032817n1038"
-    },
-    {
       "definition": "A general principle of law meaning that one cannot give more than one has; applied in territorial disputes in tracing the root of a state's claim of title to territory.",
       "term": "Nemo dat quod non habet",
 
@@ -20093,14 +19547,6 @@
         "name": "Public International Law 2\/e - John H. Currie"
       },
       "uniqueID": "032817n1045"
-    },
-    {
-      "related_terms": [
-        "Privative clause"
-      ],
-      "term": "No certiorari clause",
-
-      "uniqueID": "032817n1046"
     },
     {
       "definition": "Compensation based on the condition or need of an incapacitated person rather than on the proof that the loss was caused by the wrongdoing or tort of another person.",
@@ -20293,14 +19739,6 @@
         "name": "The Law of Torts, 5\/e - Philip H. Osborne"
       },
       "uniqueID": "032817n1060"
-    },
-    {
-      "related_terms": [
-        "NAFTA"
-      ],
-      "term": "North American Free Trade Agreement",
-
-      "uniqueID": "032817n1061"
     },
     {
       "definition": "An order which takes its name from Norwich Pharmacal Co. v. Customs and Excise Commissioners,[1974] A.C. 133 (H.L.). Under the order, a person who is not suspected of wrongdoing but who has information which may identify the perpetrator of wrongdoing can be ordered to provide that information to the applicant.",
@@ -20740,20 +20178,16 @@
       "uniqueID": "032817n1091"
     },
     {
+      "definition": "An omnibus clause is a clause that provides or includes all residuary not specifically mentioned. A very common omnibus clause deals with automobile liability insurance.",
       "related_terms": [
         "General (grants of) power"
       ],
       "term": "Omnibus clause",
-
+      "source": {
+        "url": "https:\/\/en.wikipedia.org\/wiki\/Omnibus_clause",
+        "name": "Wikipedia"
+      },
       "uniqueID": "032817n1093"
-    },
-    {
-      "related_terms": [
-        "Listservs"
-      ],
-      "term": "Online discussion groups",
-
-      "uniqueID": "032817n1094"
     },
     {
       "definition": "The provincially appointed court, which hears criminal proceedings, proceedings under the Youth Criminal Justice Act, and certain matters under the Family Law Reform Act and other provincial statutes.",
@@ -20963,14 +20397,6 @@
         "name": "The Charter of Rights and Freedoms 6\/e - Robert J. Sharpe and Kent Roach"
       },
       "uniqueID": "032817n1107"
-    },
-    {
-      "related_terms": [
-        "Legislative override"
-      ],
-      "term": "Override",
-
-      "uniqueID": "032817n1108"
     },
     {
       "definition": "The most fundamental rule of treaty law: legal undertakings by international legal subjects must be performed by them in good faith.",
@@ -21292,16 +20718,6 @@
       "uniqueID": "032817n1129"
     },
     {
-      "related_terms": [
-        "General partnership",
-        " Limited liability partnership",
-        " Limited partnership"
-      ],
-      "term": "Partnership",
-
-      "uniqueID": "032817n1130"
-    },
-    {
       "definition": "The wrong of misrepresenting one's business, goods, or services as another's, to the latter's injury; for example, by a confusingly similar trade-mark or trade-name.",
       "term": "Passing off",
 
@@ -21418,14 +20834,6 @@
       "uniqueID": "032817n1138"
     },
     {
-      "related_terms": [
-        "Grants-in-lieu of taxes"
-      ],
-      "term": "Payments in lieu of taxes",
-
-      "uniqueID": "032817n1139"
-    },
-    {
       "definition": "A person exercising authority under the Criminal Code to investigate criminal offences and exercise powers such as arrest. In most instances, a peace officer will be a police officer, but the definition also encompasses others, including, for example, some customs officers, correctional officers, and pilots while an aircraft is in flight. See the definition in section 2 of the Code.",
       "term": "Peace officer",
 
@@ -21440,14 +20848,6 @@
         "name": "Criminal Procedure 3\/e - Steve Coughlan"
       },
       "uniqueID": "032817n1141"
-    },
-    {
-      "related_terms": [
-        "Phallometric testing"
-      ],
-      "term": "Penile plethysmography",
-
-      "uniqueID": "032817n1143"
     },
     {
       "definition": "The right of the accused or the Crown to object to a member of the jury array being chosen to serve on the jury, without being required to offer any explanation for the objection. The Crown and the accused each have a limited number of peremptory challenges, which varies with the offence charged: see section 634 of the Criminal Code.",
@@ -21516,14 +20916,6 @@
         "name": "Income Tax Law 2\/e - Vern Krishna"
       },
       "uniqueID": "032817n1148"
-    },
-    {
-      "related_terms": [
-        "Licence"
-      ],
-      "term": "Permission",
-
-      "uniqueID": "032817n1149"
     },
     {
       "definition": "A state that clearly and consistently manifests its objection to a rule of customary international law since its inception, thereby escaping its universally binding effect.",
@@ -21751,18 +21143,6 @@
       "uniqueID": "032817n1166"
     },
     {
-      "related_terms": [
-        "Serum"
-      ],
-      "term": "Plasma",
-
-      "uniqueID": "032817n1167",
-      "tags": [
-        "Filed in:",
-        " Science & Technology"
-      ]
-    },
-    {
       "definition": "A declaration by an accused person to the court of \u201cguilty\u201d (admitting the charge) or \u201cnot guilty\u201d (which requires the prosecution to attempt to prove guilt).\n\n Other pleas, such as guilty but not criminally responsible owing to mental disorder, are occasionally made. Autrefois acquit or autrefois convict refers to pleas that can be made if the accused asserts that he or she cannot be tried for this offence as there was already a trial for the same offence that resulted in acquittal or conviction.",
       "term": "Plea",
 
@@ -21798,14 +21178,6 @@
       "uniqueID": "032817n1169"
     },
     {
-      "related_terms": [
-        "Plea bargain"
-      ],
-      "term": "Plea resolution discussion",
-
-      "uniqueID": "032817n1170"
-    },
-    {
       "definition": "The process of a formal exchange of written documentation between the litigants defining the contested issues of fact, and, to a lesser extent, law, giving rise to the dispute between the parties.",
       "term": "Pleadings",
 
@@ -21828,8 +21200,12 @@
         "Referendum"
       ],
       "term": "Plebescite",
-
-      "uniqueID": "032817n1172"
+      "definition": "A method of referring a question or set of questions to the people directly, rather than allowing them to be settled by the people's representatives in the legislature; the term is often used interchangeably with \"referendum,\" although as a technical matter, the latter is binding, whereas \"plebescite\" is a nonbinding process.",
+      "uniqueID": "032817n1172",
+      "source": {
+        "url": "https:\/\/www.irwinlaw.com\/titles\/laws-government-2e",
+        "name": "The Laws of Government 2\/e - Craig Forcese and Aaron Freeman"
+      }
     },
     {
       "definition": "A description of an alleged offence authored usually by the arresting officer.",
@@ -21862,14 +21238,6 @@
         "name": "The Law of Torts, 5\/e - Philip H. Osborne"
       },
       "uniqueID": "032817n1174"
-    },
-    {
-      "related_terms": [
-        "Contribution"
-      ],
-      "term": "Political donation",
-
-      "uniqueID": "032817n1175"
     },
     {
       "definition": "An organization in which a fundamental purpose is to participate in public affairs by endorsing one or more of its members as candidates and supporting their election.",
@@ -22115,14 +21483,6 @@
       "uniqueID": "032817n1191"
     },
     {
-      "related_terms": [
-        "Privative clause"
-      ],
-      "term": "Preclusive clause",
-
-      "uniqueID": "032817n1192"
-    },
-    {
       "definition": "To lay an indictment in front of a superior court in order to prosecute the accused under it.",
       "term": "Prefer",
 
@@ -22137,14 +21497,6 @@
         "name": "Criminal Procedure 3\/e - Steve Coughlan"
       },
       "uniqueID": "032817n1193"
-    },
-    {
-      "related_terms": [
-        "See also:Prefer"
-      ],
-      "term": "Preferred indictment",
-
-      "uniqueID": "032817n1194"
     },
     {
       "definition": "A hearing held to determine whether there is sufficient evidence to require an accused person to stand trial for an alleged offence. Adults facing serious indictable charges under the Criminal Code generally have the right to a preliminary inquiry. Generally, youths do not have this right. However, young persons charged with murder or other serious offences and who may be subject to an adult sentence, if convicted, generally have the right to a preliminary inquiry and jury trial.",
@@ -22162,18 +21514,6 @@
         "name": "Youth Criminal Justice Law, 3\/e - Nicholas Bala and Sanjeev Anand"
       },
       "uniqueID": "032817n1195"
-    },
-    {
-      "related_terms": [
-        "Jurisdiction-conferring"
-      ],
-      "term": "Preliminary or collateral",
-
-      "uniqueID": "032817n1196",
-      "tags": [
-        "Filed in:",
-        " Administrative Law"
-      ]
     },
     {
       "definition": "Those powers formally left with the monarchy in the wake of the United Kingdom Revolution and Bill of Rights of 1688, and that have not subsequently been removed by statute; for example, the conduct of foreign relations and the Royal Prerogative of Mercy.",
@@ -22484,14 +21824,6 @@
       "uniqueID": "032817n1214"
     },
     {
-      "related_terms": [
-        "Fundamental justice "
-      ],
-      "term": "Principles of fundamental justice",
-
-      "uniqueID": "032817n1215"
-    },
-    {
       "definition": "Censorship before publication. It commonly refers to attempts to restrain publication of material prior to a court adjudicating on whether the publication would give rise to any civil action such as defamation or breach of confidence.",
       "term": "Prior restraint",
 
@@ -22682,7 +22014,7 @@
     },
     {
       "definition": "A statutory provision which attempts to eliminate or restrict the scope of judicial review. Sometimes called a \"preclusive\" or \"no certiorari\" clause.",
-      "term": "Privative clause",
+      "term": "Privative clause (No certiorari clause)",
 
       "tags": [
         "Administrative Law"
@@ -22696,14 +22028,6 @@
         "name": "Administrative Law - David Mullan"
       },
       "uniqueID": "032817n1226"
-    },
-    {
-      "related_terms": [
-        "Judicial Committee of the Privy Council (JCPC)"
-      ],
-      "term": "Privy Council",
-
-      "uniqueID": "032817n1227"
     },
     {
       "definition": "The central government agency that serves as the prime minister's public service branch and the secretariat to the Cabinet and its committees, under the guidance of the Clerk of the Privy Council.",
@@ -23205,14 +22529,6 @@
       "uniqueID": "032817n1263"
     },
     {
-      "related_terms": [
-        "Violence risk assessment"
-      ],
-      "term": "Psychiatric risk assessment",
-
-      "uniqueID": "032817n1264"
-    },
-    {
       "definition": "The term used to describe a situation when a person is not required by law to comply with the demands of a peace officer, but is unaware of that fact and reasonably believes that she has no choice but to comply.",
       "term": "Psychological detention",
 
@@ -23376,10 +22692,15 @@
       "uniqueID": "032817n1274"
     },
     {
+      "definition": "Offences that regulate risky behaviour that may cause harm but do not ordinarily involve truly criminal or morally reprehensible behaviour.",
       "related_terms": [
         "Regulatory offence"
       ],
       "term": "Public welfare offence",
+      "source": {
+        "url": "https:\/\/www.irwinlaw.com\/titles\/charter-rights-and-freedoms-6e",
+        "name": "The Charter of Rights and Freedoms 6\/e - Robert J. Sharpe and Kent Roach"
+      },
 
       "uniqueID": "032817n1275"
     },
@@ -23646,26 +22967,7 @@
       },
       "uniqueID": "032817n1296"
     },
-    {
-      "term": "Reasonable grounds to believe",
 
-      "uniqueID": "032817n1297",
-      "tags": [
-        "Criminal Law"
-      ]
-    },
-    {
-      "related_terms": [
-        "Reasonable suspicion"
-      ],
-      "term": "Reasonable grounds to suspect",
-
-      "uniqueID": "032817n1298",
-      "tags": [
-        "Filed in:",
-        " Criminal Law"
-      ]
-    },
     {
       "definition": "A standard authorizing some police investigative techniques, such as an investigative detention. Reasonable suspicion is a lower standard than reasonable belief, but must be more than a mere hunch and must exist both subjectively and objectively.",
       "term": "Reasonable suspicion",
@@ -23868,14 +23170,6 @@
         "name": "The Laws of Government 2\/e - Craig Forcese and Aaron Freeman"
       },
       "uniqueID": "032817n1312"
-    },
-    {
-      "related_terms": [
-        "Training school"
-      ],
-      "term": "Reformatory",
-
-      "uniqueID": "032817n1313"
     },
     {
       "definition": "Where a tax credit is refundable, a portion of the credit which is not needed to reduce a taxpayer's tax liability (because it is already zero) may be paid to the taxpayer. An example is the refundable investment tax credit.",
@@ -24431,21 +23725,21 @@
       "uniqueID": "032817n1354"
     },
     {
-      "related_terms": [
-        "Electoral district"
-      ],
-      "term": "Riding",
+        "definition": "A place or territorial area that is represented by a member in the House of Commons; also widely referred to as a \"Electoral district.\"",
+        "term": "Riding",
 
+        "tags": [
+          "Political Science"
+        ],
+        "related_terms": [
+          "Electoral district",
+          " Gerrymandering"
+        ],
+        "source": {
+          "url": "https:\/\/www.irwinlaw.com\/titles\/laws-government-2e",
+          "name": "The Laws of Government 2\/e - Craig Forcese and Aaron Freeman"
+        },
       "uniqueID": "032817n1355"
-    },
-    {
-      "related_terms": [
-        "Collective self-defence",
-        " right of"
-      ],
-      "term": "Right of collective self-defence",
-
-      "uniqueID": "032817n1356"
     },
     {
       "definition": "The right of a copyright holder to receive a payment for a stated use. Performers, sound-recording makers, and broadcasters have rights of remuneration in respect of the public performance or telecommunication of their material.A right of remuneration differs from other rights within copyright. A copyright holder can usually prevent the use by others of any right within copyright for any reason or for no reason at all, just as a landowner may arbitrarily deny access to his property. Thus, a copyright holder can get an injunction to prevent the translation of her work, however much money the user tenders for the right and however worthy the enterprise. On the other hand, the owner of a right of remuneration cannot prevent the use of his material by any user who tenders the prescribed fee. For example, the copyright holder of a published sound recording of a musical work cannot prevent a broadcaster who tenders the appropriate payment from airing any sound recording; the Copyright Act grants the right-holder only a right of remuneration in respect of this activity.",
@@ -24463,32 +23757,6 @@
         "name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
       },
       "uniqueID": "032817n1357"
-    },
-    {
-      "related_terms": [
-        "Self-defence",
-        " right of"
-      ],
-      "term": "Right of self-defence",
-
-      "uniqueID": "032817n1358"
-    },
-    {
-      "related_terms": [
-        "Transit passage",
-        " right of"
-      ],
-      "term": "Right of transit passage",
-
-      "uniqueID": "032817n1359"
-    },
-    {
-      "related_terms": [
-        "Humanitarian intervention"
-      ],
-      "term": "Right of unilateral humanitarian intervention",
-
-      "uniqueID": "032817n1360"
     },
     {
       "definition": "A term used to indicate anyone with a proprietary interest in a copyright or other intellectual property right: for example, an owner or (sometimes) exclusive licensee.",
@@ -24544,8 +23812,8 @@
       ],
       "related_terms": [
         "Act",
-        " Bill",
-        " Coming into force"
+        "Bill",
+        "Coming into force"
       ],
       "source": {
         "url": "https:\/\/www.irwinlaw.com\/titles\/laws-government-2e",
@@ -24908,7 +24176,7 @@
     },
     {
       "definition": "An organ of the United Nations composed of permanent and elected members and having primary responsibility for the maintenance and restoration of international peace and security.",
-      "term": "Security Council",
+      "term": "United Nations Security Council",
 
       "tags": [
         "International Law"
@@ -24931,14 +24199,6 @@
         "url": "https:\/\/www.irwinlaw.com\/titles\/intellectual-property-law-2e",
         "name": "Intellectual Property Law 2\/e - David Vaver"
       }
-    },
-    {
-      "related_terms": [
-        "Field"
-      ],
-      "term": "Segment",
-
-      "uniqueID": "032817n1391"
     },
     {
       "definition": "A justification to a crime under section 34 of the Criminal Codegenerally available when a person reasonably apprehends a threat and responds in a reasonable manner.",
@@ -25417,14 +24677,6 @@
       "uniqueID": "032817n1421"
     },
     {
-      "related_terms": [
-        "Limited liability partnership"
-      ],
-      "term": "Soci\u00e9t\u00e9 en nom collectif \u00e0 responsabilit\u00e9 limit\u00e9e",
-
-      "uniqueID": "032817n1422"
-    },
-    {
       "definition": "Non-binding or emerging norms which may or may not eventually harden into binding law; rules not yet grounded in a recognized, formal source of law.",
       "term": "Soft law",
 
@@ -25491,14 +24743,6 @@
         "name": "Criminal Procedure 3\/e - Steve Coughlan"
       },
       "uniqueID": "032817n1426"
-    },
-    {
-      "related_terms": [
-        "Statutory Orders and Regulations"
-      ],
-      "term": "SOR",
-
-      "uniqueID": "032817n1427"
     },
     {
       "definition": "The full range of powers and privileges enjoyed by a state over its territory and population to the exclusion of all other states but subject to international law.",
@@ -25620,6 +24864,7 @@
       "related_terms": [
         "Endangered species"
       ],
+      "definition": "Animals or plants threatened with extinction.",
       "term": "Species at risk",
 
       "uniqueID": "032817n1435",
@@ -25761,27 +25006,6 @@
         "name": "The Laws of Government 2\/e - Craig Forcese and Aaron Freeman"
       },
       "uniqueID": "032817n1443"
-    },
-    {
-      "definition": "The principle by which decisions of a higher court are binding on and must be followed by lower courts.",
-      "term": "Stare decisis",
-
-      "tags": [
-        "Constitutional Law",
-        " International Law",
-        " Judges and Courts",
-        " Legal Research and Writing"
-      ],
-      "related_terms": [
-        "Common law",
-        " Judicial treatment",
-        " Jurisdiction"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/charter-rights-and-freedoms-6e",
-        "name": "The Charter of Rights and Freedoms 6\/e - Robert J. Sharpe and Kent Roach"
-      },
-      "uniqueID": "032817n1444"
     },
     {
       "definition": "A stable, independent political community comprising a government exercising exclusive, sovereign jurisdiction over a given territory and population and capable of entering into international legal relations with other states.",
@@ -25956,14 +25180,6 @@
       "uniqueID": "032817n1454"
     },
     {
-      "related_terms": [
-        "Act"
-      ],
-      "term": "Statute",
-
-      "uniqueID": "032817n1455"
-    },
-    {
       "definition": "The English patent law of 1624 that first curbed the Crown's power to grant monopolies at its discretion, while excepting (in section 6) fourteen-year grants for \"the sole working or making of any manner of new manufactures within this realm.\" This statute and the Venetian Patent Law of 1474 are treated as progenitors of modern patent laws. Even today, Australia's patent law, entirely revamped in 1990, continues to define invention as \"any manner of new manufacture . . . within section 6 of the Statute of Monopolies\".",
       "term": "Statute of Monopolies",
 
@@ -26017,7 +25233,7 @@
     },
     {
       "definition": "Refers to federal regulations (enacted since the most recent consolidated version of the regulations) in the Canada Gazette Part II. In French, it is abbreviated DORS and stands for \u201cD\u00e9crets, ordonnances et r\u00e8glements.\u201d Example: SOR\/98-176 refers to the Hazardous Products (Glazed Ceramics and Glassware) Regulations, and it was enacted in 1998 as Regulation 176.",
-      "term": "Statutory Orders and Regulations",
+      "term": "Statutory Orders and Regulations (SOR)",
 
       "tags": [
         "Legal Research and Writing"
@@ -26670,15 +25886,6 @@
       "uniqueID": "032817n1502"
     },
     {
-      "related_terms": [
-        "Invalidity",
-        " Suspended declaration of invalidity"
-      ],
-      "term": "Temporary suspension of invalidity",
-
-      "uniqueID": "032817n1503"
-    },
-    {
       "definition": "The process by which treaty obligations are ended.",
       "term": "Termination",
 
@@ -26913,6 +26120,7 @@
       "related_terms": [
         "Endangered species"
       ],
+      "definition": "Animals or plants threatened with extinction.",
       "term": "Threatened species",
 
       "uniqueID": "032817n1518",
@@ -26938,14 +26146,6 @@
         "name": "Legal Research and Writing, 4\/e - Ted Tjaden"
       },
       "uniqueID": "032817n1519"
-    },
-    {
-      "related_terms": [
-        "Trade-marks Office"
-      ],
-      "term": "TMO",
-
-      "uniqueID": "032817n1520"
     },
     {
       "definition": "The various codes resulting from the Tokyo Round of GATT negotiations.",
@@ -27038,14 +26238,6 @@
       "uniqueID": "032817n1527"
     },
     {
-      "related_terms": [
-        "Trace"
-      ],
-      "term": "Tracing",
-
-      "uniqueID": "032817n1528"
-    },
-    {
       "definition": "Commercial information that derives its value from the fact of its not being generally known and from the protection the law erects around it, mainly through contracts and the breach of confidence action.",
       "term": "Trade secret",
 
@@ -27063,7 +26255,7 @@
     },
     {
       "definition": "The Canadian Trade-marks Office examines and grants registrations for trade-marks, and maintains registers of geographical indications, official marks, etc.",
-      "term": "Trade-marks Office",
+      "term": "Trade-marks Office (TMO)",
 
       "tags": [
         "Intellectual Property"
@@ -27420,14 +26612,6 @@
       "uniqueID": "032817n1552"
     },
     {
-      "related_terms": [
-        "Universal Copyright Convention "
-      ],
-      "term": "UCC",
-
-      "uniqueID": "032817n1553"
-    },
-    {
       "definition": "Without jurisdiction or authority.",
       "term": "Ultra vires",
 
@@ -27464,7 +26648,7 @@
         "Impartial"
       ],
       "term": "Unbiased",
-
+      "definition": "A synonym for \"impartial\".",
       "uniqueID": "032817n1556"
     },
     {
@@ -27527,14 +26711,6 @@
       "uniqueID": "032817n1561"
     },
     {
-      "related_terms": [
-        "URL"
-      ],
-      "term": "Uniform Resource Locator",
-
-      "uniqueID": "032817n1562"
-    },
-    {
       "definition": "An undertaking given unilaterally by a state with the intent of creating binding legal obligations for itself.",
       "term": "Unilateral declaration",
 
@@ -27593,21 +26769,13 @@
     },
     {
       "definition": "This Convention is the culmination of the work by the United Nations Commission on International Trade Law (UNCTRAL). The Convention was approved at a diplomatic conference in Vienna in 1980. Since that time the Convention has been adopted and ratified in over seventy-eight states including the majority of trading nations. The Convention has been adopted and ratified in Canada and the respective Provinces. The Convention applies to all contracts of sale of goods between parties whose places of business are in different states. However, the Convention excludes goods bought for personal, family, or household use. The Convention also provides for individual parties to contract out or vary the functioning of the Convention.",
-      "term": "United Nations Convention on Contracts for the International Sale of Goods",
+      "term": "UN Convention on Contracts for the International Sale of Goods (CISG)",
 
       "uniqueID": "032817n1567",
       "source": {
         "url": "https:\/\/www.irwinlaw.com\/titles\/law-equitable-remedies-2e",
         "name": "The Law of Equitable Remedies 2\/e - Jeffrey Berryman"
       }
-    },
-    {
-      "related_terms": [
-        "Security Council"
-      ],
-      "term": "United Nations Security Council",
-
-      "uniqueID": "032817n1568"
     },
     {
       "definition": "Human rights protections that have been articulated at a universal or global level.",
@@ -27705,14 +26873,6 @@
       "uniqueID": "032817n1574"
     },
     {
-      "related_terms": [
-        "Unreasonableness"
-      ],
-      "term": "Unreasonableness simpliciter",
-
-      "uniqueID": "032817n1575"
-    },
-    {
       "definition": "A decision of a judge that has not been published in a print case law reporter. Most decisions in Canada are in fact unreported and are only available either from the original court file or from CanLII or a commercial online legal database, such as LexisNexis Quicklaw or WestlawNext Canada.",
       "term": "Unreported decision",
 
@@ -27726,8 +26886,8 @@
       "uniqueID": "032817n1576"
     },
     {
-      "definition": "A URL (pronounced either \u201cyou are ell\u201d) or an URL (pronounced \u201cearl\u201d) is a Web site's Web address (i.e. www.irwinlaw.com).",
-      "term": "URL",
+      "definition": "A URL (pronounced either \u201cyou are ell\u201d) or an URL (pronounced \u201cearl\u201d) is a Web site's Web address (i.e. www.pocketlaw.org).",
+      "term": "Uniform Resource Locator (URL)",
 
       "tags": [
         "Communication",
@@ -27788,14 +26948,6 @@
         "name": "Public International Law 2\/e - John H. Currie"
       },
       "uniqueID": "032817n1580"
-    },
-    {
-      "related_terms": [
-        "Usefulness; utility"
-      ],
-      "term": "Utility",
-
-      "uniqueID": "032817n1581"
     },
     {
       "definition": "An unacceptable lack of precision in legislation that leaves its meaning and application so uncertain as to unduly threaten a protected right or freedom.",
@@ -27973,6 +27125,7 @@
       "related_terms": [
         "Endangered species"
       ],
+      "definition": "Animals or plants threatened with extinction.",
       "term": "Vulnerable species",
 
       "uniqueID": "032817n1594",
@@ -28009,14 +27162,6 @@
         "name": "The Law of Torts, 5\/e - Philip H. Osborne"
       },
       "uniqueID": "032817n1597"
-    },
-    {
-      "related_terms": [
-        "WIPO Copyright Treaty"
-      ],
-      "term": "WCT",
-
-      "uniqueID": "032817n1598"
     },
     {
       "definition": "Tax imposed either annually (annual net wealth tax) or at death (gift and inheritance or estate tax) on the net value of assets. Property taxes levied by provincial or municipal governments are a form of wealth taxation in Canada. With the general exception of a taxpayer's principal residence, capital gains tax is assessed on the increase in value of assets upon the death of a taxpayer.",
@@ -28099,7 +27244,7 @@
     },
     {
       "definition": "World Intellectual Property Organization. This UN agency, headquartered in Geneva, administers most of the international intellectual property treaties (e.g., Berne) and holds periodic intergovernmental conferences to revise them. It is a long-time promoter of the view that extensions of intellectual property rights make the world a better place (at least for some).",
-      "term": "WIPO",
+      "term": "World Intellectual Property Organization (WIPO)",
 
       "tags": [
         "Intellectual Property"
@@ -28118,7 +27263,7 @@
     },
     {
       "definition": "The WIPO Copyright Treaty, signed on 20 December 1996 at Geneva by about fifty countries at the same time as the WIPO Performances and Phonograms Treaty, this treaty is a Berne-plus Convention that seeks to bring copyright into the digital age. Among other measures, states must prevent circumvention of encrypted information and the removal of digital tracking measures, although the implementation of these obligations in 1998 by the United States in its Digital Millennium Copyright Act indicates that some decryption and circumvention is legitimate (e.g., for research, police, or individual privacy reasons). Canada's proposed copyright amendments of 2010 (Bill C-32) aim to bring Canadian law in line with this treaty.",
-      "term": "WIPO Copyright Treaty",
+      "term": "WIPO Copyright Treaty (WCT)",
 
       "tags": [
         "Intellectual Property"
@@ -28209,16 +27354,8 @@
       "uniqueID": "032817n1612"
     },
     {
-      "related_terms": [
-        "WIPO"
-      ],
-      "term": "World Intellectual Property Organization",
-
-      "uniqueID": "032817n1613"
-    },
-    {
       "definition": "The WTO Agreement of 1994, a successor of GATT, contains in its TRIPS Agreement extensive provisions binding on WTO members relating to intellectual property rights. Breaches of this treaty can lead to trade sanctions. Implemented by Canada, effective 1 January 1996, by the World Trade Organization Agreement Implementation Act, S.C. 1994, c. 57.",
-      "term": "World Trade Organization",
+      "term": "World Trade Organization (WTO)",
 
       "tags": [
         "Intellectual Property"
@@ -28232,14 +27369,6 @@
         "name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
       },
       "uniqueID": "032817n1614"
-    },
-    {
-      "related_terms": [
-        "WIPO Performances and Phonograms Treaty"
-      ],
-      "term": "WPPT",
-
-      "uniqueID": "032817n1615"
     },
     {
       "definition": "Legal claim advanced against an employer by a dismissed employee who is seeking damages for loss of employment.",
@@ -28256,14 +27385,6 @@
         "name": "Employment and Labour Law Toolbox - Paul Wearing"
       },
       "uniqueID": "032817n1617"
-    },
-    {
-      "related_terms": [
-        "World Trade Organization"
-      ],
-      "term": "WTO",
-
-      "uniqueID": "032817n1618"
     },
     {
       "definition": "Any chemical, exclusive of a normal diet, that can alter the body's physiology.",
@@ -28332,22 +27453,6 @@
         "name": "Youth Criminal Justice Law, 3\/e - Nicholas Bala and Sanjeev Anand"
       },
       "uniqueID": "032817n1622"
-    },
-    {
-      "related_terms": [
-        "Young person"
-      ],
-      "term": "Youth",
-
-      "uniqueID": "032817n1623"
-    },
-    {
-      "related_terms": [
-        "Youth justice court"
-      ],
-      "term": "Youth court",
-
-      "uniqueID": "032817n1624"
     },
     {
       "definition": "A federal statute that establishes how young people will be treated, tried, and sentenced for criminal offences. The Act applies to suspects who are over twelve but less than eighteen years of age. In certain limited circumstances involving very serious offences, those who are aged fourteen or older may be transferred to adult court. Among other things, the Youth Criminal Justice Act dramatically limits the maximum punishment that might otherwise apply for an offence, and it creates special record-keeping provisions to protect young offenders from the adverse publicity and consequences of having a criminal record.",
@@ -29607,7 +28712,7 @@
       }
     },
     {
-      "definition": "An order of a court to either do a certain thing or to appear before it to answer charges. The citation is typically used for lesser offences (such as traffic violations) because it relies on the good faith of the defendant to appear as requested, as opposed to an arrest or bail.",
+      "definition": "1. An order of a court to either do a certain thing or to appear before it to answer charges. The citation is typically used for lesser offences (such as traffic violations) because it relies on the good faith of the defendant to appear as requested, as opposed to an arrest or bail.\n\n2. A reference to a legal source such as a case or statute.",
       "term": "Citation ",
       "tags": [
         "Judges and Courts"
@@ -31873,15 +30978,6 @@
         "Property Law"
       ],
       "uniqueID": "032817n1940",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "The act of one party protecting or guaranteeing protection, or freedom from liability, of a third party for actions of that party.",
-      "term": "Indemnity ",
-      "uniqueID": "032817n1941",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -35160,7 +34256,7 @@
     },
     {
       "definition": "Either a word, phrase, symbol or design, or combination of words, phrases, symbols or designs, which identifies and distinguishes the source of the goods or services of one party from those of others. A service mark is the same as a trademark except that it identifies and distinguishes the source of a service rather than a product. Normally, a mark for goods appears on the product or on its packaging, while a service mark appears in advertising for the services.",
-      "term": "Trademark",
+      "term": "Trademark or trade-mark",
       "tags": [
         "Intellectual Property"
       ],

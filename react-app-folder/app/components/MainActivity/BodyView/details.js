@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {AppRegistry, Image, Text, TextInput, View, StyleSheet, Alert, TouchableOpacity, Linking, AsyncStorage} from 'react-native';
+import {AppRegistry, Image, Text, TextInput, View, StyleSheet, ScrollView, Alert, TouchableOpacity, Linking, AsyncStorage} from 'react-native';
 
 
 export default class Details extends Component{
@@ -149,11 +149,19 @@ export default class Details extends Component{
 
         return(
         <View style={styles.container}>
-            <View style={styles.detail_container}>
+            <ScrollView style={styles.detail_container}>
                 <View>
                     {this.state.detailTerm != null ?
                         <View style={styles.term_bar}>
-                            <Text style={styles.term}>{this.state.detailTerm.term}</Text>
+                            <View style={styles.term_see_view}>
+                                <Text style={styles.term}>{this.state.detailTerm.term}</Text>
+                                {relatedTermsVar &&
+                                    <View style={styles.seeAlsoView}>
+                                        <Text style={styles.rowTextSeeAlso}>see also: </Text>
+                                        <Text style={styles.seeAlsoName}>{relatedTerms}</Text>
+                                    </View>
+                                }
+                            </View>
                                 {this.state.isBookmarked ?
                                     <TouchableOpacity  onPress={this.handleBookmarking.bind(this)}>
                                         <Image style={styles.bookmark_button} source={require('./res/bookmark_check.png')}/>
@@ -167,12 +175,6 @@ export default class Details extends Component{
                         </View>
                     :
                         <Text/>
-                    }
-                    {relatedTermsVar &&
-                        <View style={styles.seeAlsoView}>
-                            <Text style={styles.rowTextSeeAlso}>see also: </Text>
-                            <Text style={styles.seeAlsoName}>{relatedTerms}</Text>
-                        </View>
                     }
                 </View>
                 <View>
@@ -192,7 +194,7 @@ export default class Details extends Component{
                         </View>
                     }
                 </View>
-            </View>
+            </ScrollView>
         </View>
         );
     }
@@ -200,9 +202,13 @@ export default class Details extends Component{
 
 const styles = StyleSheet.create({
     detail_container: {
-        padding: 8,
+        padding: 0,
         elevation: 2,
         backgroundColor: '#f4f4f4'
+    },
+
+    term_see_view: {
+        flex: 1
     },
 
     style_none: {
@@ -214,11 +220,12 @@ const styles = StyleSheet.create({
     },
 
     term: {
+        paddingTop: 8,
+        paddingLeft: 8,
         fontWeight: 'bold',
         color: '#46474c',
         fontSize: 22,
         marginBottom: 2,
-        flex: 1
     },
 
     bookmark_button: {
@@ -228,12 +235,12 @@ const styles = StyleSheet.create({
     },
 
     definition: {
-        marginLeft: 4
+        paddingLeft: 12
     },
 
     sourceView: {
         marginRight: 8,
-        marginBottom: 4,
+        marginBottom: 16,
         flexDirection:'column',
         justifyContent:'flex-end'
     },
@@ -257,6 +264,7 @@ const styles = StyleSheet.create({
 
     seeAlsoView: {
         marginLeft: 16,
+        marginRight: 32,
         flexDirection:'row'
     },
 

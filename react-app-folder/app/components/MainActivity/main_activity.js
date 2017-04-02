@@ -22,7 +22,7 @@ export default class MainActivity extends Component{
 
     handleVisible(newVisible) {
         this.state.categorySet = ''
-
+        Keyboard.dismiss();
         //TODO: clearly this can be simplify to simple making isVisible == newVisible...
         if (newVisible == 'categories') {
             this.setState({isVisible: 'categories'});
