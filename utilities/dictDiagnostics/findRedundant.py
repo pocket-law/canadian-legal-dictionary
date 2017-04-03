@@ -8,7 +8,10 @@ with open('dict.json') as json_data:
     print('Redundants:')
     	
     for term in data['terms']:
-		if term['term'] not in termsList:
-		    termsList.append(term['term'])
+		mutate = term['term']
+		mutate = mutate.replace(" ", "")
+		mutate = mutate.upper()
+		if mutate not in termsList:
+		    termsList.append(mutate)
 		else:
 		    print(term['term'])

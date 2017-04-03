@@ -1,6 +1,6 @@
 {
   "title": "Canadian Legal Dictionary",
-  "version": "3",
+  "version": "4",
   "terms": [
 
       {
@@ -22,18 +22,6 @@
      ""
    ],
    "uniqueID": "040117n2",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "A legal responsibility or financial obligation.",
-   "term": "Liability",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n5",
    "source": {
      "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
      "name": "Ministry of the Attorney General (Ont)"
@@ -94,18 +82,6 @@
      ""
    ],
    "uniqueID": "040117n10",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "A person is held liable for the harm caused by another person. For example, an employer can be held vicariously liable for actions of employees.",
-   "term": "Vicarious Liability",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n11",
    "source": {
      "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
      "name": "Ministry of the Attorney General (Ont)"
@@ -252,7 +228,7 @@
    }
  },
  {
-   "definition": "Evidence that strengthens and confirms other evidence.",
+   "definition": "Evidence that strengthens and confirms other evidence already presented.",
    "term": "Corroborating Evidence",
    "tags": [
      ""
@@ -294,18 +270,6 @@
      ""
    ],
    "uniqueID": "040117n33",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "Opinion evidence given by a person whom the court finds to be qualified to act as an expert.",
-   "term": "Expert Evidence",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n34",
    "source": {
      "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
      "name": "Ministry of the Attorney General (Ont)"
@@ -408,18 +372,6 @@
    }
  },
  {
-   "definition": "A process where a neutral third party, selected by the disputing parties, makes a decision on the issue in dispute.",
-   "term": "Arbitration",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n52",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
    "definition": "A process where the parties and lawyers formally agree to negotiate a resolution of the issues in dispute through a series of meetings, without going to court.",
    "term": "Collaborative Family Law",
    "tags": [
@@ -480,18 +432,6 @@
    }
  },
  {
-   "definition": "A document that requires people to appear in court to answer charges against them in a criminal case.",
-   "term": "Appearance Notice",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n60",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
    "definition": "1. To take or seize.\n\n2. In child protection cass, to remove a child from his or her parents or the person having care of the child and take him or her to a place of safety. Child protection workers and police have the authority to do this.",
    "term": "Apprehend",
    "tags": [
@@ -543,7 +483,7 @@
    "definition": "The determination of the rate or amount of something. For example, damages or a fine imposed.",
    "term": "Assessment",
    "tags": [
-     ""
+     "Property Law"
    ],
    "uniqueID": "040117n71",
    "source": {
@@ -612,18 +552,6 @@
    }
  },
  {
-   "definition": "Insolvent and involved in a proceeding to become bankrupt or against whom a creditor has started a proceeding to put them into bankruptcy. Can be used to refer to apply to the person in this position.",
-   "term": "Bankrupt",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n79",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
    "definition": "A legal process by which an insolvent person is relieved of certain debts, usually with conditions.",
    "term": "Bankruptcy",
    "tags": [
@@ -642,18 +570,6 @@
      ""
    ],
    "uniqueID": "040117n81",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "Popularly used to mean lawyers who appear in court to argue cases. In Canada (except Quebec), all lawyers are barristers and solicitors. In England and other countries, historically barristers attended court while solicitors did not.",
-   "term": "Barrister",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n83",
    "source": {
      "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
      "name": "Ministry of the Attorney General (Ont)"
@@ -756,42 +672,6 @@
    }
  },
  {
-   "definition": "The degree of proof needed in a proceeding for a party to prove a disputed assertion or charge.",
-   "term": "Burden Of Proof",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n96",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "This is the standard of proof used in civil and family matters.",
-   "term": "Balance Of Probabilities",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n97",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "This is the standard of proof used in criminal matters. This higher standard of proof reflects the potentially serious consequences (loss of liberty) in criminal cases.",
-   "term": "Beyond A Reasonable Doubt",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n98",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
    "definition": "Bench warrant days measure the amount of time it takes for a charge to be brought back before the courts following the issuance of a bench warrant. If an accused has fled the jurisdiction, the bench warrant days distort the data, as the delay of proceedings would be caused by the absence of the accused rather than any inherent problems in the court system.",
    "term": "Bench Warrant Days",
    "tags": [
@@ -843,7 +723,9 @@
    "definition": "Judge-made law and legal decisions from previous cases that form precedents for future cases. Depending on what level of court, case law can be binding or just persuasive.",
    "term": "Case Law",
    "tags": [
-     ""
+     "Legal Theory",
+     "Legal History",
+     "Common Law"
    ],
    "uniqueID": "040117n103",
    "source": {
@@ -852,7 +734,7 @@
    }
  },
  {
-   "definition": "A process that gives parties in dispute scheduled opportunities to discuss the case in order to streamline proceedings.",
+   "definition": "1. A process that gives parties in dispute scheduled opportunities to discuss the case in order to streamline proceedings.\n\n2. A model of service delivery for mentally ill individuals. The case manager is community-based, focuses on the client's needs, and follows this individual usually on a long-term basis.",
    "term": "Case Management",
    "tags": [
      ""
@@ -1135,7 +1017,7 @@
    }
  },
  {
-   "definition": "(1)The law of civil or private rights, as distinct from criminal law. (2) A system of private legal rights based on Roman law and usually expressed in a Code, for example the Civil Code of Quebec.",
+   "definition": "1. The law of civil or private rights, as distinct from criminal law.\n\n2. A system of private legal rights based on Roman law and usually expressed in a Code, for example the Civil Code of Quebec.",
    "term": "Civil Law",
    "tags": [
      ""
@@ -1153,18 +1035,6 @@
      ""
    ],
    "uniqueID": "040117n128",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "The method of bringing an action by one person against another.",
-   "term": "Statement Of Claim",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n129",
    "source": {
      "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
      "name": "Ministry of the Attorney General (Ont)"
@@ -1375,18 +1245,6 @@
    }
  },
  {
-   "definition": "Conduct that defies the authority or dignity of a court, including disobeying a court order.",
-   "term": "Contempt Of Court",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n149",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
    "definition": "To oppose, resist, disagree.",
    "term": "Contest",
    "tags": [
@@ -1411,7 +1269,7 @@
    }
  },
  {
-   "definition": "An oral or written agreement between parties in which the parties make mutual promises to each other. The parties must be at least 18 years of age, and be mentally capable of entering into such an agreement.",
+   "definition": "An oral or written agreement between parties in which the parties make mutual promises to each other. The parties must be at least 18 years of age, and be mentally capable of entering into such an agreement. Contracts in common law jurisdictions require offer, acceptance, and consideration.",
    "term": "Contract",
    "tags": [
      ""
@@ -1627,18 +1485,6 @@
    }
  },
  {
-   "definition": "Documentation of criminal conviction(s) imposed on a person.",
-   "term": "Criminal Record",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n173",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
    "definition": "1. The government. (Cabinet ministers and public servants, but not the Legislature or judges.)\n\n2. In criminal law, the term refers to the government or state, or prosecution team, in youth justice court or adult criminal cases. In some contexts, the term \u201cCrown\u201d refers to the lawyer who represents the Crown in court; this person may also be referred to as the Crown attorney or Crown prosecutor.",
    "term": "Crown",
    "tags": [
@@ -1651,7 +1497,7 @@
    }
  },
  {
-   "definition": "A lawyer who acts as an agent of the Attorney General in civil lawsuits; a lawyer who prosecutes criminal matters on behalf of the Crown.",
+   "definition": "1. A lawyer who acts as an agent of the Attorney General in civil lawsuits.\n\n2. A lawyer who prosecutes criminal matters on behalf of the Crown.",
    "term": "Crown Attorney",
    "tags": [
      ""
@@ -1681,18 +1527,6 @@
      ""
    ],
    "uniqueID": "040117n177",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "The children live primarily with one parent and the other parent spends regular time with the children. However, the parents jointly make decisions about the children.",
-   "term": "Joint Custody",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n179",
    "source": {
      "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
      "name": "Ministry of the Attorney General (Ont)"
@@ -1819,18 +1653,6 @@
    }
  },
  {
-   "definition": "A person who owes money.",
-   "term": "Debtor",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n194",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
    "definition": "A defendant or accused person's reason(s) why a plaintiff or a prosecutor does not have a valid case.",
    "term": "Defence",
    "tags": [
@@ -1897,18 +1719,6 @@
      ""
    ],
    "uniqueID": "040117n201",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "An affidavit or statement made under oath or affirmation.",
-   "term": "Deposition",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n202",
    "source": {
      "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
      "name": "Ministry of the Attorney General (Ont)"
@@ -2011,7 +1821,7 @@
    }
  },
  {
-   "definition": "(1) A list of cases to be heard in a particular court room during that day. This list may be referred to as the \"case event list\". (2) A record of the time a lawyer spent on a particular matter.",
+   "definition": "1. A list of cases to be heard in a particular court room during that day. This list may be referred to as the \"case event list\". \n\n2. A record of the time a lawyer spent on a particular matter.",
    "term": "Docket",
    "tags": [
      ""
@@ -2227,18 +2037,6 @@
    }
  },
  {
-   "definition": "In civil proceedings, a process by which the parties to an action question one another, or another person, under oath or affirmation on the facts and issues. A record is produced of the questions and answers given. The term \"questioning\" is used in family law cases.",
-   "term": "Examination For Discovery",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n234",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
    "definition": "In family law cases, the property that is excluded from the calculation of a married spouse's net family property.",
    "term": "Excluded Property",
    "tags": [
@@ -2269,18 +2067,6 @@
      ""
    ],
    "uniqueID": "040117n237",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "A document or object admitted as evidence in court.",
-   "term": "Exhibit",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n238",
    "source": {
      "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
      "name": "Ministry of the Attorney General (Ont)"
@@ -2419,18 +2205,6 @@
    }
  },
  {
-   "definition": "A person who has a legal obligation to act in good faith for the benefit of another person, for example a trustee. Describes the nature of the duty that such a person owes to the beneficiary.",
-   "term": "Fiduciary",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n251",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
    "definition": "Forms that set out a person's income, expenses, property, debts and liabilities.",
    "term": "Financial Statement",
    "tags": [
@@ -2551,7 +2325,7 @@
    }
  },
  {
-   "definition": "Category of criminal charges for killing someone, including 1st and 2nd degree murder, manslaughter, and infanticide.",
+   "definition": "Category of criminal charges for killing someone, including 1st and 2nd degree murder, manslaughter, and infanticide. Can be by act or omission.",
    "term": "Homicide",
    "tags": [
      ""
@@ -2593,18 +2367,6 @@
      ""
    ],
    "uniqueID": "040117n267",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "Private\/closed; said of hearings that are not open to the public or the media.",
-   "term": "In Camera",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n268",
    "source": {
      "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
      "name": "Ministry of the Attorney General (Ont)"
@@ -2654,18 +2416,6 @@
      ""
    ],
    "uniqueID": "040117n274",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "A person who owes at least $1000. to creditors and is unable to pay his or her obligations as they come due.",
-   "term": "Insolvent",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n275",
    "source": {
      "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
      "name": "Ministry of the Attorney General (Ont)"
@@ -2936,36 +2686,12 @@
    }
  },
  {
-   "definition": "A person licensed through the Law Society to practice law.",
-   "term": "Lawyer",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n300",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
    "definition": "Permission of the court.",
    "term": "Leave",
    "tags": [
      ""
    ],
    "uniqueID": "040117n301",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "Legal advice and services mainly funded by government to assist those who are financially unable to retain a lawyer privately. Legal Aid Ontario administers Ontario's legal aid program, which includes legal aid clinics, duty counsel, and certificates for private lawyers.",
-   "term": "Legal Aid",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n302",
    "source": {
      "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
      "name": "Ministry of the Attorney General (Ont)"
@@ -3050,18 +2776,6 @@
      ""
    ],
    "uniqueID": "040117n310",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "Latin term for \"guilty mind.\" The intent to commit the offence.",
-   "term": "Mens Rea",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n311",
    "source": {
      "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
      "name": "Ministry of the Attorney General (Ont)"
@@ -3512,18 +3226,6 @@
    }
  },
  {
-   "definition": "In criminal law, an order to have the accused treated for mental health problems.",
-   "term": "Treatment Order",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n353",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
    "definition": "Provincial statute that makes parents financially responsible for damages caused by their children.",
    "term": "Parental Responsibility Act, 2000",
    "tags": [
@@ -3620,18 +3322,6 @@
    }
  },
  {
-   "definition": "A police officer or other official who has sworn to uphold the law.",
-   "term": "Peace Officer",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n363",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
    "definition": "An intentional lie given under oath or affirmation, either in person or in writing. It is a criminal offence.",
    "term": "Perjury",
    "tags": [
@@ -3716,18 +3406,6 @@
    }
  },
  {
-   "definition": "The procedure conducted by a provincial court to determine whether the Crown has sufficient evidence for a trial of the accused. At the conclusion of the inquiry, the accused will either be discharged or ordered to stand trial (also referred to as committed for trial).",
-   "term": "Preliminary Inquiry",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n373",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
    "definition": "The remedies of certiorari, habeas corpus, mandamus, prohibition and quo warranto. They are also known as extraordinary remedies.",
    "term": "Prerogative Writs",
    "tags": [
@@ -3740,48 +3418,12 @@
    }
  },
  {
-   "definition": "A remedy available to any person detained or imprisoned, not to hear and determine the case upon the evidence, but to immediately and in a summary way test the validity of the person's detention or imprisonment.",
-   "term": "Habeas Corpus",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n376",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
    "definition": "A remedy used by a superior court to prohibit a lower court or tribunal from exercising or continuing to exercise an authority it does not have.",
    "term": "Prohibition",
    "tags": [
      ""
    ],
    "uniqueID": "040117n378",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "A remedy used to challenge a person's entitlement to a public office that he or she purports to occupy and exercise.",
-   "term": "Quo Warranto",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n379",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "A report prepared before sentencing an offender. It contains information about the offender's history that is used in assisting the court in passing sentence.",
-   "term": "Pre-Sentence Report",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n380",
    "source": {
      "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
      "name": "Ministry of the Attorney General (Ont)"
@@ -3836,7 +3478,7 @@
    }
  },
  {
-   "definition": "Used to describe land and anything attached to the land.",
+   "definition": "Used to describe land and anything immovable or attached to the land.",
    "term": "Real Property",
    "tags": [
      ""
@@ -4114,18 +3756,6 @@
    }
  },
  {
-   "definition": "To cancel.",
-   "term": "Rescind",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n409",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
    "definition": "When the judge postpones making a decision to research, study the law, or review the evidence presented during the proceeding.",
    "term": "Reserved Judgment",
    "tags": [
@@ -4246,18 +3876,6 @@
    }
  },
  {
-   "definition": "Money or other valuables that may be required to be paid into court or to another party.",
-   "term": "Security",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n420",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
    "definition": "A court order that a party pay money into court to ensure that money will be available to pay for costs ordered by the court, if the party is not successful in pursuing his or her claims.",
    "term": "Security For Costs",
    "tags": [
@@ -4276,30 +3894,6 @@
      ""
    ],
    "uniqueID": "040117n422",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "The penalty imposed on the finding of guilt.",
-   "term": "Sentence",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n423",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "Two or more terms of imprisonment served simultaneously.",
-   "term": "Concurrent Sentence",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n424",
    "source": {
      "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
      "name": "Ministry of the Attorney General (Ont)"
@@ -4401,18 +3995,6 @@
      " Unjust enrichment"
    ],
    "uniqueID": "040117n432",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "The release of the convicted person on certain conditions contained in a probation order.",
-   "term": "Suspended Sentence",
-   "tags": [
-     "Criminal Law"
-   ],
-   "uniqueID": "040117n433",
    "source": {
      "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
      "name": "Ministry of the Attorney General (Ont)"
@@ -4545,18 +4127,6 @@
      ""
    ],
    "uniqueID": "040117n446",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "An order suspending a legal proceeding.",
-   "term": "Stay Of Proceedings",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n447",
    "source": {
      "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
      "name": "Ministry of the Attorney General (Ont)"
@@ -4803,48 +4373,12 @@
    }
  },
  {
-   "definition": "Legal rights that apply where one person holds and deals with property on behalf of or for the benefit of another person.",
-   "term": "Trust",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n469",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
    "definition": "A type of trust that may arise where one person contributes to the worth of another person's property. The court may find that it is a constructive trust if the property owner is unjustly enriched and the contributor receives no benefit. The effect of a constructive trust is that the owner of the property may have to hold the property in trust for the contributor.",
    "term": "Constructive Trust",
    "tags": [
      ""
    ],
    "uniqueID": "040117n470",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "An action taken with the intent of creating a trust, where property is given from one person to another to control and act as trustee.",
-   "term": "Resulting Trust",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n471",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "A person who holds and manages assets in trust for someone else.",
-   "term": "Trustee",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n472",
    "source": {
      "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
      "name": "Ministry of the Attorney General (Ont)"
@@ -4899,18 +4433,6 @@
    }
  },
  {
-   "definition": "A benefit obtained by one person at the expense of another, without a legal justification for it.",
-   "term": "Unjust Enrichment",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n478",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
    "definition": "Illegal.",
    "term": "Unlawful",
    "tags": [
@@ -4959,18 +4481,6 @@
    }
  },
  {
-   "definition": "A judge or jury's decision in a trial.",
-   "term": "Verdict",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n483",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
    "definition": "Someone who persistently, and without reasonable grounds, brings proceedings in any court, or conducts a proceeding in a troubling manner. Once declared a vexatious litigant by a court, that person cannot start or continue any civil legal proceeding without the court's agreement.",
    "term": "Vexatious Litigant",
    "tags": [
@@ -5001,18 +4511,6 @@
      ""
    ],
    "uniqueID": "040117n486",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "A trial within a trial. A procedure to determine the admissibility of certain evidence in advance of the evidence being admitted.",
-   "term": "Voir Dire",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n487",
    "source": {
      "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
      "name": "Ministry of the Attorney General (Ont)"
@@ -5133,18 +4631,6 @@
      ""
    ],
    "uniqueID": "040117n498",
-   "source": {
-     "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
-     "name": "Ministry of the Attorney General (Ont)"
-   }
- },
- {
-   "definition": "A will written wholly in the handwriting of the person making it.",
-   "term": "Holograph Will",
-   "tags": [
-     ""
-   ],
-   "uniqueID": "040117n499",
    "source": {
      "url": "https:\/\/www.attorneygeneral.jus.gov.on.ca\/english\/glossary",
      "name": "Ministry of the Attorney General (Ont)"
@@ -5503,21 +4989,6 @@
       "uniqueID": "032817n12"
     },
     {
-      "definition": "An offence for which the accused is guilty once it is proven that the prohibited act was committed and regardless of the existence of any fault, including negligence.",
-      "term": "Absolute liability",
-      "tags": [
-        "Criminal Law"
-      ],
-      "related_terms": [
-        "Actus reus"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/charter-rights-and-freedoms-6e",
-        "name": "The Charter of Rights and Freedoms 6\/e - Robert J. Sharpe and Kent Roach"
-      },
-      "uniqueID": "032817n13"
-    },
-    {
       "definition": "A theory of state immunity that does not differentiate between commercial (or \u201cprivate\u201d) and sovereign acts of states in extending immunity to them from the judicial process of foreign domestic courts.",
       "term": "Absolute state immunity",
       "tags": [
@@ -5704,18 +5175,6 @@
       }
     },
     {
-      "definition": "Tacit or implied acceptance or recognition of another state's claim or right, often in relation to territory.",
-      "term": "Acquiescence",
-      "tags": [
-        "International Law"
-      ],
-      "uniqueID": "032817n28",
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/public-international-law-2e",
-        "name": "Public International Law 2\/e - John H. Currie"
-      }
-    },
-    {
       "definition": "A finding of not guilty in a criminal case.",
       "term": "Acquittal",
       "tags": [
@@ -5822,22 +5281,6 @@
         "name": "The Law of Torts, 5\/e - Philip H. Osborne"
       },
       "uniqueID": "032817n38"
-    },
-    {
-      "definition": "The prohibited act in a criminal or regulatory offence. Proof of the actus reus may also include the requirement that the prohibited act be voluntarily and consciously committed by the accused.",
-      "term": "Actus reus",
-      "tags": [
-        "Criminal Law"
-      ],
-      "related_terms": [
-        "Accused",
-        " Prohibited act"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/criminal-law-6e",
-        "name": "Criminal Law, 6\/e - Kent Roach"
-      },
-      "uniqueID": "032817n39"
     },
     {
       "definition": "Change in use of an older building, particularly to preserve buildings of heritage significance.",
@@ -6903,20 +6346,6 @@
       "uniqueID": "032817n115"
     },
     {
-      "definition": "Arm's length generally refers to the proximity of the relationship between taxpayers. Persons who are related to each other are considered to be non-arm's length with each other. An arm's-length price is a price charged in similar transactions between unrelated parties.",
-      "term": "Arm's length",
-
-      "tags": [
-        "Corporate and Commercial Law",
-        " Taxation"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/income-tax-law-2e",
-        "name": "Income Tax Law 2\/e - Vern Krishna"
-      },
-      "uniqueID": "032817n116"
-    },
-    {
       "definition": "A use of force intentionally directed at a state which, by virtue of its scale and effects, is of such gravity as to justify a responsive use of force by that state in self-defence; contrast with mere frontier incident.",
       "term": "Armed attack",
 
@@ -7087,23 +6516,6 @@
       }
     },
     {
-      "definition": "\u201cHear the other side.\u201d The first limb of the common law rules of natural justice or procedural fairness. It specifies the content of the hearing.",
-      "term": "Audi alteram partem",
-      "tags": [
-        "Administrative Law"
-      ],
-      "related_terms": [
-        "Common law",
-        " Natural justice",
-        " Procedural fairness"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/administrative-law",
-        "name": "Administrative Law - David Mullan"
-      },
-      "uniqueID": "032817n134"
-    },
-    {
       "definition": "The chartered accountant or firm of chartered accountants appointed by the shareholders at each annual meeting to audit the financial statements of the corporation. An auditor must examine and report to shareholders on the financial statements.",
       "term": "Auditor",
       "tags": [
@@ -7216,43 +6628,8 @@
       "uniqueID": "032817n141"
     },
     {
-      "definition": "A plea by an accused under section 607 of the Criminal Code claiming that he was previously charged with the same offence and was acquitted.",
-      "term": "Autrefois acquit",
-
-      "tags": [
-        "Criminal Law"
-      ],
-      "related_terms": [
-        "Autrefois convict",
-        " Plea"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/criminal-procedure-3e",
-        "name": "Criminal Procedure 3\/e - Steve Coughlan"
-      },
-      "uniqueID": "032817n142"
-    },
-    {
-      "definition": "A plea by an accused under section 607 of the Criminal Code claiming that she was previously charged with the same offence and was convicted.",
-      "term": "Autrefois convict",
-
-      "tags": [
-        "Criminal Law"
-      ],
-      "related_terms": [
-        "Autrefois acquit",
-        " Plea"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/criminal-procedure-3e",
-        "name": "Criminal Procedure 3\/e - Steve Coughlan"
-      },
-      "uniqueID": "032817n143"
-    },
-    {
       "definition": "The ratio of taxes paid to the tax base. Accordingly, the average income tax rate is the ratio of income tax paid to income. For example, someone who pays $10,000 in income tax on a taxable income of $50,000 would have an average tax rate of 20 percent.",
       "term": "Average tax rate",
-
       "tags": [
         "Taxation"
       ],
@@ -7261,21 +6638,6 @@
         "name": "Income Tax Law 2\/e - Vern Krishna"
       },
       "uniqueID": "032817n144"
-    },
-    {
-      "definition": "Corrupt or special motives, as opposed to acting in the public interest.",
-      "term": "Bad faith",
-
-      "tags": [
-        "Housing & Urban Development",
-        " Land Use",
-        " Property Law"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/land-use-planning",
-        "name": "Land-Use Planning - Howard Epstein"
-      },
-      "uniqueID": "032817n145"
     },
     {
       "definition": "A term used in hunting to refer to the maximum number of individual animals of a given species that a person may lawfully kill.",
@@ -7408,7 +6770,7 @@
       "uniqueID": "032817n153"
     },
     {
-      "definition": "A standard of proof satisfying a judge or jury that the facts at issue probably occurred as alleged. Sometimes referred to as a preponderance of the evidence or a 51 percent likelihood of occurrence.",
+      "definition": "A standard of proof satisfying a judge or jury that the facts at issue probably occurred as alleged. Sometimes referred to as a preponderance of the evidence or a 51 percent likelihood of occurrence. The standard used in civil and family matters.",
       "term": "Balance of probabilities",
 
       "tags": [
@@ -7517,26 +6879,6 @@
         "name": "Land-Use Planning - Howard Epstein"
       },
       "uniqueID": "032817n161"
-    },
-    {
-      "definition": "A warrant ordered by the court concerning the non-appearance of an accused person or witness in court, which authorizes the subject's immediate arrest.",
-      "term": "Bench warrant",
-
-      "tags": [
-        "Criminal Law"
-      ],
-      "related_terms": [
-        "Arrest warrant",
-        " Contempt of court",
-        " Discretionary bench warrant",
-        " Indictment",
-        " Warrant"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/mental-health-courts",
-        "name": "Mental Health Courts - Richard D. Schneider, Hy Bloom and Mark Heerema"
-      },
-      "uniqueID": "032817n162"
     },
     {
       "definition": "The evidence here must be so complete and convincing that any reasonable doubts as to the guilt of the accused are erased from the minds of the judge or jury. This is the rigorous standard of proof that the Crown prosecutor is required to meet for each element of the offence in a criminal case.",
@@ -7797,20 +7139,6 @@
         "name": "Criminal Procedure 3\/e - Steve Coughlan"
       },
       "uniqueID": "032817n182"
-    },
-    {
-      "definition": "In good faith (Latin). A municipality is expected to act in good faith: see Congr\u00e9gation des t\u00e9moins de J\u00e9hovah de St-J\u00e9r\u00f4me-Lafontaine v Lafontaine (Village), 2004 SCC 48",
-      "term": "Bona fide",
-
-      "tags": [
-        "Administrative Law",
-        " Housing & Urban Development"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/land-use-planning",
-        "name": "Land-Use Planning - Howard Epstein"
-      },
-      "uniqueID": "032817n183"
     },
     {
       "definition": "Monetary or other benefit granted by a municipality; for example, a reduction in taxes or charges for services or in the price of land, or a conferral of development rights, such as density, beyond those permitted by the applicable zoning. Bonuses are usually prohibited by statute or tightly controlled: see Ontario Municipal Act, 2001, SO 2001, c 25, s 106; Friends of Lansdowne Inc v Ottawa (City), 2012 ONCA 273",
@@ -8083,26 +7411,6 @@
         "name": "The Lawyer's Guide to the Forensic Sciences -  Edited by Caitlin Pakosh"
       },
       "uniqueID": "032817n204"
-    },
-    {
-      "definition": "The obligation to produce evidence to prove facts necessary to establish a cause of action or a defence. It normally rests on the person who asserts a particular matter.",
-      "term": "Burden of proof",
-
-      "tags": [
-        "Criminal Law",
-        " Evidence",
-        " Torts"
-      ],
-      "related_terms": [
-        "Balance of probabilities",
-        " Beyond a reasonable doubt",
-        " Cause of action"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/law-torts-5e",
-        "name": "The Law of Torts, 5\/e - Philip H. Osborne"
-      },
-      "uniqueID": "032817n205"
     },
     {
       "definition": "One way in which a corporation establishes rules for its governance. They may be initiated either by shareholder proposal or by the directors. If a by-law is initiated and approved by the directors, it takes effect immediately, but must be approved by ordinary resolution at the next meeting of shareholders. The main purpose for which by-laws are used in practice is to set out the rules for conducting director and shareholder meetings and to designate and assign responsibilities of officers of the corporation. See CBCA, s. 103",
@@ -8428,20 +7736,6 @@
       "uniqueID": "032817n228"
     },
     {
-      "definition": "A model of service delivery for mentally ill individuals. The case manager is community-based, focuses on the client's needs, and follows this individual usually on a long-term basis.",
-      "term": "Case management",
-
-      "tags": [
-        "Health Law",
-        "Access to Justice"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/mental-health-courts",
-        "name": "Mental Health Courts - Richard D. Schneider, Hy Bloom and Mark Heerema"
-      },
-      "uniqueID": "032817n229"
-    },
-    {
       "definition": "Payment made to a level of government as an alternative to a dedication of land for public purposes, for example, as part of a subdivision development.",
       "term": "Cash in lieu",
 
@@ -8521,24 +7815,6 @@
         "name": "The Law of Torts, 5\/e - Philip H. Osborne"
       },
       "uniqueID": "032817n236"
-    },
-    {
-      "definition": "A factual situation, the existence of which entitles a person to bring legal proceedings against another person and secure a remedy.",
-      "term": "Cause of action",
-
-      "tags": [
-        "Civil Litigation",
-        " Torts"
-      ],
-      "related_terms": [
-        "Defendant",
-        " Plaintiff"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/law-torts-5e",
-        "name": "The Law of Torts, 5\/e - Philip H. Osborne"
-      },
-      "uniqueID": "032817n237"
     },
     {
       "definition": "A form of extrajudicial measure that involves a police officer or a prosecutor meeting with the youth, and often the parents, to warn the youth against further offending, and perhaps make a voluntary referral for counselling or support from some agency. A record is kept of the caution, as a future charge may be dealt with more formally, but record of a caution cannot be used in youth justice court proceedings. There is no legal distinction between a \u201cwarning\u201c and a \u201ccaution,\u201d but the term \u201cwarning\u201d generally refers to an informal caution, given by the investigating officer at the time of apprehension of a youth.",
@@ -8763,19 +8039,6 @@
       "uniqueID": "032817n256"
     },
     {
-      "definition": "All movable property; goods.",
-      "term": "Chattel",
-
-      "tags": [
-        "Torts"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/law-torts-5e",
-        "name": "The Law of Torts, 5\/e - Philip H. Osborne"
-      },
-      "uniqueID": "032817n257"
-    },
-    {
       "definition": "An officer of Parliament charged with overseeing the administration of federal elections.",
       "term": "Chief Electoral Officer",
 
@@ -8805,24 +8068,6 @@
         "name": "The Lawyer's Guide to the Forensic Sciences -  Edited by Caitlin Pakosh"
       },
       "uniqueID": "032817n260"
-    },
-    {
-      "definition": "A personal right incapable of possession but enforceable through legal action, such as a contractual right.",
-      "term": "Chose in action",
-
-      "tags": [
-        "Contract Law",
-        " Property Law",
-        " Torts"
-      ],
-      "related_terms": [
-        "Chose in possession"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/law-torts-5e",
-        "name": "The Law of Torts, 5\/e - Philip H. Osborne"
-      },
-      "uniqueID": "032817n261"
     },
     {
       "definition": "A thing that a person has actual possession and enjoyment of.",
@@ -8892,23 +8137,6 @@
       "uniqueID": "032817n268"
     },
     {
-      "definition": "A legal system in which private law is enacted by the legislature and is predominantly contained in a Civil Code. It is in contradistinction to the common law where the basis of private law is judge made. Quebec has a civil law tradition.",
-      "term": "Civil law",
-
-      "tags": [
-        "Civil Law",
-        " Constitutional Law"
-      ],
-      "related_terms": [
-        "Common law"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/charter-rights-and-freedoms-6e",
-        "name": "The Charter of Rights and Freedoms 6\/e - Robert J. Sharpe and Kent Roach"
-      },
-      "uniqueID": "032817n269"
-    },
-    {
       "definition": "The health-care system created and governed by provincial or territorial legislation",
       "term": "Civil mental health care system",
 
@@ -8963,19 +8191,6 @@
       "uniqueID": "032817n273"
     },
     {
-      "definition": "An action brought by one person as a representative of many persons with similar claims.",
-      "term": "Class action",
-
-      "tags": [
-        "Torts"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/law-torts-5e",
-        "name": "The Law of Torts, 5\/e - Philip H. Osborne"
-      },
-      "uniqueID": "032817n274"
-    },
-    {
       "definition": "A category of shares designated and given certain rights, privileges, restrictions, and conditions in a corporation's articles, such as dividend entitlements and voting rights.",
       "term": "Class of shares",
 
@@ -8992,22 +8207,6 @@
         "name": "The Law of Partnerships and Corporations 3\/e - J. Anthony VanDuzer"
       },
       "uniqueID": "032817n275"
-    },
-    {
-      "definition": "An equitable doctrine that purports to limit the availability of equitable relief where the applicant has been guilty of fraud or some other sharp practice in relation to the specific claim made against the defendant.",
-      "term": "Clean hands",
-
-      "tags": [
-        "Remedies"
-      ],
-      "related_terms": [
-        "Fraud"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/law-equitable-remedies-2e",
-        "name": "The Law of Equitable Remedies 2\/e - Jeffrey Berryman"
-      },
-      "uniqueID": "032817n276"
     },
     {
       "definition": "In connection with state succession, a rule by which a successor state generally does not inherit the prior treaty rights or obligations of a predecessor state.",
@@ -9562,7 +8761,6 @@
     {
       "definition": "A sentence that allows the convicted prisoner the privilege of simultaneously serving two or more sentences; the length of sentence being determined by the latest expiry date of the sentence imposed.",
       "term": "Concurrent sentence",
-
       "tags": [
         "Criminal Law"
       ],
@@ -9589,22 +8787,6 @@
         "name": "Criminal Law, 6\/e - Kent Roach"
       },
       "uniqueID": "032817n322"
-    },
-    {
-      "definition": "A disposition in which the accused is found guilty and sentenced to imprisonment but serves the sentence in the community so long as he or she successfully fulfills conditions.",
-      "term": "Conditional sentence",
-
-      "tags": [
-        "Criminal Law"
-      ],
-      "related_terms": [
-        "Deferred custody and supervision"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/criminal-law-6e",
-        "name": "Criminal Law, 6\/e - Kent Roach"
-      },
-      "uniqueID": "032817n323"
     },
     {
       "definition": "When a youth is sentenced to a period of custody for murder, manslaughter, attempted murder, or aggravated sexual assault under section 42(2)(o) or section 42(2)(q) of the YCJA, or sentenced for a serious offence to \u201cintensive rehabilitative custody\u201d under section 42(2)(r), the last portion is to be served under \u201cconditional supervision\u201d in the community. A youth on \u201cconditional supervision\u201d is subject to stricter legal controls than a youth on \u201ccommunity supervision.\u201d Before the date scheduled for release under conditional supervision, a youth justice court hearing is to be held under section 105 to determine the conditions of release, or decide that the last portion of the sentence is to be served in custody. Subject to later court review, a provincial director may return a youth on conditional supervision to custody if there are reasonable grounds to believe that a youth has breached or is about to breach a condition of release.",
@@ -9998,22 +9180,6 @@
       "uniqueID": "032817n349"
     },
     {
-      "definition": "Deemed termination of employment as a result of an employer's unilateral material changes to an employment agreement without approval from the employee.",
-      "term": "Constructive dismissal",
-
-      "tags": [
-        "Labour and Employment Law"
-      ],
-      "related_terms": [
-        "Not-for-cause dismissal"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/employment-and-labour-law-toolbox",
-        "name": "Employment and Labour Law Toolbox - Paul Wearing"
-      },
-      "uniqueID": "032817n350"
-    },
-    {
       "definition": "The discretionary extension by a state of various services to its nationals detained by a foreign state. Services usually include visits by consular officials to ensure lawful conditions of detention, as well as facilitation of retainer of local legal representation.",
       "term": "Consular protection",
 
@@ -10327,22 +9493,6 @@
       "uniqueID": "032817n371"
     },
     {
-      "definition": "The failure of a plaintiff to take care for her own safety which contributes to her loss.",
-      "term": "Contributory negligence",
-
-      "tags": [
-        "Torts"
-      ],
-      "related_terms": [
-        "Negligence"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/law-torts-5e",
-        "name": "The Law of Torts, 5\/e - Philip H. Osborne"
-      },
-      "uniqueID": "032817n372"
-    },
-    {
       "definition": "A controlled foreign affiliate is a foreign affiliate controlled by a domestic taxpayer. Control generally refers to a direct or indirect ownership interest of at least 50 percent of the shares.",
       "term": "Controlled foreign affiliate",
 
@@ -10464,31 +9614,6 @@
       "uniqueID": "032817n380"
     },
     {
-      "definition": "The protection that literary, dramatic, musical, and artistic works receive internationally, typically for the author's life plus fifty years. In Canada, the term includes neighbouring rights.\u00a0",
-      "term": "Copyright",
-
-      "tags": [
-        "Intellectual Property"
-      ],
-      "related_terms": [
-        "Copyright Board",
-        " Expunge",
-        " Industrial design",
-        " Priority",
-        " Public domain",
-        " Registrant",
-        " Right-holder",
-        " Right of remuneration",
-        " Rome Convention",
-        " WIPO Copyright Treaty"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/copyright-law",
-        "name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-      },
-      "uniqueID": "032817n381"
-    },
-    {
       "definition": "A tribunal established under the Copyright Act, with authority mainly over rate approvals for cable retransmission, performing, broadcast, and blank audio recording media levy rights for music, and tariff disputes between collecting societies and users. Appeals go directly to the Federal Court of Appeal.",
       "term": "Copyright Board",
 
@@ -10570,21 +9695,6 @@
         "name": "The Law of Partnerships and Corporations 3\/e - J. Anthony VanDuzer"
       },
       "uniqueID": "032817n386"
-    },
-    {
-      "definition": "Evidence that confirms or strengthens evidence already presented to the court.",
-      "term": "Corroborating evidence",
-
-      "tags": [
-        "Civil Litigation",
-        " Criminal Law",
-        " Evidence"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/trauma-trials-and-transformation",
-        "name": "Trauma, Trials, and Transformation - Judith Daylen, Wendy van Tongeren Harvey and Dennis O'Toole Foreword by Claire L'Heureux-Dub\u00e9"
-      },
-      "uniqueID": "032817n387"
     },
     {
       "definition": "Small house; building to accommodate one or more guests.",
@@ -10754,7 +9864,7 @@
       "uniqueID": "032817n403"
     },
     {
-      "definition": "A judicial record of conviction; a register of crimes maintained by the R.C.M.P. in Ottawa on persons convicted of offences.",
+      "definition": "1. A judicial record of conviction.\n\n2. A register of crimes maintained by the R.C.M.P. in Ottawa on persons convicted of offences.",
       "term": "Criminal record",
 
       "tags": [
@@ -10831,24 +9941,6 @@
         "name": "Income Tax Law 2\/e - Vern Krishna"
       },
       "uniqueID": "032817n408"
-    },
-    {
-      "definition": "A lawyer who is a member of the provincial or territorial bar appointed by the Attorney General to aid in the administration of justice in the county or judicial district for which the Attorney is named. He specifically examines allegations of wrongdoing, conducting preliminary hearings and prosecutions for indictable and summary conviction offences and attending to all duties of Crown attorneys under the laws in force in the province or territory.",
-      "term": "Crown attorney",
-
-      "tags": [
-        "Criminal Law"
-      ],
-      "related_terms": [
-        "Attorney General",
-        " Crown",
-        " Crown prosecutor"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/mental-health-courts",
-        "name": "Mental Health Courts - Richard D. Schneider, Hy Bloom and Mark Heerema"
-      },
-      "uniqueID": "032817n410"
     },
     {
       "definition": "Contains all the information about an individual's particular charge(s). In the brief will be a copy of the police synopsis, criminal record, a copy of the police notes, and any evidence such as videotapes.",
@@ -11045,20 +10137,6 @@
       "uniqueID": "032817n424"
     },
     {
-      "definition": "The area surrounding and associated with a dwelling house.",
-      "term": "Curtilage",
-
-      "tags": [
-        "Criminal Law",
-        " Property Law"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/criminal-procedure-3e",
-        "name": "Criminal Procedure 3\/e - Steve Coughlan"
-      },
-      "uniqueID": "032817n425"
-    },
-    {
       "definition": "A source of international law predicated upon general state practice accompanied by the conviction that such practice is required as a matter of international law.",
       "term": "Customary international law",
 
@@ -11121,19 +10199,6 @@
       "uniqueID": "032817n431"
     },
     {
-      "definition": "A designation reserved for the offender who has repeatedly committed offences (including sexual crimes) that have inflicted serious bodily and psychological damage, and who is a danger to the life, safety, or physical\/mental well-being of others and gives little hope for rehabilitation.",
-      "term": "Dangerous offender",
-
-      "tags": [
-        "Criminal Law"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/trauma-trials-and-transformation",
-        "name": "Trauma, Trials, and Transformation - Judith Daylen, Wendy van Tongeren Harvey and Dennis O'Toole Foreword by Claire L'Heureux-Dub\u00e9"
-      },
-      "uniqueID": "032817n433"
-    },
-    {
       "definition": "Area in which artificial lighting is controlled so it does not interfere with opportunities for astronomy; Alberta and New Brunswick have the greatest areas so designated.",
       "term": "Dark sky preserve",
 
@@ -11162,19 +10227,6 @@
         "name": "The Lawyer's Guide to the Forensic Sciences -  Edited by Caitlin Pakosh"
       },
       "uniqueID": "032817n435"
-    },
-    {
-      "definition": "De minimis is a shortened form of the Latin legal maxim de minimis non curat lex: the law does not concern itself with the trivial. For example, an act that is technically an infringement can be called de minimis if it is thought to be outside the purpose of the law to catch it; the claim can then be dismissed with costs. This decision involves a value judgment that the complaint should either have been resolved without taking up the time of a court or is a minor irritant that, like the unintentional jostle in a crowded street, the complainant should have borne with equanimity.",
-      "term": "De Minimis Non Curat Lex",
-      "tags": [
-        "Civil Litigation",
-        " Torts"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/copyright-law",
-        "name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-      },
-      "uniqueID": "032817n436"
     },
     {
       "definition": "A hearing in which the decision-making authority deals completely afresh with a matter that has already been heard once before either by that or another authority.",
@@ -11339,22 +10391,6 @@
         "name": "The Law of Torts, 5\/e - Philip H. Osborne"
       },
       "uniqueID": "032817n450"
-    },
-    {
-      "definition": "The attorney who represents an accused person.",
-      "term": "Defence counsel",
-
-      "tags": [
-        "Criminal Law"
-      ],
-      "related_terms": [
-        "Duty counsel"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/mental-health-courts",
-        "name": "Mental Health Courts - Richard D. Schneider, Hy Bloom and Mark Heerema"
-      },
-      "uniqueID": "032817n451"
     },
     {
       "definition": "A justification to a crime under section 35 of the Criminal Codegenerally available when persons reasonably apprehend threats to their property and respond in a reasonable manner.",
@@ -11983,7 +11019,7 @@
       "uniqueID": "032817n498"
     },
     {
-      "definition": "The power of the federal Cabinet, acting through the governor general, to disallow any provincial law within two years of its enactment. This power has not been used for many years and current constitutional convention dictates that it remain dormant.",
+      "definition": "1. The power of the federal Cabinet, acting through the governor general, to disallow any provincial law within two years of its enactment. This power has not been used for many years and current constitutional convention dictates that it remain dormant.\n\n2. To refuse or to set aside.  For example, the Trustee in Bankruptcy, under the Bankruptcy and Insolvency Act, can disallow a claim submitted by a creditor.",
       "term": "Disallowance",
 
       "tags": [
@@ -12139,7 +11175,7 @@
       "uniqueID": "032817n513"
     },
     {
-      "definition": "The corporate law process through which a corporation's existence is terminated. Dissolution may occur voluntarily, by court order, or by the unilateral action of the director.",
+      "definition": "The corporate law process through which a corporation's existence is terminated or wound-up. Dissolution may occur voluntarily, by court order, or by the unilateral action of the director.",
       "term": "Dissolution",
 
       "tags": [
@@ -12515,28 +11551,6 @@
       "uniqueID": "032817n541"
     },
     {
-      "definition": "Principles of procedural fairness that have evolved through the common law.",
-      "term": "Due process",
-
-      "tags": [
-        "Administrative Law",
-        " Constitutional Law",
-        " Criminal Law"
-      ],
-      "related_terms": [
-        "Charter of Rights and Freedoms",
-        " Juvenile Delinquents Act [JDA]",
-        " Procedural fairness",
-        " Young Offenders Act",
-        " Youth Criminal Justice Act"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/charter-rights-and-freedoms-6e",
-        "name": "The Charter of Rights and Freedoms 6\/e - Robert J. Sharpe and Kent Roach"
-      },
-      "uniqueID": "032817n542"
-    },
-    {
       "definition": "Place for the generally unorganized disposal of solid waste.",
       "term": "Dump",
 
@@ -12673,20 +11687,6 @@
       "uniqueID": "032817n551"
     },
     {
-      "definition": "A right enjoyed by a person over his neighbour's property, such as a right of way.",
-      "term": "Easement",
-
-      "tags": [
-        "Property Law",
-        " Torts"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/law-torts-5e",
-        "name": "The Law of Torts, 5\/e - Philip H. Osborne"
-      },
-      "uniqueID": "032817n552"
-    },
-    {
       "definition": "Impact on natural resources implied by a given standard of living.",
       "term": "Ecological footprint",
 
@@ -12814,25 +11814,6 @@
       "uniqueID": "032817n560"
     },
     {
-      "definition": "The choice given to the Crown to decide whether to prosecute cases involving dual procedure offences as a summary conviction or an indictable offence. The Crown is more likely to proceed by indictment if the circumstances of the offence are more serious than a typical case, or if the accused is a repeat offender.",
-      "term": "Election by the Crown",
-
-      "tags": [
-        "Criminal Law"
-      ],
-      "related_terms": [
-        "Dual procedure offence",
-        " Election",
-        " Election by the accused",
-        " Hybrid offence"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/trauma-trials-and-transformation",
-        "name": "Trauma, Trials, and Transformation - Judith Daylen, Wendy van Tongeren Harvey and Dennis O'Toole Foreword by Claire L'Heureux-Dub\u00e9"
-      },
-      "uniqueID": "032817n562"
-    },
-    {
       "definition": "Costs incurred and nonmonetary contributions received by a registered party or candidate and used to directly promote or oppose a registered party, its leader, or a candidate during an election period.",
       "term": "Election expense",
 
@@ -12897,24 +11878,6 @@
         "name": "Legal Research and Writing, 4\/e - Ted Tjaden"
       },
       "uniqueID": "032817n566"
-    },
-    {
-      "definition": "Right of government to take private property for public purposes.",
-      "term": "Eminent domain",
-
-      "tags": [
-        "Housing & Urban Development",
-        " Land Use",
-        " Property Law"
-      ],
-      "related_terms": [
-        "Expropriation"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/land-use-planning",
-        "name": "Land-Use Planning - Howard Epstein"
-      },
-      "uniqueID": "032817n567"
     },
     {
       "definition": "An individual employed under a contract of service with an employer; distinguished from a freelancer, who is not on an employer's payroll. Employers often prima facie own the intellectual property rights in subject matter produced by employees on the job. This ownership may be true even where a freelancer is working under contract (e.g., an industrial designer or ICT creator), but a specific agreement is usually required where a copyright is involved.",
@@ -13023,22 +11986,6 @@
         "name": "The Law of Torts, 5\/e - Philip H. Osborne"
       },
       "uniqueID": "032817n574"
-    },
-    {
-      "definition": "Objectionable police conduct such as offering a suspect an opportunity to commit a crime without a reasonable suspicion that he or she is involved with crime or when the police are not pursuing a bona fide inquiry in a high-crime area. It also includes disreputable police conduct that goes beyond providing a suspect an opportunity to commit a crime and actually induces the commission of the crime. The remedy for entrapment is a stay of proceedings.",
-      "term": "Entrapment",
-
-      "tags": [
-        "Criminal Law"
-      ],
-      "related_terms": [
-        "Stay of proceedings"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/criminal-law-6e",
-        "name": "Criminal Law, 6\/e - Kent Roach"
-      },
-      "uniqueID": "032817n575"
     },
     {
       "definition": "Alterable solely through the use of the constitutional amending formula.",
@@ -13407,22 +12354,6 @@
       "uniqueID": "032817n606"
     },
     {
-      "definition": "A term literally meaning \"from one side\"; an application is ex parte when it is made to a court or tribunal without notifying or serving anyone else with the proceedings. Because of the proceeding's one-sided nature, applicants owe the decision-maker a high duty of good faith; in practice, this means they should reveal to the decision-maker any objections that might result in a decision adverse to them.",
-      "term": "Ex parte",
-
-      "tags": [
-        "Judges and Courts"
-      ],
-      "related_terms": [
-        "Ex parte injunction"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/copyright-law",
-        "name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-      },
-      "uniqueID": "032817n607"
-    },
-    {
       "definition": "An injunction issued without notice to the defendant.",
       "term": "Ex parte injunction",
 
@@ -13456,19 +12387,6 @@
       "uniqueID": "032817n609"
     },
     {
-      "definition": "A Latin phrase loosely translated as \u201cno cause of action can arise from a base cause,\u201d which indicates that no action in tort is permitted if it would undermine the integrity of the legal system. It is a defence in rare cases such as where an award of damages would enable a plaintiff to avoid a criminal sanction or profit from wrongdoing.",
-      "term": "Ex turpi causa non oritur actio",
-
-      "tags": [
-        "Torts"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/law-torts-5e",
-        "name": "The Law of Torts, 5\/e - Philip H. Osborne"
-      },
-      "uniqueID": "032817n610"
-    },
-    {
       "definition": "(US term) Concession from a landowner made to a local government as a condition of subdivision or other intensified land use (as distinguished from an \u201cimpact fee\u201d).",
       "term": "Exaction",
 
@@ -13483,7 +12401,7 @@
       "uniqueID": "032817n611"
     },
     {
-      "definition": "An opportunity given in civil actions to the parties to question each other prior to trial to discover the details of the other side's case. The examination for discovery allows the parties to narrow the issues and focus the trial on contested matters.",
+      "definition": "An opportunity given in civil actions to the parties to question each other prior to trial to discover the details of the other side's case. The examination for discovery allows the parties to narrow the issues and focus the trial on contested matters. A record is produced of the questions and answers given. The term \"questioning\" is used in family law cases.",
       "term": "Examination for discovery",
 
       "tags": [
@@ -13701,7 +12619,7 @@
       "uniqueID": "032817n626"
     },
     {
-      "definition": "Evidence presented by a person who is accepted by the court as an expert, based on his or her educational qualifications and experience, and who is permitted to express an opinion about technical or complex issues. In youth justice court proceedings, the most commonly admitted expert evidence deals with mental health issues and the likelihood of rehabilitation or future offending. Expert evidence may also be introduced to deal with such forensic issues as DNA evidence. It may involve testimony by a witness, or, if not contested, can be presented to the court by a written report.",
+      "definition": "Evidence presented by a person who is accepted by the court as an expert, based on his or her educational qualifications and experience, and who is permitted to express an opinion about technical or complex issues. \n\nIn youth justice court proceedings, the most commonly admitted expert evidence deals with mental health issues and the likelihood of rehabilitation or future offending. \n\nExpert evidence may also be introduced to deal with such forensic issues as DNA evidence. It may involve testimony by a witness, or, if not contested, can be presented to the court by a written report.",
       "term": "Expert evidence",
 
       "tags": [
@@ -14060,15 +12978,6 @@
       "uniqueID": "032817n651"
     },
     {
-      "definition": "American term for what roughly equates to an Inictable Offence",
-      "related_terms": [
-        "Indictable offence"
-      ],
-      "term": "Felony",
-
-      "uniqueID": "032817n652"
-    },
-    {
       "definition": "A living organism, whether plant or animal, that was domesticated, but now is living freely, untamed, or in the wild.",
       "term": "Feral",
 
@@ -14397,22 +13306,6 @@
       "uniqueID": "032817n677"
     },
     {
-      "definition": "A justification advanced to counter a claim of state responsibility on the basis that the alleged internationally wrongful act of a state is due to an unforeseen event or irresistible force, beyond the control of the state, which makes it materially impossible for the state to respect an international obligation.",
-      "term": "Force majeure",
-
-      "tags": [
-        "International Law"
-      ],
-      "related_terms": [
-        "State responsibility"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/public-international-law-2e",
-        "name": "Public International Law 2\/e - John H. Currie"
-      },
-      "uniqueID": "032817n678"
-    },
-    {
       "definition": "A non-resident corporation in which a taxpayer resident in Canada has a significant interest (an equity percentage of not less than 10 percent). A controlled foreign affiliate is generally a foreign affiliate in which the taxpayer has or participates in a controlling interest.",
       "term": "Foreign affiliate",
 
@@ -14649,23 +13542,6 @@
         "name": "The Law of Partnerships and Corporations 3\/e - J. Anthony VanDuzer"
       },
       "uniqueID": "032817n693"
-    },
-    {
-      "definition": "An untrue statement of fact that the speaker either knows to be untrue or is consciously indifferent as to whether it be true or false. A statement made without an honest belief in its truth.",
-      "term": "Fraud",
-
-      "tags": [
-        "Criminal Law",
-        " Torts"
-      ],
-      "related_terms": [
-        "Rescission"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/law-torts-5e",
-        "name": "The Law of Torts, 5\/e - Philip H. Osborne"
-      },
-      "uniqueID": "032817n694"
     },
     {
       "definition": "In mining, the right to enter land to prospect for minerals; this system prevails, but a discretionary system also exists in some jurisdictions for some minerals.",
@@ -15497,23 +14373,6 @@
       "uniqueID": "032817n752"
     },
     {
-      "definition": "Conduct that carries a high degree of risk.",
-      "term": "Gross negligence",
-
-      "tags": [
-        "Torts"
-      ],
-      "related_terms": [
-        "Contributory negligence",
-        " Negligence"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/law-torts-5e",
-        "name": "The Law of Torts, 5\/e - Philip H. Osborne"
-      },
-      "uniqueID": "032817n753"
-    },
-    {
       "definition": "Percolating water; subsurface water that may supply wells and springs.",
       "term": "Ground water",
 
@@ -15604,19 +14463,6 @@
         "name": "Mental Health Courts - Richard D. Schneider, Hy Bloom and Mark Heerema"
       },
       "uniqueID": "032817n760"
-    },
-    {
-      "definition": "Another of the historic prerogative writs. A command that was issued by a judge to a person having custody of another person to bring the prisoner before the court (\"Let me have the body\") so that the court could inquire into the validity of that person's detention.",
-      "term": "Habeas corpus",
-
-      "related_terms": [
-        "Prerogative writ"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/administrative-law-0",
-        "name": "Administrative Law - Michael Head"
-      },
-      "uniqueID": "032817n761"
     },
     {
       "definition": "A weapon of Norwegian origin used in seal hunting; it consists of an iron or steel hook, sometimes with a hammer head opposite, mounted on a long wooden pole.",
@@ -15747,20 +14593,6 @@
         "name": "Legal Research and Writing, 4\/e - Ted Tjaden"
       },
       "uniqueID": "032817n771"
-    },
-    {
-      "definition": "Indirect knowledge learned from what someone else said or told another person.",
-      "term": "Hearsay",
-
-      "tags": [
-        "Criminal Law",
-        " Evidence"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/trauma-trials-and-transformation",
-        "name": "Trauma, Trials, and Transformation - Judith Daylen, Wendy van Tongeren Harvey and Dennis O'Toole Foreword by Claire L'Heureux-Dub\u00e9"
-      },
-      "uniqueID": "032817n774"
     },
     {
       "definition": "(Term often used and defined in land use by-laws) for buildings, the vertical distance of the highest point of the roof above mean grade.",
@@ -15980,19 +14812,6 @@
         "name": "Public International Law 2\/e - John H. Currie"
       },
       "uniqueID": "032817n788"
-    },
-    {
-      "definition": "An offence that may be prosecuted either as an indictable offence or as a summary conviction offence.",
-      "term": "Hybrid offence",
-
-      "tags": [
-        "Criminal Law"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/criminal-procedure-3e",
-        "name": "Criminal Procedure 3\/e - Steve Coughlan"
-      },
-      "uniqueID": "032817n789"
     },
     {
       "definition": "A process through which an imagined event can take on an aura of subjective reality over time. In such cases, a person will remember having experienced an event that, in reality, they only imagined.",
@@ -16426,36 +15245,6 @@
       "uniqueID": "032817n818"
     },
     {
-      "definition": "The most serious category of criminal offences. In most cases, the accused has the option to be tried before a provincial court without a preliminary inquiry or a jury, or tried in a superior court with a preliminary inquiry and\/or a jury.",
-      "term": "Indictable offence",
-
-      "tags": [
-        "Criminal Law",
-        " Judges and Courts"
-      ],
-      "related_terms": [
-        "Absolute jurisdiction offence",
-        " Dual procedure offence",
-        " Election",
-        " Exclusive jurisdiction offence",
-        " Hybrid offence",
-        " Indictment",
-        " Jury",
-        " Ontario Court of Justice",
-        " Parole",
-        " Preliminary inquiry",
-        " Provincial court",
-        " Summary conviction offence",
-        " Superior court",
-        " Superior court of criminal jurisdiction"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/criminal-law-6e",
-        "name": "Criminal Law, 6\/e - Kent Roach"
-      },
-      "uniqueID": "032817n820"
-    },
-    {
       "definition": "Individual characteristics are generally considered to be exceptional characteristics that may establish the uniqueness of an object and support the conclusion that the object in question can be linked to a known object (i.e., both the questioned and known object originated from a common source). For example, marks on various parts of a firearm that come into contact with the bullet\/cartridge case may create individual characteristics that are produced by the random imperfections or irregularities on the surfaces of those parts. These individual characteristics are produced incidental to manufacture and\/or caused by wear, corrosion, or damage. They are considered to be unique to that tool, but they are not always visualized in sufficient quantity on fired bullets\/cartridges.",
       "term": "Individual characteristics",
 
@@ -16797,33 +15586,6 @@
       "uniqueID": "032817n843"
     },
     {
-      "definition": "A Latin phrase meaning \"among other things\".",
-      "term": "Inter alia",
-
-      "tags": [
-        "Torts"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/law-torts-5e",
-        "name": "The Law of Torts, 5\/e - Philip H. Osborne"
-      },
-      "uniqueID": "032817n844"
-    },
-    {
-      "definition": "A Latin phrase meaning \"from one living person to another\".",
-      "term": "Inter vivos",
-
-      "tags": [
-        "Torts",
-        " Trusts"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/law-torts-5e",
-        "name": "The Law of Torts, 5\/e - Philip H. Osborne"
-      },
-      "uniqueID": "032817n845"
-    },
-    {
       "definition": "As a subject of international law, a permanent association of states with international legal rights and obligations distinct from those of its members and equipped with permanent organs or institutions.",
       "term": "Intergovernmental organization",
 
@@ -16870,24 +15632,6 @@
         "name": "Constitutional Law, 5\/e - Patrick Monahan, Byron Shaw and Padraic Ryan"
       },
       "uniqueID": "032817n848"
-    },
-    {
-      "definition": "A sentence of imprisonment that is served in intervals (usually on weekends) over a period of time. Under the Criminal Code, a judge can only impose an intermittent sentence if the term of imprisonment is ninety days or less. The offender must comply with the conditions of a probation order when not in confinement.",
-      "term": "Intermittent sentence",
-
-      "tags": [
-        "Criminal Law"
-      ],
-      "related_terms": [
-        "Concurrent sentence",
-        " Conditional sentence",
-        " Probation"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/trauma-trials-and-transformation",
-        "name": "Trauma, Trials, and Transformation - Judith Daylen, Wendy van Tongeren Harvey and Dennis O'Toole Foreword by Claire L'Heureux-Dub\u00e9"
-      },
-      "uniqueID": "032817n850"
     },
     {
       "definition": "The law or legal system established within a state to govern events, transactions, and persons within or having a connection to that state.",
@@ -17504,22 +16248,6 @@
       "uniqueID": "032817n893"
     },
     {
-      "definition": "The release of an accused person pending trial, formerly referred to as bail.",
-      "term": "Judicial interim release",
-
-      "tags": [
-        "Criminal Law"
-      ],
-      "related_terms": [
-        "Bail"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/charter-rights-and-freedoms-6e",
-        "name": "The Charter of Rights and Freedoms 6\/e - Robert J. Sharpe and Kent Roach"
-      },
-      "uniqueID": "032817n894"
-    },
-    {
       "definition": "The acceptance by a court or tribunal of the truth of a particular fact or state of affairs without requiring proof. At common law, judicial notice is taken of international law.",
       "term": "Judicial notice",
 
@@ -17857,23 +16585,6 @@
       "uniqueID": "032817n916"
     },
     {
-      "definition": "The lowest level of judicial officer; in most provinces justices of the peace do not require legal education.. Responsibilities are limited in criminal proceedings, especially under the YCJA, though in most provinces a justice of the peace may conduct bail hearings for youth. Responsibilities are broader, especially for adults, under provincial\/territorial offence statutes (e.g., the Highway TrafficAct), including trials and sentencing for these offences.",
-      "term": "Justice of the peace",
-
-      "tags": [
-        "Criminal Law",
-        " Judges and Courts"
-      ],
-      "related_terms": [
-        "Justice"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/youth-criminal-justice-law-3e",
-        "name": "Youth Criminal Justice Law, 3\/e - Nicholas Bala and Sanjeev Anand"
-      },
-      "uniqueID": "032817n917"
-    },
-    {
       "definition": "A clause included in a commercial lease agreement which requires the lessee to keep its store open, or requires a certain level of staffing and product range be maintained in the store. The clause is used to ensure the economic viability of stores in retail malls.",
       "term": "Keep open clause",
 
@@ -17882,23 +16593,6 @@
         "url": "https:\/\/www.irwinlaw.com\/titles\/law-equitable-remedies-2e",
         "name": "The Law of Equitable Remedies 2\/e - Jeffrey Berryman"
       }
-    },
-    {
-      "definition": "A statutory term included in all probation orders to maintain quiet and harmless behaviour toward the sovereign, her Government, and her people, and to prevent or dissuade others from breaking the peace.",
-      "term": "Keep the peace",
-
-      "tags": [
-        "Criminal Law"
-      ],
-      "related_terms": [
-        "Peace bond",
-        "Probation"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/mental-health-courts",
-        "name": "Mental Health Courts - Richard D. Schneider, Hy Bloom and Mark Heerema"
-      },
-      "uniqueID": "032817n921"
     },
     {
       "definition": "The doctrine of laches is an equitable doctrine that implements the equitable maxim \u201cdelay defeats equity.\u201d Once a plaintiff becomes aware of a violation of her rights for which she wishes to pursue an equitable remedy, she must act in a timely fashion and before the delay prejudices the defendant.",
@@ -18129,22 +16823,6 @@
       "uniqueID": "032817n940"
     },
     {
-      "definition": "Originally, a defamatory statement in written form. The term now extends to defamatory statements in visible and permanent form.",
-      "term": "Libel",
-
-      "tags": [
-        "Torts"
-      ],
-      "related_terms": [
-        "Defamation"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/law-torts-5e",
-        "name": "The Law of Torts, 5\/e - Philip H. Osborne"
-      },
-      "uniqueID": "032817n941"
-    },
-    {
       "definition": "Legal materials (typically books) need to be organized on the shelf to allow for the orderly retrieval of information. The Library of Congress in Washington, D.C. has a system for organizing material by topic that is used by major libraries throughout the world. Library of Congress Subject Headings are a controlled vocabulary used to describe the topic of a book. Thus, all books in a law library that relate to human rights law in Ontario will be assigned the subject heading \u201cHuman rights \u2014 Ontario\u201d and searching in an online library catalogue on that specific subject heading will retrieve all books on that subject held by the library. Related to these subject headings are Library of Congress call numbers that are assigned to a book depending on the book's topic. The \u201cLaw of Canada\u201d is usually assigned the starting letters \u201cKE\u201d followed by a number that relates to the topic (KE 850 would likely be a book on Canadian contract law). Some Canadian law libraries, however, use the \u201cKF\u201d letters to organize their Canadian legal materials (KF is ordinarily the \u201cLaw of America\u201d and when Canadian law libraries use KF for Canadian materials, it is referred to as \u201cKF Modified\u201d).",
       "term": "Library of Congress Subject Headings (LCSH)",
 
@@ -18292,20 +16970,6 @@
         "url": "https:\/\/www.irwinlaw.com\/titles\/law-partnerships-and-corporations-3e",
         "name": "The Law of Partnerships and Corporations 3\/e - J. Anthony VanDuzer"
       }
-    },
-    {
-      "definition": "A pending lawsuit. The term is commonly used to describe a notice to a third party who is interested in acquiring real property that a prior claim has been made to the property and is pending the resolution of a lawsuit.",
-      "term": "Lis pendens",
-
-      "tags": [
-        "Property Law",
-        " Remedies"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/law-equitable-remedies-2e",
-        "name": "The Law of Equitable Remedies 2\/e - Jeffrey Berryman"
-      },
-      "uniqueID": "032817n953"
     },
     {
       "definition": "These groups are organized by many topics and allow one to register or subscribe using e-mail. Once one has subscribed, messages can be sent and received to all subscribers to the group. This allows for the exchange of information and ideas.",
@@ -18665,24 +17329,6 @@
         "name": "The Law of Partnerships and Corporations 3\/e - J. Anthony VanDuzer"
       },
       "uniqueID": "032817n982"
-    },
-    {
-      "definition": "The prohibited mental or fault element for the commission of a criminal offence. It may include intent, purpose, wilfulness, knowledge, recklessness, wilful blindness, criminal negligence, or negligence depending on the offence.",
-      "term": "Mens rea",
-
-      "tags": [
-        "Criminal Law"
-      ],
-      "related_terms": [
-        "Fault element",
-        " Intention",
-        " Moral innocence"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/criminal-law-6e",
-        "name": "Criminal Law, 6\/e - Kent Roach"
-      },
-      "uniqueID": "032817n983"
     },
     {
       "definition": "A condition necessary for an accused to be found not criminally responsible on account of mental disorder. Diseases of the mind are now defined as mental disorders. They can include any mental disorder but not transitory or self-induced states.",
@@ -19377,26 +18023,6 @@
       "uniqueID": "032817n1032"
     },
     {
-      "definition": "The principles of procedural fairness developed by the common law and re-enforced frequently by statute. They consisted historically of two limbs: the right to be heard and the right to an unbiased decision maker.",
-      "term": "Natural justice",
-
-      "tags": [
-        "Administrative Law",
-        " Constitutional Law"
-      ],
-      "related_terms": [
-        "Audi alteram partem",
-        " Bias",
-        " Nemo judex in sua (propria) causa (debet esse)",
-        " Procedural fairness"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/administrative-law",
-        "name": "Administrative Law - David Mullan"
-      },
-      "uniqueID": "032817n1033"
-    },
-    {
       "definition": "A unit of measure commonly used in the law of the sea and corresponding approximately to 1.15 land miles or 1.85 kilometres.",
       "term": "Nautical mile",
 
@@ -19712,19 +18338,6 @@
         "name": "Youth Criminal Justice Law, 3\/e - Nicholas Bala and Sanjeev Anand"
       },
       "uniqueID": "032817n1058"
-    },
-    {
-      "definition": "The failure to confer a benefit or an advantage on another person.",
-      "term": "Nonfeasance",
-
-      "tags": [
-        "Torts"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/law-torts-5e",
-        "name": "The Law of Torts, 5\/e - Philip H. Osborne"
-      },
-      "uniqueID": "032817n1059"
     },
     {
       "definition": "The dismissal of a claim on the grounds that there is insufficient evidence to support the claim.",
@@ -20165,19 +18778,6 @@
       "uniqueID": "032817n1090"
     },
     {
-      "definition": "An officer of the legislature with power to investigate complaints of administrative wrongdoing and to recommend corrective action. The office exists in all the provinces (except Newfoundland and Labrador and Prince Edward Island) and also in the Yukon. There is no general federal ombudsman.",
-      "term": "Ombudsman",
-
-      "tags": [
-        "Administrative Law"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/administrative-law",
-        "name": "Administrative Law - David Mullan"
-      },
-      "uniqueID": "032817n1091"
-    },
-    {
       "definition": "An omnibus clause is a clause that provides or includes all residuary not specifically mentioned. A very common omnibus clause deals with automobile liability insurance.",
       "related_terms": [
         "General (grants of) power"
@@ -20188,25 +18788,6 @@
         "name": "Wikipedia"
       },
       "uniqueID": "032817n1093"
-    },
-    {
-      "definition": "The provincially appointed court, which hears criminal proceedings, proceedings under the Youth Criminal Justice Act, and certain matters under the Family Law Reform Act and other provincial statutes.",
-      "term": "Ontario Court of Justice",
-
-      "tags": [
-        "Criminal Law",
-        " Family Law",
-        " Judges and Courts"
-      ],
-      "related_terms": [
-        "Ontario Superior Court of Justice",
-        " Youth Criminal Justice Act"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/mental-health-courts",
-        "name": "Mental Health Courts - Richard D. Schneider, Hy Bloom and Mark Heerema"
-      },
-      "uniqueID": "032817n1095"
     },
     {
       "definition": "A court of criminal and civil jurisdiction presided over by a county or district judge appointed by the Governor in Council (the federal Cabinet). It has the authority to try an indictable offence, other than those enumerated in the Criminal Code of Canada as being solely within the jurisdiction of another court. Trials can be with or without a jury in accordance with the Criminal Code.",
@@ -20751,27 +19332,6 @@
       "uniqueID": "032817n1133"
     },
     {
-      "definition": "A term used here to denote a patent for invention, an exclusive right granted to work new inventions. It is sometimes called \"letters patent,\" from the Latin litterae patentes (\"open letters\"), meaning that the royal seal was placed at the bottom of the document, making the document a public record open for all to see. The Patent Act still defines \"patent\" as \"letters patent for an invention,\" being one species of the genus of letters patent, which at various times covered franchises, land grants, honours, and company incorporations.A patent lasts for twenty years from the date when the application for it is filed, but the actual monopoly starts when the patent is granted, typically around two years later. The application is made public no later than eighteen months after the filing of the application. If a patent is granted, the patentee can get compensation from unauthorized users of the invention as from the date of making public. An injunction and money remedies are available against unauthorized uses after the date of grant.",
-      "term": "Patent",
-
-      "tags": [
-        "Intellectual Property"
-      ],
-      "related_terms": [
-        "Injunction",
-        " Patent Appeal Board",
-        " Patentee",
-        " POSITA",
-        " Reissue",
-        " Usefulness; utility"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/copyright-law",
-        "name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-      },
-      "uniqueID": "032817n1134"
-    },
-    {
       "definition": "A tribunal of senior examiners that hears appeals from examiners' decisions in patent application proceedings and recommends what action the Commissioner of Patents should finally take. The Commissioner rarely rejects the Board's recommendation. Appeals from the Commissioner go directly to the Federal Court of Appeal.",
       "term": "Patent Appeal Board",
 
@@ -20834,7 +19394,7 @@
       "uniqueID": "032817n1138"
     },
     {
-      "definition": "A person exercising authority under the Criminal Code to investigate criminal offences and exercise powers such as arrest. In most instances, a peace officer will be a police officer, but the definition also encompasses others, including, for example, some customs officers, correctional officers, and pilots while an aircraft is in flight. See the definition in section 2 of the Code.",
+      "definition": "A person exercising authority under the Criminal Code to investigate criminal offences and exercise powers such as arrest. In most instances, a peace officer will be a police officer, but the definition also encompasses others, including, for example, some customs officers, correctional officers, and pilots while an aircraft is in flight. See the definition in section 2 of the Criminal Code.",
       "term": "Peace officer",
 
       "tags": [
@@ -21176,24 +19736,6 @@
         "name": "Trauma, Trials, and Transformation - Judith Daylen, Wendy van Tongeren Harvey and Dennis O'Toole Foreword by Claire L'Heureux-Dub\u00e9"
       },
       "uniqueID": "032817n1169"
-    },
-    {
-      "definition": "The process of a formal exchange of written documentation between the litigants defining the contested issues of fact, and, to a lesser extent, law, giving rise to the dispute between the parties.",
-      "term": "Pleadings",
-
-      "tags": [
-        "Civil Litigation"
-      ],
-      "related_terms": [
-        "Reply",
-        " Statement of Claim",
-        " Statement of Defence"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/law-torts-5e",
-        "name": "The Law of Torts, 5\/e - Philip H. Osborne"
-      },
-      "uniqueID": "032817n1171"
     },
     {
       "related_terms": [
@@ -21719,25 +20261,6 @@
       "uniqueID": "032817n1208"
     },
     {
-      "definition": "A case of sufficient weight presented by the party having the burden of proof to warrant judgment in that party's favour absent a response from the other side.",
-      "term": "Prima facie",
-
-      "tags": [
-        "Civil Litigation",
-        " Criminal Law",
-        " Evidence"
-      ],
-      "related_terms": [
-        "Burden of proof",
-        " Prima facie case"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/charter-rights-and-freedoms-6e",
-        "name": "The Charter of Rights and Freedoms 6\/e - Robert J. Sharpe and Kent Roach"
-      },
-      "uniqueID": "032817n1209"
-    },
-    {
       "definition": "The presentation of evidence which, if believed, would establish each of the elements necessary for the prosecution to succeed. In assessing whether a prima facie case is made out, a judge does not decide whether the evidence is likely to be believed, merely whether, if it were, it would establish the necessary things.",
       "term": "Prima facie case",
 
@@ -21993,24 +20516,6 @@
         "name": "The Laws of Government 2\/e - Craig Forcese and Aaron Freeman"
       },
       "uniqueID": "032817n1224"
-    },
-    {
-      "definition": "A criminal charge laid and pursued by a private individual.",
-      "term": "Private prosecution",
-
-      "tags": [
-        "Criminal Law"
-      ],
-      "related_terms": [
-        "Crown",
-        " Prosecutor",
-        " Public prosecution"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/criminal-procedure-3e",
-        "name": "Criminal Procedure 3\/e - Steve Coughlan"
-      },
-      "uniqueID": "032817n1225"
     },
     {
       "definition": "A statutory provision which attempts to eliminate or restrict the scope of judicial review. Sometimes called a \"preclusive\" or \"no certiorari\" clause.",
@@ -22400,7 +20905,7 @@
       "uniqueID": "032817n1255"
     },
     {
-      "definition": "A disclosure document that must be filed with securities regulators in a jurisdiction to permit securities to be issued to the public in that jurisdiction under the provincial securities law. Various exemptions apply to this requirement, including an exemption for securities of a private issuer.",
+      "definition": "A document in which a corporation sets out the material details of a share or bond issue and invites the public to invest by purchasing these financial instruments. A disclosure document that must be filed with securities regulators in a jurisdiction to permit securities to be issued to the public in that jurisdiction under the provincial securities law. Various exemptions apply to this requirement, including an exemption for securities of a private issuer.",
       "term": "Prospectus",
 
       "tags": [
@@ -22705,22 +21210,6 @@
       "uniqueID": "032817n1275"
     },
     {
-      "definition": "A court order requiring that evidence from a preliminary inquiry, trial, or other proceeding not be reported publicly. Publication bans can be either mandatory or discretionary.",
-      "term": "Publication ban",
-
-      "tags": [
-        "Criminal Law"
-      ],
-      "related_terms": [
-        "Preliminary inquiry"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/criminal-procedure-3e",
-        "name": "Criminal Procedure 3\/e - Steve Coughlan"
-      },
-      "uniqueID": "032817n1276"
-    },
-    {
       "definition": "A scholarly expert in international law.",
       "term": "Publicist",
 
@@ -22807,23 +21296,6 @@
         "name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
       },
       "uniqueID": "032817n1284"
-    },
-    {
-      "definition": "Another of the prerogative writs, now abolished in some provinces and fallen into disuse in others. It called upon potential usurpers of statutory powers to indicate \"by what warrant\" or authority they were exercising a particular statutory or prerogative power.",
-      "term": "Quo warranto",
-
-      "tags": [
-        "Administrative Law"
-      ],
-      "related_terms": [
-        "Prerogative power",
-        " Prerogative writ"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/administrative-law",
-        "name": "Administrative Law - David Mullan"
-      },
-      "uniqueID": "032817n1285"
     },
     {
       "definition": "A cultural construct that reflects beliefs and attitudes about different groups of people.",
@@ -23239,22 +21711,6 @@
         "name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
       },
       "uniqueID": "032817n1317"
-    },
-    {
-      "definition": "Offences that regulate risky behaviour that may cause harm but do not ordinarily involve truly criminal or morally reprehensible behaviour.",
-      "term": "Regulatory offence",
-
-      "tags": [
-        "Criminal Law"
-      ],
-      "related_terms": [
-        "Strict liability"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/charter-rights-and-freedoms-6e",
-        "name": "The Charter of Rights and Freedoms 6\/e - Robert J. Sharpe and Kent Roach"
-      },
-      "uniqueID": "032817n1320"
     },
     {
       "definition": "In patent law, one procedure by which a patent is amended. Technically, the original patent is surrendered, and a new patent is granted.",
@@ -23880,24 +22336,6 @@
       "uniqueID": "032817n1368"
     },
     {
-      "definition": "A legal principle, of general application, sanctioned by the recognition of authorities, and usually expressed in the form of a maxim or logical proposition. Called a \"rule,\" because in doubtful or unforeseen causes it is a guide or nom for their decision. The rule of law, sometimes called \"the supremacy of law,\" provides that decisions should be made by the application of known principles or laws without the intervention of discretion in their application. [Black's]. The restriction of arbitrary authority in government, and the necessity for all acts of government to be authorized by reasonably precise laws as applied and interpreted by the courts.\" [quoting Prof. R.M. Dawson, The Govt. of Canada.]",
-      "term": "Rule of law",
-
-      "tags": [
-        "Administrative Law",
-        " Constitutional Law",
-        " Legal Theory"
-      ],
-      "related_terms": [
-        "Opinio juris sive necessitatis"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/administrative-law",
-        "name": "Administrative Law - David Mullan"
-      },
-      "uniqueID": "032817n1369"
-    },
-    {
       "definition": "Animals such as cows, goats, sheep, deer, and giraffes, whose stomachs are characteristically divided into four compartments and whose digestion includes a process often referred to as \"chewing their cud.\"",
       "term": "Ruminant",
 
@@ -24005,24 +22443,6 @@
         "name": "The Law of Equitable Remedies 2\/e - Jeffrey Berryman"
       },
       "uniqueID": "032817n1378"
-    },
-    {
-      "definition": "A warrant issued under section 487 of the Criminal Code authorizing the bearer to search a building receptacle or place and seize evidence or other specified items.",
-      "term": "Search warrant",
-
-      "tags": [
-        "Criminal Law"
-      ],
-      "related_terms": [
-        "Anton Piller order",
-        "Search",
-        "Search and seizure"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/criminal-procedure-3e",
-        "name": "Criminal Procedure 3\/e - Steve Coughlan"
-      },
-      "uniqueID": "032817n1379"
     },
     {
       "definition": "Human rights of a social, economic, or cultural character.",
@@ -24443,22 +22863,6 @@
       "uniqueID": "032817n1407"
     },
     {
-      "definition": "Where two or more tortfeasors independently cause the same harm to the plaintiff and each is individually liable for the plaintiff's loss.",
-      "term": "Several liability",
-
-      "tags": [
-        "Torts"
-      ],
-      "related_terms": [
-        "Tortfeasor"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/law-torts-5e",
-        "name": "The Law of Torts, 5\/e - Philip H. Osborne"
-      },
-      "uniqueID": "032817n1408"
-    },
-    {
       "definition": "Where a court excises a discreet and identifiable measure of a challenged law without altering the overall structure or operation of the law in which it is contained.",
       "term": "Severance",
 
@@ -24575,23 +22979,6 @@
       "uniqueID": "032817n1415"
     },
     {
-      "definition": "So-called because of the onus on the Crown to show cause or reasons why a youth should be detained pending trial.",
-      "term": "Show cause hearing",
-
-      "tags": [
-        "Criminal Law"
-      ],
-      "related_terms": [
-        "Bail hearing",
-        " Detention"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/youth-criminal-justice-law-3e",
-        "name": "Youth Criminal Justice Law, 3\/e - Nicholas Bala and Sanjeev Anand"
-      },
-      "uniqueID": "032817n1416"
-    },
-    {
       "definition": "A state or other subject of international law that has expressed its agreement with the text of a treaty and a future intent to become bound by it; in contrast to a party to the treaty, a signatory is not presently bound to perform the treaty, although it is required to refrain from acts that would defeat the object and purpose of the treaty or its coming into force.",
       "term": "Signatory",
 
@@ -24642,23 +23029,6 @@
         "name": "The Laws of Government 2\/e - Craig Forcese and Aaron Freeman"
       },
       "uniqueID": "032817n1419"
-    },
-    {
-      "definition": "An oral defamatory communication.",
-      "term": "Slander",
-
-      "tags": [
-        "Torts"
-      ],
-      "related_terms": [
-        "Defamation",
-        " Libel"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/law-torts-5e",
-        "name": "The Law of Torts, 5\/e - Philip H. Osborne"
-      },
-      "uniqueID": "032817n1420"
     },
     {
       "definition": "Corporations that are Canadian controlled private corporations (CCPCs) are eligible for a small business tax rate reduction known as the small business deduction.",
@@ -24724,25 +23094,6 @@
         "name": "The Law of Partnerships and Corporations 3\/e - J. Anthony VanDuzer"
       },
       "uniqueID": "032817n1425"
-    },
-    {
-      "definition": "The rule that communications made in confidence between a solicitor and client cannot be compelled to be disclosed. The privilege rests with the accused, and a lawyer is not allowed to reveal the content of the communications without the consent of the client. An exception to solicitor-client privilege arises with the innocence at stake exception.",
-      "term": "Solicitor-client privilege",
-
-      "tags": [
-        "Criminal Law",
-        " Evidence",
-        " Legal Profession"
-      ],
-      "related_terms": [
-        "Informer privilege",
-        " Innocence at stake exception"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/criminal-procedure-3e",
-        "name": "Criminal Procedure 3\/e - Steve Coughlan"
-      },
-      "uniqueID": "032817n1426"
     },
     {
       "definition": "The full range of powers and privileges enjoyed by a state over its territory and population to the exclusion of all other states but subject to international law.",
@@ -25249,31 +23600,6 @@
       "uniqueID": "032817n1459"
     },
     {
-      "definition": "A discontinuation of the administrative process pending the outcome of judicial review or a statutory appeal.",
-      "term": "Stay of proceedings",
-
-      "tags": [
-        "Administrative Law",
-        " Constitutional Law",
-        " Criminal Law"
-      ],
-      "related_terms": [
-        "Abuse of process",
-        " Acquittal",
-        " Crown prosecutor",
-        " Disposition",
-        " Entrapment",
-        " Extrajudicial sanctions",
-        " Judicial review",
-        " Withdrawal"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/administrative-law",
-        "name": "Administrative Law - David Mullan"
-      },
-      "uniqueID": "032817n1460"
-    },
-    {
       "definition": "Drugs that involve stimulation of the central and\/or peripheral nervous systems, typically causing euphoria, excitement\/agitation, and heightened energy, as well as elevations in heart rate and blood pressure, and an increase in pupil diameter.",
       "term": "Stimulants",
 
@@ -25318,31 +23644,6 @@
         "name": "Land-Use Planning - Howard Epstein"
       },
       "uniqueID": "032817n1463"
-    },
-    {
-      "definition": "An offence for which the Crown must prove the commission of the prohibited act beyond a reasonable doubt. The existence of negligence is then presumed unless the accused establishes a defence of due diligence on a balance of probabilities.",
-      "term": "Strict liability",
-
-      "tags": [
-        "Criminal Law",
-        " Torts"
-      ],
-      "related_terms": [
-        "Balance of probabilities",
-        " Baseline",
-        " Due diligence",
-        " Enterprise liability",
-        " Negligence",
-        " Prohibited act",
-        " Regulatory offence",
-        " Rylands v. Fletcher (the rule in)",
-        " Scienter action"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/criminal-law-6e",
-        "name": "Criminal Law, 6\/e - Kent Roach"
-      },
-      "uniqueID": "032817n1464"
     },
     {
       "definition": "The removal or rearrangement of the clothing of a person to permit a visual inspection of a person's private areas, namely genitals, buttocks, breasts in the case of a female, or undergarments. Additional requirements must be met before a strip search is allowed as a search incident to arrest.",
@@ -26535,24 +24836,6 @@
       "uniqueID": "032817n1547"
     },
     {
-      "definition": "The person or people in court who assess the facts of the case, namely, the jury, when it exists, or the judge.",
-      "term": "Trier of fact",
-
-      "tags": [
-        "Criminal Law",
-        " Judges and Courts",
-        " Civil Litigation"
-      ],
-      "related_terms": [
-        "Jury"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/trauma-trials-and-transformation",
-        "name": "Trauma, Trials, and Transformation - Judith Daylen, Wendy van Tongeren Harvey and Dennis O'Toole Foreword by Claire L'Heureux-Dub\u00e9"
-      },
-      "uniqueID": "032817n1548"
-    },
-    {
       "definition": "Acronym for Agreement on Trade-Related Aspects of Intellectual Property Rights, Including Trade in Counterfeit Goods (Annex 1C to the WTO Agreement of 1994).\u00a0 Most countries of the world are now members. Canada implemented this treaty by the World Trade Organization Implementation Act, S.C. 1994, c. 57, effective as from 1 January 1996. TRIPS requires high minimum standards of IP protection of its members, with trade panels adjudicating disputes and imposing sanctions for non-observance.\u00a0 Most cases have been brought by the United States and the European Union against countries of the developing world, but Canada too has been targeted, preventing the stockpiling of generic copies of patented medicines for early entry when the drug went off-patent.\u00a0",
       "term": "TRIPS Agreement",
 
@@ -26812,16 +25095,6 @@
       "uniqueID": "032817n1570"
     },
     {
-      "definition": "The law of unjust enrichment, together with contracts and tort, forms the third pillar which describes the law of private obligations.\u00a0 Unjust enrichment can be divided into autonomous unjust enrichment and restitution for wrongdoing.\u00a0 In the former, or true unjust enrichment, the action centres on proof of three elements: an enrichment of the defendant, at the expense of the plaintiff, and the lack of a juristic reason to justify the transfer, or, in English law, the presence of an unjust factor concerning the transfer.\u00a0 It has been said that autonomous unjust enrichment covers every action similar to a mistaken payment of money.\u00a0 In the latter, the action is restitutionary only in the sense that the defendant is required to give up gains made from perpetrating a wrong on the plaintiff. \u00a0",
-      "term": "Unjust enrichment",
-
-      "uniqueID": "032817n1571",
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/law-equitable-remedies-2e",
-        "name": "The Law of Equitable Remedies 2\/e - Jeffrey Berryman"
-      }
-    },
-    {
       "definition": "A company in which the shareholders are liable for the obligations of the company in some circumstances. Only a few provinces permit the incorporation of unlimited liability companies and the rules in the provinces that do are not the same. Under the Nova Scotia model, the shareholders are only liable to contribute to paying the company's creditors where the corporation is being wound up and there are insufficient assets to pay off the creditors. Shareholders are not liable for obligations of the company on a day-to-day basis. Under Alberta law, shareholders are liable for any act, liability, or default on an ongoing basis. Some provinces also permit some professionals like lawyers to form professional corporations that do not provide full limited liability. Though the rules vary from one province to the next, in general, shareholders remain liable for their own professional negligence.",
       "term": "Unlimited liability company",
 
@@ -27006,19 +25279,6 @@
       "uniqueID": "032817n1585"
     },
     {
-      "definition": "The liability of one person for the torts of another because of the nature of the legal relationship between them, for example, employer and employee.",
-      "term": "Vicarious liability",
-
-      "tags": [
-        "Labour and Employment Law"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/law-torts-5e",
-        "name": "The Law of Torts, 5\/e - Philip H. Osborne"
-      },
-      "uniqueID": "032817n1586"
-    },
-    {
       "definition": "A term of art in the field of psychiatry and forensic psychiatry that refers to a process of thorough information-gathering for the purpose of making informed judgments about an evaluee's risk for committing violence, and to inform risk management. The process generally concludes with the evaluator providing an estimation of the individual's likelihood of committing violence, defining its anticipated nature and severity, the environment and timeframe in which it might occur, who is likely to be a victim, and the conditions that will enable or suppress the prospect of its occurrence.",
       "term": "Violence risk assessment",
 
@@ -27096,19 +25356,6 @@
       "uniqueID": "032817n1591"
     },
     {
-      "definition": "A Latin phrase meaning that \u201cno injury can be done to a willing person.\u201d A defence based on the plaintiff's consent to injury without legal recourse against the person who caused it.",
-      "term": "Volenti non fit injuria",
-
-      "tags": [
-        "Torts"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/law-torts-5e",
-        "name": "The Law of Torts, 5\/e - Philip H. Osborne"
-      },
-      "uniqueID": "032817n1592"
-    },
-    {
       "definition": "The capacity consciously to control and direct bodily movement.",
       "term": "Volition",
 
@@ -27135,19 +25382,6 @@
         " Land Use",
         " Natural Resources"
       ]
-    },
-    {
-      "definition": "The giving up of a right. It may be done expressly or may be implied from the circumstances.",
-      "term": "Waiver",
-
-      "tags": [
-        "Intellectual Property"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/copyright-law",
-        "name": "Copyright Law - David Vaver Foreword by Beverley McLachlin"
-      },
-      "uniqueID": "032817n1595"
     },
     {
       "definition": "A strict contractual promise; a guarantee.",
@@ -27437,24 +25671,6 @@
       "uniqueID": "032817n1621"
     },
     {
-      "definition": "A person who is or, in the absence of evidence to the contrary, seems to be twelve years of age or older but under eighteen years of age. Section 2(1) of the YCJA specifies that \u201cif the context requires [young person] includes any person who is charged . . . with having committed an offence while he was a young person or is found guilty of an offence under this Act.\u201d That is, even if a person has passed his or her eighteenth birthday, for most purposes, the person alleged to have committed an offence while a young person will continue to be treated under the YCJA for purposes of prosecution, sentencing, and sentence review.",
-      "term": "Young person",
-
-      "tags": [
-        "Criminal Law"
-      ],
-      "related_terms": [
-        "Offence",
-        " Young offender",
-        " Youth Criminal Justice Act"
-      ],
-      "source": {
-        "url": "https:\/\/www.irwinlaw.com\/titles\/youth-criminal-justice-law-3e",
-        "name": "Youth Criminal Justice Law, 3\/e - Nicholas Bala and Sanjeev Anand"
-      },
-      "uniqueID": "032817n1622"
-    },
-    {
       "definition": "A federal statute that establishes how young people will be treated, tried, and sentenced for criminal offences. The Act applies to suspects who are over twelve but less than eighteen years of age. In certain limited circumstances involving very serious offences, those who are aged fourteen or older may be transferred to adult court. Among other things, the Youth Criminal Justice Act dramatically limits the maximum punishment that might otherwise apply for an offence, and it creates special record-keeping provisions to protect young offenders from the adverse publicity and consequences of having a criminal record.",
       "term": "Youth Criminal Justice Act",
 
@@ -27644,7 +25860,7 @@
       }
     },
     {
-      "definition": "Action or inaction which binds a person legally even though it was not intended as such.",
+      "definition": "1. Action or inaction which binds a person legally even though it was not intended as such.\n\n2. Tacit or implied acceptance or recognition of another state's claim or right, often in relation to territory.",
       "term": "Acquiescence ",
       "tags": [
         "Remedies"
@@ -27822,21 +26038,9 @@
       }
     },
     {
-      "definition": "A person who has received, usually by appointment, the power to act on behalf of another.",
+      "definition": "1. A person who has received, usually by appointment, the power to act on behalf of another.\n\n2. A person, usually a Trustee in Bankruptcy, appointed by a bank to realize on its security as defined under Section 427 of the Bank Act.  The security covered is inventory.",
       "term": "Agent ",
       "uniqueID": "032817n1660",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "A person, usually a Trustee in Bankruptcy, appointed by a bank to realize on its security as defined under Section 427 of the Bank Act.  The security covered is inventory.",
-      "term": "Agent - Section 427 of the Bank Act ",
-      "tags": [
-        "Securities"
-      ],
-      "uniqueID": "032817n1661",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -27915,18 +26119,6 @@
       }
     },
     {
-      "definition": "The merging of two things together to form one such as the amalgamation of different companies to form a single company.",
-      "term": "Amalgamation ",
-      "tags": [
-        "Corporate and Commercial Law"
-      ],
-      "uniqueID": "032817n1668",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "Something which is not cast in stone; which can be changed or revoked, such as a will.",
       "term": "Ambulatory",
       "tags": [
@@ -27969,19 +26161,6 @@
         "Contract Law"
       ],
       "uniqueID": "032817n1672",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "To make void or to cancel.",
-      "term": "Annulment ",
-      "tags": [
-        "Family Law",
-        "Contract Law"
-      ],
-      "uniqueID": "032817n1673",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -28061,7 +26240,7 @@
       }
     },
     {
-      "definition": "A dispute resolution mechanism, whereby an independent neutral third party is appointed to hear and consider the merits of the dispute, and who renders a final and binding decision called an award.",
+      "definition": "A dispute resolution mechanism, whereby an independent neutral third party is appointed or selected by the disputing parties to hear and consider the merits of the dispute, and who renders a final and binding decision called an award.",
       "term": "Arbitration ",
       "tags": [
         "Alternative Dispute Resolution"
@@ -28073,37 +26252,12 @@
       }
     },
     {
-      "definition": "The act of dealing with a person who is not a relative but an independent third party.",
+      "definition": "The act of dealing with a person who is not a relative but an independent third party. An arm's-length price is a price charged in similar transactions between unrelated parties.",
       "term": "Arm's Length ",
       "tags": [
         "Legal Theory"
       ],
       "uniqueID": "032817n1683",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "The amount of money by which a contract or obligation is in default.",
-      "term": "Arrears ",
-      "tags": [
-        "Family Law",
-        "Contract Law"
-      ],
-      "uniqueID": "032817n1684",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "The valuing of a thing or property",
-      "term": "Assessment ",
-      "tags": [
-        "Property Law"
-      ],
-      "uniqueID": "032817n1685",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -28182,19 +26336,7 @@
       }
     },
     {
-      "definition": "An alternate word for lawyers or \"barrister & solicitor\", used mostly in the USA.",
-      "term": "Attorney ",
-      "tags": [
-        "Legal Profession"
-      ],
-      "uniqueID": "032817n1692",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "Latin: a principle of natural justice which prohibits a judicial decision which impacts upon individual rights without giving all parties in the dispute a right to be heard.",
+      "definition": "Latin: \"Hear the other side\". A principle of natural justice which prohibits a judicial decision which impacts upon individual rights without giving all parties in the dispute a right to be heard.",
       "term": "Audi Alteram Partem ",
       "tags": [
         "Legal Theory"
@@ -28303,18 +26445,6 @@
       }
     },
     {
-      "definition": "The state of being bankrupt.",
-      "term": "Bankruptcy ",
-      "tags": [
-        "Bankruptcy"
-      ],
-      "uniqueID": "032817n1703",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "Intentional physical contact that is harmful or offensive to the other person; the completion of an assault in tort law. ",
       "term": "Battery",
       "related_terms": ["Assault"],
@@ -28358,18 +26488,6 @@
         "Legal Profession"
       ],
       "uniqueID": "032817n1707",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "A judge in court session.",
-      "term": "Bench ",
-      "tags": [
-        "Judges and Courts"
-      ],
-      "uniqueID": "032817n1708",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -28557,29 +26675,6 @@
       }
     },
     {
-      "definition": "That body of Court decisions that act as precedents in the interpretation of various Acts.  In some cases, the rule is not in statute books but can be found as a principle of law established by a judge in some recorded case.",
-      "term": "Case Law ",
-      "tags": [
-        "Legal Theory",
-        "Legal History",
-        "Common Law"
-      ],
-      "uniqueID": "032817n1726",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "A formal warning.  Beware!",
-      "term": "Caveat ",
-      "uniqueID": "032817n1727",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "Let the buyer beware.",
       "term": "Caveat Emptor",
       "uniqueID": "032817n1728",
@@ -28700,18 +26795,6 @@
       }
     },
     {
-      "definition": "The right of property in intangible things which are not in one's possession, but that are enforcible through legal or Court action, such as debts, insurance claims, shares in a company, pensions and salaries.Circumstantial Evidence Evidence which may allow a judge or jury to deduce a certain fact from other facts which have been proven. In some cases, there can be some evidence that can not be proven directly, such as with an eye-witness. And yet that evidence may be essential to prove a case. In these cases, the lawyer will provide the judge or jury with evidence of the circumstances from which a jury or judge can logically deduct, or reasonably infer, the fact that cannot be proven directly; it is proven by the evidence of the circumstances; hence, \"circumstantial\" evidence.",
-      "term": "Chose In Action ",
-      "tags": [
-        "Property Law"
-      ],
-      "uniqueID": "032817n1739",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "1. An order of a court to either do a certain thing or to appear before it to answer charges. The citation is typically used for lesser offences (such as traffic violations) because it relies on the good faith of the defendant to appear as requested, as opposed to an arrest or bail.\n\n2. A reference to a legal source such as a case or statute.",
       "term": "Citation ",
       "tags": [
@@ -28724,37 +26807,12 @@
       }
     },
     {
-      "definition": "Law inspired by old Roman Law, the primary feature of which was that laws were written into a collection; codified, and not determined, as is common law, by judges. The principle of civil law is to provide all citizens with an accessible and written collection of the laws which apply to them and which judges must follow.",
-      "term": "Civil law ",
-      "tags": [
-        "Civil Law"
-      ],
-      "uniqueID": "032817n1741",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "Any claim or liability that is provable in a proceeding under the Bankruptcy and Insolvency Act.",
       "term": "Claim Provable In Bankruptcy ",
       "tags": [
         "Bankruptcy"
       ],
       "uniqueID": "032817n1742",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "When different persons combine their lawsuits because the facts and the defendant are so similar. This is designed to save Court time and to allow one judge to hear all the cases at the same time and to make one decision binding on all parties.",
-      "term": "Class Action ",
-      "tags": [
-        "Judges and Courts",
-        "Civil Litigation"
-      ],
-      "uniqueID": "032817n1743",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -29059,18 +27117,6 @@
       }
     },
     {
-      "definition": "A trust which a court declares or imposes onto participants of very specific circumstances such as those giving rise to an action for unjust enrichment, and notwithstanding the lack of any willing settlor to declare the trust.",
-      "term": "Constructive Trust ",
-      "tags": [
-        "Trusts"
-      ],
-      "uniqueID": "032817n1770",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "A natural person who is bankrupt or insolvent and whose aggregate debts, excluding any debts secured by the person's principle residence, do not exceed $250,000 or such other maximum as is prescribed.",
       "term": "Consumer Debtor ",
       "uniqueID": "032817n1771",
@@ -29098,18 +27144,6 @@
       }
     },
     {
-      "definition": "That fee which a person, often a lawyer, is entitled to per agreement upon the successful completion of some action.  For example, a lawyer can take on an action for, say, 25% of the proceeds which he would only be entitled to if the action is successful.",
-      "term": "Contingency Fee ",
-      "tags": [
-        "Legal Profession"
-      ],
-      "uniqueID": "032817n1774",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "The setting off of mutual debt.  For example, if a company owes $100 to another company that is owed $30 by that company in turn, the company is allowed to set off the $30 against the $100 and make a net payment of $70.",
       "term": "Contra ",
       "tags": [
@@ -29122,36 +27156,12 @@
       }
     },
     {
-      "definition": "An oral or written agreement between two or more parties which is enforceable by law.  In order to be valid, a contract requires an offer, an acceptance of that offer and, in common-law jurisdictions, consideration.",
-      "term": "Contract ",
-      "tags": [
-        "Contract Law"
-      ],
-      "uniqueID": "032817n1776",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "The negligence of a person which, while not being the primary cause of a tort, nevertheless combined with the act or omission of the primary defendant to cause the tort, and without which the tort would not have occurred.",
       "term": "Contributory Negligence ",
       "tags": [
         "Torts"
       ],
       "uniqueID": "032817n1777",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "The action of conversion is a common law legal proceeding for damages by an owner of property against a defendant who came across the property and who, rather than return the property, converted that property to his own use or retained possession of the property or otherwise interfered with the property.",
-      "term": "Conversion ",
-      "tags": [
-        "Torts"
-      ],
-      "uniqueID": "032817n1778",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -29183,7 +27193,7 @@
       }
     },
     {
-      "definition": "The exclusive right to produce or reproduce (copy), to perform in public or to publish an original literary or artistic work. Many countries have expanded the definition of a \"literary work\" to include computer programmes or other electronically stored information.",
+      "definition": "The exclusive right to produce or reproduce (copy), to perform in public or to publish an original literary or artistic work. Typically lasts for the length of the artist's life plus 50 years. Many countries have expanded the definition of a \"literary work\" to include computer programmes or other electronically stored information.",
       "term": "Copyright ",
       "tags": [
         "Intellectual Property"
@@ -29202,18 +27212,6 @@
         "Legal History"
       ],
       "uniqueID": "032817n1783",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "A written document in which signatories either commit themselves to do a certain thing, to not do a certain thing or in which they agree on a certain set of facts. They are very common in real property dealings and are used to restrict land use such as amongst shopping mall tenants or for the purpose of preserving heritage property.",
-      "term": "Covenant ",
-      "tags": [
-        "Property Law"
-      ],
-      "uniqueID": "032817n1784",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -29441,18 +27439,6 @@
       }
     },
     {
-      "definition": "An attack on the good reputation of a person, by slander or libel.",
-      "term": "Defamation ",
-      "tags": [
-        "Torts"
-      ],
-      "uniqueID": "032817n1806",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "Failure to pay or otherwise perform obligations under a contract.",
       "term": "Default ",
       "tags": [
@@ -29592,18 +27578,6 @@
       }
     },
     {
-      "definition": "To refuse or to set aside.  For example, the Trustee in Bankruptcy, under the Bankruptcy and Insolvency Act, can disallow a claim submitted by a creditor.",
-      "term": "Disallowance ",
-      "tags": [
-        "Bankruptcy"
-      ],
-      "uniqueID": "032817n1819",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "The act of denying, refusing, renouncing or repudiating an interest that one might have in some item.",
       "term": "Disclaim ",
       "tags": [
@@ -29646,18 +27620,6 @@
         "Judges and Courts"
       ],
       "uniqueID": "032817n1824",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "The act of ending, terminating or winding-up a company or state of affairs.",
-      "term": "Dissolution ",
-      "tags": [
-        "Corporate Law"
-      ],
-      "uniqueID": "032817n1825",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -29737,36 +27699,12 @@
       }
     },
     {
-      "definition": "The final, legal ending of a marriage, by Court order.",
-      "term": "Divorce ",
-      "tags": [
-        "Family Law"
-      ],
-      "uniqueID": "032817n1832",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "Abbreviation for deoxyribonucleic acid. A chromosome molecule which carries genetic coding unique to each person with the only exception of identical twins (that is why it is also called \"DNA fingerprinting\").",
       "term": "DNA ",
       "tags": [
         "Forensic Science"
       ],
       "uniqueID": "032817n1833",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "An official court record book which lists all the cases before the court and which may also note the status or action required for each case.",
-      "term": "Docket ",
-      "tags": [
-        "Judges and Courts"
-      ],
-      "uniqueID": "032817n1834",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -30085,18 +28023,6 @@
       }
     },
     {
-      "definition": "Something written on the back of a document. In the laws of bills of exchange, an endorsement is a signature on the back of the bill of exchange by which the person to whom the note is payable transfers it by thus making the note payable to the bearer or to a specific person. An endorsement of claim means that if you want to ask a court to issue a writ against someone, you have to \"endorse\" your writ with a concise summary of the facts supporting the claim, sometimes called a statement of claim.",
-      "term": "Endorsement ",
-      "tags": [
-        "Contract Law"
-      ],
-      "uniqueID": "032817n1862",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "The transfer of money or property (usually as a gift) to a public organization for a specific purpose, such as medical research or scholarships.",
       "term": "Endowment ",
       "tags": [
@@ -30282,40 +28208,6 @@
       }
     },
     {
-      "definition": "For one party only.  Ex parte refers to those proceedings where one of the parties has not received notice and therefore is neither present nor represented in a court of law.",
-      "term": "Ex Parte ",
-      "tags": [
-        "Judges and Courts",
-        "Civil Litigation"
-      ],
-      "uniqueID": "032817n1881",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "A legal proceeding whereby one party examines the party on the other side, usually under oath for the purpose of confirming facts and perhaps obtaining admissions from that other party.",
-      "term": "Examination For Discovery ",
-      "tags": [
-        "Civil Litigation"
-      ],
-      "uniqueID": "032817n1882",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "To carry out.",
-      "term": "Execution ",
-      "uniqueID": "032817n1883",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "Under the Court Order Enforcement Act  effective May 1, 1998 (in British Columbia), there are certain assets that are exempt from seizure by any execution creditor or by a Trustee in Bankruptcy.",
       "term": "Exemptions (COEA)",
       "tags": [
@@ -30348,18 +28240,6 @@
         "Legal Theory"
       ],
       "uniqueID": "032817n1886",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "Canada - the forced sale of land to a public authority.",
-      "term": "Expropriation ",
-      "tags": [
-        "Property Law"
-      ],
-      "uniqueID": "032817n1887",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -30405,18 +28285,6 @@
         "Criminal Law"
       ],
       "uniqueID": "032817n1891",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "The arrest and delivery of a fugitive wanted for a crime committed in another country, usually under the terms of an extradition treaty.",
-      "term": "Extradition ",
-      "tags": [
-        "Criminal Law"
-      ],
-      "uniqueID": "032817n1892",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -30693,18 +28561,6 @@
       }
     },
     {
-      "definition": "The seizure of property, monies, earnings, receivables belonging to a debtor that are in the hands of a third party.",
-      "term": "Garnishee ",
-      "tags": [
-        "Remedies"
-      ],
-      "uniqueID": "032817n1916",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "To increase by subsequent bidding by an individual with effect of annulling any previous offer.",
       "term": "Gazump",
       "tags": [
@@ -30850,36 +28706,12 @@
       }
     },
     {
-      "definition": "Any evidence that is offered by a witness of which they do not have direct knowledge but, rather, their testimony is based on what others have said to them.",
-      "term": "Hearsay ",
-      "tags": [
-        "Evidence"
-      ],
-      "uniqueID": "032817n1930",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "A will written entirely in the testator's handwriting and not witnessed.",
       "term": "Holograph Will ",
       "tags": [
         "Wills and Estates"
       ],
       "uniqueID": "032817n1931",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "The taking of a life by act or omission.",
-      "term": "Homicide ",
-      "tags": [
-        "Criminal Law"
-      ],
-      "uniqueID": "032817n1932",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -30996,18 +28828,6 @@
       }
     },
     {
-      "definition": "An offence which, in Canada, is more serious than those which can proceed by summary conviction. This is the Canadian equivalent to the USA \"felony\". Murder and treason are examples of crimes committed in Canada which would be indictable offences. These crimes are usually tried by federally-appointed judges and carry heavy sentences.",
-      "term": "Indictable offence ",
-      "tags": [
-        "Criminal Law"
-      ],
-      "uniqueID": "032817n1943",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "A court order that prohibits a party from doing something (restrictive injunction) or compels them to do something (mandatory injunction).",
       "term": "Injunction ",
       "tags": [
@@ -31039,30 +28859,6 @@
         "Remedies"
       ],
       "uniqueID": "032817n1947",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "Latin: All legal rights are either in personam or in rem. An in personam right is a personal right attached to a specific person. In rem rights are property rights and enforceable against the entire world.",
-      "term": "In Personam ",
-      "tags": [
-        "Trusts"
-      ],
-      "uniqueID": "032817n1948",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "Latin: All legal rights are either in personam or in rem. In rem rights are proprietary in nature; related to the ownership of property and not based on any personal relationship, as is the case with in personam rights.",
-      "term": "In Rem ",
-      "tags": [
-        "Trusts"
-      ],
-      "uniqueID": "032817n1949",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -31187,18 +28983,6 @@
       }
     },
     {
-      "definition": "Dying without a will.",
-      "term": "Intestate ",
-      "tags": [
-        "Wills and Estates"
-      ],
-      "uniqueID": "032817n1961",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "Latin: from one living person to another living person. For example, an inter vivos trust is one which the settlor sets up to take effect while he or she is still alive.",
       "term": "Inter Vivos ",
       "tags": [
@@ -31278,18 +29062,6 @@
       }
     },
     {
-      "definition": "A dividend paid to creditors before the estate is finalized.",
-      "term": "Interim Dividend ",
-      "tags": [
-        "Wills and Estates"
-      ],
-      "uniqueID": "032817n1970",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "The placing of funds in the Courts by a person when there are two or more competing claims for those monies.",
       "term": "Interplead ",
       "tags": [
@@ -31351,18 +29123,6 @@
       }
     },
     {
-      "definition": "The liability of more than one person for which each person may be sued for the entire amount of the damages.",
-      "term": "Joint and Several Liability ",
-      "tags": [
-        "Torts"
-      ],
-      "uniqueID": "032817n1976",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "A child custody decision which means that both parents share joint legal custody and joint physical custody.",
       "term": "Joint Custody ",
       "tags": [
@@ -31411,18 +29171,6 @@
       }
     },
     {
-      "definition": "When a court decision is appealed, it is known as an \"appeal.\" But there are many administrative agencies or tribunals which make decisions or deliver government services of one sort or another, the decisions of which can also be \"appealed.\" In many cases, the \"appeal\" from administrative agencies is known as \"judicial review\".",
-      "term": "Judicial Review ",
-      "tags": [
-        "Judges and Courts"
-      ],
-      "uniqueID": "032817n1981",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "Latin, from Roman law - by right, under legal authority or by the authority of the law.",
       "term": "Jure ",
       "tags": [
@@ -31465,18 +29213,6 @@
         "Legal Theory"
       ],
       "uniqueID": "032817n1987",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "A legal doctrine whereby those who take too long to assert a legal right, lose their entitlement to compensation.",
-      "term": "Laches ",
-      "tags": [
-        "Remedies"
-      ],
-      "uniqueID": "032817n1989",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -31607,7 +29343,7 @@
       }
     },
     {
-      "definition": "Any legal obligation for which a person is responsible.",
+      "definition": "Any legal responsibility or financial obligation for which a person is responsible.",
       "term": "Liability ",
       "uniqueID": "032817n2000",
       "source": {
@@ -31999,18 +29735,6 @@
         "Criminal Law"
       ],
       "uniqueID": "032817n2034",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "Improperly doing something which a person has the legal right to do. Compare with malfeasance and nonfeasance.",
-      "term": "Misfeasance ",
-      "tags": [
-        "Torts"
-      ],
-      "uniqueID": "032817n2035",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -32553,19 +30277,6 @@
       }
     },
     {
-      "definition": "Latin: A British common law creation whereby the courts have the right to make unfettered decisions concerning people who are not able to take care of themselves.",
-      "term": "Parens Patriae ",
-      "tags": [
-        "Common Law",
-        "Judges and Courts"
-      ],
-      "uniqueID": "032817n2085",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "Latin for \"of equal fault.\" For example, if two parties complain to a judge of the non-performance of a contract by the other, the judge could refuse to provide a remedy to either of them because of \"pari delicto\" - a finding that they were equally at fault in causing the contract's breach.",
       "term": "Pari Delicto ",
       "tags": [
@@ -32590,7 +30301,7 @@
       }
     },
     {
-      "definition": "An exclusive privilege granted to an inventor to make, use or sell an invention for a set number of years (17 years in Canada, ).Paternity TestingPaternity testing uses DNA, normally from blood samples, to determine whether the presumed father is the biological father.",
+      "definition": "An exclusive privilege granted to an inventor to make, use or sell an invention for a set number of years (17 years in Canada, ).",
       "term": "Patent ",
       "tags": [
         "Intellectual Property"
@@ -32634,19 +30345,6 @@
         "Judges and Courts"
       ],
       "uniqueID": "032817n2091",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "A formal objection to a potential juror for which no specific reason is given, unlike a challenge for cause.",
-      "term": "Peremptory Challenge ",
-      "tags": [
-        "Criminal Law",
-        "Judges and Courts"
-      ],
-      "uniqueID": "032817n2092",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -32812,15 +30510,6 @@
       }
     },
     {
-      "definition": "An instrument authorizing another to act as one's agent or attorney.",
-      "term": "Power of Attorney",
-      "uniqueID": "032817n2108",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "The right to sell land when a mortgage is in default.",
       "term": "Power of Sale",
       "tags": [
@@ -32921,18 +30610,6 @@
         "Trusts"
       ],
       "uniqueID": "032817n2117",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "On the face of it or at first sight.",
-      "term": "Prima Facie ",
-      "tags": [
-        "Legal Theory"
-      ],
-      "uniqueID": "032817n2118",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -33094,18 +30771,6 @@
       }
     },
     {
-      "definition": "A document in which a corporation sets out the material details of a share or bond issue and inviting the public to invest by purchasing these financial instruments.",
-      "term": "Prospectus ",
-      "tags": [
-        "Securities"
-      ],
-      "uniqueID": "032817n2132",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "All those debts of a bankrupt outstanding as of the date of the bankruptcy.",
       "term": "Provable Claims ",
       "tags": [
@@ -33124,18 +30789,6 @@
         "Bankruptcy"
       ],
       "uniqueID": "032817n2134",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "Under the Bankruptcy and Insolvency Act a written statement can be made whereby a creditor appoints another person to act on his behalf in a creditors meeting and any other matters pertaining to that bankruptcy.",
-      "term": "Proxy ",
-      "tags": [
-        "Bankruptcy"
-      ],
-      "uniqueID": "032817n2135",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -33268,18 +30921,6 @@
       }
     },
     {
-      "definition": "Immovable property such as a building and land.",
-      "term": "Real Property ",
-      "tags": [
-        "Property Law"
-      ],
-      "uniqueID": "032817n2147",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "The amount of money received from the sale of assets.",
       "term": "Realization ",
       "tags": [
@@ -33356,18 +30997,6 @@
       }
     },
     {
-      "definition": "Buying back. Redemption Period. The period of time, in a foreclosure, that the court will establish for which the property will be for sale before the owner will have to vacate and the time at which potentially the mortgage holder can take control of the property.If there is a significant anticipated shortfall the lawyer for the mortgage holder will argue for no redemption period. If there is anticipated equity then the owner of the property will ask the court for a longer redemption period so the property can be sold in an orderly manner and not as a \"fire sale\", thus allowing the owner to sell for as high a price as possible and therefore not suffer a loss or worse a shortfall. Typically the courts will grant a 6 month redemption period if there is a likelihood of some equity or a small shortfall.",
-      "term": "Redemption ",
-      "tags": [
-        "Property Law"
-      ],
-      "uniqueID": "032817n2155",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "An informer; a person who has supplied the facts required for a criminal prosecution or a civil suit.",
       "term": "Relator ",
       "tags": [
@@ -33415,15 +31044,6 @@
       }
     },
     {
-      "definition": "A legal action taken to reclaim goods which have been distrained.",
-      "term": "Replevin ",
-      "uniqueID": "032817n2161",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "To abrogate or cancel a contract.",
       "term": "Rescind ",
       "tags": [
@@ -33443,18 +31063,6 @@
         "Criminal Law"
       ],
       "uniqueID": "032817n2163",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "A word used in tort to refer to situations where negligence is presumed on the defendant since the object causing injury was in his or her control.",
-      "term": "Res Ipsa Loquitur ",
-      "tags": [
-        "Torts"
-      ],
-      "uniqueID": "032817n2164",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -33606,18 +31214,6 @@
       }
     },
     {
-      "definition": "A court order (i.e. signed by a judge) that gives a police the permission to enter private property and to search for evidence of the commission of a crime, for the proceeds of crime or property that the police suspect may be used to commit a crime.",
-      "term": "Search Warrant ",
-      "tags": [
-        "Criminal Law"
-      ],
-      "uniqueID": "032817n2181",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "The status a creditor has when he has security or a right in some property that he can sell or realize on.",
       "term": "Secured ",
       "tags": [
@@ -33630,7 +31226,7 @@
       }
     },
     {
-      "definition": "Something given or pledged to a person who is lending money in order to secure or guarantee payment of that debt.",
+      "definition": "1. Something given or pledged to a person who is lending money in order to secure or guarantee payment of that debt.\n\n2. Money or other valuables that may be required to be paid into court or to another party.",
       "term": "Security ",
       "tags": [
         "Securities"
@@ -33678,7 +31274,7 @@
       }
     },
     {
-      "definition": "The punishment given to a person who has been convicted (i.e. found to be guilty) of a crime.Sentencing Circles An option in restorative justice that brings together affected people (victim, offender, police, etc.) to help sentence (decide the penalty for) the offender.",
+      "definition": "The punishment given to a person who has been convicted (i.e. found to be guilty) of a crime.",
       "term": "Sentence ",
       "tags": [
         "Criminal Law"
@@ -33807,36 +31403,12 @@
       }
     },
     {
-      "definition": "A lawyer that restricts his or her practice to the giving of legal advice and does not normally litigate in the court room. Canadian lawyers can litigate or give legal advice.",
-      "term": "Solicitor ",
-      "tags": [
-        "Legal Profession"
-      ],
-      "uniqueID": "032817n2200",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "The phrase refers to laws that are designed to keep criminals from profiting from their crimes by selling their stories to publishers or movie makers. Named after the Son of Sam murders committed from between July 1976 and August 1977 by New York serial killer David Berkowitz, such laws authorize the state to seize money from criminals' book or movie deals and use it to compensate victims.",
       "term": "Son of Sam law",
       "tags": [
         "Criminal Law"
       ],
       "uniqueID": "032817n2201",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "A term under the Bankruptcy and Insolvency Act whereby voting is carried out, for example when creditors accept or refuse a proposal.  In order for the Special Resolution to pass, of those creditors who vote there must be in excess of 2\/3 of the dollars voting in favor and a simple majority in number of the creditors voting in favor.",
-      "term": "Special Resolution ",
-      "tags": [
-        "Bankruptcy"
-      ],
-      "uniqueID": "032817n2202",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -33875,18 +31447,6 @@
         "Property Law"
       ],
       "uniqueID": "032817n2205",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "A term of parliamentary law which refers to those committees which have a continued existence; that are not related to the accomplishment of a specific, once-only task as are ad hoc or special committees.",
-      "term": "Standing Committee ",
-      "tags": [
-        "Administrative Law"
-      ],
-      "uniqueID": "032817n2206",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -33971,7 +31531,7 @@
       }
     },
     {
-      "definition": "The stopping or preventing of legal actions undertaken.  In the Bankruptcy and Insolvency Act, there is a stay of proceedings in the case of a bankruptcy or in the case of a proposal.  This stops all legal actions against the company or person.",
+      "definition": "The stopping or preventing of legal actions undertaken.  For example, in the Bankruptcy and Insolvency Act, there is a stay of proceedings in the case of a bankruptcy or in the case of a proposal.  This stops all legal actions against the company or person.",
       "term": "Stay of Proceedings ",
       "tags": [
         "Judges and Courts"
@@ -33989,18 +31549,6 @@
         "Wills and Estates"
       ],
       "uniqueID": "032817n2215",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "Tort liability which is set upon the defendant without need to prove intent, negligence or fault; as long as you can prove that it was the defendant's object that caused the damage.",
-      "term": "Strict Liability ",
-      "tags": [
-        "Torts"
-      ],
-      "uniqueID": "032817n2216",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -34107,31 +31655,6 @@
       }
     },
     {
-      "definition": "In the USA, this is one of the initial documents issued in a civil suit; giving the defendant notice of the claim and an opportunity to defend it. The summons also gives the court which issues it the authority to dispose of the matter. In Canadian criminal law, this is the document used by the police to compel an accused to attend court to answer the charges. It does not involve the arrest of the accused and is used where the police, either by the relatively less serious nature of the crime or because of the standing of the accused in the community, do not believe that arrest is necessary to ensure the attendance of the accused at court.",
-      "term": "Summons ",
-      "tags": [
-        "Civil Law",
-        "Criminal Law"
-      ],
-      "uniqueID": "032817n2228",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "The person who has pledged him or herself to pay back money or perform a certain action if the principal to a contract fails, as collateral, and as part of the original contract.",
-      "term": "Surety ",
-      "tags": [
-        "Contract Law"
-      ],
-      "uniqueID": "032817n2229",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "A civil law term for a reciprocal or bilateral contract - one in which both parties provide consideration. A contract of sale is a classic example, where one party provides money and the other, goods or services. A gift is not a synallagmatic contract.",
       "term": "Synallagmatic Contract ",
       "tags": [
@@ -34200,18 +31723,6 @@
         "Wills and Estates"
       ],
       "uniqueID": "032817n2235",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "A person who dies with a valid will.",
-      "term": "Testator ",
-      "tags": [
-        "Wills and Estates"
-      ],
-      "uniqueID": "032817n2236",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -34327,7 +31838,7 @@
       }
     },
     {
-      "definition": "The person who holds property rights for the benefit of another through the legal mechanism of the trust.Bankruptcy - The person under the Bankruptcy and Insolvency Act who administers bankruptcy and proposal estates.  Often referred to as a trustee in bankruptcy.",
+      "definition": "1. The person who holds property rights for the benefit of another through the legal mechanism of the trust. \n\n2. The person under the Bankruptcy and Insolvency Act who administers bankruptcy and proposal estates.  Often referred to as a trustee in bankruptcy.",
       "term": "Trustee ",
       "tags": [
         "Trusts"
@@ -34345,18 +31856,6 @@
         "Trusts"
       ],
       "uniqueID": "032817n2249",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
-      "definition": "Without authority.",
-      "term": "Ultra Vires ",
-      "tags": [
-        "Constitutional Law"
-      ],
-      "uniqueID": "032817n2250",
       "source": {
         "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
         "name": "Canadian Law Site"
@@ -34414,7 +31913,7 @@
       }
     },
     {
-      "definition": "The decision of a jury. In criminal cases, this is usually expressed as \"guilty\" or \"not guilty\".In a civil case, the verdict would be a finding for the plaintiff or for the defendant.",
+      "definition": "The decision of a jury. In criminal cases, this is usually expressed as \"guilty\" or \"not guilty\". In a civil case, the verdict would be a finding for the plaintiff or for the defendant.",
       "term": "Verdict ",
       "tags": [
         "Judges and Courts"
@@ -34531,18 +32030,6 @@
       }
     },
     {
-      "definition": "A mini-hearing held during a trial on the admissibility of contested evidence.",
-      "term": "Voir Dire ",
-      "tags": [
-        "Judges and Courts"
-      ],
-      "uniqueID": "032817n2266",
-      "source": {
-        "url": "http:\/\/canadianlawsite.ca\/Dictionary.htm",
-        "name": "Canadian Law Site"
-      }
-    },
-    {
       "definition": "Voluntary assumption of risk. A defence in tort that means where a person engages in an event accepting and aware of the risks inherent in that event, then they can not later complain of, or seek compensation for an injury suffered during the event.",
       "term": "Volenti Non Fit Injuria ",
       "tags": [
@@ -34567,7 +32054,7 @@
       }
     },
     {
-      "definition": "When a person disclaims or renounces a right that they may have otherwise had. Waivers are not always in writing. Sometimes a person's actions can be interpreted as a waiver.",
+      "definition": "When a person disclaims or renounces a right that they may have otherwise had. Waivers are not always in writing (express). Sometimes a person's actions (implied) can be interpreted as a waiver.",
       "term": "Waiver ",
       "tags": [
         "Contract Law"

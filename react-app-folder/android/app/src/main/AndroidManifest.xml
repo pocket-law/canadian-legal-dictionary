@@ -1,8 +1,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="org.pocketlaw.cld"
-    android:versionCode="3"
-    android:versionName="0.03">
+    android:versionCode="4"
+    android:versionName="0.04">
 
     <!-- REACT auto-added perms, need to remove here with <... tools:node="remove"> -->
     <!-- TODO: These are added by React Native for debug mode, but actually aren't needed in releasemode -->

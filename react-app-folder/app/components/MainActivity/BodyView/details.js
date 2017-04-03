@@ -235,7 +235,8 @@ const styles = StyleSheet.create({
     },
 
     definition: {
-        paddingLeft: 12
+        paddingLeft: 12,
+        paddingRight: 12
     },
 
     sourceView: {
